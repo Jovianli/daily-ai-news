@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T07:59:00.100178+08:00",
+  "title": "2026-09-09 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "d6f651093c95c13b8b93",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar str",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:06:40+00:00",
+      "importance": 0.7698,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "kind": "media",
+          "published_at": "2026-09-08T20:06:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1e83fe39da0e3225ec9",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T19:00:00+00:00",
+      "importance": 0.7629,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+          "kind": "media",
+          "published_at": "2026-09-08T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7cb14dc5327b78c8c054",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "产业与商业",
+      "published_at": "2026-09-08T10:34:00+00:00",
+      "importance": 0.7371,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+          "kind": "media",
+          "published_at": "2026-09-08T10:34:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "503e9c2326e78f3e5469",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "研究与开源",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "importance": 0.7064,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "kind": "official",
+          "published_at": "2026-09-08T17:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a00fc889a2dd293b4204",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T13:00:00+00:00",
+      "importance": 0.6814,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "kind": "official",
+          "published_at": "2026-09-08T13:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1dcea8b0f8acab144d94",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "importance": 0.672,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "kind": "official",
+          "published_at": "2026-09-08T11:30:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2c827cba158d2f26e6e9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "importance": 0.6626,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "kind": "official",
+          "published_at": "2026-09-08T10:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7948c39493cbd65ea48c",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "importance": 0.6564,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "kind": "official",
+          "published_at": "2026-09-08T09:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1cabf28ef85dff46830b",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T21:10:27+00:00",
+      "importance": 0.6514,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+          "kind": "media",
+          "published_at": "2026-09-08T21:10:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cc176219ddc5276683f3",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "产业与商业",
+      "published_at": "2026-09-08T21:04:06+00:00",
+      "importance": 0.6508,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+          "kind": "media",
+          "published_at": "2026-09-08T21:04:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "93ac80c32b7b178ac003",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered ",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:53:52+00:00",
+      "importance": 0.6497,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "kind": "media",
+          "published_at": "2026-09-08T20:53:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d0b33baabbac2f54fd3",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:16:09+00:00",
+      "importance": 0.6458,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "kind": "media",
+          "published_at": "2026-09-08T20:16:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3c847c358ea6854f3545",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believi",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T19:32:39+00:00",
+      "importance": 0.6413,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "kind": "media",
+          "published_at": "2026-09-08T19:32:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9449396e3277891cd78f",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T17:32:15+00:00",
+      "importance": 0.6287,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "kind": "media",
+          "published_at": "2026-09-08T17:32:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e160b964fa803db94824",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T16:20:31+00:00",
+      "importance": 0.6212,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "kind": "media",
+          "published_at": "2026-09-08T16:20:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bae1d2f63dba18ca50c9",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T15:04:09+00:00",
+      "importance": 0.6133,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+          "kind": "media",
+          "published_at": "2026-09-08T15:04:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1a956c25f3b2e61c77be",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving th",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "研究与开源",
+      "published_at": "2026-09-08T14:19:23+00:00",
+      "importance": 0.6086,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+          "kind": "media",
+          "published_at": "2026-09-08T14:19:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2f431554cf8941b6d5e2",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T14:17:48+00:00",
+      "importance": 0.6085,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+          "kind": "media",
+          "published_at": "2026-09-08T14:17:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": null,
+  "chapters": []
+}
