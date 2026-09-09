@@ -348,6 +348,115 @@
       "follow_up_to": null
     }
   ],
-  "audio_url": null,
-  "chapters": []
+  "audio_url": "audio/2026-09-09.wav",
+  "chapters": [
+    {
+      "news_id": "d6f651093c95c13b8b93",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "start_seconds": 14.93,
+      "duration_seconds": 31.56
+    },
+    {
+      "news_id": "f1e83fe39da0e3225ec9",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "start_seconds": 46.5,
+      "duration_seconds": 32.7
+    },
+    {
+      "news_id": "7cb14dc5327b78c8c054",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "start_seconds": 79.2,
+      "duration_seconds": 34.38
+    },
+    {
+      "news_id": "503e9c2326e78f3e5469",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "start_seconds": 113.59,
+      "duration_seconds": 28.29
+    },
+    {
+      "news_id": "a00fc889a2dd293b4204",
+      "title": "The Work Now Within Reach",
+      "start_seconds": 141.88,
+      "duration_seconds": 21.57
+    },
+    {
+      "news_id": "1dcea8b0f8acab144d94",
+      "title": "Introducing ChatGPT Images 2.5",
+      "start_seconds": 163.45,
+      "duration_seconds": 25.48
+    },
+    {
+      "news_id": "2c827cba158d2f26e6e9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "start_seconds": 188.93,
+      "duration_seconds": 23.62
+    },
+    {
+      "news_id": "7948c39493cbd65ea48c",
+      "title": "Funding grants for new research into AI and teen development",
+      "start_seconds": 212.56,
+      "duration_seconds": 27.24
+    },
+    {
+      "news_id": "1cabf28ef85dff46830b",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "start_seconds": 239.8,
+      "duration_seconds": 25.83
+    },
+    {
+      "news_id": "cc176219ddc5276683f3",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "start_seconds": 265.62,
+      "duration_seconds": 26.46
+    },
+    {
+      "news_id": "93ac80c32b7b178ac003",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "start_seconds": 292.08,
+      "duration_seconds": 33.19
+    },
+    {
+      "news_id": "9d0b33baabbac2f54fd3",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "start_seconds": 325.27,
+      "duration_seconds": 32.53
+    },
+    {
+      "news_id": "3c847c358ea6854f3545",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "start_seconds": 357.8,
+      "duration_seconds": 33.68
+    },
+    {
+      "news_id": "9449396e3277891cd78f",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "start_seconds": 391.48,
+      "duration_seconds": 26.38
+    },
+    {
+      "news_id": "e160b964fa803db94824",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "start_seconds": 417.86,
+      "duration_seconds": 27.39
+    },
+    {
+      "news_id": "bae1d2f63dba18ca50c9",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "start_seconds": 445.25,
+      "duration_seconds": 23.05
+    },
+    {
+      "news_id": "1a956c25f3b2e61c77be",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "start_seconds": 468.3,
+      "duration_seconds": 31.52
+    },
+    {
+      "news_id": "2f431554cf8941b6d5e2",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "start_seconds": 499.83,
+      "duration_seconds": 27.32
+    }
+  ]
 }

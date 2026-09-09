@@ -2,11 +2,481 @@
 <html lang="zh-CN"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow"><meta name="color-scheme" content="light dark">
-<title>每日 AI 新闻</title><link rel="stylesheet" href="assets/styles.css">
+<title>每日 AI 新闻</title><style>:root{--bg:#f5f7f8;--paper:#fff;--text:#172026;--muted:#63717a;--line:#dce3e7;--accent:#0d665c;--accent-soft:#ddefeb;--shadow:0 16px 42px rgba(20,36,42,.08);font-family:"Noto Sans SC","Microsoft YaHei",system-ui,sans-serif;color-scheme:light}html[data-theme=dark]{--bg:#101619;--paper:#172125;--text:#ecf2f3;--muted:#9dabb1;--line:#2b3a40;--accent:#6ed0bf;--accent-soft:#193a35;--shadow:none;color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-size:16px;line-height:1.7}.mast{height:70px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 max(20px,calc((100vw - 1040px)/2));position:sticky;top:0;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(18px);z-index:10}.brand{font-family:Georgia,"Noto Serif SC",serif;font-weight:700;font-size:1.22rem;color:var(--text);text-decoration:none}.header-actions{display:flex;gap:10px}button,select{font:inherit;color:var(--text);background:var(--paper);border:1px solid var(--line);border-radius:9px;padding:.45rem .75rem}button{cursor:pointer}main{max-width:1040px;margin:auto;padding:54px 20px 80px}.brief-head{max-width:780px}.eyebrow{margin:0;color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:.14em}.brief-head h1{font-family:Georgia,"Noto Serif SC",serif;font-size:clamp(2.1rem,5vw,4.2rem);line-height:1.12;margin:.38rem 0 1rem;letter-spacing:-.03em}.overview{font-size:1.12rem;color:var(--muted);max-width:700px}.meta{font-size:.86rem;color:var(--muted)}.player-panel{margin:36px 0 28px;padding:20px 22px;background:var(--accent);color:#fff;border-radius:16px;box-shadow:var(--shadow);display:grid;grid-template-columns:1fr minmax(260px,420px) auto;gap:18px;align-items:center}.player-label{display:block;opacity:.8;font-size:.75rem;letter-spacing:.1em}.player-panel strong{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:300px}.player-panel audio{width:100%}.player-panel button{background:#fff;color:#17312d;border:0;font-weight:700}.filters{display:flex;gap:8px;overflow:auto;padding:0 0 16px}.filters button.active{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}.news-list{border-top:2px solid var(--text)}.story{display:grid;grid-template-columns:76px 1fr;gap:22px;padding:30px 4px;border-bottom:1px solid var(--line)}.rank{font-family:Georgia,serif;font-size:2.1rem;color:var(--line);line-height:1}.story-top{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.category{font-size:.76rem;font-weight:800;color:var(--accent);background:var(--accent-soft);padding:.2rem .55rem;border-radius:99px}.time{font-size:.8rem;color:var(--muted)}.story h2{font-family:Georgia,"Noto Serif SC",serif;font-size:clamp(1.3rem,2.5vw,1.75rem);line-height:1.4;margin:.7rem 0}.story p{margin:.5rem 0}.analysis{color:var(--muted);border-left:3px solid var(--accent);padding-left:14px}.source-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:13px}.source-row a,.chapter-link{font-size:.84rem;color:var(--accent);text-decoration:none}.chapter-link{border:0;padding:0;background:none}.empty{padding:50px 0;color:var(--muted)}footer{max-width:1040px;margin:auto;padding:24px 20px 50px;color:var(--muted);font-size:.82rem}@media(max-width:720px){.mast{height:60px}.header-actions select{max-width:145px}.player-panel{grid-template-columns:1fr;margin-top:24px;padding:18px}.player-panel strong{max-width:80vw}.player-panel button{width:100%;padding:.8rem}.story{grid-template-columns:42px 1fr;gap:10px}.rank{font-size:1.4rem}main{padding-top:34px}.brief-head h1{font-size:2.45rem}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}</style>
 </head><body>
 <header class="mast"><a class="brand" href="./">每日 AI 新闻</a><div class="header-actions"><select id="dateSelect" aria-label="选择日报日期"></select><button id="themeButton" type="button" aria-label="切换深浅色">◐</button></div></header>
 <main><section class="brief-head"><p id="eyebrow" class="eyebrow">今日播报</p><h1 id="briefTitle">正在载入…</h1><p id="overview" class="overview"></p><div id="meta" class="meta"></div></section>
-<section id="playerPanel" class="player-panel"><div><span class="player-label">整期播报</span><strong id="nowPlaying">点击新闻可从该章节开始</strong></div><audio id="audio" controls preload="metadata"></audio><button id="speakButton" type="button">浏览器朗读</button></section>
+<section id="playerPanel" class="player-panel"><div><span class="player-label">今日 AI 播客</span><strong id="nowPlaying">点击播放，音频才会使用流量</strong></div><audio id="audio" controls preload="none"></audio><button id="speakButton" type="button">⚡ 省流量朗读（不下载音频）</button></section>
 <nav id="filters" class="filters" aria-label="栏目筛选"></nav><section id="newsList" class="news-list" aria-live="polite"></section></main>
-<footer>内容来自公开来源并经本地整理。请以原文为准。</footer><script src="assets/app.js" defer></script>
+<footer>内容来自公开来源并经本地整理。请以原文为准。</footer><script id="briefingData" type="application/json">{
+  "schema_version": 1,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T07:59:00.100178+08:00",
+  "title": "2026-09-09 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "d6f651093c95c13b8b93",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar str",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:06:40+00:00",
+      "importance": 0.7698,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "kind": "media",
+          "published_at": "2026-09-08T20:06:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1e83fe39da0e3225ec9",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T19:00:00+00:00",
+      "importance": 0.7629,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+          "kind": "media",
+          "published_at": "2026-09-08T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7cb14dc5327b78c8c054",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "产业与商业",
+      "published_at": "2026-09-08T10:34:00+00:00",
+      "importance": 0.7371,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+          "kind": "media",
+          "published_at": "2026-09-08T10:34:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "503e9c2326e78f3e5469",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "研究与开源",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "importance": 0.7064,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "kind": "official",
+          "published_at": "2026-09-08T17:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a00fc889a2dd293b4204",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T13:00:00+00:00",
+      "importance": 0.6814,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "kind": "official",
+          "published_at": "2026-09-08T13:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1dcea8b0f8acab144d94",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "importance": 0.672,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "kind": "official",
+          "published_at": "2026-09-08T11:30:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2c827cba158d2f26e6e9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "importance": 0.6626,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "kind": "official",
+          "published_at": "2026-09-08T10:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7948c39493cbd65ea48c",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "importance": 0.6564,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "kind": "official",
+          "published_at": "2026-09-08T09:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1cabf28ef85dff46830b",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T21:10:27+00:00",
+      "importance": 0.6514,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+          "kind": "media",
+          "published_at": "2026-09-08T21:10:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cc176219ddc5276683f3",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "产业与商业",
+      "published_at": "2026-09-08T21:04:06+00:00",
+      "importance": 0.6508,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+          "kind": "media",
+          "published_at": "2026-09-08T21:04:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "93ac80c32b7b178ac003",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered ",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:53:52+00:00",
+      "importance": 0.6497,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "kind": "media",
+          "published_at": "2026-09-08T20:53:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d0b33baabbac2f54fd3",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T20:16:09+00:00",
+      "importance": 0.6458,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "kind": "media",
+          "published_at": "2026-09-08T20:16:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3c847c358ea6854f3545",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believi",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T19:32:39+00:00",
+      "importance": 0.6413,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "kind": "media",
+          "published_at": "2026-09-08T19:32:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9449396e3277891cd78f",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T17:32:15+00:00",
+      "importance": 0.6287,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "kind": "media",
+          "published_at": "2026-09-08T17:32:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e160b964fa803db94824",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T16:20:31+00:00",
+      "importance": 0.6212,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "kind": "media",
+          "published_at": "2026-09-08T16:20:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bae1d2f63dba18ca50c9",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "政策与安全",
+      "published_at": "2026-09-08T15:04:09+00:00",
+      "importance": 0.6133,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+          "kind": "media",
+          "published_at": "2026-09-08T15:04:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1a956c25f3b2e61c77be",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving th",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "研究与开源",
+      "published_at": "2026-09-08T14:19:23+00:00",
+      "importance": 0.6086,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+          "kind": "media",
+          "published_at": "2026-09-08T14:19:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2f431554cf8941b6d5e2",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "analysis": "本条由本地规则整理；安装并启动 Ollama 后会生成完整中文解读。",
+      "category": "模型与产品",
+      "published_at": "2026-09-08T14:17:48+00:00",
+      "importance": 0.6085,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+          "kind": "media",
+          "published_at": "2026-09-08T14:17:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-09.wav",
+  "chapters": [
+    {
+      "news_id": "d6f651093c95c13b8b93",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "start_seconds": 14.93,
+      "duration_seconds": 31.56
+    },
+    {
+      "news_id": "f1e83fe39da0e3225ec9",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "start_seconds": 46.5,
+      "duration_seconds": 32.7
+    },
+    {
+      "news_id": "7cb14dc5327b78c8c054",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "start_seconds": 79.2,
+      "duration_seconds": 34.38
+    },
+    {
+      "news_id": "503e9c2326e78f3e5469",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "start_seconds": 113.59,
+      "duration_seconds": 28.29
+    },
+    {
+      "news_id": "a00fc889a2dd293b4204",
+      "title": "The Work Now Within Reach",
+      "start_seconds": 141.88,
+      "duration_seconds": 21.57
+    },
+    {
+      "news_id": "1dcea8b0f8acab144d94",
+      "title": "Introducing ChatGPT Images 2.5",
+      "start_seconds": 163.45,
+      "duration_seconds": 25.48
+    },
+    {
+      "news_id": "2c827cba158d2f26e6e9",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "start_seconds": 188.93,
+      "duration_seconds": 23.62
+    },
+    {
+      "news_id": "7948c39493cbd65ea48c",
+      "title": "Funding grants for new research into AI and teen development",
+      "start_seconds": 212.56,
+      "duration_seconds": 27.24
+    },
+    {
+      "news_id": "1cabf28ef85dff46830b",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "start_seconds": 239.8,
+      "duration_seconds": 25.83
+    },
+    {
+      "news_id": "cc176219ddc5276683f3",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "start_seconds": 265.62,
+      "duration_seconds": 26.46
+    },
+    {
+      "news_id": "93ac80c32b7b178ac003",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "start_seconds": 292.08,
+      "duration_seconds": 33.19
+    },
+    {
+      "news_id": "9d0b33baabbac2f54fd3",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "start_seconds": 325.27,
+      "duration_seconds": 32.53
+    },
+    {
+      "news_id": "3c847c358ea6854f3545",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "start_seconds": 357.8,
+      "duration_seconds": 33.68
+    },
+    {
+      "news_id": "9449396e3277891cd78f",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "start_seconds": 391.48,
+      "duration_seconds": 26.38
+    },
+    {
+      "news_id": "e160b964fa803db94824",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "start_seconds": 417.86,
+      "duration_seconds": 27.39
+    },
+    {
+      "news_id": "bae1d2f63dba18ca50c9",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "start_seconds": 445.25,
+      "duration_seconds": 23.05
+    },
+    {
+      "news_id": "1a956c25f3b2e61c77be",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "start_seconds": 468.3,
+      "duration_seconds": 31.52
+    },
+    {
+      "news_id": "2f431554cf8941b6d5e2",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "start_seconds": 499.83,
+      "duration_seconds": 27.32
+    }
+  ]
+}</script><script>let briefing=null;let activeCategory='全部';const list=document.querySelector('#newsList');const audio=document.querySelector('#audio');const escapeHtml=s=>String(s??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
+function render(){document.querySelector('#briefTitle').textContent=briefing.title;document.querySelector('#overview').textContent=briefing.overview;document.querySelector('#meta').textContent=`${briefing.items.length} 条 · ${new Date(briefing.generated_at).toLocaleString('zh-CN')}`;const cats=['全部',...new Set(briefing.items.map(x=>x.category))];document.querySelector('#filters').innerHTML=cats.map(c=>`<button class="${c===activeCategory?'active':''}" data-cat="${escapeHtml(c)}">${escapeHtml(c)}</button>`).join('');document.querySelectorAll('[data-cat]').forEach(b=>b.onclick=()=>{activeCategory=b.dataset.cat;render()});if(briefing.audio_url){audio.src=briefing.audio_url;audio.style.display='block';document.querySelector('#nowPlaying').textContent='点击播放整期播报，音频仅在播放时加载'}else{audio.style.display='none';document.querySelector('#nowPlaying').textContent='固定音频尚未生成，可使用省流量朗读'}const items=briefing.items.filter(x=>activeCategory==='全部'||x.category===activeCategory);list.innerHTML=items.map((x,i)=>`<article class="story"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="story-top"><span class="category">${escapeHtml(x.category)}</span><time class="time">${new Date(x.published_at).toLocaleString('zh-CN',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'})}</time></div><h2>${escapeHtml(x.title)}</h2><p>${escapeHtml(x.summary)}</p><p class="analysis"><strong>为什么重要：</strong>${escapeHtml(x.analysis)}</p><div class="source-row">${(x.sources||[]).map(s=>`<a href="${encodeURI(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.name)} ↗</a>`).join('')}${chapterButton(x)}</div></div></article>`).join('')||'<p class="empty">这个栏目今天没有内容。</p>'}
+function chapterButton(item){const c=(briefing.chapters||[]).find(c=>c.news_id===item.id);return c&&briefing.audio_url?`<button class="chapter-link" data-seek="${c.start_seconds}">从本条收听 · ${formatTime(c.start_seconds)}</button>`:''}
+function formatTime(n){return `${Math.floor(n/60)}:${String(Math.round(n%60)).padStart(2,'0')}`}
+list.onclick=e=>{const b=e.target.closest('[data-seek]');if(b){audio.currentTime=Number(b.dataset.seek);audio.play();document.querySelector('#nowPlaying').textContent=b.closest('.story').querySelector('h2').textContent}}
+async function load(path='data/latest.json'){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw new Error('日报读取失败');briefing=await r.json();activeCategory='全部';render()}
+async function loadArchive(){try{const r=await fetch('archive/index.json',{cache:'no-store'});const dates=await r.json();const s=document.querySelector('#dateSelect');s.innerHTML=dates.map((d,i)=>`<option value="${d}" ${i===0?'selected':''}>${d}${i===0?' · 最新':''}</option>`).join('');s.onchange=()=>load(`archive/${s.value}.json`)}catch(e){document.querySelector('#dateSelect').innerHTML='<option>暂无归档</option>'}}
+document.querySelector('#themeButton').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('theme',next)};document.documentElement.dataset.theme=localStorage.getItem('theme')||'';
+document.querySelector('#speakButton').onclick=()=>{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance([briefing.overview,...briefing.items.flatMap(x=>[x.title,x.summary,x.analysis])].join('。'));u.lang='zh-CN';u.rate=.95;speechSynthesis.speak(u)};
+const embedded=document.querySelector('#briefingData');if(embedded){briefing=JSON.parse(embedded.textContent);render();loadArchive()}else{load().then(loadArchive).catch(e=>{list.innerHTML=`<p class="empty">${escapeHtml(e.message)}，请先在管理页生成日报。</p>`})}</script>
 </body></html>
