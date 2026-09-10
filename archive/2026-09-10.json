@@ -348,115 +348,115 @@
       "follow_up_to": null
     }
   ],
-  "audio_url": "audio/2026-09-10.wav",
+  "audio_url": "audio/2026-09-10.wav?v=1789003251475763500",
   "chapters": [
     {
       "news_id": "3eb3e9557eb7038ef8ad",
       "title": "Paul Christiano joins OpenAI Foundation Board",
-      "start_seconds": 14.93,
-      "duration_seconds": 25.56
+      "start_seconds": 14.16,
+      "duration_seconds": 24.88
     },
     {
       "news_id": "77adb66885449411a18b",
       "title": "Get ready for the game with new football features in Search",
-      "start_seconds": 40.5,
-      "duration_seconds": 33.23
+      "start_seconds": 39.04,
+      "duration_seconds": 32.54
     },
     {
       "news_id": "a7c183de5112de4747c2",
       "title": "The AI policy window is open. We need to act.",
-      "start_seconds": 73.73,
-      "duration_seconds": 27.03
+      "start_seconds": 71.58,
+      "duration_seconds": 26.34
     },
     {
       "news_id": "3c86237f473dae12e46a",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "start_seconds": 100.77,
-      "duration_seconds": 24.29
+      "start_seconds": 97.92,
+      "duration_seconds": 23.62
     },
     {
       "news_id": "333ccaae81484d3a4e17",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "start_seconds": 125.06,
-      "duration_seconds": 27.71
+      "start_seconds": 121.54,
+      "duration_seconds": 27.0
     },
     {
       "news_id": "7110db8bb43e62cbc145",
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "start_seconds": 152.77,
-      "duration_seconds": 24.73
+      "start_seconds": 148.54,
+      "duration_seconds": 24.06
     },
     {
       "news_id": "cb6883475c7deaa3a58a",
       "title": "Suno releases its first AI music model made with record industry help",
-      "start_seconds": 177.5,
-      "duration_seconds": 32.44
+      "start_seconds": 172.6,
+      "duration_seconds": 31.76
     },
     {
       "news_id": "ed4c714c44aa756416c3",
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "start_seconds": 209.94,
-      "duration_seconds": 31.08
+      "start_seconds": 204.36,
+      "duration_seconds": 30.42
     },
     {
       "news_id": "7991d7bc4b787f58b9ba",
       "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "start_seconds": 241.02,
-      "duration_seconds": 35.46
+      "start_seconds": 234.78,
+      "duration_seconds": 34.78
     },
     {
       "news_id": "60397224e19ebd7d2f79",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "start_seconds": 276.48,
-      "duration_seconds": 33.29
+      "start_seconds": 269.56,
+      "duration_seconds": 32.62
     },
     {
       "news_id": "97571935d7c661c24bb3",
       "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "start_seconds": 309.77,
-      "duration_seconds": 32.32
+      "start_seconds": 302.18,
+      "duration_seconds": 31.66
     },
     {
       "news_id": "878f832f960c47b42128",
       "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "start_seconds": 342.09,
-      "duration_seconds": 26.22
+      "start_seconds": 333.84,
+      "duration_seconds": 25.56
     },
     {
       "news_id": "6ebb4ea854642f3307a7",
       "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "start_seconds": 368.31,
-      "duration_seconds": 22.64
+      "start_seconds": 359.4,
+      "duration_seconds": 21.96
     },
     {
       "news_id": "18d2a01944700462d30f",
       "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "start_seconds": 390.95,
-      "duration_seconds": 24.67
+      "start_seconds": 381.36,
+      "duration_seconds": 24.0
     },
     {
       "news_id": "d53dc1b159f7850f8bfc",
       "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "start_seconds": 415.62,
-      "duration_seconds": 21.61
+      "start_seconds": 405.36,
+      "duration_seconds": 20.94
     },
     {
       "news_id": "be07e88e346dd80a8bd1",
       "title": "Microsoft has new AI privacy rules for schools",
-      "start_seconds": 437.23,
-      "duration_seconds": 31.47
+      "start_seconds": 426.3,
+      "duration_seconds": 30.78
     },
     {
       "news_id": "5e6cc885d41ddb3e766e",
       "title": "Superintelligence is coming. Should we let it?",
-      "start_seconds": 468.71,
-      "duration_seconds": 29.78
+      "start_seconds": 457.08,
+      "duration_seconds": 29.02
     },
     {
       "news_id": "66efa25f492177ae141e",
       "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "start_seconds": 498.49,
-      "duration_seconds": 30.07
+      "start_seconds": 486.1,
+      "duration_seconds": 29.36
     }
   ]
 }
