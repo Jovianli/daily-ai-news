@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T09:14:24.040151+08:00",
+  "title": "2026-09-10 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "3eb3e9557eb7038ef8ad",
+      "title": "Paul Christiano 加入 OpenAI 基金会董事会",
+      "summary": "Paul Christiano 加入 OpenAI 基金会董事会及其安全委员会，带来人工智能协调、安全和标准方面的经验。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-09T17:00:00+00:00",
+      "importance": 0.8235,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "kind": "official",
+          "published_at": "2026-09-09T17:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "77adb66885449411a18b",
+      "title": "利用搜索中的新足球功能为比赛做好准备",
+      "summary": "插图图形以充满活力的绿色背景为背景，具有美式足球元素，包括金奖杯、蓝色头盔、银哨子、足球、迷你记分牌和比赛图表，并带有 ico",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T16:00:00+00:00",
+      "importance": 0.8172,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+          "kind": "official",
+          "published_at": "2026-09-09T16:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a7c183de5112de4747c2",
+      "title": "人工智能政策窗口已打开。我们需要采取行动。",
+      "summary": "Chris Lehane 认为，更强的人工智能能力需要更强的安全证据、共享标准和持久的政策行动，同时政策窗口保持开放。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "importance": 0.7985,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/ai-policy-window",
+          "kind": "official",
+          "published_at": "2026-09-09T13:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3c86237f473dae12e46a",
+      "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+      "summary": "消息人士称，Listen Labs 放弃了 Menlo Ventures 签署的 C 轮投资意向书。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-10T00:00:37+00:00",
+      "importance": 0.7863,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "kind": "media",
+          "published_at": "2026-09-10T00:00:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "333ccaae81484d3a4e17",
+      "title": "GPT-6 Astra：下一代工作智能",
+      "summary": "GPT-6 Astra 是 OpenAI 最强大的商业模型，具有先进的推理、计算机使用以及更强的写作和设计判断能力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "importance": 0.786,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "kind": "official",
+          "published_at": "2026-09-09T11:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7110db8bb43e62cbc145",
+      "title": "OpenAI 董事会增加了一位杰出的 AI 毁灭者",
+      "summary": "Paul Christiano 是一位有影响力的 AI 研究员，专注于一致性，他将作为董事会成员加入 OpenAI 基金会。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-09T22:25:22+00:00",
+      "importance": 0.7764,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+          "kind": "media",
+          "published_at": "2026-09-09T22:25:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cb6883475c7deaa3a58a",
+      "title": "Suno 发布首个在唱片业帮助下制作的 AI 音乐模型",
+      "summary": "Suno的新v6人工智能音乐模型是其第一个在唱片行业的支持下制作的模型。 Suno 的 Jack Brody 告诉 The Verge，v6 是“从头开始训练的，使用了一组新数据，其中不包含与之前相同的数据”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T21:47:02+00:00",
+      "importance": 0.7724,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "kind": "media",
+          "published_at": "2026-09-09T21:47:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ed4c714c44aa756416c3",
+      "title": "OpenAI 巧妙的数学突破让学术界不寒而栗",
+      "summary": "OpenAI 周二宣布它已经解决了数学界的传奇千禧奖问题之一，这本应该是一个胜利的时刻。结果既是不可否认的成就，也是对",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T21:16:34+00:00",
+      "importance": 0.7692,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "kind": "media",
+          "published_at": "2026-09-09T21:16:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7991d7bc4b787f58b9ba",
+      "title": "阅读 Apple 文档，了解新的聆听功能如何仍然保护您的隐私",
+      "summary": "在周三的 iPhone Duo 发布会上，苹果宣布了一些新的 Siri AI 音频智能功能，包括 Siri Recap、Live Rewind、声音识别和音乐识别。在宣布这一消息的同时，苹果还",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T20:44:43+00:00",
+      "importance": 0.7659,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+          "kind": "media",
+          "published_at": "2026-09-09T20:44:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "60397224e19ebd7d2f79",
+      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+      "summary": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的语音并总结周围对话的功能引发了有关同意、隐私以及人们在知道自己同意时如何行为的新问题。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T20:24:48+00:00",
+      "importance": 0.7638,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+          "kind": "media",
+          "published_at": "2026-09-09T20:24:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "97571935d7c661c24bb3",
+      "title": "苹果新的 iPhone 相机模式有望证明你的照片不是人工智能",
+      "summary": "苹果正在推出一种新方法来证明你拍摄的照片没有被人工智能操纵。一项名为“参考图像”的新功能将于本月晚些时候随 iPhone 18 Pro 系列一起推出，并且应该使用设备",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T20:21:17+00:00",
+      "importance": 0.7635,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+          "kind": "media",
+          "published_at": "2026-09-09T20:21:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "878f832f960c47b42128",
+      "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+      "summary": "主要活动是这家科技巨头备受期待的首款可折叠手机 iPhone Duo。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T20:03:43+00:00",
+      "importance": 0.7616,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
+          "kind": "media",
+          "published_at": "2026-09-09T20:03:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6ebb4ea854642f3307a7",
+      "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+      "summary": "苹果表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和 3D 打印。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T19:21:48+00:00",
+      "importance": 0.7573,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
+          "kind": "media",
+          "published_at": "2026-09-09T19:21:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "18d2a01944700462d30f",
+      "title": "Apple 有一种新方法可以证明你的 iPhone 照片不是 AI 处理的",
+      "summary": "苹果推出了苹果参考图像来帮助用户确定照片是否经过编辑，包括人工智能所做的更改。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T18:08:35+00:00",
+      "importance": 0.7496,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+          "kind": "media",
+          "published_at": "2026-09-09T18:08:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d53dc1b159f7850f8bfc",
+      "title": "苹果首席执行官 John Ternus 表示，最好的人工智能设备仍然是 iPhone",
+      "summary": "该公司还辩称，其设备上的模型为消费者提供了更多的隐私。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-09T17:36:05+00:00",
+      "importance": 0.7463,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+          "kind": "media",
+          "published_at": "2026-09-09T17:36:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "be07e88e346dd80a8bd1",
+      "title": "微软为学校制定新的人工智能隐私规则",
+      "summary": "在两个主要学校系统宣布禁止面向学生的人工智能一周后，微软同意了一套针对学校人工智能的安全和隐私原则。在与美国教师联合会 (AFT) 的一项新协议中，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-09T17:07:48+00:00",
+      "importance": 0.7433,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+          "kind": "media",
+          "published_at": "2026-09-09T17:07:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5e6cc885d41ddb3e766e",
+      "title": "超级智能即将来临。我们应该放手吗？",
+      "summary": "人工智能公司一直在谈论超级人工智能，就好像它是不可避免的一样，但最近发生的安全事件，比如 OpenAI 的 Hugging Face 漏洞，正在证明部署更智能的人工智能系统的潜在危险。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-09T16:05:35+00:00",
+      "importance": 0.7368,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it",
+          "kind": "media",
+          "published_at": "2026-09-09T16:05:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "66efa25f492177ae141e",
+      "title": "Besxar 正在建造一座轨道半导体工厂，一次建造一枚 SpaceX 火箭",
+      "summary": "Besxar 是一家由前 OpenAI 员工 Ashley Pilipiszyn 创立的初创公司，希望利用太空真空制造先进半导体的关键先驱。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-09T12:30:00+00:00",
+      "importance": 0.7144,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets",
+          "kind": "media",
+          "published_at": "2026-09-09T12:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-10.wav?v=1789045771000560300",
+  "chapters": [
+    {
+      "news_id": "3eb3e9557eb7038ef8ad",
+      "title": "Paul Christiano 加入 OpenAI 基金会董事会",
+      "start_seconds": 14.16,
+      "duration_seconds": 23.6
+    },
+    {
+      "news_id": "77adb66885449411a18b",
+      "title": "利用搜索中的新足球功能为比赛做好准备",
+      "start_seconds": 37.76,
+      "duration_seconds": 29.28
+    },
+    {
+      "news_id": "a7c183de5112de4747c2",
+      "title": "人工智能政策窗口已打开。我们需要采取行动。",
+      "start_seconds": 67.04,
+      "duration_seconds": 26.1
+    },
+    {
+      "news_id": "3c86237f473dae12e46a",
+      "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+      "start_seconds": 93.14,
+      "duration_seconds": 23.9
+    },
+    {
+      "news_id": "333ccaae81484d3a4e17",
+      "title": "GPT-6 Astra：下一代工作智能",
+      "start_seconds": 117.04,
+      "duration_seconds": 24.18
+    },
+    {
+      "news_id": "7110db8bb43e62cbc145",
+      "title": "OpenAI 董事会增加了一位杰出的 AI 毁灭者",
+      "start_seconds": 141.22,
+      "duration_seconds": 24.22
+    },
+    {
+      "news_id": "cb6883475c7deaa3a58a",
+      "title": "Suno 发布首个在唱片业帮助下制作的 AI 音乐模型",
+      "start_seconds": 165.44,
+      "duration_seconds": 32.74
+    },
+    {
+      "news_id": "ed4c714c44aa756416c3",
+      "title": "OpenAI 巧妙的数学突破让学术界不寒而栗",
+      "start_seconds": 198.18,
+      "duration_seconds": 26.66
+    },
+    {
+      "news_id": "7991d7bc4b787f58b9ba",
+      "title": "阅读 Apple 文档，了解新的聆听功能如何仍然保护您的隐私",
+      "start_seconds": 224.84,
+      "duration_seconds": 33.06
+    },
+    {
+      "news_id": "60397224e19ebd7d2f79",
+      "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+      "start_seconds": 257.9,
+      "duration_seconds": 30.34
+    },
+    {
+      "news_id": "97571935d7c661c24bb3",
+      "title": "苹果新的 iPhone 相机模式有望证明你的照片不是人工智能",
+      "start_seconds": 288.24,
+      "duration_seconds": 32.54
+    },
+    {
+      "news_id": "878f832f960c47b42128",
+      "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+      "start_seconds": 320.78,
+      "duration_seconds": 24.58
+    },
+    {
+      "news_id": "6ebb4ea854642f3307a7",
+      "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+      "start_seconds": 345.36,
+      "duration_seconds": 22.52
+    },
+    {
+      "news_id": "18d2a01944700462d30f",
+      "title": "Apple 有一种新方法可以证明你的 iPhone 照片不是 AI 处理的",
+      "start_seconds": 367.88,
+      "duration_seconds": 24.1
+    },
+    {
+      "news_id": "d53dc1b159f7850f8bfc",
+      "title": "苹果首席执行官 John Ternus 表示，最好的人工智能设备仍然是 iPhone",
+      "start_seconds": 391.98,
+      "duration_seconds": 22.48
+    },
+    {
+      "news_id": "be07e88e346dd80a8bd1",
+      "title": "微软为学校制定新的人工智能隐私规则",
+      "start_seconds": 414.46,
+      "duration_seconds": 30.16
+    },
+    {
+      "news_id": "5e6cc885d41ddb3e766e",
+      "title": "超级智能即将来临。我们应该放手吗？",
+      "start_seconds": 444.62,
+      "duration_seconds": 31.18
+    },
+    {
+      "news_id": "66efa25f492177ae141e",
+      "title": "Besxar 正在建造一座轨道半导体工厂，一次建造一枚 SpaceX 火箭",
+      "start_seconds": 475.8,
+      "duration_seconds": 27.24
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T12:38:32.563256+08:00",
+  "title": "2026-09-23 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "a86391fe9862bd8955da",
+      "title": "OpenAI希望咨询精英数学家，了解如何不再摸索",
+      "summary": "在将一系列引人注目的数学结果转化为声誉危机之后， OpenAI正在咨询人类数学家，以帮助其找到一条不那么灾难性的前进道路。周一，该公司宣布了一项",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-23T00:18:27+00:00",
+      "importance": 0.7697,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "kind": "media",
+          "published_at": "2026-09-23T00:18:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3520c157c4e138eb1c30",
+      "title": "TechCrunch创始人峰会的议程揭晓： 11月4日在波士顿解锁筹款、招聘和人工智能洞察",
+      "summary": "创始人不应该以最艰难的方式学习最艰难的教训。TechCrunch创始人峰会旨在使创办公司的挑战更容易，更高的挑战也更大。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T23:21:49+00:00",
+      "importance": 0.7638,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+          "kind": "media",
+          "published_at": "2026-09-22T23:21:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "16afc5791c45315aa89d",
+      "title": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）",
+      "summary": "这家拥有七年历史的初创公司已经筹集了3.5亿美元的E轮融资，以推动其数据即服务的方法。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-22T21:56:43+00:00",
+      "importance": 0.755,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "kind": "media",
+          "published_at": "2026-09-22T21:56:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b764d2ad8902084d6f97",
+      "title": "Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作",
+      "summary": "风险投资公司Andreessen Horowitz (a16z)正在创建一个“学院” ，作为年轻人建立或加入硅谷初创公司的管道。“Horowitz Andreessen学院”将与10个合作伙伴共同推出",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-22T21:22:59+00:00",
+      "importance": 0.7515,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+          "kind": "media",
+          "published_at": "2026-09-22T21:22:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b55c6cd1054ed866620f",
+      "title": "Rabbit的新AI agent不需要R1就可以运行",
+      "summary": "正如Wired早些时候报道的那样， Rabbit是R1设备背后的公司，正在推出一款独立的AI代理，您不需要使用其硬件。这家初创公司表示，其新的OS3 “代理操作系统”",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-22T20:52:40+00:00",
+      "importance": 0.7483,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "kind": "media",
+          "published_at": "2026-09-22T20:52:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "811bcae574a076a77959",
+      "title": "高通推出两款以人工智能为重点的新型智能手机芯片",
+      "summary": "高通表示，其新的顶级芯片可以在本地运行30B混合专家模型。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T20:00:00+00:00",
+      "importance": 0.7428,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "kind": "media",
+          "published_at": "2026-09-22T20:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a8ca25f3731cf08a6b89",
+      "title": "Meta承认Muse与OpenClaw的肖像并非巧合",
+      "summary": "Meta表示， Muse是从头开始构建的，但承认AI助手“深受OpenClaw的启发” —包括其一些工作区文件名和内容。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-22T19:09:11+00:00",
+      "importance": 0.7375,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+          "kind": "media",
+          "published_at": "2026-09-22T19:09:11+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "319f546beaea3cb7c254",
+      "title": "圆桌会议：虚拟边界墙的致命失败",
+      "summary": "在过去的25年里，美国花费了数十亿美元在其南部边境修建了一堵“虚拟墙” ，承诺它们将帮助侦查和逮捕过境者并挽救生命。但",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T13:42:05+00:00",
+      "importance": 0.7305,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+          "kind": "media",
+          "published_at": "2026-09-22T13:42:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9f9481d4b39d85978d40",
+      "title": "OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少",
+      "summary": "OpenAI正在推出两款新型号，据说是从与Astra相同的布料上剪下来的。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T18:00:00+00:00",
+      "importance": 0.7303,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+          "kind": "media",
+          "published_at": "2026-09-22T18:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a00d2fc3af07489bff6f",
+      "title": "特朗普表示，美国正式将人工智能重新命名为“超级智能”",
+      "summary": "唐纳德·特朗普周二上午在联合国大会上发表讲话，抨击伊朗、“全球主义者”、气候变化和变性人，同时还声称美国现在“正式”重新命名人工智能",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T17:46:40+00:00",
+      "importance": 0.7289,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+          "kind": "media",
+          "published_at": "2026-09-22T17:46:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "321c1f0bfff39700f0c6",
+      "title": "Anthropic推出Claude Opus 5.5 ，为网络安全提供更严格的保障措施",
+      "summary": "Anthropic表示，在最近的流氓AI黑客事件发生后，其新的Claude Opus 5.5型号具有更强的保护措施。Anthropic在周二的公告中表示， Opus 5.5在某些风险方面有所改善",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-22T17:15:49+00:00",
+      "importance": 0.7257,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "kind": "media",
+          "published_at": "2026-09-22T17:15:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "55400c0937f948ed6059",
+      "title": "不要被这个夏天的人工智能炒作所愚弄",
+      "summary": "人工智能炒作已经忙碌了几个月。4月底， Anthropic声称其模型Claude Mythos比大多数安全专家更擅长发现软件漏洞。然后我们有了OpenAI–Hugging Face h",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-22T11:04:51+00:00",
+      "importance": 0.7141,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+          "kind": "media",
+          "published_at": "2026-09-22T11:04:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3d7eabbffd15a6716f0a",
+      "title": "AstroForge正在让人工智能掌控其下一个航天器",
+      "summary": "Autonomy-1将拥有一个小型的基于变压器的人工智能模型，负责空间探测器。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T15:00:00+00:00",
+      "importance": 0.7116,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+          "kind": "media",
+          "published_at": "2026-09-22T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3412ff426fef6de38dca",
+      "title": "每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议",
+      "summary": "在TechCrunch Disrupt 2026上，来自Anthropic、Nvidia、AWS、Waabi等公司的领导者参加了人工智能舞台和真实世界人工智能舞台的五场会议，讨论了人工智能的安全问题。请在9月25日前登记，最多可节省$ 200。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-22T15:00:00+00:00",
+      "importance": 0.7116,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+          "kind": "media",
+          "published_at": "2026-09-22T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1eab844e19f68963bdb8",
+      "title": "TechCrunch Disrupt 2026 ： Aaron Edsinger将Hello Robot的Stretch 4带入舞台",
+      "summary": "Hello Robot首席执行官兼联合创始人Aaron Edsinger将在TechCrunch Disrupt 2026的真实世界人工智能舞台上带来Stretch 4的现场演示。请在9月25日前注册，最多可节省$ 200 ，并以50%的折扣获得第二张通行证",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T14:30:00+00:00",
+      "importance": 0.7084,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+          "kind": "media",
+          "published_at": "2026-09-22T14:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f9027d80e820682e90d7",
+      "title": "GPT-6的更好提示缓存",
+      "summary": "了解GPT-6如何通过更高的缓存命中率、新的诊断、显式断点和控制来改善快速缓存，从而降低延迟和成本。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T21:00:00+00:00",
+      "importance": 0.7051,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "kind": "official",
+          "published_at": "2026-09-22T21:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3998a4c198db2234356a",
+      "title": "每个人都可以找到不喜欢数据中心建设的理由",
+      "summary": "两年来，宾夕法尼亚州的人工智能数据中心辩论令人担忧。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "importance": 0.6991,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction",
+          "kind": "media",
+          "published_at": "2026-09-22T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3fcefd9c665fb2c24849",
+      "title": "使用GPT ‑ 6 Astra将研究时间和成本并行削减一半",
+      "summary": "GPT ‑ 6 Astra使Parallel的代理商能够以一半的时间和一半的成本研究并合成劳动力市场数据。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-22T12:00:00+00:00",
+      "importance": 0.6488,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "kind": "official",
+          "published_at": "2026-09-22T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-23.wav?v=1790138324473200300",
+  "chapters": [
+    {
+      "news_id": "a86391fe9862bd8955da",
+      "title": "OpenAI希望咨询精英数学家，了解如何不再摸索",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.34
+    },
+    {
+      "news_id": "3520c157c4e138eb1c30",
+      "title": "TechCrunch创始人峰会的议程揭晓： 11月4日在波士顿解锁筹款、招聘和人工智能洞察",
+      "start_seconds": 45.5,
+      "duration_seconds": 31.1
+    },
+    {
+      "news_id": "16afc5791c45315aa89d",
+      "title": "随着人工智能培训数据需求激增，浮潜人工智能将估值提高三倍至35亿美元（ $ 35亿）",
+      "start_seconds": 76.6,
+      "duration_seconds": 28.88
+    },
+    {
+      "news_id": "b764d2ad8902084d6f97",
+      "title": "Andreessen Horowitz正在推出一个“学院” ，没有家庭作业，并与Palantir ， Google和Meta合作",
+      "start_seconds": 105.48,
+      "duration_seconds": 35.28
+    },
+    {
+      "news_id": "b55c6cd1054ed866620f",
+      "title": "Rabbit的新AI agent不需要R1就可以运行",
+      "start_seconds": 140.76,
+      "duration_seconds": 31.0
+    },
+    {
+      "news_id": "811bcae574a076a77959",
+      "title": "高通推出两款以人工智能为重点的新型智能手机芯片",
+      "start_seconds": 171.76,
+      "duration_seconds": 21.82
+    },
+    {
+      "news_id": "a8ca25f3731cf08a6b89",
+      "title": "Meta承认Muse与OpenClaw的肖像并非巧合",
+      "start_seconds": 193.58,
+      "duration_seconds": 23.58
+    },
+    {
+      "news_id": "319f546beaea3cb7c254",
+      "title": "圆桌会议：虚拟边界墙的致命失败",
+      "start_seconds": 217.16,
+      "duration_seconds": 26.86
+    },
+    {
+      "news_id": "9f9481d4b39d85978d40",
+      "title": "OpenAI推出GPT-6 Sol和Luna ，成本更低，错误更少",
+      "start_seconds": 244.02,
+      "duration_seconds": 23.04
+    },
+    {
+      "news_id": "a00d2fc3af07489bff6f",
+      "title": "特朗普表示，美国正式将人工智能重新命名为“超级智能”",
+      "start_seconds": 267.06,
+      "duration_seconds": 30.44
+    },
+    {
+      "news_id": "321c1f0bfff39700f0c6",
+      "title": "Anthropic推出Claude Opus 5.5 ，为网络安全提供更严格的保障措施",
+      "start_seconds": 297.5,
+      "duration_seconds": 33.42
+    },
+    {
+      "news_id": "55400c0937f948ed6059",
+      "title": "不要被这个夏天的人工智能炒作所愚弄",
+      "start_seconds": 330.92,
+      "duration_seconds": 28.86
+    },
+    {
+      "news_id": "3d7eabbffd15a6716f0a",
+      "title": "AstroForge正在让人工智能掌控其下一个航天器",
+      "start_seconds": 359.78,
+      "duration_seconds": 22.22
+    },
+    {
+      "news_id": "3412ff426fef6de38dca",
+      "title": "每个创始人都应该在TechCrunch Disrupt 2026议程上举办五次人工智能安全会议",
+      "start_seconds": 382.0,
+      "duration_seconds": 40.36
+    },
+    {
+      "news_id": "1eab844e19f68963bdb8",
+      "title": "TechCrunch Disrupt 2026 ： Aaron Edsinger将Hello Robot的Stretch 4带入舞台",
+      "start_seconds": 422.36,
+      "duration_seconds": 38.66
+    },
+    {
+      "news_id": "f9027d80e820682e90d7",
+      "title": "GPT-6的更好提示缓存",
+      "start_seconds": 461.02,
+      "duration_seconds": 24.58
+    },
+    {
+      "news_id": "3998a4c198db2234356a",
+      "title": "每个人都可以找到不喜欢数据中心建设的理由",
+      "start_seconds": 485.6,
+      "duration_seconds": 19.7
+    },
+    {
+      "news_id": "3fcefd9c665fb2c24849",
+      "title": "使用GPT ‑ 6 Astra将研究时间和成本并行削减一半",
+      "start_seconds": 505.3,
+      "duration_seconds": 24.46
+    }
+  ]
+}

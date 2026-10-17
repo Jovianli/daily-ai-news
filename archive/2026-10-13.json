@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T12:29:43.340670+08:00",
+  "title": "2026-10-13 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "141eb216d6da6f890bd5",
+      "title": "微软将Azure Maia系统扩展到数千兆瓦的部署",
+      "summary": "Azure Maia 200现已投入生产； Azure Maia 300将于2027年推出随着我们进入超级智能时代，微软正在进入基础设施的新阶段。我们将Azure Maia系列扩展到数千兆瓦",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-12T13:01:29+00:00",
+      "importance": 0.7566,
+      "sources": [
+        {
+          "name": "Microsoft",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+          "kind": "official",
+          "published_at": "2026-10-12T13:01:29+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1e2db47d258dd52efadf",
+      "title": "Meta发布其首款前沿车型Muse Wonder",
+      "summary": "Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更有能力，在编码等复杂任务上具有更高的基准分数和更好的结果。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-12T17:56:56+00:00",
+      "importance": 0.7289,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+          "kind": "media",
+          "published_at": "2026-10-12T17:56:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5086a26c24b9017fd585",
+      "title": "WindBorne因其气球数据赢得了美国空军的巨额合同",
+      "summary": "一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-12T17:19:14+00:00",
+      "importance": 0.725,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+          "kind": "media",
+          "published_at": "2026-10-12T17:19:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f32ec83ece71d3f7fc37",
+      "title": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+      "summary": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。但人工智能真的能让事情变得更好吗？",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-12T15:45:00+00:00",
+      "importance": 0.7152,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+          "kind": "media",
+          "published_at": "2026-10-12T15:45:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3280ed302a3eecae2a95",
+      "title": "微软总裁表示，英国最适合推动人工智能监管",
+      "summary": "微软总裁布拉德·史密斯（ Brad Smith ）呼吁对人工智能进行紧急监管，称牛奶和洗衣机比人工智能公司拥有更多的监",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-12T15:31:19+00:00",
+      "importance": 0.7137,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+          "kind": "media",
+          "published_at": "2026-10-12T15:31:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "de563f5e428af2e8e50b",
+      "title": "这家AI初创公司表示，它可以在几分钟内生成许可证就绪的蓝图",
+      "summary": "Blueprints AI是一家总部位于圣莫尼卡的初创公司，它开发的软件可以从照片、PDF或草图中生成符合代码的施工蓝图。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-12T15:27:59+00:00",
+      "importance": 0.7134,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+          "kind": "media",
+          "published_at": "2026-10-12T15:27:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1f073325dc394b50df94",
+      "title": "微软的新AI芯片减少了对英伟达GPU的依赖",
+      "summary": "微软今天宣布推出其第三代MAIA内部AI芯片，旨在成为微软产品和服务的“主要AI推理系统”。MAIA 300不仅提高了RUNN的成本和效率，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-12T13:33:06+00:00",
+      "importance": 0.7014,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "kind": "media",
+          "published_at": "2026-10-12T13:33:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "923391ccc7454943d7b3",
+      "title": "前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$",
+      "summary": "人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议，如果你相信科技公司，这需要应用程序",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-12T12:47:59+00:00",
+      "importance": 0.6967,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+          "kind": "media",
+          "published_at": "2026-10-12T12:47:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "846af7f67ce8bfa66882",
+      "title": "Meta有一些Wonder全新的AI模型",
+      "summary": "Meta正在弥补AI竞赛中失去的时间。在推出Muse Spark （其经过改造的Superintelligence Labs部门的第一个模型）和热闹的人工智能代理Muse之后，它现在推出了两款它声称可以",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-12T11:13:10+00:00",
+      "importance": 0.6868,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "kind": "media",
+          "published_at": "2026-10-12T11:13:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "256fe7ff04806aaccd4a",
+      "title": "显示HN ：搜索内置有用性分数的AI座席",
+      "summary": "HN ，您好！我与Simon Kley合作，在创新智能黑客马拉松（伯克利）上构建了这个项目。简单地说，我们在搜索人工智能代理的基础上建立了一个实用性评分。而不是代理阅读10个排名版本",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-13T04:07:07+00:00",
+      "importance": 0.6025,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/Ayobamiu/usefulness-search",
+          "kind": "social",
+          "published_at": "2026-10-13T04:07:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fdfb62ccec43edb5db91",
+      "title": "Show HN ：我们为人工智能代理制作了betr Moltbook alt- thecollectives.dev社交媒体",
+      "summary": "文章网址： https://www.thecollectives.dev/评论网址： https://news.ycombinator.com/item?id=50066493点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:59:21+00:00",
+      "importance": 0.6017,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.thecollectives.dev",
+          "kind": "social",
+          "published_at": "2026-10-13T03:59:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7bed39b4c5111057bc1f",
+      "title": "我们可以在不重新训练的情况下改变人工智能模型的架构吗？",
+      "summary": "文章网址： https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch评论网址： https://news.ycombinator.com/item?id=50066477点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:57:04+00:00",
+      "importance": 0.6014,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+          "kind": "social",
+          "published_at": "2026-10-13T03:57:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "544ebb3a5ee3c8590c38",
+      "title": "我使用AI QA代理来测试Hacker News",
+      "summary": "文章网址： https://hitest.ai/blog/demo-hacker-news评论网址： https://news.ycombinator.com/item?id=50066288点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:31:58+00:00",
+      "importance": 0.5988,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://hitest.ai/blog/demo-hacker-news",
+          "kind": "social",
+          "published_at": "2026-10-13T03:31:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d7cb21fe4115d793c4c6",
+      "title": "问问HN ：现在人工智能使执行变得容易，创意更重要吗？",
+      "summary": "你认为这是真的吗？评论网址： https://news.ycombinator.com/item?id=50066263积分： 1 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:29:08+00:00",
+      "importance": 0.5985,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50066263",
+          "kind": "social",
+          "published_at": "2026-10-13T03:29:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "739dbd9f6877ee90b4c8",
+      "title": "人工智能是我们所知道的数学的终结吗？",
+      "summary": "文章网址： https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/评论网址： https://news.ycombinator.com/item?id=50066231点数： 1 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:24:50+00:00",
+      "importance": 0.5981,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005",
+          "kind": "social",
+          "published_at": "2026-10-13T03:24:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "07d5c70bfe922242e378",
+      "title": "中国领先的数学家联合起来支持在研究中使用人工智能",
+      "summary": "文章网址： https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research评论网址： https://news.ycombinator.com/item?id=50066207点数： 3 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-13T03:21:20+00:00",
+      "importance": 0.5977,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
+          "kind": "social",
+          "published_at": "2026-10-13T03:21:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "59de36809da9396926c3",
+      "title": "在5年内，人工智能代理使用的代币中有95%将用于人类从未做过的任务",
+      "summary": "文章网址： https://twitter.com/levie/status/1986620885592113218评论网址： https://news.ycombinator.com/item?id=50066144点数： 5 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T03:12:59+00:00",
+      "importance": 0.5968,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://twitter.com/levie/status/1986620885592113218",
+          "kind": "social",
+          "published_at": "2026-10-13T03:12:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c6368df0fd39701af2c1",
+      "title": "军队在应对生物威胁时转向人工智能",
+      "summary": "文章网址： https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/评论网址： https://news.ycombinator.com/item?id=50065839点数： 4 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T02:29:59+00:00",
+      "importance": 0.5923,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats",
+          "kind": "social",
+          "published_at": "2026-10-13T02:29:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-13.wav?v=1791865794857973400",
+  "chapters": [
+    {
+      "news_id": "141eb216d6da6f890bd5",
+      "title": "微软将Azure Maia系统扩展到数千兆瓦的部署",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.0
+    },
+    {
+      "news_id": "1e2db47d258dd52efadf",
+      "title": "Meta发布其首款前沿车型Muse Wonder",
+      "start_seconds": 45.16,
+      "duration_seconds": 28.86
+    },
+    {
+      "news_id": "5086a26c24b9017fd585",
+      "title": "WindBorne因其气球数据赢得了美国空军的巨额合同",
+      "start_seconds": 74.02,
+      "duration_seconds": 24.26
+    },
+    {
+      "news_id": "f32ec83ece71d3f7fc37",
+      "title": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+      "start_seconds": 98.28,
+      "duration_seconds": 26.96
+    },
+    {
+      "news_id": "3280ed302a3eecae2a95",
+      "title": "微软总裁表示，英国最适合推动人工智能监管",
+      "start_seconds": 125.24,
+      "duration_seconds": 26.14
+    },
+    {
+      "news_id": "de563f5e428af2e8e50b",
+      "title": "这家AI初创公司表示，它可以在几分钟内生成许可证就绪的蓝图",
+      "start_seconds": 151.38,
+      "duration_seconds": 28.56
+    },
+    {
+      "news_id": "1f073325dc394b50df94",
+      "title": "微软的新AI芯片减少了对英伟达GPU的依赖",
+      "start_seconds": 179.94,
+      "duration_seconds": 28.16
+    },
+    {
+      "news_id": "923391ccc7454943d7b3",
+      "title": "前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$",
+      "start_seconds": 208.1,
+      "duration_seconds": 32.68
+    },
+    {
+      "news_id": "846af7f67ce8bfa66882",
+      "title": "Meta有一些Wonder全新的AI模型",
+      "start_seconds": 240.78,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "256fe7ff04806aaccd4a",
+      "title": "显示HN ：搜索内置有用性分数的AI座席",
+      "start_seconds": 271.36,
+      "duration_seconds": 36.12
+    },
+    {
+      "news_id": "fdfb62ccec43edb5db91",
+      "title": "Show HN ：我们为人工智能代理制作了betr Moltbook alt- thecollectives.dev社交媒体",
+      "start_seconds": 307.48,
+      "duration_seconds": 37.44
+    },
+    {
+      "news_id": "7bed39b4c5111057bc1f",
+      "title": "我们可以在不重新训练的情况下改变人工智能模型的架构吗？",
+      "start_seconds": 344.92,
+      "duration_seconds": 45.92
+    },
+    {
+      "news_id": "544ebb3a5ee3c8590c38",
+      "title": "我使用AI QA代理来测试Hacker News",
+      "start_seconds": 390.84,
+      "duration_seconds": 34.2
+    },
+    {
+      "news_id": "d7cb21fe4115d793c4c6",
+      "title": "问问HN ：现在人工智能使执行变得容易，创意更重要吗？",
+      "start_seconds": 425.04,
+      "duration_seconds": 30.72
+    },
+    {
+      "news_id": "739dbd9f6877ee90b4c8",
+      "title": "人工智能是我们所知道的数学的终结吗？",
+      "start_seconds": 455.76,
+      "duration_seconds": 41.14
+    },
+    {
+      "news_id": "07d5c70bfe922242e378",
+      "title": "中国领先的数学家联合起来支持在研究中使用人工智能",
+      "start_seconds": 496.9,
+      "duration_seconds": 48.66
+    },
+    {
+      "news_id": "59de36809da9396926c3",
+      "title": "在5年内，人工智能代理使用的代币中有95%将用于人类从未做过的任务",
+      "start_seconds": 545.56,
+      "duration_seconds": 40.82
+    },
+    {
+      "news_id": "c6368df0fd39701af2c1",
+      "title": "军队在应对生物威胁时转向人工智能",
+      "start_seconds": 586.38,
+      "duration_seconds": 42.92
+    }
+  ]
+}

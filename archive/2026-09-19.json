@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T20:08:10.650648+08:00",
+  "title": "2026-09-19 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "2ad49dd9b65fe3aef9a7",
+      "title": "新专家加入谷歌的人工智能和经济团队",
+      "summary": "文本“AI & Economy Research Program”遍布绿色网格背景，右下角为Google G徽标",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T14:00:00+00:00",
+      "importance": 0.7382,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "kind": "official",
+          "published_at": "2026-09-18T14:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a00923bf4ddda7153647",
+      "title": "澳大利亚青少年安全蓝图简介",
+      "summary": "OpenAI推出了澳大利亚青年安全蓝图，这是一个六大支柱路线图，旨在提供更安全的人工智能体验，保护年轻人并赋予他们权力。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "importance": 0.7257,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "kind": "official",
+          "published_at": "2026-09-18T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "30e39bec26f7808da201",
+      "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
+      "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T00:12:07+00:00",
+      "importance": 0.721,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+          "kind": "media",
+          "published_at": "2026-09-19T00:12:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "415291b734cbb8a64f3b",
+      "title": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能",
+      "summary": "UP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-18T23:25:01+00:00",
+      "importance": 0.716,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "kind": "media",
+          "published_at": "2026-09-18T23:25:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "26c5ca2c4a68e3f0f373",
+      "title": "Anthropic正在运营一个进行生物学实验的实验室",
+      "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T23:13:31+00:00",
+      "importance": 0.7149,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+          "kind": "media",
+          "published_at": "2026-09-18T23:13:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "87654fce97950fc56345",
+      "title": "人工智能幻觉几乎引发美军军事行动",
+      "summary": "一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T23:12:32+00:00",
+      "importance": 0.7147,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "kind": "media",
+          "published_at": "2026-09-18T23:12:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8092c8022d580cabe7ab",
+      "title": "人工智能超级智能减速",
+      "summary": "还记得技术领导者告诉员工“快速行动，打破常规”的时候吗？看来，这也是人工智能的方式。但在一个流氓人工智能代理成为现实的夏天之后，研究人员警告说，",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T21:49:17+00:00",
+      "importance": 0.7061,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "kind": "media",
+          "published_at": "2026-09-18T21:49:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2857cdaa497d76087e7d",
+      "title": "Gavin Newsom正在推动AI Kill开关",
+      "summary": "加利福尼亚州州长Gavin Newsom （ D ）正在定位该州在人工智能监督方面发挥领导作用，包括周五发布新的行政命令，为前沿车型规定“杀戮开关”的潜力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T21:28:12+00:00",
+      "importance": 0.7039,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+          "kind": "media",
+          "published_at": "2026-09-18T21:28:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1bc0911d200ab4e31f17",
+      "title": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”",
+      "summary": "最近在《纽约时报》针对OpenAI和微软的案件中公开的法庭文件非常令人沮丧。这些公司自己的文件警告说，它正在开始一个“厄运循环” ，这将损害网络， CHARACT",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T21:07:24+00:00",
+      "importance": 0.7017,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "kind": "media",
+          "published_at": "2026-09-18T21:07:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0a255d7c17cbd4b0b89a",
+      "title": "弗吉尼亚州州长成立人工智能特别工作组并采取行动限制数据中心",
+      "summary": "弗吉尼亚州州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）下令州政府采取措施，赋予当地社区在数据中心开发方面更大的发言权，并减缓该州的审批速度。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T19:09:19+00:00",
+      "importance": 0.6894,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "kind": "media",
+          "published_at": "2026-09-18T19:09:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b0f2fc35950c247905dc",
+      "title": "来自ChatGPT发明者的一种新型人工智能模型让开发人员兴奋不已",
+      "summary": "Jev是一种新型的人工智能模型，它向开发人员展示了一条更便宜、更快捷的软件智能之路。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T18:49:30+00:00",
+      "importance": 0.6873,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+          "kind": "media",
+          "published_at": "2026-09-18T18:49:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f4d3ae8707e3bc05840d",
+      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
+      "summary": "这位Character.AI的前首席执行官将担任该公司有史以来第一位首席技术官，迪士尼此前曾向其发送了一封停止信。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-18T17:59:53+00:00",
+      "importance": 0.6822,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+          "kind": "media",
+          "published_at": "2026-09-18T17:59:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c6167b67b89d08a6492",
+      "title": "谷歌的新“CC”是一种人工智能代理，可帮助家庭经营家庭",
+      "summary": "谷歌正在将CC AI代理的重点重新放在家庭协调上，让家庭共享电子邮件、日程安排和任务，以便AI可以管理日历、填写表格、制作购物清单、计划用餐等。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T17:33:50+00:00",
+      "importance": 0.6795,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
+          "kind": "media",
+          "published_at": "2026-09-18T17:33:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a5c8c93d0bf688638c60",
+      "title": "好莱坞对存在主义人工智能警告的看法",
+      "summary": "随着科技行业对人工智能毁灭人类的潜力发出警报，娱乐劳工组织正在敦促公众关注已经发生的事情。The Verge联系了迪士尼、Netflix、亚马逊、L",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-18T17:13:12+00:00",
+      "importance": 0.6773,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+          "kind": "media",
+          "published_at": "2026-09-18T17:13:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d277e19284fef86a0b54",
+      "title": "Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？",
+      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T17:09:56+00:00",
+      "importance": 0.677,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+          "kind": "media",
+          "published_at": "2026-09-18T17:09:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f05d4ddd7b6f2680c97c",
+      "title": "Automattic的33小时政变，人工智能实验室可以自我监管吗？",
+      "summary": "一位人类学研究人员的末日警告震惊了人工智能世界一周后，该公司首席执行官达里奥·阿莫代伊（ Dario Amodei ）概述了他的计划，以“加快人工智能发展的前沿”。该提案依赖于独立的安全评估",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T17:06:32+00:00",
+      "importance": 0.6766,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves",
+          "kind": "media",
+          "published_at": "2026-09-18T17:06:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "577ab8eeab8374f9c1e1",
+      "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
+      "summary": "Manus今年早些时候不得不终止与Meta的合并，目前正在讨论以$ 4B的估值筹集$ 5亿美元。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T16:35:49+00:00",
+      "importance": 0.6734,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+          "kind": "media",
+          "published_at": "2026-09-18T16:35:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "88391dbee63d21574dda",
+      "title": "安全研究人员利用Claude帮助他们入侵OpenAI",
+      "summary": "据《华尔街日报》报道， Hacktron的一个由三名独立安全研究人员组成的团队表示，他们使用Anthropic的Claude Opus 4.8和5入侵OpenAI员工账户用了不到72小时。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T16:30:32+00:00",
+      "importance": 0.6729,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+          "kind": "media",
+          "published_at": "2026-09-18T16:30:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-19.wav?v=1789819709947814400",
+  "chapters": [
+    {
+      "news_id": "2ad49dd9b65fe3aef9a7",
+      "title": "新专家加入谷歌的人工智能和经济团队",
+      "start_seconds": 14.16,
+      "duration_seconds": 21.22
+    },
+    {
+      "news_id": "a00923bf4ddda7153647",
+      "title": "澳大利亚青少年安全蓝图简介",
+      "start_seconds": 35.38,
+      "duration_seconds": 25.18
+    },
+    {
+      "news_id": "30e39bec26f7808da201",
+      "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
+      "start_seconds": 60.56,
+      "duration_seconds": 24.6
+    },
+    {
+      "news_id": "415291b734cbb8a64f3b",
+      "title": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能",
+      "start_seconds": 85.16,
+      "duration_seconds": 24.7
+    },
+    {
+      "news_id": "26c5ca2c4a68e3f0f373",
+      "title": "Anthropic正在运营一个进行生物学实验的实验室",
+      "start_seconds": 109.86,
+      "duration_seconds": 28.2
+    },
+    {
+      "news_id": "87654fce97950fc56345",
+      "title": "人工智能幻觉几乎引发美军军事行动",
+      "start_seconds": 138.06,
+      "duration_seconds": 23.04
+    },
+    {
+      "news_id": "8092c8022d580cabe7ab",
+      "title": "人工智能超级智能减速",
+      "start_seconds": 161.1,
+      "duration_seconds": 29.46
+    },
+    {
+      "news_id": "2857cdaa497d76087e7d",
+      "title": "Gavin Newsom正在推动AI Kill开关",
+      "start_seconds": 190.56,
+      "duration_seconds": 27.62
+    },
+    {
+      "news_id": "1bc0911d200ab4e31f17",
+      "title": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”",
+      "start_seconds": 218.18,
+      "duration_seconds": 31.26
+    },
+    {
+      "news_id": "0a255d7c17cbd4b0b89a",
+      "title": "弗吉尼亚州州长成立人工智能特别工作组并采取行动限制数据中心",
+      "start_seconds": 249.44,
+      "duration_seconds": 31.54
+    },
+    {
+      "news_id": "b0f2fc35950c247905dc",
+      "title": "来自ChatGPT发明者的一种新型人工智能模型让开发人员兴奋不已",
+      "start_seconds": 280.98,
+      "duration_seconds": 25.52
+    },
+    {
+      "news_id": "f4d3ae8707e3bc05840d",
+      "title": "迪士尼的第一位首席技术官领导了一家人工智能初创公司，该公司曾被指控抄袭其角色",
+      "start_seconds": 306.5,
+      "duration_seconds": 29.54
+    },
+    {
+      "news_id": "4c6167b67b89d08a6492",
+      "title": "谷歌的新“CC”是一种人工智能代理，可帮助家庭经营家庭",
+      "start_seconds": 336.04,
+      "duration_seconds": 32.78
+    },
+    {
+      "news_id": "a5c8c93d0bf688638c60",
+      "title": "好莱坞对存在主义人工智能警告的看法",
+      "start_seconds": 368.82,
+      "duration_seconds": 29.18
+    },
+    {
+      "news_id": "d277e19284fef86a0b54",
+      "title": "Dario Amodei和其他人工智能领导者想“加快前沿步伐” ，但……如何做到？",
+      "start_seconds": 398.0,
+      "duration_seconds": 35.74
+    },
+    {
+      "news_id": "f05d4ddd7b6f2680c97c",
+      "title": "Automattic的33小时政变，人工智能实验室可以自我监管吗？",
+      "start_seconds": 433.74,
+      "duration_seconds": 34.88
+    },
+    {
+      "news_id": "577ab8eeab8374f9c1e1",
+      "title": "Manus寻求$ 4B估值在新的$ 5亿筹款，因为它恢复独立运营",
+      "start_seconds": 468.62,
+      "duration_seconds": 26.0
+    },
+    {
+      "news_id": "88391dbee63d21574dda",
+      "title": "安全研究人员利用Claude帮助他们入侵OpenAI",
+      "start_seconds": 494.62,
+      "duration_seconds": 29.26
+    }
+  ]
+}

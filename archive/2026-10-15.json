@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T16:15:10.252849+08:00",
+  "title": "2026-10-15 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "330343a7bdb3fdd17aaa",
+      "title": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
+      "summary": "创始人详细介绍了他们的创业公司如何开发能够设计芯片、从每次迭代中学习并改进后续设计的人工智能，所有这些都是为了实现芯片设计过程的自动化和加速。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-15T01:01:32+00:00",
+      "importance": 0.7508,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+          "kind": "media",
+          "published_at": "2026-10-15T01:01:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "57c3309db5bedcdec4e0",
+      "title": "AMP使AI代理能够使用OpenAI模型进行超越代码的工作",
+      "summary": "了解Amp如何突破代理商使用GPT-6 Astra、Ultrafast、GPT-Live-1和使用ChatGPT登录所能做的事情的前沿。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "importance": 0.7504,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "kind": "official",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "004cd593adabcd24c97d",
+      "title": "SentinelOne将恶意软件分析从数周减少到数小时",
+      "summary": "借助OpenAI Daybreak ， SentinelOne将数周的恶意软件分析时间缩短到数小时，从而创建调查更多威胁的能力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "importance": 0.7504,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/sentinelone",
+          "kind": "official",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0a3035ce11f254c377e2",
+      "title": "人工智能竞赛又开始了",
+      "summary": "上周， Anthropic和OpenAI看起来像是在进行人工智能竞赛，以越来越强大的模型领先，使他们的竞争对手陷入困境。谷歌似乎无可救药地远远落后，而Meta ，尽管",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-15T00:16:12+00:00",
+      "importance": 0.7461,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "kind": "media",
+          "published_at": "2026-10-15T00:16:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cdbbaea14508232a7551",
+      "title": "Gudea利用人工智能帮助组织预防社交媒体危机爆发",
+      "summary": "每天，世界各地的社交媒体和网站都会展开对话。一个看似微不足道的后期，无论是人工智能产生的错误信息、仇恨言论还是破坏性的谣言，都可以很快滚雪球",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "importance": 0.7444,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+          "kind": "media",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e10522981d38e7931527",
+      "title": "麦肯锡正在让求职者与虚假的人工智能客户争吵",
+      "summary": "据《华尔街日报》报道，咨询公司麦肯锡公司（ McKinsey & Company ）将要求一些入门级候选人在面试过程中与人工智能模拟客户进行10分钟的对话。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T22:53:31+00:00",
+      "importance": 0.7375,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "kind": "media",
+          "published_at": "2026-10-14T22:53:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9194e801adbca278e9a4",
+      "title": "八个州起诉OpenAI ，称ChatGPT对儿童不安全",
+      "summary": "据路透社早些时候报道， OpenAI正面临来自美国八个州的新一波诉讼，指控该公司伤害儿童并误导客户ChatGPT的安全。提起的诉讼， SEPARATEL",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-14T21:17:29+00:00",
+      "importance": 0.7275,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "kind": "media",
+          "published_at": "2026-10-14T21:17:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a8b8c31de898145e14c8",
+      "title": "Third Moment Research如何在超过36小时的时间内运行10,000名客服代表",
+      "summary": "借助用于网络安全的GPT-6 Astra和GPT-6.1 Sol、Codex和Daybreak ，该人工智能实验室构建了专注于数天并随着使用而改进的代理。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "importance": 0.7192,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/third-moment-research",
+          "kind": "official",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "94ee28b93f9d2d830319",
+      "title": "Block如何使用OpenAI技术构建人工智能驱动的安全",
+      "summary": "Block正在使用OpenAI构建人工智能驱动的安全性。其安全团队更快地调查威胁，并在几分钟内提出补丁。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "importance": 0.7192,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/block-ai-powered-security",
+          "kind": "official",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "45dfe01c4dcdbd6bc5e9",
+      "title": "现在那个Character.AI要破产了，它所有的用户数据怎么办？",
+      "summary": "纽约总检察长利蒂西亚·詹姆斯（ Letitia James ）透露了一项长达数年的针对Character.AI的多州调查，因为他们现在寻求保护通过其破产程序出售的消费者数据。詹姆斯是",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T18:47:54+00:00",
+      "importance": 0.7119,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "kind": "media",
+          "published_at": "2026-10-14T18:47:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7a9def3c48c7ae7bc22e",
+      "title": "YouTube在人工智能生成的歌曲上贴上新标签",
+      "summary": "YouTube正在为使用人工智能“更改或完全生成”的曲目添加“人工智能制造”标签，其方法与将人工智能标签应用于视频的现有流程类似。听起来不适用",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T18:25:04+00:00",
+      "importance": 0.7095,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "kind": "media",
+          "published_at": "2026-10-14T18:25:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "71c698c9f186d9bdf165",
+      "title": "随着人工智能生成的音乐涌入流媒体平台， YouTube Music推出了新标签",
+      "summary": "标签将显示在播放器页面上，包括完全由AI生成的歌曲或部分由AI生成的歌曲，例如涉及作曲和人声的AI。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T18:23:46+00:00",
+      "importance": 0.7094,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+          "kind": "media",
+          "published_at": "2026-10-14T18:23:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2dcf16d6f1c0e22fcddf",
+      "title": "Apate派遣人工智能特工进行卧底欺诈，以便收集欺诈情报",
+      "summary": "大多数公司使用人工智能代理来更快地运送产品或加快工作流程。Apate.ai派他们卧底去骗人。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T18:00:00+00:00",
+      "importance": 0.7069,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
+          "kind": "media",
+          "published_at": "2026-10-14T18:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bce858a37e75c4f00f73",
+      "title": "我的AI分身告诉我吃什么",
+      "summary": "这是由Verge资深评论员Victoria Song发送的每周时事通讯Optimizer ，它剖析并讨论了最新的小玩意和药水，这些小玩意和药水宣称它们将改变你的生活。在此选择Optimizer。对于",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T16:58:21+00:00",
+      "importance": 0.7005,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+          "kind": "media",
+          "published_at": "2026-10-14T16:58:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "52cefc42575c00abb39b",
+      "title": "OpenAI声称，一名前员工拿走了其产品计划并将其提交给苹果",
+      "summary": "OpenAI声称，一名前员工在加入苹果之前，拿走了100多份与其产品计划相关的文件。在周三提交的一份文件中， OpenAI指控这名未透露姓名的员工将此信息发送给",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T16:43:24+00:00",
+      "importance": 0.6989,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "kind": "media",
+          "published_at": "2026-10-14T16:43:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0ffd9a974781584f9f58",
+      "title": "微软推出全新机器学习工具，改善天气预报",
+      "summary": "基于老派物理的天气预报，甚至新的人工智能模型通常在两周后变得不那么可靠，微软声称已经使用机器学习解决了这个问题。该公司的研究人员表示，他们",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-14T16:05:21+00:00",
+      "importance": 0.695,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "kind": "media",
+          "published_at": "2026-10-14T16:05:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d66c3929d9d8d625f847",
+      "title": "节省50%的TechCrunch Disrupt 2026门票，加入旧金山Moscone West的最后2天",
+      "summary": "10月14日至15日在旧金山举行的TechCrunch Disrupt 2026的最后两天活动可享受50%的折扣。立即注册，加入创业生态系统的其余部分。如今，这一切都与物理和软件人工智能有关。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-14T15:13:24+00:00",
+      "importance": 0.6896,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
+          "kind": "media",
+          "published_at": "2026-10-14T15:13:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fb5ac323f0dc6bb825c0",
+      "title": "Floqer的人工智能代理研究销售前景，因此团队不必",
+      "summary": "Floqer试图解决的问题对于任何从事销售或收入运营的人来说都是熟悉的。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-14T15:00:00+00:00",
+      "importance": 0.6882,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+          "kind": "media",
+          "published_at": "2026-10-14T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-15.wav?v=1792052117194571500",
+  "chapters": [
+    {
+      "news_id": "330343a7bdb3fdd17aaa",
+      "title": "Ricursive Intelligence押注于人工智能设计的芯片，以帮助解决计算危机",
+      "start_seconds": 14.16,
+      "duration_seconds": 32.54
+    },
+    {
+      "news_id": "57c3309db5bedcdec4e0",
+      "title": "AMP使AI代理能够使用OpenAI模型进行超越代码的工作",
+      "start_seconds": 46.7,
+      "duration_seconds": 27.12
+    },
+    {
+      "news_id": "004cd593adabcd24c97d",
+      "title": "SentinelOne将恶意软件分析从数周减少到数小时",
+      "start_seconds": 73.82,
+      "duration_seconds": 25.26
+    },
+    {
+      "news_id": "0a3035ce11f254c377e2",
+      "title": "人工智能竞赛又开始了",
+      "start_seconds": 99.08,
+      "duration_seconds": 29.4
+    },
+    {
+      "news_id": "cdbbaea14508232a7551",
+      "title": "Gudea利用人工智能帮助组织预防社交媒体危机爆发",
+      "start_seconds": 128.48,
+      "duration_seconds": 31.66
+    },
+    {
+      "news_id": "e10522981d38e7931527",
+      "title": "麦肯锡正在让求职者与虚假的人工智能客户争吵",
+      "start_seconds": 160.14,
+      "duration_seconds": 28.38
+    },
+    {
+      "news_id": "9194e801adbca278e9a4",
+      "title": "八个州起诉OpenAI ，称ChatGPT对儿童不安全",
+      "start_seconds": 188.52,
+      "duration_seconds": 29.8
+    },
+    {
+      "news_id": "a8b8c31de898145e14c8",
+      "title": "Third Moment Research如何在超过36小时的时间内运行10,000名客服代表",
+      "start_seconds": 218.32,
+      "duration_seconds": 30.14
+    },
+    {
+      "news_id": "94ee28b93f9d2d830319",
+      "title": "Block如何使用OpenAI技术构建人工智能驱动的安全",
+      "start_seconds": 248.46,
+      "duration_seconds": 25.28
+    },
+    {
+      "news_id": "45dfe01c4dcdbd6bc5e9",
+      "title": "现在那个Character.AI要破产了，它所有的用户数据怎么办？",
+      "start_seconds": 273.74,
+      "duration_seconds": 32.24
+    },
+    {
+      "news_id": "7a9def3c48c7ae7bc22e",
+      "title": "YouTube在人工智能生成的歌曲上贴上新标签",
+      "start_seconds": 305.98,
+      "duration_seconds": 29.04
+    },
+    {
+      "news_id": "71c698c9f186d9bdf165",
+      "title": "随着人工智能生成的音乐涌入流媒体平台， YouTube Music推出了新标签",
+      "start_seconds": 335.02,
+      "duration_seconds": 27.84
+    },
+    {
+      "news_id": "2dcf16d6f1c0e22fcddf",
+      "title": "Apate派遣人工智能特工进行卧底欺诈，以便收集欺诈情报",
+      "start_seconds": 362.86,
+      "duration_seconds": 25.66
+    },
+    {
+      "news_id": "bce858a37e75c4f00f73",
+      "title": "我的AI分身告诉我吃什么",
+      "start_seconds": 388.52,
+      "duration_seconds": 31.56
+    },
+    {
+      "news_id": "52cefc42575c00abb39b",
+      "title": "OpenAI声称，一名前员工拿走了其产品计划并将其提交给苹果",
+      "start_seconds": 420.08,
+      "duration_seconds": 34.22
+    },
+    {
+      "news_id": "0ffd9a974781584f9f58",
+      "title": "微软推出全新机器学习工具，改善天气预报",
+      "start_seconds": 454.3,
+      "duration_seconds": 31.48
+    },
+    {
+      "news_id": "d66c3929d9d8d625f847",
+      "title": "节省50%的TechCrunch Disrupt 2026门票，加入旧金山Moscone West的最后2天",
+      "start_seconds": 485.78,
+      "duration_seconds": 37.88
+    },
+    {
+      "news_id": "fb5ac323f0dc6bb825c0",
+      "title": "Floqer的人工智能代理研究销售前景，因此团队不必",
+      "start_seconds": 523.66,
+      "duration_seconds": 22.14
+    }
+  ]
+}

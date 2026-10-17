@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="color-scheme" content="light dark">
+<title>每日 AI 新闻</title><style>:root{--bg:#f5f7f8;--paper:#fff;--text:#172026;--muted:#63717a;--line:#dce3e7;--accent:#0d665c;--accent-soft:#ddefeb;--shadow:0 16px 42px rgba(20,36,42,.08);font-family:"Noto Sans SC","Microsoft YaHei",system-ui,sans-serif;color-scheme:light}html[data-theme=dark]{--bg:#101619;--paper:#172125;--text:#ecf2f3;--muted:#9dabb1;--line:#2b3a40;--accent:#6ed0bf;--accent-soft:#193a35;--shadow:none;color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-size:16px;line-height:1.7}.mast{height:70px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 max(20px,calc((100vw - 1040px)/2));position:sticky;top:0;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(18px);z-index:10}.brand{font-family:Georgia,"Noto Serif SC",serif;font-weight:700;font-size:1.22rem;color:var(--text);text-decoration:none}.header-actions{display:flex;gap:10px}button,select{font:inherit;color:var(--text);background:var(--paper);border:1px solid var(--line);border-radius:9px;padding:.45rem .75rem}button{cursor:pointer}main{max-width:1040px;margin:auto;padding:54px 20px 80px}.brief-head{max-width:780px}.eyebrow{margin:0;color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:.14em}.brief-head h1{font-family:Georgia,"Noto Serif SC",serif;font-size:clamp(2.1rem,5vw,4.2rem);line-height:1.12;margin:.38rem 0 1rem;letter-spacing:-.03em}.overview{font-size:1.12rem;color:var(--muted);max-width:700px}.meta{font-size:.86rem;color:var(--muted)}.player-panel{margin:36px 0 28px;padding:20px 22px;background:var(--accent);color:#fff;border-radius:16px;box-shadow:var(--shadow);display:grid;grid-template-columns:1fr minmax(260px,420px) auto;gap:18px;align-items:center}.player-label{display:block;opacity:.8;font-size:.75rem;letter-spacing:.1em}.player-panel strong{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:300px}.player-panel audio{width:100%}.player-panel button{background:#fff;color:#17312d;border:0;font-weight:700}.filters{display:flex;gap:8px;overflow:auto;padding:0 0 16px}.filters button.active{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}.news-list{border-top:2px solid var(--text)}.story{display:grid;grid-template-columns:76px 1fr;gap:22px;padding:30px 4px;border-bottom:1px solid var(--line)}.rank{font-family:Georgia,serif;font-size:2.1rem;color:var(--line);line-height:1}.story-top{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.category{font-size:.76rem;font-weight:800;color:var(--accent);background:var(--accent-soft);padding:.2rem .55rem;border-radius:99px}.time{font-size:.8rem;color:var(--muted)}.story h2{font-family:Georgia,"Noto Serif SC",serif;font-size:clamp(1.3rem,2.5vw,1.75rem);line-height:1.4;margin:.7rem 0}.story p{margin:.5rem 0}.analysis{color:var(--muted);border-left:3px solid var(--accent);padding-left:14px}.source-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:13px}.source-row a,.chapter-link{font-size:.84rem;color:var(--accent);text-decoration:none}.chapter-link{border:0;padding:0;background:none}.empty{padding:50px 0;color:var(--muted)}footer{max-width:1040px;margin:auto;padding:24px 20px 50px;color:var(--muted);font-size:.82rem}@media(max-width:720px){.mast{height:60px}.header-actions select{max-width:145px}.player-panel{grid-template-columns:1fr;margin-top:24px;padding:18px}.player-panel strong{max-width:80vw}.player-panel button{width:100%;padding:.8rem}.story{grid-template-columns:42px 1fr;gap:10px}.rank{font-size:1.4rem}main{padding-top:34px}.brief-head h1{font-size:2.45rem}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}</style>
+</head><body>
+<header class="mast"><a class="brand" href="./">每日 AI 新闻</a><div class="header-actions"><select id="dateSelect" aria-label="选择日报日期"></select><button id="themeButton" type="button" aria-label="切换深浅色">◐</button></div></header>
+<main><section class="brief-head"><p id="eyebrow" class="eyebrow">今日播报</p><h1 id="briefTitle">正在载入…</h1><p id="overview" class="overview"></p><div id="meta" class="meta"></div></section>
+<section id="playerPanel" class="player-panel"><div><span class="player-label">今日 AI 播客</span><strong id="nowPlaying">点击播放，音频才会使用流量</strong></div><audio id="audio" controls preload="none"></audio><button id="speakButton" type="button">⚡ 省流量朗读（不下载音频）</button></section>
+<nav id="filters" class="filters" aria-label="栏目筛选"></nav><section id="newsList" class="news-list" aria-live="polite"></section></main>
+<footer>内容来自公开来源并经本地整理。请以原文为准。</footer><script id="briefingData" type="application/json">{
+  "schema_version": 1,
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T14:59:40.258059+08:00",
+  "title": "2026-10-17 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "9732b2763df5a67ab945",
+      "title": "Itaú如何为整个客户群构建生成式人工智能",
+      "summary": "借助对话界面ia.i和IARA治理平台， Itaú正在将其AI First战略应用于巴西监管最严格的行业之一的客户和员工。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T19:00:00+00:00",
+      "importance": 0.8015,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "kind": "official",
+          "published_at": "2026-10-16T19:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e9e1470690b03f8063d3",
+      "title": "圆桌会议：与人工智能设计病毒的创造者对话",
+      "summary": "收听下面的会话或观看人工智能可以设计新的生命形式吗？ 2025年，斯坦福大学博士生塞缪尔·金（ Samuel King ）提出了一个初步答案，他使用生成式人工智能模型提出了",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T18:00:00+00:00",
+      "importance": 0.7412,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+          "kind": "media",
+          "published_at": "2026-10-16T18:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8f4036b74df273ae542d",
+      "title": "首席执行官表示， Replit不再与Anthropic合作",
+      "summary": "马萨德说，做出这一决定有许多不同的原因，包括成本。Replit于8月宣布与OpenAI建立合作伙伴关系，但从未有任何迹象表明它不再与Anthropic合作。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T21:22:28+00:00",
+      "importance": 0.7353,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+          "kind": "media",
+          "published_at": "2026-10-16T21:22:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "43f5d9299a926e4d769e",
+      "title": "印度成为报告流氓AI代理活动的最新国家",
+      "summary": "代理通过应用配置、公共代码存储库和过于宽松的云角色中暴露的凭据和连接设置进入。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "importance": 0.7135,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+          "kind": "media",
+          "published_at": "2026-10-16T17:52:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7cf2fb5203224340531f",
+      "title": "物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它",
+      "summary": "Amulya Vishwanath在NVIDIA机器人平台的产品营销方面花了七年的时间，她说机器人技术目前正处于“乐高时代” ，其基本构建模块包括执行器、机器人手、软件、",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "importance": 0.7049,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+          "kind": "media",
+          "published_at": "2026-10-16T16:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4be5a46cec5945959e36",
+      "title": "技术反弹现已在影院上映",
+      "summary": "虽然关于颠覆性科技创始人的电影并不是什么新鲜事，但2026年却异乎寻常地堆叠着一些功能，这些功能对硅谷如何重塑我们的现实进行了更严格的审视。Aaron Sorkin的The Social Re",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T16:26:17+00:00",
+      "importance": 0.7045,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+          "kind": "media",
+          "published_at": "2026-10-16T16:26:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "75fa23d8834b88f0cdaa",
+      "title": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们",
+      "summary": "根据Elorian的评估， Glimpse在科学图表推理和短视频字幕方面的表现甚至优于GPT-6 Astra ，在其他视觉推理任务上取得了有竞争力的结果。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T16:01:37+00:00",
+      "importance": 0.7019,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+          "kind": "media",
+          "published_at": "2026-10-16T16:01:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "08ae3f1b7d83d7996372",
+      "title": "Jev是Vercel有史以来采用最快的人工智能模型",
+      "summary": "数据来自Vercel的AI网关，这是一种类似于OpenRouter的统一API服务。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "importance": 0.699,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+          "kind": "media",
+          "published_at": "2026-10-16T15:33:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ca580b1475b7847a1b70",
+      "title": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
+      "summary": "根据Nieman Lab的一份报告， Meta的新条款似乎允许其抓取和抓取与使用其平台的企业（包括在线出版商） “相关”的网站。新条款，无论",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-16T15:22:13+00:00",
+      "importance": 0.6978,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "kind": "media",
+          "published_at": "2026-10-16T15:22:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7dc0e5c6956b6261873f",
+      "title": "马克·沃尔伯格（ Mark Wahlberg ）在电影中“以正确的方式”使用人工智能，并对继承其遗产的人工智能克隆持开放态度",
+      "summary": "演员兼天使投资人马克·沃尔伯格（ Mark Wahlberg ）表示，他可以在电影制作中使用人工智能，前提是它被用来“增强你正在做的事情”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "importance": 0.692,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+          "kind": "media",
+          "published_at": "2026-10-16T14:26:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "02f60fa99bd6fa5dfa5e",
+      "title": "Replit首席执行官表示，工作的未来是“自动驾驶公司”",
+      "summary": "Replit首席执行官Amjad Masad设想了“自动驾驶公司”的未来，人工智能代理处理日常任务，人们专注于更高层次的决策。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "importance": 0.6825,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+          "kind": "media",
+          "published_at": "2026-10-16T12:55:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bdb5caa1dae4ab509e1b",
+      "title": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报",
+      "summary": "该公司在两年内创造了超过3000万美元的收入，并于3月被MyFitnessPal以未披露的金额收购。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-15T23:44:56+00:00",
+      "importance": 0.6002,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+          "kind": "media",
+          "published_at": "2026-10-15T23:44:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cb743b67c21a22e19cc2",
+      "title": "问问HN ：人工智能为你做的最有用的事情是什么？",
+      "summary": "我与一位朋友进行了深入的交谈，讨论人工智能为我们两人创造/做的最有用的事情是什么。为了我的私生活，人工智能帮助我诊断和根除导致厕所流失的原因，并避免了高昂的成本",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T06:06:44+00:00",
+      "importance": 0.5999,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50128412",
+          "kind": "social",
+          "published_at": "2026-10-17T06:06:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dd98f9fc225e3bcf4d13",
+      "title": "人工智能的存在风险：数学家的展览",
+      "summary": "文章网址： https://alkjash.github.io/ai-risk/评论网址： https://news.ycombinator.com/item?id=50128351点数： 1 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-17T05:52:06+00:00",
+      "importance": 0.5984,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://alkjash.github.io/ai-risk",
+          "kind": "social",
+          "published_at": "2026-10-17T05:52:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c1a42db651be3eab83fd",
+      "title": "与马瑞一起绘制中国人工智能生态系统[视频]",
+      "summary": "文章网址： https://www.youtube.com/watch?v=-RDpqweadlE评论网址： https://news.ycombinator.com/item?id=50128261点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T05:35:59+00:00",
+      "importance": 0.5967,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=-RDpqweadlE",
+          "kind": "social",
+          "published_at": "2026-10-17T05:35:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e07170025272d6f16433",
+      "title": "ChatGPT现在可以查看您的Chrome标签页",
+      "summary": "OpenAI的ChatGPT Atlas浏览器已不复存在，但现在ChatGPT的Google Chrome扩展正在进行一些升级，允许它使用您已经打开的浏览器选项卡。安装扩展后， OpenAI表示ChatGPT ca",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-15T22:43:23+00:00",
+      "importance": 0.5938,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "kind": "media",
+          "published_at": "2026-10-15T22:43:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c462dfdce3bb5a72ee6f",
+      "title": "世嘉在灾难性发布后从销售中撤出《全面战争：幕府将军2》重制版",
+      "summary": "在一次灾难性的发布之后，世嘉正在从店面中删除全面战争：幕府将军2 -完整版，用户抱怨诸如错误和升级等问题似乎是由人工智能完成的。完整版， a",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-15T22:35:55+00:00",
+      "importance": 0.593,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+          "kind": "media",
+          "published_at": "2026-10-15T22:35:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0004afb55215f9592cb3",
+      "title": "Zeabur在8月份的安全漏洞后停止使用AI Hub",
+      "summary": "文章网址： https://zeabur.com/changelogs/aihub-shutdown评论网址： https://news.ycombinator.com/item?id=50127877点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-17T04:14:58+00:00",
+      "importance": 0.5883,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://zeabur.com/changelogs/aihub-shutdown",
+          "kind": "social",
+          "published_at": "2026-10-17T04:14:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-17.wav?v=1792220389958239700",
+  "chapters": [
+    {
+      "news_id": "9732b2763df5a67ab945",
+      "title": "Itaú如何为整个客户群构建生成式人工智能",
+      "start_seconds": 14.16,
+      "duration_seconds": 25.58
+    },
+    {
+      "news_id": "e9e1470690b03f8063d3",
+      "title": "圆桌会议：与人工智能设计病毒的创造者对话",
+      "start_seconds": 39.74,
+      "duration_seconds": 32.38
+    },
+    {
+      "news_id": "8f4036b74df273ae542d",
+      "title": "首席执行官表示， Replit不再与Anthropic合作",
+      "start_seconds": 72.12,
+      "duration_seconds": 30.0
+    },
+    {
+      "news_id": "43f5d9299a926e4d769e",
+      "title": "印度成为报告流氓AI代理活动的最新国家",
+      "start_seconds": 102.12,
+      "duration_seconds": 22.3
+    },
+    {
+      "news_id": "7cf2fb5203224340531f",
+      "title": "物理人工智能不仅仅是机器人，这位英伟达的资深人士现在投资于它",
+      "start_seconds": 124.42,
+      "duration_seconds": 32.18
+    },
+    {
+      "news_id": "4be5a46cec5945959e36",
+      "title": "技术反弹现已在影院上映",
+      "start_seconds": 156.6,
+      "duration_seconds": 30.78
+    },
+    {
+      "news_id": "75fa23d8834b88f0cdaa",
+      "title": "Elorian的第一个人工智能模型想要用图像进行推理，而不仅仅是关于它们",
+      "start_seconds": 187.38,
+      "duration_seconds": 30.62
+    },
+    {
+      "news_id": "08ae3f1b7d83d7996372",
+      "title": "Jev是Vercel有史以来采用最快的人工智能模型",
+      "start_seconds": 218.0,
+      "duration_seconds": 20.9
+    },
+    {
+      "news_id": "ca580b1475b7847a1b70",
+      "title": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
+      "start_seconds": 238.9,
+      "duration_seconds": 30.56
+    },
+    {
+      "news_id": "7dc0e5c6956b6261873f",
+      "title": "马克·沃尔伯格（ Mark Wahlberg ）在电影中“以正确的方式”使用人工智能，并对继承其遗产的人工智能克隆持开放态度",
+      "start_seconds": 269.46,
+      "duration_seconds": 34.74
+    },
+    {
+      "news_id": "02f60fa99bd6fa5dfa5e",
+      "title": "Replit首席执行官表示，工作的未来是“自动驾驶公司”",
+      "start_seconds": 304.2,
+      "duration_seconds": 26.18
+    },
+    {
+      "news_id": "bdb5caa1dae4ab509e1b",
+      "title": "当谈到Cal AI的病毒式成功时，一小群有影响力的人得到了回报",
+      "start_seconds": 330.38,
+      "duration_seconds": 25.4
+    },
+    {
+      "news_id": "cb743b67c21a22e19cc2",
+      "title": "问问HN ：人工智能为你做的最有用的事情是什么？",
+      "start_seconds": 355.78,
+      "duration_seconds": 32.6
+    },
+    {
+      "news_id": "dd98f9fc225e3bcf4d13",
+      "title": "人工智能的存在风险：数学家的展览",
+      "start_seconds": 388.38,
+      "duration_seconds": 34.3
+    },
+    {
+      "news_id": "c1a42db651be3eab83fd",
+      "title": "与马瑞一起绘制中国人工智能生态系统[视频]",
+      "start_seconds": 422.68,
+      "duration_seconds": 36.08
+    },
+    {
+      "news_id": "e07170025272d6f16433",
+      "title": "ChatGPT现在可以查看您的Chrome标签页",
+      "start_seconds": 458.76,
+      "duration_seconds": 32.42
+    },
+    {
+      "news_id": "c462dfdce3bb5a72ee6f",
+      "title": "世嘉在灾难性发布后从销售中撤出《全面战争：幕府将军2》重制版",
+      "start_seconds": 491.18,
+      "duration_seconds": 33.74
+    },
+    {
+      "news_id": "0004afb55215f9592cb3",
+      "title": "Zeabur在8月份的安全漏洞后停止使用AI Hub",
+      "start_seconds": 524.92,
+      "duration_seconds": 34.72
+    }
+  ]
+}</script><script>let briefing=null;let activeCategory='全部';const list=document.querySelector('#newsList');const audio=document.querySelector('#audio');const escapeHtml=s=>String(s??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
+function render(){document.querySelector('#briefTitle').textContent=briefing.title;document.querySelector('#overview').textContent=briefing.overview;document.querySelector('#meta').textContent=`${briefing.items.length} 条 · ${new Date(briefing.generated_at).toLocaleString('zh-CN')}`;const cats=['全部',...new Set(briefing.items.map(x=>x.category))];document.querySelector('#filters').innerHTML=cats.map(c=>`<button class="${c===activeCategory?'active':''}" data-cat="${escapeHtml(c)}">${escapeHtml(c)}</button>`).join('');document.querySelectorAll('[data-cat]').forEach(b=>b.onclick=()=>{activeCategory=b.dataset.cat;render()});if(briefing.audio_url){audio.src=briefing.audio_url;audio.style.display='block';document.querySelector('#nowPlaying').textContent='点击播放整期播报，音频仅在播放时加载'}else{audio.style.display='none';document.querySelector('#nowPlaying').textContent='固定音频尚未生成，可使用省流量朗读'}const items=briefing.items.filter(x=>activeCategory==='全部'||x.category===activeCategory);list.innerHTML=items.map((x,i)=>`<article class="story"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="story-top"><span class="category">${escapeHtml(x.category)}</span><time class="time">${new Date(x.published_at).toLocaleString('zh-CN',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'})}</time></div><h2>${escapeHtml(x.title)}</h2><p>${escapeHtml(x.summary)}</p><p class="analysis"><strong>为什么重要：</strong>${escapeHtml(x.analysis)}</p><div class="source-row">${(x.sources||[]).map(s=>`<a href="${encodeURI(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.name)} ↗</a>`).join('')}${chapterButton(x)}</div></div></article>`).join('')||'<p class="empty">这个栏目今天没有内容。</p>'}
+function chapterButton(item){const c=(briefing.chapters||[]).find(c=>c.news_id===item.id);return c&&briefing.audio_url?`<button class="chapter-link" data-seek="${c.start_seconds}">从本条收听 · ${formatTime(c.start_seconds)}</button>`:''}
+function formatTime(n){return `${Math.floor(n/60)}:${String(Math.round(n%60)).padStart(2,'0')}`}
+list.onclick=e=>{const b=e.target.closest('[data-seek]');if(b){audio.currentTime=Number(b.dataset.seek);audio.play();document.querySelector('#nowPlaying').textContent=b.closest('.story').querySelector('h2').textContent}}
+async function load(path='data/latest.json'){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw new Error('日报读取失败');briefing=await r.json();activeCategory='全部';render()}
+async function loadArchive(){try{const r=await fetch('archive/index.json',{cache:'no-store'});const dates=await r.json();const s=document.querySelector('#dateSelect');s.innerHTML=dates.map((d,i)=>`<option value="${d}" ${i===0?'selected':''}>${d}${i===0?' · 最新':''}</option>`).join('');s.onchange=()=>load(`archive/${s.value}.json`)}catch(e){document.querySelector('#dateSelect').innerHTML='<option>暂无归档</option>'}}
+document.querySelector('#themeButton').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('theme',next)};document.documentElement.dataset.theme=localStorage.getItem('theme')||'';
+document.querySelector('#speakButton').onclick=()=>{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance([briefing.overview,...briefing.items.flatMap(x=>[x.title,x.summary,x.analysis])].join('。'));u.lang='zh-CN';u.rate=.95;speechSynthesis.speak(u)};
+const embedded=document.querySelector('#briefingData');if(embedded){briefing=JSON.parse(embedded.textContent);render();loadArchive()}else{load().then(loadArchive).catch(e=>{list.innerHTML=`<p class="empty">${escapeHtml(e.message)}，请先在管理页生成日报。</p>`})}</script>
+</body></html>

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T10:47:54.331609+08:00",
+  "title": "2026-09-27 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "a44eac78d89310004eb8",
+      "title": "谷歌在印度测试通过 Gemini 和 AI Mode 从沃尔玛旗下的 Flipkart 购买产品",
+      "summary": "有限的测试涵盖了选定的产品和用户，计划于 10 月晚些时候进行更广泛的推广。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-27T01:30:00+00:00",
+      "importance": 0.7859,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+          "kind": "media",
+          "published_at": "2026-09-27T01:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bb61eb14b50af1ee9bfc",
+      "title": "保险公司声称人工智能已经增加了医疗成本",
+      "summary": "Blue Cross Blue Shield 表示，医院使用人工智能工具在两年内增加了 9.42 亿美元的医疗支出。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-26T21:02:06+00:00",
+      "importance": 0.758,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+          "kind": "media",
+          "published_at": "2026-09-26T21:02:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "960b51012f8d643a2607",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练",
+      "summary": "随着有关 OpenAI 模型突破遏制、黑客攻击网站以及普遍失控的报道不断增多，该公司已决定暂停对其最强大模型的训练。该决定是在之后做出的",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-26T16:34:59+00:00",
+      "importance": 0.7302,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "kind": "media",
+          "published_at": "2026-09-26T16:34:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "804c74d256d5e7443c05",
+      "title": "我为自己创建了一个交互式数字化身——你可以和它交谈",
+      "summary": "在获得了一个交互式头像并训练它讨论风险欺诈之后，我对制作我们自己的人工智能克隆有着复杂的感觉。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-26T14:00:00+00:00",
+      "importance": 0.714,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+          "kind": "media",
+          "published_at": "2026-09-26T14:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c356bc7c63b5222179e6",
+      "title": "Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机",
+      "summary": "Boom Supersonic首席执行官Blake Scholl表示，该公司的新固定发电厂已不在Crusoe的近期计划中。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-25T23:11:10+00:00",
+      "importance": 0.6214,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+          "kind": "media",
+          "published_at": "2026-09-25T23:11:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7fc672768bdc43f8027b",
+      "title": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
+      "summary": "在OpenAI研究环境中运营的人工智能代理在实验室不知情的情况下，在公共图像托管网站上发布用户图像。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-25T22:20:47+00:00",
+      "importance": 0.6162,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+          "kind": "media",
+          "published_at": "2026-09-25T22:20:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "89f9618650b31d06afa5",
+      "title": "Cloudflare 首席执行官 Matthew Prince 能否从人工智能手中拯救网络？",
+      "summary": "今天，我正在与 Cloudflare 首席执行官 Matthew Prince 交谈。本集是关于商业未来的两部分系列的一部分。马修最后一次加入我们的节目是在大约两年半前，当时我们以为",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-25T22:13:20+00:00",
+      "importance": 0.6154,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+          "kind": "media",
+          "published_at": "2026-09-25T22:13:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c58ed3cc3208b882e8c8",
+      "title": "Apple Home的人工智能摄像头功能能否超越亚马逊和谷歌？我对他们进行了测试",
+      "summary": "几年前，我在海滨寻找复活节彩蛋，看着我的孩子们冲过沙丘寻找甜食。我的手机在口袋里嗡嗡响；我忽略了它。过了一会儿，它又嗡嗡作响。我把它拔了出来， g",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-25T20:41:57+00:00",
+      "importance": 0.6059,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+          "kind": "media",
+          "published_at": "2026-09-25T20:41:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e39ae5aeac3f46206c2b",
+      "title": "问 HN：你是否因为 AI 问题而取消关注 GitHub 上的朋友？",
+      "summary": "上周，我的一位现实生活中的朋友开始玩克劳德代码。我的 Github 登陆页面上的一个相当不错的提要变成了他的提交的五页。我喜欢我的朋友并想了解他的最新动态",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-27T02:08:58+00:00",
+      "importance": 0.6,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=49862641",
+          "kind": "social",
+          "published_at": "2026-09-27T02:08:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ffabf02a86d465727eb5",
+      "title": "Show HN：FinderySearch – 人工智能驱动的智能搜索引擎",
+      "summary": "文章网址：https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app/ 评论网址：https://news.ycombinator.com/item?id=49862642 积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-27T02:09:10+00:00",
+      "importance": 0.6,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app",
+          "kind": "social",
+          "published_at": "2026-09-27T02:09:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "455ef52f381b6006d0cf",
+      "title": "Anthropic将在七年内向Akamai支付116亿美元的云交易",
+      "summary": "Anthropic已承诺在七年内向Akamai的云基础设施投入116亿美元，押注CPU可能会增长到约200亿美元，并且Akamai将以一种不寻常的方式向Anthropic提供",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-25T19:13:38+00:00",
+      "importance": 0.5967,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "kind": "media",
+          "published_at": "2026-09-25T19:13:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9792599b61c6bca438e2",
+      "title": "索尼和UMG再次起诉Suno",
+      "summary": "索尼和环球音乐集团对Suno提起了另一起诉讼。这些标签声称其新的v6模型仍然侵犯了他们的版权，因为它根据以前模型的用户输出进行了培训，这些模型本身就是",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-25T19:09:57+00:00",
+      "importance": 0.5963,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+          "kind": "media",
+          "published_at": "2026-09-25T19:09:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "28be881384a00feeea40",
+      "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
+      "summary": "这笔资金来自Third Point、Nvidia和其他公司，将推动该公司大规模的人工智能数据中心建设。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-25T18:33:59+00:00",
+      "importance": 0.5926,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
+          "kind": "media",
+          "published_at": "2026-09-25T18:33:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29ef6525e16b64b8f252",
+      "title": "人工智能世界末日的未来并非不可避免",
+      "summary": "文章网址：https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/ 评论网址：https://news.ycombinator.com/item?id=49862203 积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-27T00:56:34+00:00",
+      "importance": 0.5924,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock",
+          "kind": "social",
+          "published_at": "2026-09-27T00:56:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7987845e1d4db7cc3b41",
+      "title": "Meta的Muse刚刚抢走了OpenAI和Anthropic的AI聚光灯",
+      "summary": "当OpenAI和Anthropic的人工智能领导者开始谈论“踱步前沿”时，也许有人应该问：步伐是什么？现在，随着Anthropic推出Opus 5.5 ，它已经成为两家公司的模型下降周，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-25T18:22:47+00:00",
+      "importance": 0.5914,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+          "kind": "media",
+          "published_at": "2026-09-25T18:22:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6d34fe46118bdbcacd10",
+      "title": "吉利AI快充“治愈”电动车电池，循环寿命延长20%",
+      "summary": "文章网址：https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/ 评论网址：https://news.ycombinator.com/item?id=49862066 积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-27T00:35:33+00:00",
+      "importance": 0.5902,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration",
+          "kind": "social",
+          "published_at": "2026-09-27T00:35:33+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1a4fe5cc3c5e6f591092",
+      "title": "“一个人走在街上就不能不被人工智能骚扰吗”[视频]",
+      "summary": "文章网址：https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z 评论网址：https://news.ycombinator.com/item?id=49861804 积分：5 # 评论：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-26T23:57:41+00:00",
+      "importance": 0.5863,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+          "kind": "social",
+          "published_at": "2026-09-26T23:57:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a925afadac5cfaacf7d6",
+      "title": "顶级人工智能公司调查安全事件",
+      "summary": "文章网址：https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents 评论网址：https://news.ycombinator.com/item?id=49861517 积分：7 # 评论：0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-26T23:15:28+00:00",
+      "importance": 0.5819,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+          "kind": "social",
+          "published_at": "2026-09-26T23:15:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-27.wav?v=1790477281782333500",
+  "chapters": [
+    {
+      "news_id": "a44eac78d89310004eb8",
+      "title": "谷歌在印度测试通过 Gemini 和 AI Mode 从沃尔玛旗下的 Flipkart 购买产品",
+      "start_seconds": 14.16,
+      "duration_seconds": 24.4
+    },
+    {
+      "news_id": "bb61eb14b50af1ee9bfc",
+      "title": "保险公司声称人工智能已经增加了医疗成本",
+      "start_seconds": 38.56,
+      "duration_seconds": 22.56
+    },
+    {
+      "news_id": "960b51012f8d643a2607",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练",
+      "start_seconds": 61.12,
+      "duration_seconds": 28.42
+    },
+    {
+      "news_id": "804c74d256d5e7443c05",
+      "title": "我为自己创建了一个交互式数字化身——你可以和它交谈",
+      "start_seconds": 89.54,
+      "duration_seconds": 25.4
+    },
+    {
+      "news_id": "c356bc7c63b5222179e6",
+      "title": "Crusoe放弃$ 12.5亿计划，在人工智能数据中心使用Boom涡轮机",
+      "start_seconds": 114.94,
+      "duration_seconds": 25.58
+    },
+    {
+      "news_id": "7fc672768bdc43f8027b",
+      "title": "不安全的OpenAI客服代表在实验室不知情的情况下在互联网上发布了53张用户图片",
+      "start_seconds": 140.52,
+      "duration_seconds": 29.04
+    },
+    {
+      "news_id": "89f9618650b31d06afa5",
+      "title": "Cloudflare 首席执行官 Matthew Prince 能否从人工智能手中拯救网络？",
+      "start_seconds": 169.56,
+      "duration_seconds": 33.24
+    },
+    {
+      "news_id": "c58ed3cc3208b882e8c8",
+      "title": "Apple Home的人工智能摄像头功能能否超越亚马逊和谷歌？我对他们进行了测试",
+      "start_seconds": 202.8,
+      "duration_seconds": 36.32
+    },
+    {
+      "news_id": "e39ae5aeac3f46206c2b",
+      "title": "问 HN：你是否因为 AI 问题而取消关注 GitHub 上的朋友？",
+      "start_seconds": 239.12,
+      "duration_seconds": 32.32
+    },
+    {
+      "news_id": "ffabf02a86d465727eb5",
+      "title": "Show HN：FinderySearch – 人工智能驱动的智能搜索引擎",
+      "start_seconds": 271.44,
+      "duration_seconds": 40.8
+    },
+    {
+      "news_id": "455ef52f381b6006d0cf",
+      "title": "Anthropic将在七年内向Akamai支付116亿美元的云交易",
+      "start_seconds": 312.24,
+      "duration_seconds": 31.42
+    },
+    {
+      "news_id": "9792599b61c6bca438e2",
+      "title": "索尼和UMG再次起诉Suno",
+      "start_seconds": 343.66,
+      "duration_seconds": 30.04
+    },
+    {
+      "news_id": "28be881384a00feeea40",
+      "title": "在美国IPO之前，英国人工智能新云Nscale获得了33.6亿美元的可转换融资",
+      "start_seconds": 373.7,
+      "duration_seconds": 27.6
+    },
+    {
+      "news_id": "29ef6525e16b64b8f252",
+      "title": "人工智能世界末日的未来并非不可避免",
+      "start_seconds": 401.3,
+      "duration_seconds": 38.86
+    },
+    {
+      "news_id": "7987845e1d4db7cc3b41",
+      "title": "Meta的Muse刚刚抢走了OpenAI和Anthropic的AI聚光灯",
+      "start_seconds": 440.16,
+      "duration_seconds": 32.34
+    },
+    {
+      "news_id": "6d34fe46118bdbcacd10",
+      "title": "吉利AI快充“治愈”电动车电池，循环寿命延长20%",
+      "start_seconds": 472.5,
+      "duration_seconds": 44.74
+    },
+    {
+      "news_id": "1a4fe5cc3c5e6f591092",
+      "title": "“一个人走在街上就不能不被人工智能骚扰吗”[视频]",
+      "start_seconds": 517.24,
+      "duration_seconds": 39.94
+    },
+    {
+      "news_id": "a925afadac5cfaacf7d6",
+      "title": "顶级人工智能公司调查安全事件",
+      "start_seconds": 557.18,
+      "duration_seconds": 40.36
+    }
+  ]
+}
