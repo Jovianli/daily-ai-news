@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T10:16:15.488612+08:00",
+  "title": "2026-10-23 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "723049a74bfe3dcacc73",
+      "title": "设计一款经久耐用的AI服务线束",
+      "summary": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里，人工智能对话的大部分内容都以",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-22T21:17:29+00:00",
+      "importance": 0.7916,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+          "kind": "media",
+          "published_at": "2026-10-22T21:17:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a6d2b02a9412fc6611ca",
+      "title": "独自一人无事可做，人工智能特工开始玩",
+      "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-23T00:45:37+00:00",
+      "importance": 0.7863,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+          "kind": "media",
+          "published_at": "2026-10-23T00:45:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "610efe4e9ad2d36f8abe",
+      "title": "可扩展AI的基础",
+      "summary": "可扩展的人工智能系统需要强大的基础。数据、工程、平台、运营模式和治理必须融为一体。麻省理工学院技术评论EmTech Future会议的本次会议探讨了",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T18:48:04+00:00",
+      "importance": 0.776,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+          "kind": "media",
+          "published_at": "2026-10-22T18:48:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b514b87bc64d3d97773b",
+      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
+      "summary": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T22:08:24+00:00",
+      "importance": 0.7699,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+          "kind": "media",
+          "published_at": "2026-10-22T22:08:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5eee804247a435ab2dff",
+      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
+      "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。这个名为Canva Craft的模型使用两阶段架构，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T21:53:22+00:00",
+      "importance": 0.7683,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "kind": "media",
+          "published_at": "2026-10-22T21:53:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "50dd0c98f11d38b5c2cf",
+      "title": "Meta重新启用Muse共享",
+      "summary": "在安全研究人员报告说公共对话链接很容易找到之后， Meta重新启用了Muse共享。研究人员说，他们已经能够找到Muse页面，就像营销公司的内部",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-22T20:33:38+00:00",
+      "importance": 0.76,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+          "kind": "media",
+          "published_at": "2026-10-22T20:33:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "32b3170e24109d9a6879",
+      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
+      "summary": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示，这些变化不足以解决他们的担忧。”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T20:32:05+00:00",
+      "importance": 0.7599,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "kind": "media",
+          "published_at": "2026-10-22T20:32:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee144e79e7d9cf213368",
+      "title": "在Meta的未来版本中，我会让我的Muse打电话给你的Muse",
+      "summary": "马克·扎克伯格（ Mark Zuckerberg ）正在努力走向一个未来，在这个未来中，人工智能代理的自主网络将主宰我们的生活--为我们购物、为我们工作、为我们与他人的人工智能代理交谈。人类是否已经准备好迎接这一切",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T20:30:41+00:00",
+      "importance": 0.7597,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "kind": "media",
+          "published_at": "2026-10-22T20:30:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5ddee939d5fa55a3d6e1",
+      "title": "微软称其人工智能工具在诊断疾病方面优于医生",
+      "summary": "多年来，人工智能领导者一直将医疗保健吹捧为他们的技术将改善生活的最明显例子之一。微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）告诉The Verge ，现在“终于来了”。该公司声称t",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T19:48:37+00:00",
+      "importance": 0.7554,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "kind": "media",
+          "published_at": "2026-10-22T19:48:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "662e68277c6361dd4b95",
+      "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
+      "summary": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T19:07:09+00:00",
+      "importance": 0.751,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+          "kind": "media",
+          "published_at": "2026-10-22T19:07:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "575971a63ca3280440cc",
+      "title": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
+      "summary": "OpenAI正在向全世界推出其决策模型。它能与原来的Jev竞争吗？",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "importance": 0.7503,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+          "kind": "media",
+          "published_at": "2026-10-22T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "317abcdd1b20728a7e62",
+      "title": "Canva发布首个图像生成模型",
+      "summary": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "importance": 0.7503,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+          "kind": "media",
+          "published_at": "2026-10-22T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7fe7774a3ecb03f8ceb8",
+      "title": "Discord现在将Markdown预览格式化为右侧",
+      "summary": "据该公司称，今天发布的Discord最新更新对Markdown预览有了很大的改进：它们现在应该能够正确渲染，而不是使用“一堆符号”。LLM和AI代理通常依赖Markdo",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T18:58:19+00:00",
+      "importance": 0.7501,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+          "kind": "media",
+          "published_at": "2026-10-22T18:58:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dedf2896ecdb4ab528c7",
+      "title": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生",
+      "summary": "根据《科学》杂志的一项研究，微软的新人工智能诊断系统在困难病例上击败了多面手医生。但大部分改进似乎来自下面的人工智能模型，而不是来自微软的系统本身。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T18:43:53+00:00",
+      "importance": 0.7486,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+          "kind": "media",
+          "published_at": "2026-10-22T18:43:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6d8c30677ef69bab4819",
+      "title": "怀尔德伍德的导演说，人工智能“与我们在这个工作室的一切背道而驰”",
+      "summary": "怀尔德伍德（ Wildwood ）是莱卡（ Laika ）迄今为止最雄心勃勃的电影，莱卡是以卡洛琳（ Coraline ）和帕拉诺曼（ ParaNorman ）等人而闻名的定这是一场庞大的梦幻冒险，花了五年时间才完成。该过程涉及mo",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T18:12:48+00:00",
+      "importance": 0.7454,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+          "kind": "media",
+          "published_at": "2026-10-22T18:12:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "923baa0debc108433ed2",
+      "title": "OpenAI、Anthropic和Nvidia拥有创纪录的游说季度",
+      "summary": "对于人工智能说客来说，这是一个繁忙的夏天。联邦披露显示， Anthropic、OpenAI和Nvidia各自在7月至9月期间的游说季度支出最高。英伟达在集团中花费最多，为$ 2.2百万",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T17:36:30+00:00",
+      "importance": 0.7416,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+          "kind": "media",
+          "published_at": "2026-10-22T17:36:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "feacd6de002e3968f976",
+      "title": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
+      "summary": "据报道， DeepSeek在中国最大的一轮融资中筹集了150亿美元($) ，就在几天前，美国出于国家安全考虑下令联邦机构删除其技术。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-22T13:11:13+00:00",
+      "importance": 0.714,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+          "kind": "media",
+          "published_at": "2026-10-22T13:11:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "32f9877af281566a5f6e",
+      "title": "Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了",
+      "summary": "Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-21T22:51:22+00:00",
+      "importance": 0.6244,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+          "kind": "media",
+          "published_at": "2026-10-21T22:51:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-23.wav?v=1792721782824844800",
+  "chapters": [
+    {
+      "news_id": "723049a74bfe3dcacc73",
+      "title": "设计一款经久耐用的AI服务线束",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.1
+    },
+    {
+      "news_id": "a6d2b02a9412fc6611ca",
+      "title": "独自一人无事可做，人工智能特工开始玩",
+      "start_seconds": 45.26,
+      "duration_seconds": 27.46
+    },
+    {
+      "news_id": "610efe4e9ad2d36f8abe",
+      "title": "可扩展AI的基础",
+      "start_seconds": 72.72,
+      "duration_seconds": 28.12
+    },
+    {
+      "news_id": "b514b87bc64d3d97773b",
+      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
+      "start_seconds": 100.84,
+      "duration_seconds": 26.18
+    },
+    {
+      "news_id": "5eee804247a435ab2dff",
+      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
+      "start_seconds": 127.02,
+      "duration_seconds": 29.42
+    },
+    {
+      "news_id": "50dd0c98f11d38b5c2cf",
+      "title": "Meta重新启用Muse共享",
+      "start_seconds": 156.44,
+      "duration_seconds": 27.1
+    },
+    {
+      "news_id": "32b3170e24109d9a6879",
+      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
+      "start_seconds": 183.54,
+      "duration_seconds": 31.04
+    },
+    {
+      "news_id": "ee144e79e7d9cf213368",
+      "title": "在Meta的未来版本中，我会让我的Muse打电话给你的Muse",
+      "start_seconds": 214.58,
+      "duration_seconds": 36.62
+    },
+    {
+      "news_id": "5ddee939d5fa55a3d6e1",
+      "title": "微软称其人工智能工具在诊断疾病方面优于医生",
+      "start_seconds": 251.2,
+      "duration_seconds": 35.08
+    },
+    {
+      "news_id": "662e68277c6361dd4b95",
+      "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
+      "start_seconds": 286.28,
+      "duration_seconds": 24.26
+    },
+    {
+      "news_id": "575971a63ca3280440cc",
+      "title": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
+      "start_seconds": 310.54,
+      "duration_seconds": 23.1
+    },
+    {
+      "news_id": "317abcdd1b20728a7e62",
+      "title": "Canva发布首个图像生成模型",
+      "start_seconds": 333.64,
+      "duration_seconds": 21.46
+    },
+    {
+      "news_id": "7fe7774a3ecb03f8ceb8",
+      "title": "Discord现在将Markdown预览格式化为右侧",
+      "start_seconds": 355.1,
+      "duration_seconds": 30.26
+    },
+    {
+      "news_id": "dedf2896ecdb4ab528c7",
+      "title": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生",
+      "start_seconds": 385.36,
+      "duration_seconds": 38.6
+    },
+    {
+      "news_id": "6d8c30677ef69bab4819",
+      "title": "怀尔德伍德的导演说，人工智能“与我们在这个工作室的一切背道而驰”",
+      "start_seconds": 423.96,
+      "duration_seconds": 38.86
+    },
+    {
+      "news_id": "923baa0debc108433ed2",
+      "title": "OpenAI、Anthropic和Nvidia拥有创纪录的游说季度",
+      "start_seconds": 462.82,
+      "duration_seconds": 34.14
+    },
+    {
+      "news_id": "feacd6de002e3968f976",
+      "title": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
+      "start_seconds": 496.96,
+      "duration_seconds": 29.04
+    },
+    {
+      "news_id": "32f9877af281566a5f6e",
+      "title": "Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了",
+      "start_seconds": 526.0,
+      "duration_seconds": 23.64
+    }
+  ]
+}
