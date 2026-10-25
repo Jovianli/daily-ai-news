@@ -1,10 +1,124 @@
 {
   "schema_version": 1,
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T10:15:57.840083+08:00",
-  "title": "2026-10-24 AI 新闻",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T10:59:00.502510+08:00",
+  "title": "2026-10-25 AI 新闻",
   "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
   "items": [
+    {
+      "id": "36111d6bc6b4991f37ea",
+      "title": "蓝色星球III在人工智能时代保持着粗糙的边缘",
+      "summary": "英国广播公司的蓝色星球III希望通过拍摄不那么完美的照片来证明其真实性。以前的自然系列的化身是由他们华丽，水晶般清晰的镜头定义的，似乎几乎",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-24T21:29:12+00:00",
+      "importance": 0.7601,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+          "kind": "media",
+          "published_at": "2026-10-24T21:29:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "988202d2feb5743dae62",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "importance": 0.7446,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "kind": "media",
+          "published_at": "2026-10-24T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c7aa9b7dfeaf83bd70a0",
+      "title": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签",
+      "summary": "周四，宾夕法尼亚州州长乔希·夏皮罗（ Josh Shapiro ）签署了《人工智能欺骗性广告法》（ Artificial Intelligence Deceptive Advertising Act ） ，要求披露人工智能生成的广告。法律要求任何广告-无论是静态图像还是视频",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-24T18:32:44+00:00",
+      "importance": 0.7417,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "kind": "media",
+          "published_at": "2026-10-24T18:32:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ed1379dde355db6ba1e1",
+      "title": "Block的新声音模型听起来很人性化",
+      "summary": "布洛克说，语音模型可以在MacBook M4 Max上本地运行",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "importance": 0.7258,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+          "kind": "media",
+          "published_at": "2026-10-24T16:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "833d5d33c61d3b3b5d16",
+      "title": "被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。",
+      "summary": "一项新的研究发现， Grok的人工智能压倒性地推荐了共和党候选人，而OpenAI的GPT则倾向于民主党人，在近500场选举中，有90%以上的人工智能模式存在分歧。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "importance": 0.7196,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+          "kind": "media",
+          "published_at": "2026-10-24T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f75803cafe6ee4fcd06d",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "importance": 0.7133,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "kind": "media",
+          "published_at": "2026-10-24T14:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
     {
       "id": "585ea363f084ac16178f",
       "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
@@ -12,7 +126,7 @@
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-23T23:05:49+00:00",
-      "importance": 0.7758,
+      "importance": 0.6202,
       "sources": [
         {
           "name": "TechCrunch AI",
@@ -31,7 +145,7 @@
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-23T21:11:07+00:00",
-      "importance": 0.7638,
+      "importance": 0.6082,
       "sources": [
         {
           "name": "The Verge AI",
@@ -50,7 +164,7 @@
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-23T19:32:39+00:00",
-      "importance": 0.7536,
+      "importance": 0.598,
       "sources": [
         {
           "name": "The Verge AI",
@@ -69,7 +183,7 @@
       "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
       "category": "产业与商业",
       "published_at": "2026-10-23T19:06:23+00:00",
-      "importance": 0.7508,
+      "importance": 0.5952,
       "sources": [
         {
           "name": "TechCrunch AI",
@@ -88,7 +202,7 @@
       "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
       "category": "政策与安全",
       "published_at": "2026-10-23T16:52:55+00:00",
-      "importance": 0.7369,
+      "importance": 0.5813,
       "sources": [
         {
           "name": "The Verge AI",
@@ -107,7 +221,7 @@
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-23T14:47:41+00:00",
-      "importance": 0.7239,
+      "importance": 0.5683,
       "sources": [
         {
           "name": "The Verge AI",
@@ -126,7 +240,7 @@
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-23T13:52:15+00:00",
-      "importance": 0.7181,
+      "importance": 0.5625,
       "sources": [
         {
           "name": "The Verge AI",
@@ -139,51 +253,13 @@
       "follow_up_to": null
     },
     {
-      "id": "ad858d5150de79be8c33",
-      "title": "优步的竞争对手inDrive Eyes 2027在中亚通过Pony AI和Nvidia进行机器人出租车测试",
-      "summary": "该公司计划于2027年上半年在哈萨克斯坦首都开始测试Pony.ai的机器人出租车。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-23T04:00:00+00:00",
-      "importance": 0.6564,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
-          "kind": "media",
-          "published_at": "2026-10-23T04:00:00+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "1e55c29e6e1a3d35fd94",
-      "title": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台",
-      "summary": "机器人跺着小脚，发出微小的R2-D2声音，坐了下来，摔死了“小睡一会儿” ，然后在语音命令下翻腾起来。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-23T21:59:19+00:00",
-      "importance": 0.6438,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
-          "kind": "media",
-          "published_at": "2026-10-23T21:59:19+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
       "id": "723049a74bfe3dcacc73",
       "title": "设计一款经久耐用的AI服务线束",
       "summary": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里，人工智能对话的大部分内容都以",
       "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
       "category": "研究与开源",
       "published_at": "2026-10-22T21:17:29+00:00",
-      "importance": 0.6415,
+      "importance": 0.521,
       "sources": [
         {
           "name": "MIT Technology Review",
@@ -196,32 +272,13 @@
       "follow_up_to": null
     },
     {
-      "id": "a6d2b02a9412fc6611ca",
-      "title": "独自一人无事可做，人工智能特工开始玩",
-      "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
-      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
-      "category": "研究与开源",
-      "published_at": "2026-10-23T00:45:37+00:00",
-      "importance": 0.6362,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
-          "kind": "media",
-          "published_at": "2026-10-23T00:45:37+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
       "id": "610efe4e9ad2d36f8abe",
       "title": "可扩展AI的基础",
       "summary": "可扩展的人工智能系统需要强大的基础。数据、工程、平台、运营模式和治理必须融为一体。麻省理工学院技术评论EmTech Future会议的本次会议探讨了",
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
       "published_at": "2026-10-22T18:48:04+00:00",
-      "importance": 0.6259,
+      "importance": 0.521,
       "sources": [
         {
           "name": "MIT Technology Review",
@@ -234,229 +291,172 @@
       "follow_up_to": null
     },
     {
-      "id": "b514b87bc64d3d97773b",
-      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
-      "summary": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
+      "id": "147faa697ca744457def",
+      "title": "为情境感知AI提供案例",
+      "summary": "企业人工智能可以生成建议、自动化任务并帮助组织更快地做出决策。但是，如果不了解企业的实际运作方式，即使是强大的模型也可能会错过",
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
-      "published_at": "2026-10-22T22:08:24+00:00",
-      "importance": 0.6198,
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "importance": 0.521,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
+          "kind": "media",
+          "published_at": "2026-10-22T10:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bbe8759f3c898013e695",
+      "title": "人工智能隐藏的存储账单：推断留下了什么",
+      "summary": "要求大多数高管想象一下人工智能的成本，他们可能会看到GPU （具有千兆瓦功率的加速器的机架）和硅的等待名单。但这张照片遗漏了一些东西：数据存储成本。会发生什么",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-22T08:41:18+00:00",
+      "importance": 0.521,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+          "kind": "media",
+          "published_at": "2026-10-22T08:41:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a6d2b02a9412fc6611ca",
+      "title": "独自一人无事可做，人工智能特工开始玩",
+      "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-23T00:45:37+00:00",
+      "importance": 0.494,
       "sources": [
         {
           "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
           "kind": "media",
-          "published_at": "2026-10-22T22:08:24+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "5eee804247a435ab2dff",
-      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
-      "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。这个名为Canva Craft的模型使用两阶段架构，",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-22T21:53:22+00:00",
-      "importance": 0.6182,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-          "kind": "media",
-          "published_at": "2026-10-22T21:53:22+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "1bb40ddffcb6c2abe17f",
-      "title": "IPhone Duo应该是iPad",
-      "summary": "我们给了iPhone Duo 7/10分。但这并不总是我们计划的分数，它可能不会永远是正确的分数。这些是审查和评估一个关于最受欢迎的SMAR的大型新想法所面临的挑战",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-23T17:00:18+00:00",
-      "importance": 0.6127,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-          "kind": "media",
-          "published_at": "2026-10-23T17:00:18+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "50dd0c98f11d38b5c2cf",
-      "title": "Meta重新启用Muse共享",
-      "summary": "在安全研究人员报告说公共对话链接很容易找到之后， Meta重新启用了Muse共享。研究人员说，他们已经能够找到Muse页面，就像营销公司的内部",
-      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
-      "category": "政策与安全",
-      "published_at": "2026-10-22T20:33:38+00:00",
-      "importance": 0.6099,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-          "kind": "media",
-          "published_at": "2026-10-22T20:33:38+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "32b3170e24109d9a6879",
-      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
-      "summary": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示，这些变化不足以解决他们的担忧。”",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-22T20:32:05+00:00",
-      "importance": 0.6098,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-          "kind": "media",
-          "published_at": "2026-10-22T20:32:05+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "8812193075c1d292d5cf",
-      "title": "DeepSeek再次震撼人工智能行业[视频]",
-      "summary": "文章网址： https://www.youtube.com/watch?v=YX6QdIYVSgY评论网址： https://news.ycombinator.com/item?id=50217630点数： 1 #评论： 0",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-24T01:42:44+00:00",
-      "importance": 0.6021,
-      "sources": [
-        {
-          "name": "Hacker News AI",
-          "url": "https://www.youtube.com/watch?v=YX6QdIYVSgY",
-          "kind": "social",
-          "published_at": "2026-10-24T01:42:44+00:00",
+          "published_at": "2026-10-23T00:45:37+00:00",
           "primary": false
         }
       ],
       "follow_up_to": null
     }
   ],
-  "audio_url": "audio/2026-10-24.wav?v=1792808164689040200",
+  "audio_url": "audio/2026-10-25.wav?v=1792897147697216600",
   "chapters": [
+    {
+      "news_id": "36111d6bc6b4991f37ea",
+      "title": "蓝色星球III在人工智能时代保持着粗糙的边缘",
+      "start_seconds": 14.16,
+      "duration_seconds": 29.96
+    },
+    {
+      "news_id": "988202d2feb5743dae62",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "start_seconds": 44.12,
+      "duration_seconds": 25.18
+    },
+    {
+      "news_id": "c7aa9b7dfeaf83bd70a0",
+      "title": "宾夕法尼亚州将要求在人工智能生成的广告上添加标签",
+      "start_seconds": 69.3,
+      "duration_seconds": 36.26
+    },
+    {
+      "news_id": "ed1379dde355db6ba1e1",
+      "title": "Block的新声音模型听起来很人性化",
+      "start_seconds": 105.56,
+      "duration_seconds": 18.68
+    },
+    {
+      "news_id": "833d5d33c61d3b3b5d16",
+      "title": "被迫选择，格罗克的人工智能模型选择了共和党人。OpenAI挑选民主党人。",
+      "start_seconds": 124.24,
+      "duration_seconds": 35.64
+    },
+    {
+      "news_id": "f75803cafe6ee4fcd06d",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "start_seconds": 159.88,
+      "duration_seconds": 27.64
+    },
     {
       "news_id": "585ea363f084ac16178f",
       "title": "OpenAI表示，它将不再在实时互联网上训练其人工智能模型，理由是存在“重大风险”",
-      "start_seconds": 14.16,
+      "start_seconds": 187.52,
       "duration_seconds": 27.14
     },
     {
       "news_id": "a6d2d5fdb7657f8a34ec",
       "title": "OpenAI现在在没有互联网接入的情况下训练其前沿人工智能模型",
-      "start_seconds": 41.3,
+      "start_seconds": 214.66,
       "duration_seconds": 36.12
     },
     {
       "news_id": "60b56cc3037dbda3a951",
       "title": "Jack Dorsey的Block制作了一个人工智能模型，就像一个尴尬的新朋友一样与你交谈",
-      "start_seconds": 77.42,
+      "start_seconds": 250.78,
       "duration_seconds": 35.26
     },
     {
       "news_id": "e8fbd857a8b6b0ff954a",
       "title": "从Toast到Bessemer ：创始人将在2026年TechCrunch创始人峰会上发表讲话",
-      "start_seconds": 112.68,
+      "start_seconds": 286.04,
       "duration_seconds": 31.76
     },
     {
       "news_id": "a9526976eeebfbfe11f7",
       "title": "现在，谷歌表示可能会使用您的Gmail和Google相册数据来定位广告",
-      "start_seconds": 144.44,
+      "start_seconds": 317.8,
       "duration_seconds": 31.68
     },
     {
       "news_id": "7aa6acbd35f79e1aa638",
       "title": "在发布商拒绝人工智能抓取后， Meta推迟了新的商业条款",
-      "start_seconds": 176.12,
+      "start_seconds": 349.48,
       "duration_seconds": 33.2
     },
     {
       "news_id": "4958c298c83762219085",
       "title": "复古游戏正在被人工智能淹没",
-      "start_seconds": 209.32,
+      "start_seconds": 382.68,
       "duration_seconds": 31.26
-    },
-    {
-      "news_id": "ad858d5150de79be8c33",
-      "title": "优步的竞争对手inDrive Eyes 2027在中亚通过Pony AI和Nvidia进行机器人出租车测试",
-      "start_seconds": 240.58,
-      "duration_seconds": 26.04
-    },
-    {
-      "news_id": "1e55c29e6e1a3d35fd94",
-      "title": "圣诞节最热门的玩具？英伟达首席执行官与可爱的Microduck机器人玩耍，售出2万台",
-      "start_seconds": 266.62,
-      "duration_seconds": 30.44
     },
     {
       "news_id": "723049a74bfe3dcacc73",
       "title": "设计一款经久耐用的AI服务线束",
-      "start_seconds": 297.06,
+      "start_seconds": 413.94,
       "duration_seconds": 31.1
-    },
-    {
-      "news_id": "a6d2b02a9412fc6611ca",
-      "title": "独自一人无事可做，人工智能特工开始玩",
-      "start_seconds": 328.16,
-      "duration_seconds": 27.46
     },
     {
       "news_id": "610efe4e9ad2d36f8abe",
       "title": "可扩展AI的基础",
-      "start_seconds": 355.62,
+      "start_seconds": 445.04,
       "duration_seconds": 28.12
     },
     {
-      "news_id": "b514b87bc64d3d97773b",
-      "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
-      "start_seconds": 383.74,
-      "duration_seconds": 26.18
+      "news_id": "147faa697ca744457def",
+      "title": "为情境感知AI提供案例",
+      "start_seconds": 473.16,
+      "duration_seconds": 27.2
     },
     {
-      "news_id": "5eee804247a435ab2dff",
-      "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
-      "start_seconds": 409.92,
-      "duration_seconds": 29.42
+      "news_id": "bbe8759f3c898013e695",
+      "title": "人工智能隐藏的存储账单：推断留下了什么",
+      "start_seconds": 500.36,
+      "duration_seconds": 33.1
     },
     {
-      "news_id": "1bb40ddffcb6c2abe17f",
-      "title": "IPhone Duo应该是iPad",
-      "start_seconds": 439.34,
-      "duration_seconds": 29.74
-    },
-    {
-      "news_id": "50dd0c98f11d38b5c2cf",
-      "title": "Meta重新启用Muse共享",
-      "start_seconds": 469.08,
-      "duration_seconds": 27.1
-    },
-    {
-      "news_id": "32b3170e24109d9a6879",
-      "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
-      "start_seconds": 496.18,
-      "duration_seconds": 31.04
-    },
-    {
-      "news_id": "8812193075c1d292d5cf",
-      "title": "DeepSeek再次震撼人工智能行业[视频]",
-      "start_seconds": 527.22,
-      "duration_seconds": 35.64
+      "news_id": "a6d2b02a9412fc6611ca",
+      "title": "独自一人无事可做，人工智能特工开始玩",
+      "start_seconds": 533.46,
+      "duration_seconds": 27.46
     }
   ]
 }
