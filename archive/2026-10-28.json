@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T08:24:58.455807+08:00",
+  "title": "2026-10-28 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "1e3ebf94e41ebe19793b",
+      "title": "Retell使用OpenAI模型来帮助推动每月1亿次通话",
+      "summary": "GPT-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到了每名员工160万美元的年收入运行率。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-27T15:00:00+00:00",
+      "importance": 0.818,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/retell-ai",
+          "kind": "official",
+          "published_at": "2026-10-27T15:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "db05b50ceb26005ac81d",
+      "title": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
+      "summary": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T23:34:27+00:00",
+      "importance": 0.7906,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "kind": "media",
+          "published_at": "2026-10-27T23:34:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a660049bd369894dbfc9",
+      "title": "数据中心热潮有一个好处：美国电网的创新",
+      "summary": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T22:55:41+00:00",
+      "importance": 0.7865,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+          "kind": "media",
+          "published_at": "2026-10-27T22:55:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9a3764356b202945ed7a",
+      "title": "美国银行恳请您不要与AI助手分享您的银行密码",
+      "summary": "这家银行巨头提醒客户，由于您的人工智能代理的访问权限， “您对活动负责”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T21:44:34+00:00",
+      "importance": 0.7791,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+          "kind": "media",
+          "published_at": "2026-10-27T21:44:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "578f4a1cc2a6a4ecc178",
+      "title": "研究人员厌倦了OpenAI的突破",
+      "summary": "周一， OpenAI宣布了数学、计算机科学和物理学领域令人印象深刻的突破，以及该公司所说的不断发展的沟通方法。但尽管其明显的路线",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-27T20:51:04+00:00",
+      "importance": 0.7736,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "kind": "media",
+          "published_at": "2026-10-27T20:51:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c417f8e3d39d0b893c07",
+      "title": "OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT",
+      "summary": "OpenAI和甲骨文正在扩大合作伙伴关系，将业务应用程序和人工智能代理引入ChatGPT ，并为新的甲骨文产品提供支持。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "importance": 0.768,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "kind": "official",
+          "published_at": "2026-10-27T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ff390db43c3b5faf08c1",
+      "title": "颠覆性筹集$ 100亿资金，对至少10家公司进行大赌注",
+      "summary": "近年来，在向芯片初创公司Groq和人工智能语音生成初创公司ElevenLabs等公司投入资金方面，颠覆性新闻成为头条新闻。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-27T18:55:35+00:00",
+      "importance": 0.7615,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+          "kind": "media",
+          "published_at": "2026-10-27T18:55:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b2aff63a03e983b29f98",
+      "title": "VisionQuest是当人工智能真正变成流氓时会发生什么",
+      "summary": "在漫威的VisionQuest中，一个超级强大的机器人试图通过迷失在精心制作的数字白日梦中来更好地了解人类，在这些白日梦中，他和其他人工智能驱动的生物一起生活在一个家中。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T17:31:36+00:00",
+      "importance": 0.7528,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+          "kind": "media",
+          "published_at": "2026-10-27T17:31:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "64295c3ae779f4acba31",
+      "title": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这是什么意思？",
+      "summary": "TechCrunch采访了负责解释OpenAI最新发现的麻省理工学院计算机科学家。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T17:08:08+00:00",
+      "importance": 0.7503,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+          "kind": "media",
+          "published_at": "2026-10-27T17:08:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bb9f02a56d8cd14e9863",
+      "title": "Anthropic让华尔街陷入困境的精心计划",
+      "summary": "Anthropic希望两者兼得。随着即将进行的首次公开募股，它希望利用公共市场的巨大财富，并坚称它不想妥协其安全开发人工智能的核心使命，",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-27T17:04:30+00:00",
+      "importance": 0.75,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "kind": "media",
+          "published_at": "2026-10-27T17:04:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "133651b428e97fdac262",
+      "title": "谷歌的Genie 4世界模型增加了音频、更逼真的世界和实时转向",
+      "summary": "精灵4可以保持一致的场景长达两分钟，精灵3的限制增加一倍，并提供更好的物理和更人性化的角色。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T16:30:57+00:00",
+      "importance": 0.7465,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+          "kind": "media",
+          "published_at": "2026-10-27T16:30:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "991356d9e9385200ab3c",
+      "title": "Firefox的智能窗口增加了AI表单填写和网页监控功能",
+      "summary": "Mozilla正在更新智能窗口（ Firefox的人工智能浏览体验） ，其新功能可以帮助您根据打开的标签页填写在线表单。例如， Mozilla表示智能窗口可以提取信息",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T16:14:18+00:00",
+      "importance": 0.7447,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+          "kind": "media",
+          "published_at": "2026-10-27T16:14:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8fc62bcb0cb101040102",
+      "title": "谷歌的下一个Genie AI模型生成更逼真的体验",
+      "summary": "谷歌今天宣布推出使用人工智能生成交互式体验的Genie 4世界模型。该公司表示，该模型有四个主要更新：它允许更逼真的世界，让用户在",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T15:07:35+00:00",
+      "importance": 0.7378,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+          "kind": "media",
+          "published_at": "2026-10-27T15:07:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dc291fa0a78ddf3b2364",
+      "title": "Meta AI总监Rohit Patel离开，接手Microsoft Office和Google Workspace",
+      "summary": "TechCrunch独家了解到， Rohit Patel在从事人工智能评估和强化学习八年后即将离开Meta。他的创业公司Ndoc的目标是接管微软Office套件。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-27T14:59:09+00:00",
+      "importance": 0.7369,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+          "kind": "media",
+          "published_at": "2026-10-27T14:59:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "77387043f69a853ed6d4",
+      "title": "Apple正在为Pages、Keynote和Numbers添加AI聊天机器人",
+      "summary": "苹果正在将人工智能助手引入其生产力应用套件，包括Keynote、Pages和Numbers。该助手基于Apple和OpenAI的AI模型构建，可以理解要执行的文档的上下文",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T13:50:51+00:00",
+      "importance": 0.7298,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+          "kind": "media",
+          "published_at": "2026-10-27T13:50:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "257d2044442d252a598e",
+      "title": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
+      "summary": "新标准WebAI旨在与各种AI模型配合使用。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "importance": 0.7245,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+          "kind": "media",
+          "published_at": "2026-10-27T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8f3cfb5cce39de3e6208",
+      "title": "General Compute筹集了1亿美元的A轮融资，以对抗新云灾难的叙述",
+      "summary": "General Compute押注于Nvidia生态系统之外的推理芯片。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "importance": 0.7245,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+          "kind": "media",
+          "published_at": "2026-10-27T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c44dc9ed271ff418b14a",
+      "title": "Check Point如何利用Daybreak加速漏洞研究",
+      "summary": "借助OpenAI Daybreak ， Check Point加快了新安全保护背后的研究，使其分析师能够更快地将漏洞情报转化为客户防御。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "importance": 0.7242,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "kind": "official",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-28.wav?v=1793147106057118900",
+  "chapters": [
+    {
+      "news_id": "1e3ebf94e41ebe19793b",
+      "title": "Retell使用OpenAI模型来帮助推动每月1亿次通话",
+      "start_seconds": 14.16,
+      "duration_seconds": 26.18
+    },
+    {
+      "news_id": "db05b50ceb26005ac81d",
+      "title": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
+      "start_seconds": 40.34,
+      "duration_seconds": 28.16
+    },
+    {
+      "news_id": "a660049bd369894dbfc9",
+      "title": "数据中心热潮有一个好处：美国电网的创新",
+      "start_seconds": 68.5,
+      "duration_seconds": 23.44
+    },
+    {
+      "news_id": "9a3764356b202945ed7a",
+      "title": "美国银行恳请您不要与AI助手分享您的银行密码",
+      "start_seconds": 91.94,
+      "duration_seconds": 22.32
+    },
+    {
+      "news_id": "578f4a1cc2a6a4ecc178",
+      "title": "研究人员厌倦了OpenAI的突破",
+      "start_seconds": 114.26,
+      "duration_seconds": 27.54
+    },
+    {
+      "news_id": "c417f8e3d39d0b893c07",
+      "title": "OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT",
+      "start_seconds": 141.8,
+      "duration_seconds": 28.68
+    },
+    {
+      "news_id": "ff390db43c3b5faf08c1",
+      "title": "颠覆性筹集$ 100亿资金，对至少10家公司进行大赌注",
+      "start_seconds": 170.48,
+      "duration_seconds": 28.44
+    },
+    {
+      "news_id": "b2aff63a03e983b29f98",
+      "title": "VisionQuest是当人工智能真正变成流氓时会发生什么",
+      "start_seconds": 198.92,
+      "duration_seconds": 31.84
+    },
+    {
+      "news_id": "64295c3ae779f4acba31",
+      "title": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这是什么意思？",
+      "start_seconds": 230.76,
+      "duration_seconds": 24.66
+    },
+    {
+      "news_id": "bb9f02a56d8cd14e9863",
+      "title": "Anthropic让华尔街陷入困境的精心计划",
+      "start_seconds": 255.42,
+      "duration_seconds": 28.3
+    },
+    {
+      "news_id": "133651b428e97fdac262",
+      "title": "谷歌的Genie 4世界模型增加了音频、更逼真的世界和实时转向",
+      "start_seconds": 283.72,
+      "duration_seconds": 26.04
+    },
+    {
+      "news_id": "991356d9e9385200ab3c",
+      "title": "Firefox的智能窗口增加了AI表单填写和网页监控功能",
+      "start_seconds": 309.76,
+      "duration_seconds": 31.8
+    },
+    {
+      "news_id": "8fc62bcb0cb101040102",
+      "title": "谷歌的下一个Genie AI模型生成更逼真的体验",
+      "start_seconds": 341.56,
+      "duration_seconds": 28.6
+    },
+    {
+      "news_id": "dc291fa0a78ddf3b2364",
+      "title": "Meta AI总监Rohit Patel离开，接手Microsoft Office和Google Workspace",
+      "start_seconds": 370.16,
+      "duration_seconds": 30.24
+    },
+    {
+      "news_id": "77387043f69a853ed6d4",
+      "title": "Apple正在为Pages、Keynote和Numbers添加AI聊天机器人",
+      "start_seconds": 400.4,
+      "duration_seconds": 31.46
+    },
+    {
+      "news_id": "257d2044442d252a598e",
+      "title": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
+      "start_seconds": 431.86,
+      "duration_seconds": 20.16
+    },
+    {
+      "news_id": "8f3cfb5cce39de3e6208",
+      "title": "General Compute筹集了1亿美元的A轮融资，以对抗新云灾难的叙述",
+      "start_seconds": 452.02,
+      "duration_seconds": 21.04
+    },
+    {
+      "news_id": "c44dc9ed271ff418b14a",
+      "title": "Check Point如何利用Daybreak加速漏洞研究",
+      "start_seconds": 473.06,
+      "duration_seconds": 24.38
+    }
+  ]
+}
