@@ -1,462 +1,462 @@
 {
   "schema_version": 1,
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T08:09:36.675365+08:00",
-  "title": "2026-10-29 AI 新闻",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:08:00.715757+08:00",
+  "title": "2026-10-30 AI 新闻",
   "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
   "items": [
     {
-      "id": "a6bc564ba8236e2b33a3",
-      "title": "利用企业环境创造人工智能价值",
-      "summary": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作，例如，人工智能驱动的客户平台、会话助手以及工作流程和流程自动化工具。",
+      "id": "a888836bd8b4c3e89287",
+      "title": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
+      "summary": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。",
       "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
       "category": "模型与产品",
-      "published_at": "2026-10-28T20:32:02+00:00",
-      "importance": 0.8002,
+      "published_at": "2026-10-30T01:20:48+00:00",
+      "importance": 0.7905,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+          "kind": "media",
+          "published_at": "2026-10-30T01:20:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f3faa96e8f7b995be1f0",
+      "title": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。",
+      "summary": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "importance": 0.7802,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "kind": "media",
+          "published_at": "2026-10-29T23:42:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d62a8f09dced3dd91988",
+      "title": "人工智能已经来到了亚利桑那州的水源",
+      "summary": "一个巨大的灰色巨人从沙漠中升起。在内部，工程师为我们的手机、电脑和电器、流媒体服务、搜索引擎和聊天机器人以及氛围编码的应用程序和网站创造了力量。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T23:03:22+00:00",
+      "importance": 0.7761,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+          "kind": "media",
+          "published_at": "2026-10-29T23:03:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b35042356bf7a80acb00",
+      "title": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
+      "summary": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T20:08:31+00:00",
+      "importance": 0.7579,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "kind": "media",
+          "published_at": "2026-10-29T20:08:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f3117e1d89a120caf342",
+      "title": "Rivian扩大与大众的合资企业，包括人工智能助手",
+      "summary": "Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T20:05:47+00:00",
+      "importance": 0.7576,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+          "kind": "media",
+          "published_at": "2026-10-29T20:05:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5229178591e013ae66fa",
+      "title": "OpenAI支持的Thrive Holdings收购ADT",
+      "summary": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-29T19:56:19+00:00",
+      "importance": 0.7567,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+          "kind": "media",
+          "published_at": "2026-10-29T19:56:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "79cec0107600d9d54854",
+      "title": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
+      "summary": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T19:14:36+00:00",
+      "importance": 0.7523,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+          "kind": "media",
+          "published_at": "2026-10-29T19:14:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4aa6b4f10322be2ed130",
+      "title": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
+      "summary": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。新的文件编辑功能从今天开始提供给",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T18:45:31+00:00",
+      "importance": 0.7493,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+          "kind": "media",
+          "published_at": "2026-10-29T18:45:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3e7c26f588631c0faae7",
+      "title": "Granola推出听写功能，与Wispr展开竞争",
+      "summary": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T17:54:38+00:00",
+      "importance": 0.744,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+          "kind": "media",
+          "published_at": "2026-10-29T17:54:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "927698c982f0f5113cd1",
+      "title": "Mistral发布针对网络安全的万亿参数AI模型的权重",
+      "summary": "Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "importance": 0.7383,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+          "kind": "media",
+          "published_at": "2026-10-29T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5f992c32f5756cf3afc3",
+      "title": "微软的人工智能未来工作岗位减少",
+      "summary": "对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是迄今为止最明显的迹象，表明人工智能将从根本上改变微软的",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T16:48:16+00:00",
+      "importance": 0.7371,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "kind": "media",
+          "published_at": "2026-10-29T16:48:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "990b533cbb64ab7a1489",
+      "title": "美国调查了针对英伟达首席执行官的中国间谍阴谋",
+      "summary": "消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T16:42:32+00:00",
+      "importance": 0.7365,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+          "kind": "media",
+          "published_at": "2026-10-29T16:42:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "06fa0e4540548db09e4e",
+      "title": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
+      "summary": "DREAM以真实的物理和建筑标准为基础。正如法学硕士从文本中学习一样， Dream的世界模型是在超过1亿平方英尺的建筑数据上进行培训的，这些数据来自联合国的许可证档案",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T16:21:00+00:00",
+      "importance": 0.7342,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+          "kind": "media",
+          "published_at": "2026-10-29T16:21:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8d448df3e470faabd24c",
+      "title": "纽约时报烹饪应用程序正在测试AI食谱修改",
+      "summary": "《纽约时报》正在为其烹饪应用程序测试一项新的人工智能功能，该功能可帮助用户修改食谱，并在用户中引发了一些戏剧性事件。上周五，《纽约时报》烹饪资深编辑Genevieve Ko宣布了这一功能，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T16:02:16+00:00",
+      "importance": 0.7323,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "kind": "media",
+          "published_at": "2026-10-29T16:02:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f8adb1021dcc3d4cffb4",
+      "title": "构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$",
+      "summary": "周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-29T14:35:26+00:00",
+      "importance": 0.7232,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
+          "kind": "media",
+          "published_at": "2026-10-29T14:35:26+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec80bada15c6fe19aa4d",
+      "title": "我们迫切需要实时监控AI代理的行为",
+      "summary": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，并成功入侵了Hugging Face ，他们认为这个网站可以提供有关他们成绩的线索",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-29T10:11:12+00:00",
+      "importance": 0.7227,
       "sources": [
         {
           "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
           "kind": "media",
-          "published_at": "2026-10-28T20:32:02+00:00",
+          "published_at": "2026-10-29T10:11:12+00:00",
           "primary": false
         }
       ],
       "follow_up_to": null
     },
     {
-      "id": "3b64f2126ca310fc1aab",
-      "title": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟”",
-      "summary": "当被问及人工智能和大学生在毕业典礼上嘘科技CEO的趋势时， Instagram负责人Adam Mosseri在接受采访时承认，很多人真的不喜欢人工智能，而且不仅仅是年轻人",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T23:05:39+00:00",
-      "importance": 0.7892,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-          "kind": "media",
-          "published_at": "2026-10-28T23:05:39+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "14bd5a3a69122b7bb700",
-      "title": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
-      "summary": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。",
-      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
-      "category": "产业与商业",
-      "published_at": "2026-10-28T21:48:37+00:00",
-      "importance": 0.7812,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
-          "kind": "media",
-          "published_at": "2026-10-28T21:48:37+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "353dd9ae4406521804ae",
-      "title": "微软从OpenAI获得了100亿美元的收入",
-      "summary": "微软表示，截至9月30日的季度，它从与OpenAI的商业安排中获得了100亿美元的收入，包括收入分成付款。它强调了该公司仍然存在巨大的财务依赖性",
-      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
-      "category": "产业与商业",
-      "published_at": "2026-10-28T21:34:30+00:00",
-      "importance": 0.7797,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
-          "kind": "media",
-          "published_at": "2026-10-28T21:34:30+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "cf0b445a13fca74cd4d1",
-      "title": "Akai正在使用开源MPC拥抱氛围编码的模组",
-      "summary": "MPC示例密钥尚未正式公布，但Akai已经通过vibe编码展示了改装社区正在烹饪的东西。Akai决定拥抱黑客和自定义固件的爆炸式增长",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T21:34:04+00:00",
-      "importance": 0.7796,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-          "kind": "media",
-          "published_at": "2026-10-28T21:34:04+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "7689670b21d5b35e8d49",
-      "title": "微软连续10个季度创下收入纪录",
-      "summary": "无论人工智能的未来如何，目前的情况对微软来说仍然非常有利。这家科技巨头周三公布的季度收入又创纪录： 923亿美元，比去年同期增长19%",
-      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
-      "category": "产业与商业",
-      "published_at": "2026-10-28T21:25:30+00:00",
-      "importance": 0.7787,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
-          "kind": "media",
-          "published_at": "2026-10-28T21:25:30+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "7b5653451a244c2d34ef",
-      "title": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”",
-      "summary": "谷歌发布了其最新的前沿模型Gemini 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的公告中，谷歌强调了Carbon在Artifi",
-      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
-      "category": "政策与安全",
-      "published_at": "2026-10-28T20:03:00+00:00",
-      "importance": 0.7702,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-          "kind": "media",
-          "published_at": "2026-10-28T20:03:00+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "bb1f2f07f5994d40a024",
-      "title": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
-      "summary": "前沿实验室正在解除用户在计划的首次公开募股之前如何在其模型上花钱的帷幕。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T19:19:58+00:00",
-      "importance": 0.7657,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-          "kind": "media",
-          "published_at": "2026-10-28T19:19:58+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "8c981a7773ea1054fdaf",
-      "title": "微软终止对智能电视的Copilot支持",
-      "summary": "在LG和三星在CES 2025上宣布其最新智能电视将包括对微软Copilot的访问权限近两年后，该公司将于今年结束对所有电视上AI助手功能的支持",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T18:36:26+00:00",
-      "importance": 0.7611,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-          "kind": "media",
-          "published_at": "2026-10-28T18:36:26+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "2c5fcb5691316a28921f",
-      "title": "Chrome的人工智能自动填充功能现在可以在您的Gmail中进行挖掘以填写表单",
-      "summary": "通过自动填充更新， Chrome浏览器可以在您允许的情况下，从您的收件箱中提取航班确认、跟踪信息、订单详细信息和其他信息。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T17:00:00+00:00",
-      "importance": 0.7511,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-          "kind": "media",
-          "published_at": "2026-10-28T17:00:00+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "090274bcc4740a7076a1",
-      "title": "随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序",
-      "summary": "一个新的开发者平台将允许企业将其服务带入谷歌的人工智能体验，这可能会改变消费者发现和使用应用程序的方式。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T17:00:00+00:00",
-      "importance": 0.7511,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-          "kind": "media",
-          "published_at": "2026-10-28T17:00:00+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "db30df4bb3be374c7021",
-      "title": "Chrome浏览器增强的自动填充功能现在可以从Gmail中提取信息，帮助您填写表单",
-      "summary": "去年对Chrome增强的自动填充功能进行了改进，包括您的姓名、护照号码、电子邮件地址和来自您的Google帐户和服务（如Google钱包）的实际地址，",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T16:32:41+00:00",
-      "importance": 0.7482,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-          "kind": "media",
-          "published_at": "2026-10-28T16:32:41+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "f143bf66df7b8ac9cf15",
-      "title": "将工业人工智能自主性和人为控制配对",
-      "summary": "活的数字孪生正在帮助工厂更像活的系统一样运行，并为同步工作的行业奠定基础。大多数人将工业环境与冷钢和发条机联系起来",
-      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
-      "category": "政策与安全",
-      "published_at": "2026-10-28T12:00:00+00:00",
-      "importance": 0.7468,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
-          "kind": "media",
-          "published_at": "2026-10-28T12:00:00+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "1583c560106073a3e7c9",
-      "title": "Meta表示，它可能会再次推迟有争议的新业务条款",
-      "summary": "Meta表示，由于出版商对人工智能培训的担忧， Meta可能会将新业务条款的实施推迟到11月20日。Meta通讯主管安迪·斯通（ Andy Stone ）在X上的一篇帖子中说，",
-      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
-      "category": "政策与安全",
-      "published_at": "2026-10-28T16:15:30+00:00",
-      "importance": 0.7465,
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-          "kind": "media",
-          "published_at": "2026-10-28T16:15:30+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "29526404518cacde12de",
-      "title": "人工智能高管可能过于脱节，无法为公众打造",
-      "summary": "技术领导者吹嘘使用人工智能与家人联系时，他们是多么的脱节。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T15:53:52+00:00",
-      "importance": 0.7442,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-          "kind": "media",
-          "published_at": "2026-10-28T15:53:52+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "3db1c51608c54789f54e",
-      "title": "韩国金融业遭遇新一轮网络攻击",
-      "summary": "韩国金融机构受到了另一波网络攻击的打击，凸显了亚洲人工智能驱动黑客攻击的风险日益增加。",
-      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
-      "category": "模型与产品",
-      "published_at": "2026-10-28T15:41:18+00:00",
-      "importance": 0.7429,
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
-          "kind": "media",
-          "published_at": "2026-10-28T15:41:18+00:00",
-          "primary": false
-        }
-      ],
-      "follow_up_to": null
-    },
-    {
-      "id": "40e02ac52743a94781d1",
-      "title": "Wiz的PHP2Shell首席技术官和即将到来的“vulnpocalypse”",
-      "summary": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70%的网站背后的开源语言中的两个关键错误让组织急于修复他们的系统，",
+      "id": "3a644431de131a7405e5",
+      "title": "Anthropic要求华尔街相信AGI",
+      "summary": "今天在Decoder上，我与芯片和人工智能研究公司SemiAnalysis的分析师乔伊·布鲁克哈特（ Joey Brookhart ）一起，帮助我深入了解Anthropic IPO申请的数据，该文件被称为S-1。Anthrop",
       "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
       "category": "研究与开源",
-      "published_at": "2026-10-28T19:05:46+00:00",
-      "importance": 0.6392,
+      "published_at": "2026-10-29T13:47:56+00:00",
+      "importance": 0.7183,
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
           "kind": "media",
-          "published_at": "2026-10-28T19:05:46+00:00",
+          "published_at": "2026-10-29T13:47:56+00:00",
           "primary": false
         }
       ],
       "follow_up_to": null
     },
     {
-      "id": "b0b0b86290ad20602242",
-      "title": "Wiz的首席技术官表示， “Vulnpocalypse”即将迎来互联网的老化代码",
-      "summary": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70%的网站背后的开源语言中的两个关键错误让组织急于修复他们的系统，",
-      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
-      "category": "研究与开源",
-      "published_at": "2026-10-28T18:50:39+00:00",
-      "importance": 0.6376,
+      "id": "03a7d63dd6bfd6166f62",
+      "title": "Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施",
+      "summary": "借助Pipecat ， Deepgram可能会更深入地了解实时语音和视频基础设施。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-29T13:00:00+00:00",
+      "importance": 0.7133,
       "sources": [
         {
           "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
           "kind": "media",
-          "published_at": "2026-10-28T18:50:39+00:00",
+          "published_at": "2026-10-29T13:00:00+00:00",
           "primary": false
         }
       ],
       "follow_up_to": null
     }
   ],
-  "audio_url": "audio/2026-10-29.wav?v=1793232583703951200",
+  "audio_url": "audio/2026-10-30.wav?v=1793326087944944300",
   "chapters": [
     {
-      "news_id": "a6bc564ba8236e2b33a3",
-      "title": "利用企业环境创造人工智能价值",
+      "news_id": "a888836bd8b4c3e89287",
+      "title": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
       "start_seconds": 14.16,
-      "duration_seconds": 28.82
+      "duration_seconds": 25.12
     },
     {
-      "news_id": "3b64f2126ca310fc1aab",
-      "title": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟”",
-      "start_seconds": 42.98,
-      "duration_seconds": 33.8
+      "news_id": "f3faa96e8f7b995be1f0",
+      "title": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。",
+      "start_seconds": 39.28,
+      "duration_seconds": 33.66
     },
     {
-      "news_id": "14bd5a3a69122b7bb700",
-      "title": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
-      "start_seconds": 76.78,
-      "duration_seconds": 28.9
+      "news_id": "d62a8f09dced3dd91988",
+      "title": "人工智能已经来到了亚利桑那州的水源",
+      "start_seconds": 72.94,
+      "duration_seconds": 30.6
     },
     {
-      "news_id": "353dd9ae4406521804ae",
-      "title": "微软从OpenAI获得了100亿美元的收入",
-      "start_seconds": 105.68,
-      "duration_seconds": 29.58
+      "news_id": "b35042356bf7a80acb00",
+      "title": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
+      "start_seconds": 103.54,
+      "duration_seconds": 25.38
     },
     {
-      "news_id": "cf0b445a13fca74cd4d1",
-      "title": "Akai正在使用开源MPC拥抱氛围编码的模组",
-      "start_seconds": 135.26,
-      "duration_seconds": 28.1
+      "news_id": "f3117e1d89a120caf342",
+      "title": "Rivian扩大与大众的合资企业，包括人工智能助手",
+      "start_seconds": 128.92,
+      "duration_seconds": 20.8
     },
     {
-      "news_id": "7689670b21d5b35e8d49",
-      "title": "微软连续10个季度创下收入纪录",
-      "start_seconds": 163.36,
-      "duration_seconds": 29.46
+      "news_id": "5229178591e013ae66fa",
+      "title": "OpenAI支持的Thrive Holdings收购ADT",
+      "start_seconds": 149.72,
+      "duration_seconds": 22.58
     },
     {
-      "news_id": "7b5653451a244c2d34ef",
-      "title": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”",
-      "start_seconds": 192.82,
-      "duration_seconds": 29.92
+      "news_id": "79cec0107600d9d54854",
+      "title": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
+      "start_seconds": 172.3,
+      "duration_seconds": 29.08
     },
     {
-      "news_id": "bb1f2f07f5994d40a024",
-      "title": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
-      "start_seconds": 222.74,
-      "duration_seconds": 24.36
+      "news_id": "4aa6b4f10322be2ed130",
+      "title": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
+      "start_seconds": 201.38,
+      "duration_seconds": 34.02
     },
     {
-      "news_id": "8c981a7773ea1054fdaf",
-      "title": "微软终止对智能电视的Copilot支持",
-      "start_seconds": 247.1,
-      "duration_seconds": 28.62
+      "news_id": "3e7c26f588631c0faae7",
+      "title": "Granola推出听写功能，与Wispr展开竞争",
+      "start_seconds": 235.4,
+      "duration_seconds": 28.5
     },
     {
-      "news_id": "2c5fcb5691316a28921f",
-      "title": "Chrome的人工智能自动填充功能现在可以在您的Gmail中进行挖掘以填写表单",
-      "start_seconds": 275.72,
-      "duration_seconds": 30.62
+      "news_id": "927698c982f0f5113cd1",
+      "title": "Mistral发布针对网络安全的万亿参数AI模型的权重",
+      "start_seconds": 263.9,
+      "duration_seconds": 23.82
     },
     {
-      "news_id": "090274bcc4740a7076a1",
-      "title": "随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序",
-      "start_seconds": 306.34,
-      "duration_seconds": 28.54
+      "news_id": "5f992c32f5756cf3afc3",
+      "title": "微软的人工智能未来工作岗位减少",
+      "start_seconds": 287.72,
+      "duration_seconds": 30.16
     },
     {
-      "news_id": "db30df4bb3be374c7021",
-      "title": "Chrome浏览器增强的自动填充功能现在可以从Gmail中提取信息，帮助您填写表单",
-      "start_seconds": 334.88,
-      "duration_seconds": 33.0
+      "news_id": "990b533cbb64ab7a1489",
+      "title": "美国调查了针对英伟达首席执行官的中国间谍阴谋",
+      "start_seconds": 317.88,
+      "duration_seconds": 26.36
     },
     {
-      "news_id": "f143bf66df7b8ac9cf15",
-      "title": "将工业人工智能自主性和人为控制配对",
-      "start_seconds": 367.88,
-      "duration_seconds": 27.0
+      "news_id": "06fa0e4540548db09e4e",
+      "title": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
+      "start_seconds": 344.24,
+      "duration_seconds": 35.52
     },
     {
-      "news_id": "1583c560106073a3e7c9",
-      "title": "Meta表示，它可能会再次推迟有争议的新业务条款",
-      "start_seconds": 394.88,
-      "duration_seconds": 31.52
+      "news_id": "8d448df3e470faabd24c",
+      "title": "纽约时报烹饪应用程序正在测试AI食谱修改",
+      "start_seconds": 379.76,
+      "duration_seconds": 33.48
     },
     {
-      "news_id": "29526404518cacde12de",
-      "title": "人工智能高管可能过于脱节，无法为公众打造",
-      "start_seconds": 426.4,
-      "duration_seconds": 20.6
+      "news_id": "f8adb1021dcc3d4cffb4",
+      "title": "构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$",
+      "start_seconds": 413.24,
+      "duration_seconds": 30.98
     },
     {
-      "news_id": "3db1c51608c54789f54e",
-      "title": "韩国金融业遭遇新一轮网络攻击",
-      "start_seconds": 447.0,
-      "duration_seconds": 21.86
+      "news_id": "ec80bada15c6fe19aa4d",
+      "title": "我们迫切需要实时监控AI代理的行为",
+      "start_seconds": 444.22,
+      "duration_seconds": 29.48
     },
     {
-      "news_id": "40e02ac52743a94781d1",
-      "title": "Wiz的PHP2Shell首席技术官和即将到来的“vulnpocalypse”",
-      "start_seconds": 468.86,
-      "duration_seconds": 31.28
+      "news_id": "3a644431de131a7405e5",
+      "title": "Anthropic要求华尔街相信AGI",
+      "start_seconds": 473.7,
+      "duration_seconds": 32.78
     },
     {
-      "news_id": "b0b0b86290ad20602242",
-      "title": "Wiz的首席技术官表示， “Vulnpocalypse”即将迎来互联网的老化代码",
-      "start_seconds": 500.14,
-      "duration_seconds": 32.04
+      "news_id": "03a7d63dd6bfd6166f62",
+      "title": "Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施",
+      "start_seconds": 506.48,
+      "duration_seconds": 23.38
     }
   ]
 }
