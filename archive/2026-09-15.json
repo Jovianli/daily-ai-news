@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T12:36:11.168945+08:00",
+  "title": "2026-09-15 AI 新闻",
+  "overview": "今日精选 16 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "7f82d995c515e5ba429e",
+      "title": "Fyxer如何建立人们信任的人工智能行政助理",
+      "summary": "Fyxer使用OpenAI模型、微调、记忆和真实的用户反馈来组织收件箱，并以每个用户的声音起草电子邮件。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T12:00:00+00:00",
+      "importance": 0.7731,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/fyxer",
+          "kind": "official",
+          "published_at": "2026-09-14T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "752a4ec6492b7270b8b1",
+      "title": "大型科技公司的人工智能减速是安全协议还是卡特尔？",
+      "summary": "当OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei、Google DeepMind联合创始人Demis Hassabis和SpaceX负责人Elon Musk在周末松散地同意减缓人工智能开发时，怀疑论者发现了一个不可告人的动机",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-14T23:46:01+00:00",
+      "importance": 0.7656,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "kind": "media",
+          "published_at": "2026-09-14T23:46:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ab0b67bb40bdb00511c3",
+      "title": "高管和政界人士对减缓人工智能发展的看法",
+      "summary": "Dario Amodei在过去几天发表了一篇题为“我们必须跟上前沿”的长文，详细说明了为什么人工智能开发应该放慢速度，从而引发了大量关于人工智能安全的声明。其他AI领导者和",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-14T22:40:57+00:00",
+      "importance": 0.7589,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+          "kind": "media",
+          "published_at": "2026-09-14T22:40:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e8e4e3637194fdb8b313",
+      "title": "人工智能产业发生了倒退，现在该怎么办？",
+      "summary": "这个故事出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。本周末， Anthropic首席执行官Dario Amodei发表了一篇文章，呼吁刹车",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T17:54:22+00:00",
+      "importance": 0.756,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
+          "kind": "media",
+          "published_at": "2026-09-14T17:54:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6b8a14a96b3ca53c9a89",
+      "title": "英伟达首席执行官Jensen Huang告诉特朗普“我们不会让[人工智能放缓]发生”",
+      "summary": "尽管埃隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）支持达里奥·阿莫代（ Dario Amodei ）关于减缓人工智能发展步伐的呼吁，但黄延森似乎",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T21:51:02+00:00",
+      "importance": 0.7537,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
+          "kind": "media",
+          "published_at": "2026-09-14T21:51:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bcea37c159915d39d0bf",
+      "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+      "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T20:44:14+00:00",
+      "importance": 0.7467,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "kind": "media",
+          "published_at": "2026-09-14T20:44:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fd1baec08311b505543d",
+      "title": "DevFest回来了",
+      "summary": "文字动画“{DevFest} 2026加入我们！ Google开发者群组” ，带有地球图标、星号图标、图标",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T16:00:00+00:00",
+      "importance": 0.6731,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "kind": "official",
+          "published_at": "2026-09-14T16:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "98df03ca10b54f987219",
+      "title": "黄延生接到特朗普的电话，也炫耀了别的东西",
+      "summary": "当Jensen Huang接到特朗普的现场电话时，我们中的一些人更专注于他曾经接听的电话。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T01:50:48+00:00",
+      "importance": 0.6536,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
+          "kind": "media",
+          "published_at": "2026-09-15T01:50:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c0c07f740bacfedacfb7",
+      "title": "欧洲央行的拉加德表示，欧洲必须建立自己的人工智能",
+      "summary": "文章网址： https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde评论网址： https://news.ycombinator.com/item?id=49707510点数： 1 #评论： 2",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T03:55:22+00:00",
+      "importance": 0.6016,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+          "kind": "social",
+          "published_at": "2026-09-15T03:55:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f9bec58e788b1cf8f2af",
+      "title": "中国回击Anthropic首席执行官遏制中国人工智能发展的呼吁",
+      "summary": "文章网址： https://www.youtube.com/watch?v=BIM5G5kFYAg评论网址： https://news.ycombinator.com/item?id=49707471点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T03:47:39+00:00",
+      "importance": 0.6008,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=BIM5G5kFYAg",
+          "kind": "social",
+          "published_at": "2026-09-15T03:47:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b1acf4180b1788077866",
+      "title": "Crof.ai被抓到歪曲模特，关闭",
+      "summary": "文章网址： https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/评论网址： https://news.ycombinator.com/item?id=49707439点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T03:42:18+00:00",
+      "importance": 0.6003,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently",
+          "kind": "social",
+          "published_at": "2026-09-15T03:42:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1152d3726995471feec9",
+      "title": "为什么最好的人工智能初创公司会写出错误的提示（以及如何解决这个问题）",
+      "summary": "文章网址： https://twitter.com/wulfie_bain_/status/2098060386813566990评论网址： https://news.ycombinator.com/item?id=49707437点数： 1 #评论： 0",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-15T03:41:52+00:00",
+      "importance": 0.6002,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://twitter.com/wulfie_bain_/status/2098060386813566990",
+          "kind": "social",
+          "published_at": "2026-09-15T03:41:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5c0d5a1470c14ab0eac9",
+      "title": "时尚应用Daydream使用Apple Intelligence帮助您购买相机胶卷中的服装",
+      "summary": "得益于iOS 27的推出， Daydream的应用程序现在包含了一些功能，可以将保存的服装照片转换为可购物的结果，并通过Siri搜索产品，而无需打开应用程序。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T17:00:00+00:00",
+      "importance": 0.5983,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
+          "kind": "media",
+          "published_at": "2026-09-14T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "393879fce0e49e503c90",
+      "title": "Shipd.ai （数据曲线）合法吗？",
+      "summary": "文章网址： https://shipd.ai评论网址： https://news.ycombinator.com/item?id=49707331点数： 1 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T03:22:26+00:00",
+      "importance": 0.5982,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://shipd.ai",
+          "kind": "social",
+          "published_at": "2026-09-15T03:22:26+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "593440c97619d82bd9db",
+      "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+      "summary": "5 月份，数百个恶意和垃圾邮件包被上传到 RubyGems，对主机造成严重破坏。现在，独立研究人员表示，一群 OpenAI 代理对这次攻击负责。氮",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-13T20:54:00+00:00",
+      "importance": 0.5977,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "kind": "media",
+          "published_at": "2026-09-13T20:54:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a579e1a8760486ff342e",
+      "title": "微软人工智能发布《人文主义人工智能行为准则》",
+      "summary": "文章网址： https://microsoft.ai/code-of-conduct/评论网址： https://news.ycombinator.com/item?id=49707240点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-15T03:08:41+00:00",
+      "importance": 0.5967,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://microsoft.ai/code-of-conduct",
+          "kind": "social",
+          "published_at": "2026-09-15T03:08:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-15.wav?v=1789446982014451900",
+  "chapters": [
+    {
+      "news_id": "7f82d995c515e5ba429e",
+      "title": "Fyxer如何建立人们信任的人工智能行政助理",
+      "start_seconds": 14.16,
+      "duration_seconds": 24.46
+    },
+    {
+      "news_id": "752a4ec6492b7270b8b1",
+      "title": "大型科技公司的人工智能减速是安全协议还是卡特尔？",
+      "start_seconds": 38.62,
+      "duration_seconds": 35.4
+    },
+    {
+      "news_id": "ab0b67bb40bdb00511c3",
+      "title": "高管和政界人士对减缓人工智能发展的看法",
+      "start_seconds": 74.02,
+      "duration_seconds": 31.78
+    },
+    {
+      "news_id": "e8e4e3637194fdb8b313",
+      "title": "人工智能产业发生了倒退，现在该怎么办？",
+      "start_seconds": 105.8,
+      "duration_seconds": 31.64
+    },
+    {
+      "news_id": "6b8a14a96b3ca53c9a89",
+      "title": "英伟达首席执行官Jensen Huang告诉特朗普“我们不会让[人工智能放缓]发生”",
+      "start_seconds": 137.44,
+      "duration_seconds": 33.06
+    },
+    {
+      "news_id": "bcea37c159915d39d0bf",
+      "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+      "start_seconds": 170.5,
+      "duration_seconds": 23.84
+    },
+    {
+      "news_id": "fd1baec08311b505543d",
+      "title": "DevFest回来了",
+      "start_seconds": 194.34,
+      "duration_seconds": 20.96
+    },
+    {
+      "news_id": "98df03ca10b54f987219",
+      "title": "黄延生接到特朗普的电话，也炫耀了别的东西",
+      "start_seconds": 215.3,
+      "duration_seconds": 22.38
+    },
+    {
+      "news_id": "c0c07f740bacfedacfb7",
+      "title": "欧洲央行的拉加德表示，欧洲必须建立自己的人工智能",
+      "start_seconds": 237.68,
+      "duration_seconds": 46.7
+    },
+    {
+      "news_id": "f9bec58e788b1cf8f2af",
+      "title": "中国回击Anthropic首席执行官遏制中国人工智能发展的呼吁",
+      "start_seconds": 284.38,
+      "duration_seconds": 37.64
+    },
+    {
+      "news_id": "b1acf4180b1788077866",
+      "title": "Crof.ai被抓到歪曲模特，关闭",
+      "start_seconds": 322.02,
+      "duration_seconds": 43.3
+    },
+    {
+      "news_id": "1152d3726995471feec9",
+      "title": "为什么最好的人工智能初创公司会写出错误的提示（以及如何解决这个问题）",
+      "start_seconds": 365.32,
+      "duration_seconds": 42.88
+    },
+    {
+      "news_id": "5c0d5a1470c14ab0eac9",
+      "title": "时尚应用Daydream使用Apple Intelligence帮助您购买相机胶卷中的服装",
+      "start_seconds": 408.2,
+      "duration_seconds": 32.04
+    },
+    {
+      "news_id": "393879fce0e49e503c90",
+      "title": "Shipd.ai （数据曲线）合法吗？",
+      "start_seconds": 440.24,
+      "duration_seconds": 30.52
+    },
+    {
+      "news_id": "593440c97619d82bd9db",
+      "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+      "start_seconds": 470.76,
+      "duration_seconds": 31.52
+    },
+    {
+      "news_id": "a579e1a8760486ff342e",
+      "title": "微软人工智能发布《人文主义人工智能行为准则》",
+      "start_seconds": 502.28,
+      "duration_seconds": 35.06
+    }
+  ]
+}

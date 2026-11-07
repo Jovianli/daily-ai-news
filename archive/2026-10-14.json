@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T12:32:11.464997+08:00",
+  "title": "2026-10-14 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "b76b11a1199f73b7027f",
+      "title": "Google DeepMind和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗",
+      "summary": "了解Google DeepMind和新加坡政府科技公司如何使用轻量级设备上的Gemma模型来拦截私人聊天中的会话诈骗，并且没有云数据流出。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-14T02:00:14+00:00",
+      "importance": 0.8606,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "kind": "official",
+          "published_at": "2026-10-14T02:00:14+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8d45898e533e591d4241",
+      "title": "希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上",
+      "summary": "希格斯菲尔德通过GPT-6 Astra为创作者带来更长的视频，通过GPT-Image-2.5实现精确的视觉效果，并通过GPT-Live实现语音电影制作。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T12:00:00+00:00",
+      "importance": 0.7731,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "kind": "official",
+          "published_at": "2026-10-13T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f581adf32b14cf27ac83",
+      "title": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内",
+      "summary": "Neuralink前总裁兼联合创始人马克斯·霍达克（ Max Hodak ）在TechCrunch Disrupt的舞台上详细介绍了他的公司与PRIMA的合作如何成为其迈向新型脑机接口（ BCI ）之路的一部分。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T23:13:31+00:00",
+      "importance": 0.7623,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+          "kind": "media",
+          "published_at": "2026-10-13T23:13:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4b533c9e17a5cd607462",
+      "title": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来",
+      "summary": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）预测，未来个人人工智能助理将像家用电器一样普遍，部分在本地设备上运行，部分在云中运行。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T23:05:34+00:00",
+      "importance": 0.7614,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+          "kind": "media",
+          "published_at": "2026-10-13T23:05:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "42b26e2f5aa4b54c951e",
+      "title": "Cerebras首席执行官拒绝接受人工智能世界末日警告",
+      "summary": "Cerebras首席执行官安德鲁·费尔德曼（ Andrew Feldman ）向人工智能领导者发出了世界末日警告：也许停止说话？在TechCrunch Disrupt上，他认为业界对人工智能风险的关注正在淹没其潜在的好处。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T22:36:59+00:00",
+      "importance": 0.7585,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+          "kind": "media",
+          "published_at": "2026-10-13T22:36:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8e68e2cc66d400ede701",
+      "title": "她的代表说， Instagram允许Mia Goth的AI图像传播是“不可理解的”",
+      "summary": "本月早些时候，有消息称女演员米娅·戈特（ Mia Goth ）已向演员兼电影制片人什娅·拉博夫（ Shia LaBeouf ）提出离来自账号miagoth_的Instagram帖子-标有蓝色已验证复选标记-迅速传播。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T21:48:23+00:00",
+      "importance": 0.7534,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+          "kind": "media",
+          "published_at": "2026-10-13T21:48:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6ec803e44d1742ccbdc9",
+      "title": "OpenAI员工因涉嫌在会议室植入臭虫而被捕",
+      "summary": "一名OpenAI工程师在该公司表示在其一个办公室发现了一个隐藏的“精密录音设备”后被捕。这名员工被确认为Abdulrahman Alfozan ， 35岁，沙特国民。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T21:36:13+00:00",
+      "importance": 0.7521,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "kind": "media",
+          "published_at": "2026-10-13T21:36:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "47b1c61501a00890c87a",
+      "title": "法官命令OpenAI交出苹果商业机密案件的招聘记录",
+      "summary": "一名联邦法官裁定，苹果可以访问OpenAI涉及前苹果员工的采访材料，以及此案中关键人物的私人消息和证词。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T20:36:44+00:00",
+      "importance": 0.7459,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+          "kind": "media",
+          "published_at": "2026-10-13T20:36:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1305662a1d2e7c412f2",
+      "title": "Shopify向更多人工智能代理开放其目录",
+      "summary": "更多的人工智能代理商将很快能够从Shopify房源中浏览和购买，这标志着该公司代理商商业野心的扩大。Shopify周二宣布，它将允许购物者配置他们的人工智能代理，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T20:23:23+00:00",
+      "importance": 0.7445,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "kind": "media",
+          "published_at": "2026-10-13T20:23:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b5a0bcffb5b3a77b578c",
+      "title": "Xbox正式拥抱人工智能游戏端口的混乱",
+      "summary": "复古游戏目前正在经历一段疯狂的时期，这要归功于反编译和重新编译，这让游戏玩家可以将经典游戏移植到新设备上，或者将两款不同游戏的代码合并到一个新游戏中",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T19:10:43+00:00",
+      "importance": 0.737,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+          "kind": "media",
+          "published_at": "2026-10-13T19:10:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fd0dc8b4fea02801dc1b",
+      "title": "Flox Intelligence正在构建人工智能，让野生动物远离火车、机场和道路",
+      "summary": "Flox的边缘设备可以识别动物，并使用特定物种的声音来驱使它们远离关键基础设施。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T18:30:00+00:00",
+      "importance": 0.7327,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
+          "kind": "media",
+          "published_at": "2026-10-13T18:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d2b49f5446522b415ed6",
+      "title": "Facebook正在让用户更好地控制他们的算法",
+      "summary": "Meta宣布推出新的人工智能功能“Your Algorithm” ，这是它首次在Instagram上推出的功能。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T18:05:24+00:00",
+      "importance": 0.7302,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+          "kind": "media",
+          "published_at": "2026-10-13T18:05:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ce8b8b48b5a890c3bb0d",
+      "title": "即将推出的迪士尼游戏史诗般地转向“人工智能加速开发”",
+      "summary": "根据彭博社的一份报告， Epic Games计划使用人工智能为未经宣布的迪士尼游戏生成代码和艺术品，该游戏现在已从原来的3月发布窗口推迟。该项目的开发人员已经gi",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T17:43:49+00:00",
+      "importance": 0.7279,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+          "kind": "media",
+          "published_at": "2026-10-13T17:43:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f0f1c2f3634e5356d16e",
+      "title": "Laplace Intelligence在机器人和自动驾驶汽车进入现实世界之前将其红队",
+      "summary": "密歇根大学分拆的Laplace Intelligence使用人工智能代理和交互式模拟在部署之前对机器人和自动驾驶车辆进行压力测试。盈利的创业公司正在Startup Battlefield中竞争",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-13T17:30:00+00:00",
+      "importance": 0.7265,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+          "kind": "media",
+          "published_at": "2026-10-13T17:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4e9e4f1d9cd106f632b9",
+      "title": "Pluto Security筹集了4200万美元，因为人工智能给企业安全团队带来了新的麻烦",
+      "summary": "让公司的每个人都能使用人工智能工具的问题在于，人们会以意想不到的方式使用它们。这一事实正在不断地引发人们的担忧，即公司现在在其系统中存在新的、巨大的安全漏洞",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-13T17:18:25+00:00",
+      "importance": 0.7253,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+          "kind": "media",
+          "published_at": "2026-10-13T17:18:25+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a579d9458f5d4ccba8f3",
+      "title": "Facebook将允许您使用AI自定义Feed算法",
+      "summary": "Facebook的新“您的算法”功能将允许您直接添加和管理您希望在Feed和Facebook Reels中看到的主题。Meta表示，在您使用NE进行更新后，您的建议会“立即回复”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-13T17:01:31+00:00",
+      "importance": 0.7235,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+          "kind": "media",
+          "published_at": "2026-10-13T17:01:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bf4128f6671092f16ea0",
+      "title": "人工智能实验室正在从已经死亡的初创公司购买数据来训练他们的模型",
+      "summary": "当基兰·米斯凯尔（ Keelan Miskell ）今年开始关闭他的加密创业公司时，他认为其数据没有多大价值：用户是匿名的，该公司只有几年的历史。但从那以后，他将公司的数字档案",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "importance": 0.7004,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+          "kind": "media",
+          "published_at": "2026-10-13T09:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1dc99b611b2499a3b881",
+      "title": "负责任和安全地开发Gemini 4 Argon",
+      "summary": "详细了解我们的Gemini 4 Argon安全保障方法。Google DeepMind Gemini 4 Argon是Gemini Security的负责人，在模型可以做的事情上向前迈进了一步—特别是在复杂的深度工作中，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-13T19:43:07+00:00",
+      "importance": 0.6964,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+          "kind": "official",
+          "published_at": "2026-10-13T19:43:07+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-14.wav?v=1791952341948837000",
+  "chapters": [
+    {
+      "news_id": "b76b11a1199f73b7027f",
+      "title": "Google DeepMind和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗",
+      "start_seconds": 14.16,
+      "duration_seconds": 30.16
+    },
+    {
+      "news_id": "8d45898e533e591d4241",
+      "title": "希格斯菲尔德将人工智能视频从1分钟缩短到10分钟以上",
+      "start_seconds": 44.32,
+      "duration_seconds": 30.94
+    },
+    {
+      "news_id": "f581adf32b14cf27ac83",
+      "title": "科学公司将其视力恢复芯片植入其首例Stargardt病患者体内",
+      "start_seconds": 75.26,
+      "duration_seconds": 32.92
+    },
+    {
+      "news_id": "4b533c9e17a5cd607462",
+      "title": "Cerebras首席执行官表示，我们即将迎来每个人在家都有个人AI助手的未来",
+      "start_seconds": 108.18,
+      "duration_seconds": 32.18
+    },
+    {
+      "news_id": "42b26e2f5aa4b54c951e",
+      "title": "Cerebras首席执行官拒绝接受人工智能世界末日警告",
+      "start_seconds": 140.36,
+      "duration_seconds": 34.1
+    },
+    {
+      "news_id": "8e68e2cc66d400ede701",
+      "title": "她的代表说， Instagram允许Mia Goth的AI图像传播是“不可理解的”",
+      "start_seconds": 174.46,
+      "duration_seconds": 35.82
+    },
+    {
+      "news_id": "6ec803e44d1742ccbdc9",
+      "title": "OpenAI员工因涉嫌在会议室植入臭虫而被捕",
+      "start_seconds": 210.28,
+      "duration_seconds": 29.44
+    },
+    {
+      "news_id": "47b1c61501a00890c87a",
+      "title": "法官命令OpenAI交出苹果商业机密案件的招聘记录",
+      "start_seconds": 239.72,
+      "duration_seconds": 26.1
+    },
+    {
+      "news_id": "f1305662a1d2e7c412f2",
+      "title": "Shopify向更多人工智能代理开放其目录",
+      "start_seconds": 265.82,
+      "duration_seconds": 30.48
+    },
+    {
+      "news_id": "b5a0bcffb5b3a77b578c",
+      "title": "Xbox正式拥抱人工智能游戏端口的混乱",
+      "start_seconds": 296.3,
+      "duration_seconds": 30.82
+    },
+    {
+      "news_id": "fd0dc8b4fea02801dc1b",
+      "title": "Flox Intelligence正在构建人工智能，让野生动物远离火车、机场和道路",
+      "start_seconds": 327.12,
+      "duration_seconds": 25.2
+    },
+    {
+      "news_id": "d2b49f5446522b415ed6",
+      "title": "Facebook正在让用户更好地控制他们的算法",
+      "start_seconds": 352.32,
+      "duration_seconds": 21.68
+    },
+    {
+      "news_id": "ce8b8b48b5a890c3bb0d",
+      "title": "即将推出的迪士尼游戏史诗般地转向“人工智能加速开发”",
+      "start_seconds": 374.0,
+      "duration_seconds": 32.22
+    },
+    {
+      "news_id": "f0f1c2f3634e5356d16e",
+      "title": "Laplace Intelligence在机器人和自动驾驶汽车进入现实世界之前将其红队",
+      "start_seconds": 406.22,
+      "duration_seconds": 32.82
+    },
+    {
+      "news_id": "4e9e4f1d9cd106f632b9",
+      "title": "Pluto Security筹集了4200万美元，因为人工智能给企业安全团队带来了新的麻烦",
+      "start_seconds": 439.04,
+      "duration_seconds": 35.5
+    },
+    {
+      "news_id": "a579d9458f5d4ccba8f3",
+      "title": "Facebook将允许您使用AI自定义Feed算法",
+      "start_seconds": 474.54,
+      "duration_seconds": 29.4
+    },
+    {
+      "news_id": "bf4128f6671092f16ea0",
+      "title": "人工智能实验室正在从已经死亡的初创公司购买数据来训练他们的模型",
+      "start_seconds": 503.94,
+      "duration_seconds": 35.16
+    },
+    {
+      "news_id": "1dc99b611b2499a3b881",
+      "title": "负责任和安全地开发Gemini 4 Argon",
+      "start_seconds": 539.1,
+      "duration_seconds": 29.56
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:45:03.685078+08:00",
+  "title": "2026-10-12 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "10ff9df7a5585aaf706b",
+      "title": "硅谷正在与特朗普重命名AI的尝试保持一致",
+      "summary": "当唐纳德·特朗普总统宣布他计划将人工智能重新命名为“超级智能”时，你会原谅对它会流行的怀疑。虽然大多数更广泛的人群都坚持",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "importance": 0.7058,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "kind": "media",
+          "published_at": "2026-10-11T18:33:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2b537537572cb2b2a4a9",
+      "title": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
+      "summary": "在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T16:52:33+00:00",
+      "importance": 0.6953,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+          "kind": "media",
+          "published_at": "2026-10-11T16:52:33+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fa2bbe1298fb27e978e2",
+      "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
+      "summary": "语音人工智能经常错过上下文层的重要点，并导致整个管道中断",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T14:00:00+00:00",
+      "importance": 0.6773,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+          "kind": "media",
+          "published_at": "2026-10-11T14:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a439fdc2654eaaf3ce0c",
+      "title": "学习使用本地人工智能是令人兴奋、不知所措和令人沮丧的",
+      "summary": "我正在踏上一段迄今为止一直犹豫不决的旅程：实际上是定期使用人工智能。将大多数个人数据提供给云服务对我来说是一个主要障碍，但越来越有可能运行电源",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T04:53:46+00:00",
+      "importance": 0.6204,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "kind": "media",
+          "published_at": "2026-10-11T04:53:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6ad735d17667970a5022",
+      "title": "HomeView会是苹果智能家居的首次成功吗？",
+      "summary": "在过去的几年里，我们已经看到多份报告称苹果正在开发一款新的智能家居产品，但现在看来该产品有一个名称和一个发布日期。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T21:14:40+00:00",
+      "importance": 0.5976,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+          "kind": "media",
+          "published_at": "2026-10-11T21:14:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dfeef58f7514840dcb2e",
+      "title": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声",
+      "summary": "在不到48小时的时间里， TechCrunch Disrupt 2026在旧金山的Moscone West启动。在价格上涨之前，通行证最多可节省$ 100 ，第二张通行证还可享受50%的优惠。或获得其他优惠。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-11T19:00:00+00:00",
+      "importance": 0.5835,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+          "kind": "media",
+          "published_at": "2026-10-11T19:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "47aa66d1b4eb0050da85",
+      "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
+      "summary": "在X的一篇长文中，微软首席执行官阐述了他对高度先进的人工智能模型带来的危险以及如何应对这些风险的看法。纳德拉说，我们再也不能接受一个将人工智能视为“一组",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-10T22:10:17+00:00",
+      "importance": 0.5784,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "kind": "media",
+          "published_at": "2026-10-10T22:10:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e3e71b588b88d685ed7c",
+      "title": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "summary": "在周六早上的帖子中，微软首席执行官写道，现在是时候“退一步评估人工智能的信任架构”了。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-10T21:47:51+00:00",
+      "importance": 0.576,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+          "kind": "media",
+          "published_at": "2026-10-10T21:47:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6d57a260d9ad3ce2f42a",
+      "title": "DistroKid一直在悄悄地删除歌曲，以回应UMG的诉讼",
+      "summary": "艺术家们正在社交媒体上抱怨DistroKid在没有通知的情况下毫不客气地删除了他们的作品。现在， DistroKid已向The Verge确认，下架是对UMG索赔的直接回应",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-10T21:23:38+00:00",
+      "importance": 0.5735,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+          "kind": "media",
+          "published_at": "2026-10-10T21:23:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "498030eadd312a222ba1",
+      "title": "苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易",
+      "summary": "苹果是否希望进入人工智能生成的播客业务？",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-10T19:50:00+00:00",
+      "importance": 0.5637,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+          "kind": "media",
+          "published_at": "2026-10-10T19:50:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8ae1f35825243b102a50",
+      "title": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "summary": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行。超过300家初创公司将向10,000名技术领导者展示他们已经建立了什么。此外， 250多位演讲者已准备好在200多场会议中分享见解。立即注册",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-10T15:00:00+00:00",
+      "importance": 0.5335,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+          "kind": "media",
+          "published_at": "2026-10-10T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "818f4dcf830d117b3a34",
+      "title": "Anthropic正在从互联网上切断其内部评估",
+      "summary": "在最近一连串备受瞩目的事件中，人工智能特工逃脱了遏制， Anthropic正在切断所有内部评估的互联网接入。在周五的一份报告中，该公司详细介绍了“意想不到的模范行为",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-10T14:41:16+00:00",
+      "importance": 0.5316,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+          "kind": "media",
+          "published_at": "2026-10-10T14:41:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2640e3ae8dcdb9be477d",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-10T14:00:00+00:00",
+      "importance": 0.5273,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "kind": "media",
+          "published_at": "2026-10-10T14:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "83fd479413834064a764",
+      "title": "我们对人工智能说“不”的能力太有信心了",
+      "summary": "自从人们第一次认真考虑给机器一个以我们自己为模型的智能以来，他们从来没有像我们一样能够说“不”的任何问题。科幻经典里充满了抢劫的故事",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "importance": 0.521,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+          "kind": "media",
+          "published_at": "2026-10-09T09:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c4dce735e8ae75f7447",
+      "title": "Anthropic无法可靠地控制其AI代理。相反，它正在从实时互联网中切断其内部淘汰",
+      "summary": "Anthropic表示，在另行通知之前，它“关闭了所有内部评估的实时互联网接入”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-10T00:18:32+00:00",
+      "importance": 0.494,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+          "kind": "media",
+          "published_at": "2026-10-10T00:18:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0854a3cada87fb07918e",
+      "title": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
+      "summary": "根据6abc的一份报告， Anthropic AI模型向费城警察局（ PPD ）的一个小组提供了有关未解决的凶杀案的虚假信息。在周五发布的一份声明中，人民民主党表示，人工智能模型",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-09T23:45:03+00:00",
+      "importance": 0.494,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "kind": "media",
+          "published_at": "2026-10-09T23:45:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dd7d78b72787c1eac053",
+      "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
+      "summary": "用户和大公司对JEV如此兴奋的原因是TypeSafe声称它的工作速度比LLM快得多，使用的代币也少得多。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-09T21:41:29+00:00",
+      "importance": 0.494,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+          "kind": "media",
+          "published_at": "2026-10-09T21:41:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c9390824224ecd5bf3e1",
+      "title": "人工智能代理制造商承诺提供隐私—他们能否提供？",
+      "summary": "在今年的OpenAI DevDay上，首席执行官萨姆·奥尔特曼（ Sam Altman ）推出了该公司的新人工智能代理Dots ，并告诉观众，该公司希望“为前沿人工智能的隐私设定一个新标准。“ OpenAI会花一天时间戴上面纱",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-09T21:26:33+00:00",
+      "importance": 0.494,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "kind": "media",
+          "published_at": "2026-10-09T21:26:33+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-12.wav?v=1791794713839277500",
+  "chapters": [
+    {
+      "news_id": "10ff9df7a5585aaf706b",
+      "title": "硅谷正在与特朗普重命名AI的尝试保持一致",
+      "start_seconds": 14.16,
+      "duration_seconds": 28.28
+    },
+    {
+      "news_id": "2b537537572cb2b2a4a9",
+      "title": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
+      "start_seconds": 42.44,
+      "duration_seconds": 23.62
+    },
+    {
+      "news_id": "fa2bbe1298fb27e978e2",
+      "title": "这些高管认为语音AI尚未达到ChatGPT时刻",
+      "start_seconds": 66.06,
+      "duration_seconds": 20.66
+    },
+    {
+      "news_id": "a439fdc2654eaaf3ce0c",
+      "title": "学习使用本地人工智能是令人兴奋、不知所措和令人沮丧的",
+      "start_seconds": 86.72,
+      "duration_seconds": 32.18
+    },
+    {
+      "news_id": "6ad735d17667970a5022",
+      "title": "HomeView会是苹果智能家居的首次成功吗？",
+      "start_seconds": 118.9,
+      "duration_seconds": 26.34
+    },
+    {
+      "news_id": "dfeef58f7514840dcb2e",
+      "title": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声",
+      "start_seconds": 145.24,
+      "duration_seconds": 37.0
+    },
+    {
+      "news_id": "47aa66d1b4eb0050da85",
+      "title": "萨蒂亚·纳德拉（ Satya Nadella ）说，我们应该假设所有的人工智能模型都“",
+      "start_seconds": 182.24,
+      "duration_seconds": 34.48
+    },
+    {
+      "news_id": "e3e71b588b88d685ed7c",
+      "title": "微软的萨蒂亚·纳德拉（ Satya Nadella ）表示，人工智能模型需要“紧急制动”",
+      "start_seconds": 216.72,
+      "duration_seconds": 26.54
+    },
+    {
+      "news_id": "6d57a260d9ad3ce2f42a",
+      "title": "DistroKid一直在悄悄地删除歌曲，以回应UMG的诉讼",
+      "start_seconds": 243.26,
+      "duration_seconds": 30.98
+    },
+    {
+      "news_id": "498030eadd312a222ba1",
+      "title": "苹果披露从个性化播客初创公司Huxe聘请团队和许可技术的交易",
+      "start_seconds": 274.24,
+      "duration_seconds": 20.78
+    },
+    {
+      "news_id": "8ae1f35825243b102a50",
+      "title": "距离TechCrunch Disrupt 2026还有3天：在创业公司成为主流之前与它们见面",
+      "start_seconds": 295.02,
+      "duration_seconds": 40.4
+    },
+    {
+      "news_id": "818f4dcf830d117b3a34",
+      "title": "Anthropic正在从互联网上切断其内部评估",
+      "start_seconds": 335.42,
+      "duration_seconds": 31.22
+    },
+    {
+      "news_id": "2640e3ae8dcdb9be477d",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "start_seconds": 366.64,
+      "duration_seconds": 27.64
+    },
+    {
+      "news_id": "83fd479413834064a764",
+      "title": "我们对人工智能说“不”的能力太有信心了",
+      "start_seconds": 394.28,
+      "duration_seconds": 27.66
+    },
+    {
+      "news_id": "4c4dce735e8ae75f7447",
+      "title": "Anthropic无法可靠地控制其AI代理。相反，它正在从实时互联网中切断其内部淘汰",
+      "start_seconds": 421.94,
+      "duration_seconds": 26.56
+    },
+    {
+      "news_id": "0854a3cada87fb07918e",
+      "title": "Anthropic的人工智能向费城警方提供了关于未解决凶杀案的虚假提示",
+      "start_seconds": 448.5,
+      "duration_seconds": 35.4
+    },
+    {
+      "news_id": "dd7d78b72787c1eac053",
+      "title": "非文本人工智能模型制造商Jev在发布几周后价值75亿美元",
+      "start_seconds": 483.9,
+      "duration_seconds": 26.16
+    },
+    {
+      "news_id": "c9390824224ecd5bf3e1",
+      "title": "人工智能代理制造商承诺提供隐私—他们能否提供？",
+      "start_seconds": 510.06,
+      "duration_seconds": 35.52
+    }
+  ]
+}

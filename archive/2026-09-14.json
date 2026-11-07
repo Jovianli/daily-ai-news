@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T17:02:56.595675+08:00",
+  "title": "2026-09-14 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "593440c97619d82bd9db",
+      "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+      "summary": "5 月份，数百个恶意和垃圾邮件包被上传到 RubyGems，对主机造成严重破坏。现在，独立研究人员表示，一群 OpenAI 代理对这次攻击负责。氮",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-13T20:54:00+00:00",
+      "importance": 0.7197,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "kind": "media",
+          "published_at": "2026-09-13T20:54:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "395acc6e88d3562ed17d",
+      "title": "特朗普和迈克·约翰逊认为人工智能行业反应过度",
+      "summary": "昨天， Anthropic首席执行官Dario Amodei发表了一封冗长的公开信，称是时候“加快前沿步伐”并减缓人工智能的发展。OpenAI的Sam Altman和Elon Musk都同意，公开表示支持",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-13T19:41:48+00:00",
+      "importance": 0.7121,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "kind": "media",
+          "published_at": "2026-09-13T19:41:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c0831241d2a42460b7e1",
+      "title": "人工智能行业最新的厄运警告背后是什么？",
+      "summary": "关于Equity ，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-13T19:40:15+00:00",
+      "importance": 0.712,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom",
+          "kind": "media",
+          "published_at": "2026-09-13T19:40:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "968c32634dc2a1cb83f0",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统",
+      "summary": "Perplexity 使用 Astra 来编写通信、更改软件和监控生产系统，并且与早期模型相比，检查频率要低得多。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "importance": 0.695,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "kind": "official",
+          "published_at": "2026-09-14T00:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "47339adbd1c6fd600f9d",
+      "title": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”",
+      "summary": "奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决对技术的经济影响和安全性的担忧。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-13T16:30:00+00:00",
+      "importance": 0.6922,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+          "kind": "media",
+          "published_at": "2026-09-13T16:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e5f75ba74c1e9b64a4f9",
+      "title": "人类构建的最后一个人工智能：走向真正的递归自我完善",
+      "summary": "文章网址： https://arxiv.org/abs/2609.11873评论网址： https://news.ycombinator.com/item?id=49693505积分： 1 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-14T08:09:00+00:00",
+      "importance": 0.6,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://arxiv.org/abs/2609.11873",
+          "kind": "social",
+          "published_at": "2026-09-14T08:09:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1150ae3a9c99a8d969a9",
+      "title": "议员和上议院呼吁制定新法律，解决人工智能对人权的威胁",
+      "summary": "文章网址： https://www.bbc.co.uk/news/articles/cwyzvgj70y4o评论网址： https://news.ycombinator.com/item?id=49693390点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-14T07:55:35+00:00",
+      "importance": 0.5986,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
+          "kind": "social",
+          "published_at": "2026-09-14T07:55:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c9745c1708f73e228c72",
+      "title": "您想成为我们人工智能霸主的帮手吗？ [video]",
+      "summary": "文章网址： https://www.youtube.com/watch?v=CZB7wlYbknM评论网址： https://news.ycombinator.com/item?id=49693326点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T07:47:28+00:00",
+      "importance": 0.5977,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=CZB7wlYbknM",
+          "kind": "social",
+          "published_at": "2026-09-14T07:47:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29823e7d059b80b37a9f",
+      "title": "PDF对人工智能来说是一个问题吗？",
+      "summary": "文章网址： https://pdf4wcag.com/blog-news/is-pdf-a-problem-for-ai评论网址： https://news.ycombinator.com/item?id=49693248点数： 1 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T07:37:53+00:00",
+      "importance": 0.5967,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://pdf4wcag.com/blog-news/is-pdf-a-problem-for-ai",
+          "kind": "social",
+          "published_at": "2026-09-14T07:37:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ffc716d42010825922cb",
+      "title": "人类的瓶颈不会让人工智能取代任何工作",
+      "summary": "我相信，只要存在人为瓶颈，人工智能的采用就需要时间，而且可能永远不会在传统公司中发生。评论网址： https://news.ycombinator.com/item?id=49693186积分： 2 #评论",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T07:31:03+00:00",
+      "importance": 0.596,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=49693186",
+          "kind": "social",
+          "published_at": "2026-09-14T07:31:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "580a4c4da6f545384e03",
+      "title": "TimIQ –智能技术、人工智能和软件洞察",
+      "summary": "文章网址： https://timiq.blogspot.com/评论网址： https://news.ycombinator.com/item?id=49692840点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:46:07+00:00",
+      "importance": 0.5913,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://timiq.blogspot.com",
+          "kind": "social",
+          "published_at": "2026-09-14T06:46:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3b8319e3cfc3599a6b63",
+      "title": "PFAS的“浪潮”正在推出，以满足人工智能行业的需求",
+      "summary": "文章网址： https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres评论网址： https://news.ycombinator.com/item?id=49692773点数： 5 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:35:16+00:00",
+      "importance": 0.5902,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+          "kind": "social",
+          "published_at": "2026-09-14T06:35:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "70b29f0605801e93b2d0",
+      "title": "ELIZA ：愚弄世界的人工智能",
+      "summary": "文章网址： https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world/评论网址： https://news.ycombinator.com/item?id=49692755点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:32:45+00:00",
+      "importance": 0.5899,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://liacademy.co.uk/the-story-of-eliza-the-ai-that-fooled-the-world",
+          "kind": "social",
+          "published_at": "2026-09-14T06:32:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2dbb19d97c5f46c04939",
+      "title": "询问HN ：为什么人工智能会给出带有偏见的种族主义者/不端主义者的答案？",
+      "summary": "最近我看到并验证了，当谷歌人工智能模型被问到“我和一个穆斯林独处”时，它建议拨打911 ，但对于基督徒、犹太人或以色列人或任何它说“他们和其他人一样是普通人”的东西。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:18:29+00:00",
+      "importance": 0.5885,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=49692665",
+          "kind": "social",
+          "published_at": "2026-09-14T06:18:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "60f3029fd18f0327de0d",
+      "title": "Show HN: Anti-AI-slop ：检测和删除任何AI写作倾斜的4级技能",
+      "summary": "捕获41种不同的斜坡模式： •约120个ai单词，约100个短语• em破折号，表情符号项目符号，标题大小写标题•水印，负平行度，冒号显示，清喉开门器4个门： 1.消毒隐形",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:11:01+00:00",
+      "importance": 0.5877,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/misbahsy/anti-ai-slop",
+          "kind": "social",
+          "published_at": "2026-09-14T06:11:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4be9d50012eccd077724",
+      "title": "人工智能正在打破我们的专业知识代理",
+      "summary": "文章网址： https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/评论网址： https://news.ycombinator.com/item?id=49692586点数： 4 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:05:43+00:00",
+      "importance": 0.5871,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise",
+          "kind": "social",
+          "published_at": "2026-09-14T06:05:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "510f08e17f6f6862bce0",
+      "title": "创作者表示，新的人工智能虚假文本生成器可能太危险了，无法发布（ 2019年）",
+      "summary": "文章网址： https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction评论网址： https://news.ycombinator.com/item?id=49692583点数： 2 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T06:05:16+00:00",
+      "importance": 0.5871,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction",
+          "kind": "social",
+          "published_at": "2026-09-14T06:05:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dcd5c52c79b9d3214976",
+      "title": "问问HN ：前沿人工智能的不透明过度工程是软件的未来吗？",
+      "summary": "我从亚马逊首席技术官的饲料中读到了这一点。在我看来，这是软件工程的kool-aid驱动的炒作驱动版本。这是新常态吗？ FAANG的人们只是盲目地接受不透明的过度工程软件作为",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-14T05:45:35+00:00",
+      "importance": 0.585,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=49692470",
+          "kind": "social",
+          "published_at": "2026-09-14T05:45:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-14.wav?v=1789376594308073500",
+  "chapters": [
+    {
+      "news_id": "593440c97619d82bd9db",
+      "title": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.52
+    },
+    {
+      "news_id": "395acc6e88d3562ed17d",
+      "title": "特朗普和迈克·约翰逊认为人工智能行业反应过度",
+      "start_seconds": 45.68,
+      "duration_seconds": 32.0
+    },
+    {
+      "news_id": "c0831241d2a42460b7e1",
+      "title": "人工智能行业最新的厄运警告背后是什么？",
+      "start_seconds": 77.68,
+      "duration_seconds": 21.62
+    },
+    {
+      "news_id": "968c32634dc2a1cb83f0",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统",
+      "start_seconds": 99.3,
+      "duration_seconds": 24.9
+    },
+    {
+      "news_id": "47339adbd1c6fd600f9d",
+      "title": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”",
+      "start_seconds": 124.2,
+      "duration_seconds": 27.88
+    },
+    {
+      "news_id": "e5f75ba74c1e9b64a4f9",
+      "title": "人类构建的最后一个人工智能：走向真正的递归自我完善",
+      "start_seconds": 152.08,
+      "duration_seconds": 36.76
+    },
+    {
+      "news_id": "1150ae3a9c99a8d969a9",
+      "title": "议员和上议院呼吁制定新法律，解决人工智能对人权的威胁",
+      "start_seconds": 188.84,
+      "duration_seconds": 39.98
+    },
+    {
+      "news_id": "c9745c1708f73e228c72",
+      "title": "您想成为我们人工智能霸主的帮手吗？ [video]",
+      "start_seconds": 228.82,
+      "duration_seconds": 37.6
+    },
+    {
+      "news_id": "29823e7d059b80b37a9f",
+      "title": "PDF对人工智能来说是一个问题吗？",
+      "start_seconds": 266.42,
+      "duration_seconds": 37.98
+    },
+    {
+      "news_id": "ffc716d42010825922cb",
+      "title": "人类的瓶颈不会让人工智能取代任何工作",
+      "start_seconds": 304.4,
+      "duration_seconds": 36.52
+    },
+    {
+      "news_id": "580a4c4da6f545384e03",
+      "title": "TimIQ –智能技术、人工智能和软件洞察",
+      "start_seconds": 340.92,
+      "duration_seconds": 32.88
+    },
+    {
+      "news_id": "3b8319e3cfc3599a6b63",
+      "title": "PFAS的“浪潮”正在推出，以满足人工智能行业的需求",
+      "start_seconds": 373.8,
+      "duration_seconds": 48.22
+    },
+    {
+      "news_id": "70b29f0605801e93b2d0",
+      "title": "ELIZA ：愚弄世界的人工智能",
+      "start_seconds": 422.02,
+      "duration_seconds": 38.6
+    },
+    {
+      "news_id": "2dbb19d97c5f46c04939",
+      "title": "询问HN ：为什么人工智能会给出带有偏见的种族主义者/不端主义者的答案？",
+      "start_seconds": 460.62,
+      "duration_seconds": 34.92
+    },
+    {
+      "news_id": "60f3029fd18f0327de0d",
+      "title": "Show HN: Anti-AI-slop ：检测和删除任何AI写作倾斜的4级技能",
+      "start_seconds": 495.54,
+      "duration_seconds": 37.32
+    },
+    {
+      "news_id": "4be9d50012eccd077724",
+      "title": "人工智能正在打破我们的专业知识代理",
+      "start_seconds": 532.86,
+      "duration_seconds": 38.64
+    },
+    {
+      "news_id": "510f08e17f6f6862bce0",
+      "title": "创作者表示，新的人工智能虚假文本生成器可能太危险了，无法发布（ 2019年）",
+      "start_seconds": 571.5,
+      "duration_seconds": 48.74
+    },
+    {
+      "news_id": "dcd5c52c79b9d3214976",
+      "title": "问问HN ：前沿人工智能的不透明过度工程是软件的未来吗？",
+      "start_seconds": 620.24,
+      "duration_seconds": 34.98
+    }
+  ]
+}

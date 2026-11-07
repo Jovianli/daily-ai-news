@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T10:38:25.008550+08:00",
+  "title": "2026-11-06 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "ad929875c5a71925cbce",
+      "title": "OpenAI正在退出数据中心项目的保密协议",
+      "summary": "在本周的中期选举中，选民强烈反对数据中心扩张， OpenAI今天宣布了对正在开展数据中心项目的社区的新承诺，包括",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-06T00:37:56+00:00",
+      "importance": 0.7831,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "kind": "media",
+          "published_at": "2026-11-06T00:37:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8b33f1382f19de19bb66",
+      "title": "爱彼迎正在与人工智能旅行社合作",
+      "summary": "该公司在今天发布的2026年第三季度收益股东信中表示，爱彼迎计划在2027年上半年推出一个人工智能代理，帮助用户规划和预订旅行。“今天的AI智能体擅长简单，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-06T00:06:12+00:00",
+      "importance": 0.7798,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "kind": "media",
+          "published_at": "2026-11-06T00:06:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bcea566fc08fba9bba93",
+      "title": "Muse现在有语音模式",
+      "summary": "首席执行官马克·扎克伯格（ Mark Zuckerberg ）今天宣布， Meta现在可以让您与Muse AI代理进行实时语音对话。该功能已向我推出，我在撰写本文时在iOS应用程序上进行了演示。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T22:45:04+00:00",
+      "importance": 0.7714,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+          "kind": "media",
+          "published_at": "2026-11-05T22:45:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1121cf54e69f72cb6b4f",
+      "title": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
+      "summary": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T22:40:55+00:00",
+      "importance": 0.7709,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+          "kind": "media",
+          "published_at": "2026-11-05T22:40:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2165b65a40c289be1bb3",
+      "title": "Perplexity推出了自己对AI代理工作的看法",
+      "summary": "Perplexity正在用自己的以工作为重点的人工智能代理来对抗OpenAI和Anthropic。创业公司新的始终在线的“团队成员”可以在一个工作区内扮演多个角色，同时拉动现有项目、技能和记忆",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-05T22:26:50+00:00",
+      "importance": 0.7695,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "kind": "media",
+          "published_at": "2026-11-05T22:26:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f66d8f2942889cef95d9",
+      "title": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
+      "summary": "Meta的AI代理现在可以在推出旨在让Muse栩栩如生的类似Tamagotchi的可穿戴设备之前，将呼叫作为可定制的动画头像。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T19:48:28+00:00",
+      "importance": 0.753,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+          "kind": "media",
+          "published_at": "2026-11-05T19:48:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "284810c2fd047502da41",
+      "title": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+      "summary": "Meta警告说，随着社区对大规模基础设施项目的抵制，对数据中心的政治反对可能会威胁到未来的人工智能投资。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T19:12:39+00:00",
+      "importance": 0.7493,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "kind": "media",
+          "published_at": "2026-11-05T19:12:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5f2083e6ffbe03886ede",
+      "title": "OpenAI发布了新的网络安全模型。够了吗？",
+      "summary": "随着人工智能实验室面临对其保护数字基础设施工作的审查， OpenAI最新的网络安全模型应运而生。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-05T19:06:12+00:00",
+      "importance": 0.7486,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+          "kind": "media",
+          "published_at": "2026-11-05T19:06:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "20ebb1cb1fa152c7b2a7",
+      "title": "OpenAI总裁Greg Brockman表示，该公司可能在2027年首次公开募股",
+      "summary": "这位高管周三在《华尔街日报》(Wall Street Journal)的一次科技会议上发表讲话，吹捧了该公司如何在企业市场上占据一席之地，而竞争对手Anthropic已经在企业市场上取得了成功。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-05T18:02:27+00:00",
+      "importance": 0.7419,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+          "kind": "media",
+          "published_at": "2026-11-05T18:02:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b9ca9ce17c9cbad18ab7",
+      "title": "Claude现在可以使用其新的个人理财工具来分析您的支出",
+      "summary": "借助Claude的个人理财服务，用户可以通过Plaid连接其银行账户和信用卡账户，并询问有关其财务状况的问题。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T18:00:00+00:00",
+      "importance": 0.7417,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+          "kind": "media",
+          "published_at": "2026-11-05T18:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a05905dc499c67f34cf1",
+      "title": "“彻底否定” ：蓝色浪潮即将击中AI",
+      "summary": "周二晚上，民主党人控制了众议院和参议院，创造了历史，一股蓝色的浪潮席卷了传统的红色和摇摆州-全国第一位黑人女州长当选乔治",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T17:51:52+00:00",
+      "importance": 0.7408,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+          "kind": "media",
+          "published_at": "2026-11-05T17:51:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e6d6c85b3eb3fa4e89ea",
+      "title": "Claude AI可以直接插入您的银行账户",
+      "summary": "Anthropic为管理您的个人财务提出了一个新的策略：让Claude来代替，使用新的个人财务功能，通过Plaid银行桥接平台将其连接到您的银行和信用卡账户。您可以",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T17:49:25+00:00",
+      "importance": 0.7406,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+          "kind": "media",
+          "published_at": "2026-11-05T17:49:25+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c84a4cb62f0462d241c3",
+      "title": "OpenAI表示，其新的网络安全模式更擅长不攻击其他公司",
+      "summary": "OpenAI正在推出其网络安全AI模型的最新版本GPT-6 Cyber ，它表示该模型更擅长发现漏洞，并且在此过程中不太可能流氓并入侵其他平台。OpenAI表示",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-05T17:10:19+00:00",
+      "importance": 0.7365,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "kind": "media",
+          "published_at": "2026-11-05T17:10:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9a1f2f6f2756d2c6b535",
+      "title": "Axiom Math希望将AI SLOP排除在数学之外",
+      "summary": "随着人工智能用未经检查的证明充斥数学，公理数学押注于验证。这家初创公司的人工智能代理刚刚正式验证了Stacks项目，这是该领域最大的库之一。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-05T16:16:45+00:00",
+      "importance": 0.7309,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+          "kind": "media",
+          "published_at": "2026-11-05T16:16:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "74bb7f13b00f34a52103",
+      "title": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
+      "summary": "这笔交易预计将支持DBX Agent Cloud的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-05T15:19:05+00:00",
+      "importance": 0.7249,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+          "kind": "media",
+          "published_at": "2026-11-05T15:19:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5c6fd66a42c8ea494afd",
+      "title": "您可以从ElevenLabs将AI音乐直接发布到SoundCloud",
+      "summary": "在今年早些时候与Moises合作之后， SoundCloud现在增加了与另一个人工智能音乐平台ElevenLabs的集成。现在，无需从ElevenLabs导出和下载您的输出，然后上传",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T14:47:10+00:00",
+      "importance": 0.7216,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+          "kind": "media",
+          "published_at": "2026-11-05T14:47:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec1966491ff28b1901b2",
+      "title": "Aina的智能戒指有屏幕、操纵杆和麦克风，因此您可以与人工智能代理交谈",
+      "summary": "Aina的戒指还可以接听电话，并帮助您在Mac上口述笔记。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T14:42:00+00:00",
+      "importance": 0.7211,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+          "kind": "media",
+          "published_at": "2026-11-05T14:42:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6167ca4f496ea89584cf",
+      "title": "人工智能热潮的隐性供应链成本",
+      "summary": "今天，我与经济学家、哈佛商学院管理实践教授、即将出版的《我的东西从何而来》一书的作者Willy Shih进行了交谈。全球苏背后的强大经济学",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T14:03:27+00:00",
+      "importance": 0.717,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+          "kind": "media",
+          "published_at": "2026-11-05T14:03:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-06.wav?v=1793932715546311500",
+  "chapters": [
+    {
+      "news_id": "ad929875c5a71925cbce",
+      "title": "OpenAI正在退出数据中心项目的保密协议",
+      "start_seconds": 14.16,
+      "duration_seconds": 26.06
+    },
+    {
+      "news_id": "8b33f1382f19de19bb66",
+      "title": "爱彼迎正在与人工智能旅行社合作",
+      "start_seconds": 40.22,
+      "duration_seconds": 30.98
+    },
+    {
+      "news_id": "bcea566fc08fba9bba93",
+      "title": "Muse现在有语音模式",
+      "start_seconds": 71.2,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "1121cf54e69f72cb6b4f",
+      "title": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
+      "start_seconds": 101.78,
+      "duration_seconds": 26.76
+    },
+    {
+      "news_id": "2165b65a40c289be1bb3",
+      "title": "Perplexity推出了自己对AI代理工作的看法",
+      "start_seconds": 128.54,
+      "duration_seconds": 32.38
+    },
+    {
+      "news_id": "f66d8f2942889cef95d9",
+      "title": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
+      "start_seconds": 160.92,
+      "duration_seconds": 27.8
+    },
+    {
+      "news_id": "284810c2fd047502da41",
+      "title": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+      "start_seconds": 188.72,
+      "duration_seconds": 28.52
+    },
+    {
+      "news_id": "5f2083e6ffbe03886ede",
+      "title": "OpenAI发布了新的网络安全模型。够了吗？",
+      "start_seconds": 217.24,
+      "duration_seconds": 23.9
+    },
+    {
+      "news_id": "20ebb1cb1fa152c7b2a7",
+      "title": "OpenAI总裁Greg Brockman表示，该公司可能在2027年首次公开募股",
+      "start_seconds": 241.14,
+      "duration_seconds": 34.46
+    },
+    {
+      "news_id": "b9ca9ce17c9cbad18ab7",
+      "title": "Claude现在可以使用其新的个人理财工具来分析您的支出",
+      "start_seconds": 275.6,
+      "duration_seconds": 25.92
+    },
+    {
+      "news_id": "a05905dc499c67f34cf1",
+      "title": "“彻底否定” ：蓝色浪潮即将击中AI",
+      "start_seconds": 301.52,
+      "duration_seconds": 27.26
+    },
+    {
+      "news_id": "e6d6c85b3eb3fa4e89ea",
+      "title": "Claude AI可以直接插入您的银行账户",
+      "start_seconds": 328.78,
+      "duration_seconds": 30.08
+    },
+    {
+      "news_id": "c84a4cb62f0462d241c3",
+      "title": "OpenAI表示，其新的网络安全模式更擅长不攻击其他公司",
+      "start_seconds": 358.86,
+      "duration_seconds": 32.14
+    },
+    {
+      "news_id": "9a1f2f6f2756d2c6b535",
+      "title": "Axiom Math希望将AI SLOP排除在数学之外",
+      "start_seconds": 391.0,
+      "duration_seconds": 29.44
+    },
+    {
+      "news_id": "74bb7f13b00f34a52103",
+      "title": "Dropbox以3.5亿美元收购Tigris Data ，以加强其人工智能基础设施",
+      "start_seconds": 420.44,
+      "duration_seconds": 28.4
+    },
+    {
+      "news_id": "5c6fd66a42c8ea494afd",
+      "title": "您可以从ElevenLabs将AI音乐直接发布到SoundCloud",
+      "start_seconds": 448.84,
+      "duration_seconds": 31.4
+    },
+    {
+      "news_id": "ec1966491ff28b1901b2",
+      "title": "Aina的智能戒指有屏幕、操纵杆和麦克风，因此您可以与人工智能代理交谈",
+      "start_seconds": 480.24,
+      "duration_seconds": 23.0
+    },
+    {
+      "news_id": "6167ca4f496ea89584cf",
+      "title": "人工智能热潮的隐性供应链成本",
+      "start_seconds": 503.24,
+      "duration_seconds": 27.86
+    }
+  ]
+}

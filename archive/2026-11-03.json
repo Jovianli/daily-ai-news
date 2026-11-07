@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T14:52:07.078854+08:00",
+  "title": "2026-11-03 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "8289a65b86803237107e",
+      "title": "以下是特朗普的“超级情报”忠诚度测试",
+      "summary": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。9月底，特朗普总统签署了一项行政命令，其中",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T04:18:47+00:00",
+      "importance": 0.807,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+          "kind": "media",
+          "published_at": "2026-11-03T04:18:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "11a3e4cb137f52664836",
+      "title": "谷歌将Dreambeans带到印度，将AI生成的个人故事带给大众",
+      "summary": "谷歌最新的人工智能实验Dreambeans现在支持13种印度语言。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "importance": 0.7749,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+          "kind": "media",
+          "published_at": "2026-11-03T03:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9ff666e7421f5314e201",
+      "title": "苹果可能会尝试通过第三方人工智能应用来增加收入",
+      "summary": "苹果在周一晚上的财报电话会议上暗示，它可以通过第三方“机会”刺激收入。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "importance": 0.7645,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+          "kind": "media",
+          "published_at": "2026-11-03T01:49:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d38f7b5068359c020195",
+      "title": "Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$",
+      "summary": "Y Combinator的Garry Tan开玩笑地承认他患有“网络精神病” ，有时几乎不睡觉，因为他对与人工智能特工合作感到非常兴奋。在沃尔特·艾萨克森（ Walter Isaacson ）播客的新一集里，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "importance": 0.7568,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+          "kind": "media",
+          "published_at": "2026-11-03T00:35:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0b86c010857d521d9160",
+      "title": "《纽约时报》起诉Brave网络浏览器进行人工智能抓取和绕过付费墙",
+      "summary": "《纽约时报》和其他一些出版物已经对该公司提起诉讼，该公司让Brave网络浏览器涉嫌非法抓取以训练人工智能，并允许用户绕过他们的付费墙。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-02T23:20:01+00:00",
+      "importance": 0.7489,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "kind": "media",
+          "published_at": "2026-11-02T23:20:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "977334dcf0434eb1c0ae",
+      "title": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
+      "summary": "这家成立一年的初创公司现在的估值为3亿美元。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "importance": 0.7483,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+          "kind": "media",
+          "published_at": "2026-11-02T23:13:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5426dcc4966dc2198453",
+      "title": "Anthropic压制Claude的人工智能视频游戏克隆",
+      "summary": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。复古游戏目前正在被人工智能制造的反编译所淹没",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T22:57:16+00:00",
+      "importance": 0.7465,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "kind": "media",
+          "published_at": "2026-11-02T22:57:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "62954b6003d956addf30",
+      "title": "Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能",
+      "summary": "RSI是人工智能发展得如此擅长训练自己的时刻，以至于它催生了人工智能能力的急剧加速。对人工智能的毁灭者来说， RSI代表着一场没有回报的灾难。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "importance": 0.7421,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "kind": "media",
+          "published_at": "2026-11-02T22:14:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "43988feebac4c4309da2",
+      "title": "提高代理分析的洞察质量",
+      "summary": "在短短几年内，生成式人工智能改变了企业分析的面貌，特别是让整个组织的用户都可以访问分析。Agentic AI承诺通过自动化整个工作流程来做得更多",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "importance": 0.7363,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+          "kind": "media",
+          "published_at": "2026-11-02T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29f1fd5cb64a11a5f04a",
+      "title": "网络主机Squarespace裁员19%",
+      "summary": "该网站建设者表示，裁员是其组织更广泛重组的一部分。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T19:25:59+00:00",
+      "importance": 0.7245,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+          "kind": "media",
+          "published_at": "2026-11-02T19:25:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "565e6fad1f4c3724a211",
+      "title": "OpenAI将数据中心发电厂作为保护附近地区的一种方式",
+      "summary": "在周一的公告中， OpenAI表示将在佐治亚州埃芬汉县即将到来的数据中心试点其“电网保护器计划” ，该公司承诺在挤出期间释放高达1,000兆瓦的电力",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T18:01:30+00:00",
+      "importance": 0.7157,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "kind": "media",
+          "published_at": "2026-11-02T18:01:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8c62a7af1d6782d65ba8",
+      "title": "停止计算代币，开始计算发货量",
+      "summary": "当开发人员给AI代理一个编码任务时，代理会多次回答。它计划、生成代码、运行测试并重复该过程以更正错误。单个任务可以使用10到50倍的代币",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T13:10:32+00:00",
+      "importance": 0.7124,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+          "kind": "media",
+          "published_at": "2026-11-02T13:10:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cfe776d783ceaa5caccc",
+      "title": "42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出",
+      "summary": "这里有一个直接来自科幻小说的问题：如果人工智能可以在你决定之前预测你要做什么，即使是在一个全新的情况下？",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T16:30:00+00:00",
+      "importance": 0.7062,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+          "kind": "media",
+          "published_at": "2026-11-02T16:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d2ebc506d8c8ced16e9c",
+      "title": "埃隆·马斯克（ Elon Musk ）因“不可持续的高成本”而限制了Grok Bot的限制",
+      "summary": "马斯克最近将Grok Bot称为“我一生中见过的产品中增长最快的产品”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T16:23:21+00:00",
+      "importance": 0.7055,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+          "kind": "media",
+          "published_at": "2026-11-02T16:23:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d9c7a4169daa71511aa7",
+      "title": "Omen AI在1600万美元的Aquatic Labs收购中增加了液体技术诀窍",
+      "summary": "两家解决数据中心水问题的初创公司正在联手达成一项价值1600万美元的交易。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "importance": 0.6968,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+          "kind": "media",
+          "published_at": "2026-11-02T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dc101bf128590792a3e0",
+      "title": "OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡",
+      "summary": "OpenAI表示， ChatGPT和Codex将在此更改后从相同的分配池中提取使用情况。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-02T13:57:53+00:00",
+      "importance": 0.6903,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+          "kind": "media",
+          "published_at": "2026-11-02T13:57:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fb18596411006021bfcd",
+      "title": "Show HN: Trifecta Checker –人工智能代理的飞行前安全检查",
+      "summary": "文章网址： https://meta-global-ai-hackathon-trifecta-c.vercel.app/评论网址： https://news.ycombinator.com/item?id=50348682点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-03T06:15:49+00:00",
+      "importance": 0.6022,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://meta-global-ai-hackathon-trifecta-c.vercel.app",
+          "kind": "social",
+          "published_at": "2026-11-03T06:15:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a96fe16f873b0fafd009",
+      "title": "人工智能顾问在Claude Code中讨论您的业务决策",
+      "summary": "文章网址： https://github.com/nateherkai/roast-room评论网址： https://news.ycombinator.com/item?id=50347969点数： 2 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-03T04:12:40+00:00",
+      "importance": 0.5894,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/nateherkai/roast-room",
+          "kind": "social",
+          "published_at": "2026-11-03T04:12:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-03.wav?v=1793688734900756000",
+  "chapters": [
+    {
+      "news_id": "8289a65b86803237107e",
+      "title": "以下是特朗普的“超级情报”忠诚度测试",
+      "start_seconds": 14.16,
+      "duration_seconds": 30.06
+    },
+    {
+      "news_id": "11a3e4cb137f52664836",
+      "title": "谷歌将Dreambeans带到印度，将AI生成的个人故事带给大众",
+      "start_seconds": 44.22,
+      "duration_seconds": 21.12
+    },
+    {
+      "news_id": "9ff666e7421f5314e201",
+      "title": "苹果可能会尝试通过第三方人工智能应用来增加收入",
+      "start_seconds": 65.34,
+      "duration_seconds": 22.48
+    },
+    {
+      "news_id": "d38f7b5068359c020195",
+      "title": "Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$",
+      "start_seconds": 87.82,
+      "duration_seconds": 36.78
+    },
+    {
+      "news_id": "0b86c010857d521d9160",
+      "title": "《纽约时报》起诉Brave网络浏览器进行人工智能抓取和绕过付费墙",
+      "start_seconds": 124.6,
+      "duration_seconds": 29.92
+    },
+    {
+      "news_id": "977334dcf0434eb1c0ae",
+      "title": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
+      "start_seconds": 154.52,
+      "duration_seconds": 22.06
+    },
+    {
+      "news_id": "5426dcc4966dc2198453",
+      "title": "Anthropic压制Claude的人工智能视频游戏克隆",
+      "start_seconds": 176.58,
+      "duration_seconds": 30.46
+    },
+    {
+      "news_id": "62954b6003d956addf30",
+      "title": "Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能",
+      "start_seconds": 207.04,
+      "duration_seconds": 32.24
+    },
+    {
+      "news_id": "43988feebac4c4309da2",
+      "title": "提高代理分析的洞察质量",
+      "start_seconds": 239.28,
+      "duration_seconds": 27.64
+    },
+    {
+      "news_id": "29f1fd5cb64a11a5f04a",
+      "title": "网络主机Squarespace裁员19%",
+      "start_seconds": 266.92,
+      "duration_seconds": 18.76
+    },
+    {
+      "news_id": "565e6fad1f4c3724a211",
+      "title": "OpenAI将数据中心发电厂作为保护附近地区的一种方式",
+      "start_seconds": 285.68,
+      "duration_seconds": 29.72
+    },
+    {
+      "news_id": "8c62a7af1d6782d65ba8",
+      "title": "停止计算代币，开始计算发货量",
+      "start_seconds": 315.4,
+      "duration_seconds": 29.58
+    },
+    {
+      "news_id": "cfe776d783ceaa5caccc",
+      "title": "42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出",
+      "start_seconds": 344.98,
+      "duration_seconds": 28.86
+    },
+    {
+      "news_id": "d2ebc506d8c8ced16e9c",
+      "title": "埃隆·马斯克（ Elon Musk ）因“不可持续的高成本”而限制了Grok Bot的限制",
+      "start_seconds": 373.84,
+      "duration_seconds": 23.18
+    },
+    {
+      "news_id": "d9c7a4169daa71511aa7",
+      "title": "Omen AI在1600万美元的Aquatic Labs收购中增加了液体技术诀窍",
+      "start_seconds": 397.02,
+      "duration_seconds": 24.14
+    },
+    {
+      "news_id": "dc101bf128590792a3e0",
+      "title": "OpenAI终于合并了ChatGPT的“聊天”和“工作”选项卡",
+      "start_seconds": 421.16,
+      "duration_seconds": 22.98
+    },
+    {
+      "news_id": "fb18596411006021bfcd",
+      "title": "Show HN: Trifecta Checker –人工智能代理的飞行前安全检查",
+      "start_seconds": 444.14,
+      "duration_seconds": 36.5
+    },
+    {
+      "news_id": "a96fe16f873b0fafd009",
+      "title": "人工智能顾问在Claude Code中讨论您的业务决策",
+      "start_seconds": 480.64,
+      "duration_seconds": 35.0
+    }
+  ]
+}

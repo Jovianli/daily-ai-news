@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:57:49.818106+08:00",
+  "title": "2026-09-22 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "08ffdb24bebd9aa2ffda",
+      "title": "数学和人工智能咨询小组",
+      "summary": "OpenAI正在与一个独立的数学和人工智能咨询小组合作，以指导对新兴人工智能结果的审查和沟通。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "importance": 0.7647,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "kind": "official",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8fe4474fdbb9c4c46a22",
+      "title": "希格斯菲尔德人工智能通过GPT-6 Astra在一天内推出新的视频功能",
+      "summary": "借助GPT-6 Astra ， Higgsfield AI使小型企业的视频广告创作更轻松，并将新的创意工具更快地推向市场。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "importance": 0.7647,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "kind": "official",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9b2745b3f19fc69f0b8a",
+      "title": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注",
+      "summary": "苹果零售店建筑师罗恩·约翰逊（ Ron Johnson ）表示，苹果的秘密酱汁一直",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T23:44:28+00:00",
+      "importance": 0.7571,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+          "kind": "media",
+          "published_at": "2026-09-21T23:44:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5fb2a618a0bb669f6bb1",
+      "title": "加州收紧人工智能数据中心能源和水资源使用规定",
+      "summary": "正如《洛杉矶时报》早些时候报道的那样，加利福尼亚州州长加文·纽瑟姆（ Gavin Newsom ）签署了七项法案，旨在防止人工智能数据中心将公用事业成本转嫁给居民。这套法律要求加利福尼亚州",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-21T23:09:19+00:00",
+      "importance": 0.7535,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "kind": "media",
+          "published_at": "2026-09-21T23:09:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "10538c022345675d1abd",
+      "title": "为下一阶段的人工智能构建标准",
+      "summary": "OpenAI概述了通往共享全球人工智能标准的道路，呼吁协调评估、报告和治理，以提高安全性。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "importance": 0.7522,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "kind": "official",
+          "published_at": "2026-09-21T10:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2f8d9b98fc157bb338d3",
+      "title": "用新的学习路径扩展OpenAI学院",
+      "summary": "为员工、开发人员、领导者、教育工作者和学生探索新的OpenAI学院学习路径，以构建和展示实用的人工智能技能。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "importance": 0.7335,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "kind": "official",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c045e0925c89f1a71c8",
+      "title": "Meta的Muse正在超越ChatGPT的早期移动发布",
+      "summary": "根据Appfigures的最新估计， Meta的新人工智能代理Muse在美国和加拿大的下载量和日活跃用户数量超过了ChatGPT在移动首次亮相后的同期。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T19:19:21+00:00",
+      "importance": 0.7295,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "kind": "media",
+          "published_at": "2026-09-21T19:19:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "684716114b5ee93a7181",
+      "title": "Meta的AI代理已被阻止使用Amazon.com",
+      "summary": "亚马逊拥有自己的基础模型，以及互联网上最受欢迎的推理平台之一。只要他们没有法律义务向Muse敞开大门，他们为什么要这么做？",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T17:55:18+00:00",
+      "importance": 0.7208,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "kind": "media",
+          "published_at": "2026-09-21T17:55:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bd11ce5965060707188f",
+      "title": "对于Tabby ，一位前会计师正在使用人工智能来使会计师过时",
+      "summary": "Tabby旨在作为一个实时簿记界面，处理客户的文书工作，因为它为他们提供有关其业务盈亏的最新数据。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-21T16:38:51+00:00",
+      "importance": 0.7128,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+          "kind": "media",
+          "published_at": "2026-09-21T16:38:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8f796c4694e0a97c0b99",
+      "title": "解决我们在美国边境“虚拟墙”上发现的故障的4种方法",
+      "summary": "《麻省理工科技评论》今天公布了我们对美国政府沿美墨边境安装的监控塔“虚拟墙”附近有多少人死亡的调查。我们发现了peo个案",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "importance": 0.7107,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
+          "kind": "media",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8eaa00e06d871a7a6945",
+      "title": "美国在边境监控上花费了数十亿美元。为什么它在死前抓不住人？",
+      "summary": "当何塞·莫拉莱斯·贝纳尔（ José Morales Bernal ）在2024年4月8日，即他32岁生日的前一天越过边境进入美国时，它应该引发一系列技术警报和人类反应。当他走过这个",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "importance": 0.7107,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation",
+          "kind": "media",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8889c03434f7deab9a68",
+      "title": "她死在圣地亚哥边境。监控摄像头清晰可见",
+      "summary": "她只走了几个小时，已经迷路了。2025年9月14日傍晚， 30岁的Graciela Gómez Hernández从蒂华纳东部边缘越过边境进入南部C区。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "importance": 0.7107,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature",
+          "kind": "media",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b967c00ba01c792f1a8a",
+      "title": "下一个突破性创业公司将从何而来？ Benchmark的全面合作关系在TechCrunch Disrupt 2026中发挥重要作用",
+      "summary": "下一个突破性创业公司将从何而来？ Benchmark的全面合作关系将在TechCrunch Disrupt 2026的主要舞台上发挥作用。太平洋时间9月25日晚上11点59分之前最多可节省$ 200。立即注册。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-21T15:00:00+00:00",
+      "importance": 0.7025,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026",
+          "kind": "media",
+          "published_at": "2026-09-21T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d947cdfa9abd9ef70140",
+      "title": "Google的$ 899 Googlebook是您为Gemini购买新笔记本电脑的赌注",
+      "summary": "Google的AI原生Googlebook将Gemini与光标、听写、小部件和桌面体验的其他部分联系起来。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T14:39:22+00:00",
+      "importance": 0.7003,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+          "kind": "media",
+          "published_at": "2026-09-21T14:39:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee528cab69e758e68d5c",
+      "title": "在TechCrunch Disrupt 2026上迎接下一波风投评选《创业战场200》",
+      "summary": "在TechCrunch Disrupt 2026的主舞台上，迎接下一波风投对Startup Battlefield 200竞争者的评判。请在太平洋时间9月25日晚上11:59前注册，最多可节省$ 200 ，并获得前排座位",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-21T14:15:00+00:00",
+      "importance": 0.6978,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
+          "kind": "media",
+          "published_at": "2026-09-21T14:15:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c8b7580d0a35361cb49e",
+      "title": "iPhone用户现在可以在苹果2.5亿美元的Siri AI和解中提交索赔",
+      "summary": "苹果公司正在支付2.5亿美元来解决未能提供人工智能升级的Siri的索赔，现在，符合条件的iPhone用户可以提交付款索赔。如果您居住在美国，并购买了iPhone 15 Pro、iPhone",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T14:06:15+00:00",
+      "importance": 0.6969,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+          "kind": "media",
+          "published_at": "2026-09-21T14:06:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "693823a542ab6ff19ef0",
+      "title": "John Ternus能否找到苹果的下一件大事？",
+      "summary": "今天，我正在与世界上资源最丰富的苹果记者马克·古尔曼（ Mark Gurman ）交谈，他既是彭博首席苹果记者，也是即将到来的播客《Power On》的主持人。本月早些时候，苹果举办了年会",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T14:04:22+00:00",
+      "importance": 0.6967,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+          "kind": "media",
+          "published_at": "2026-09-21T14:04:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7cd5365733ad83d6206f",
+      "title": "亚马逊封锁了Meta的Muse AI代理",
+      "summary": "据GeekWire报道， Meta的Muse AI代理已被禁止代表其用户在亚马逊购物。周日开始出现一条针对Muse用户的弹出消息，称“未经授权的人工智能代理继续访问vi",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-21T13:46:59+00:00",
+      "importance": 0.6949,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "kind": "media",
+          "published_at": "2026-09-21T13:46:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-22.wav?v=1790056682454271300",
+  "chapters": [
+    {
+      "news_id": "08ffdb24bebd9aa2ffda",
+      "title": "数学和人工智能咨询小组",
+      "start_seconds": 14.16,
+      "duration_seconds": 22.16
+    },
+    {
+      "news_id": "8fe4474fdbb9c4c46a22",
+      "title": "希格斯菲尔德人工智能通过GPT-6 Astra在一天内推出新的视频功能",
+      "start_seconds": 36.32,
+      "duration_seconds": 28.0
+    },
+    {
+      "news_id": "9b2745b3f19fc69f0b8a",
+      "title": "建造苹果商店的人不会买硅谷在人工智能购物上的赌注",
+      "start_seconds": 64.32,
+      "duration_seconds": 22.54
+    },
+    {
+      "news_id": "5fb2a618a0bb669f6bb1",
+      "title": "加州收紧人工智能数据中心能源和水资源使用规定",
+      "start_seconds": 86.86,
+      "duration_seconds": 33.8
+    },
+    {
+      "news_id": "10538c022345675d1abd",
+      "title": "为下一阶段的人工智能构建标准",
+      "start_seconds": 120.66,
+      "duration_seconds": 22.42
+    },
+    {
+      "news_id": "2f8d9b98fc157bb338d3",
+      "title": "用新的学习路径扩展OpenAI学院",
+      "start_seconds": 143.08,
+      "duration_seconds": 25.22
+    },
+    {
+      "news_id": "4c045e0925c89f1a71c8",
+      "title": "Meta的Muse正在超越ChatGPT的早期移动发布",
+      "start_seconds": 168.3,
+      "duration_seconds": 27.68
+    },
+    {
+      "news_id": "684716114b5ee93a7181",
+      "title": "Meta的AI代理已被阻止使用Amazon.com",
+      "start_seconds": 195.98,
+      "duration_seconds": 27.24
+    },
+    {
+      "news_id": "bd11ce5965060707188f",
+      "title": "对于Tabby ，一位前会计师正在使用人工智能来使会计师过时",
+      "start_seconds": 223.22,
+      "duration_seconds": 26.46
+    },
+    {
+      "news_id": "8f796c4694e0a97c0b99",
+      "title": "解决我们在美国边境“虚拟墙”上发现的故障的4种方法",
+      "start_seconds": 249.68,
+      "duration_seconds": 27.68
+    },
+    {
+      "news_id": "8eaa00e06d871a7a6945",
+      "title": "美国在边境监控上花费了数十亿美元。为什么它在死前抓不住人？",
+      "start_seconds": 277.36,
+      "duration_seconds": 35.26
+    },
+    {
+      "news_id": "8889c03434f7deab9a68",
+      "title": "她死在圣地亚哥边境。监控摄像头清晰可见",
+      "start_seconds": 312.62,
+      "duration_seconds": 28.9
+    },
+    {
+      "news_id": "b967c00ba01c792f1a8a",
+      "title": "下一个突破性创业公司将从何而来？ Benchmark的全面合作关系在TechCrunch Disrupt 2026中发挥重要作用",
+      "start_seconds": 341.52,
+      "duration_seconds": 41.94
+    },
+    {
+      "news_id": "d947cdfa9abd9ef70140",
+      "title": "Google的$ 899 Googlebook是您为Gemini购买新笔记本电脑的赌注",
+      "start_seconds": 383.46,
+      "duration_seconds": 25.24
+    },
+    {
+      "news_id": "ee528cab69e758e68d5c",
+      "title": "在TechCrunch Disrupt 2026上迎接下一波风投评选《创业战场200》",
+      "start_seconds": 408.7,
+      "duration_seconds": 36.02
+    },
+    {
+      "news_id": "c8b7580d0a35361cb49e",
+      "title": "iPhone用户现在可以在苹果2.5亿美元的Siri AI和解中提交索赔",
+      "start_seconds": 444.72,
+      "duration_seconds": 35.02
+    },
+    {
+      "news_id": "693823a542ab6ff19ef0",
+      "title": "John Ternus能否找到苹果的下一件大事？",
+      "start_seconds": 479.74,
+      "duration_seconds": 32.18
+    },
+    {
+      "news_id": "7cd5365733ad83d6206f",
+      "title": "亚马逊封锁了Meta的Muse AI代理",
+      "start_seconds": 511.92,
+      "duration_seconds": 29.04
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:21:48.627473+08:00",
+  "title": "2026-09-11 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "338a77b082d6e9b86e32",
+      "title": "通过搜索为下一场大型比赛做准备的 3 种方法",
+      "summary": "带有放大镜和双子座火花覆盖的彩色跑步者蓝色背景的插图",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "importance": 0.7915,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "kind": "official",
+          "published_at": "2026-09-10T16:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6a886414536a09e3da65",
+      "title": "现在每个人都可以将数据运用到工作中",
+      "summary": "在 ChatGPT Work 中认识数据代理。使用自然语言连接公司数据、发现见解并通过 AI 构建交互式仪表板。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T15:00:00+00:00",
+      "importance": 0.7852,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/put-data-to-work",
+          "kind": "official",
+          "published_at": "2026-09-10T15:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c9f232e078296caeb095",
+      "title": "Skild AI 利用 NVIDIA 物理 AI 通过单个视频教授机器人新任务",
+      "summary": "制造车间、仓库和生产线很少保持固定——任务变化、布局变化和新产品到来，如果不进行重大的重新编程，大多数机器人就无法跟上。 Skild AI 的新型 S1 机器人诞生",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T16:30:35+00:00",
+      "importance": 0.7722,
+      "sources": [
+        {
+          "name": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+          "kind": "official",
+          "published_at": "2026-09-10T16:30:35+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7aa7a69d878311641f05",
+      "title": "物理 AI 掌舵：全球 Robotaxi 领导者如何利用 NVIDIA 技术进行构建",
+      "summary": "全球机器人出租车市场是物理人工智能的第一个商业突破，预计到 2035 年将达到 4000 亿美元，随着无人驾驶车队已经将人们运送到目的地，商用车辆将超过 600 万辆在运营。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-10T16:00:04+00:00",
+      "importance": 0.769,
+      "sources": [
+        {
+          "name": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+          "kind": "official",
+          "published_at": "2026-09-10T16:00:04+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5d4dbf40361366649d32",
+      "title": "d-Matrix 采用 NVIDIA NVLink Fusion 进行机架级 XPU 部署",
+      "summary": "AI 推理芯片制造商 d-Matrix 今天宣布将使用 NVLink Fusion 将其下一代 Raptor XPU 连接到 NVIDIA 的 AI 基础设施平台 - 加入不断壮大的基于 NVIDIA AI 的合作伙伴名单",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T13:00:21+00:00",
+      "importance": 0.7503,
+      "sources": [
+        {
+          "name": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+          "kind": "official",
+          "published_at": "2026-09-10T13:00:21+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3b594c83ebcdbfea8af6",
+      "title": "黄仁勋解释为何 Nvidia 明年将实现惊人的 70% 增长",
+      "summary": "黄仁勋表示，英伟达涉足每一个领域，并预计未来又将迎来丰收的一年。但他坚称，其交易不是循环性的。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T21:51:59+00:00",
+      "importance": 0.7472,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+          "kind": "media",
+          "published_at": "2026-09-10T21:51:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "baa39032259715dd52d8",
+      "title": "Slack 现在可以在聊天中对交互式图表和报告进行振动编码",
+      "summary": "Slack 推出的一项新功能将允许您直接在聊天中构建交互式报告、民意调查、仪表板、演示文稿、微型网站和其他工具。借助 Slackforce Surfaces，您可以向 Slackbot 描述什么",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T21:29:59+00:00",
+      "importance": 0.7449,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "kind": "media",
+          "published_at": "2026-09-10T21:29:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f49931154f94bfeb24c4",
+      "title": "由于 Astra 需求，OpenAI 暂停 Pro 订阅",
+      "summary": "该公司表示，专业版订阅对其系统造成的压力最大，因此它暂停了注册，同时增加了容量。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T20:59:51+00:00",
+      "importance": 0.7417,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+          "kind": "media",
+          "published_at": "2026-09-10T20:59:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ef2856f80dd39d558c5a",
+      "title": "Anthropic 详细介绍了阿里巴巴、Moonshot AI 和 DeepSeek 的蒸馏活动",
+      "summary": "Anthropic 周四发布的一份新报告称，中国人工智能公司持续发起蒸馏攻击，近几个月来，随着该领域竞争的加剧，攻击不断升级。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T20:57:30+00:00",
+      "importance": 0.7415,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+          "kind": "media",
+          "published_at": "2026-09-10T20:57:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3802aa15c4b6ae22021a",
+      "title": "扩大联邦、州、地方和部落政府的人工智能访问和网络防御",
+      "summary": "OpenAI 和 GSA 将为符合条件的联邦、州、地方和部落政府提供 0 美元许可费、50% 的使用费折扣以及扩大的网络防御支持。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "importance": 0.7352,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "kind": "official",
+          "published_at": "2026-09-10T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "234235455c19c6c591a5",
+      "title": "Meta 的 AI 代理 Muse 目前是美国排名第二的应用程序",
+      "summary": "Meta 的最新应用程序 Muse 的启动速度比该公司的其他应用程序（例如 Meta AI 或 Threads）要慢。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T19:50:04+00:00",
+      "importance": 0.7345,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+          "kind": "media",
+          "published_at": "2026-09-10T19:50:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "36170847786106c44060",
+      "title": "学校正在学习大型科技公司的策略",
+      "summary": "这是科技领域最热门的新事物，也是所有工作岗位的所在地。不学会使用它的学生就会落后。为了帮助他们及时赶上，其创建者慷慨地提供资源和课程",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T19:49:38+00:00",
+      "importance": 0.7344,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+          "kind": "media",
+          "published_at": "2026-09-10T19:49:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ed4c714c44aa756416c3",
+      "title": "OpenAI 巧妙的数学突破让学术界不寒而栗",
+      "summary": "OpenAI 周二宣布它已经解决了数学界的传奇千禧奖问题之一，这本应该是一个胜利的时刻。结果既是不可否认的成就，也是对",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T19:45:43+00:00",
+      "importance": 0.734,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "kind": "media",
+          "published_at": "2026-09-10T19:45:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0742b565342c25a2a04a",
+      "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+      "summary": "走进机器人的内心世界，试图让互联网相信它是人类。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T17:54:44+00:00",
+      "importance": 0.7224,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "kind": "media",
+          "published_at": "2026-09-10T17:54:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2d4b75c49a05c7dbc883",
+      "title": "印度 Pocket FM 收入翻倍，达到 5 亿美元，人工智能为 93% 的音频内容提供支持",
+      "summary": "Pocket FM 99% 的新内容均使用人工智能制作，从而使内容制作成本降低了约 80 倍。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-10T17:45:00+00:00",
+      "importance": 0.7214,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
+          "kind": "media",
+          "published_at": "2026-09-10T17:45:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "325b5817277a009d2261",
+      "title": "环球音乐与 ElevenLabs 合作推出人工智能音乐平台",
+      "summary": "据周四发布的公告称，环球音乐集团正在推出一个新的人工智能平台，该平台将允许用户从其授权音乐目录中提取歌曲，以创建歌曲混音、混搭和新曲目。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-10T16:06:36+00:00",
+      "importance": 0.7112,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+          "kind": "media",
+          "published_at": "2026-09-10T16:06:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c02e0963481455e7fbd1",
+      "title": "人工智能代理正在向公共服务提出新的要求",
+      "summary": "研究人员告诉 TechCrunch：“我们发现的绝大多数案例都是有权对某物提出索赔的人。”",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-10T14:53:50+00:00",
+      "importance": 0.7036,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+          "kind": "media",
+          "published_at": "2026-09-10T14:53:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e29cd346e532312e5f2c",
+      "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
+      "summary": "另一位研究人员正在就数据驱动 OpenAI 不断取得令人印象深刻的数学发现向 OpenAI 发起挑战。就在几天前，围绕该公司的模型是否受益于未公开的数据而引发激烈争吵。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-10T11:19:44+00:00",
+      "importance": 0.6813,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+          "kind": "media",
+          "published_at": "2026-09-10T11:19:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-11.wav?v=1789104114678992400",
+  "chapters": [
+    {
+      "news_id": "338a77b082d6e9b86e32",
+      "title": "通过搜索为下一场大型比赛做准备的 3 种方法",
+      "start_seconds": 14.16,
+      "duration_seconds": 20.08
+    },
+    {
+      "news_id": "6a886414536a09e3da65",
+      "title": "现在每个人都可以将数据运用到工作中",
+      "start_seconds": 34.24,
+      "duration_seconds": 24.48
+    },
+    {
+      "news_id": "c9f232e078296caeb095",
+      "title": "Skild AI 利用 NVIDIA 物理 AI 通过单个视频教授机器人新任务",
+      "start_seconds": 58.72,
+      "duration_seconds": 33.7
+    },
+    {
+      "news_id": "7aa7a69d878311641f05",
+      "title": "物理 AI 掌舵：全球 Robotaxi 领导者如何利用 NVIDIA 技术进行构建",
+      "start_seconds": 92.42,
+      "duration_seconds": 34.06
+    },
+    {
+      "news_id": "5d4dbf40361366649d32",
+      "title": "d-Matrix 采用 NVIDIA NVLink Fusion 进行机架级 XPU 部署",
+      "start_seconds": 126.48,
+      "duration_seconds": 32.38
+    },
+    {
+      "news_id": "3b594c83ebcdbfea8af6",
+      "title": "黄仁勋解释为何 Nvidia 明年将实现惊人的 70% 增长",
+      "start_seconds": 158.86,
+      "duration_seconds": 26.9
+    },
+    {
+      "news_id": "baa39032259715dd52d8",
+      "title": "Slack 现在可以在聊天中对交互式图表和报告进行振动编码",
+      "start_seconds": 185.76,
+      "duration_seconds": 33.84
+    },
+    {
+      "news_id": "f49931154f94bfeb24c4",
+      "title": "由于 Astra 需求，OpenAI 暂停 Pro 订阅",
+      "start_seconds": 219.6,
+      "duration_seconds": 22.98
+    },
+    {
+      "news_id": "ef2856f80dd39d558c5a",
+      "title": "Anthropic 详细介绍了阿里巴巴、Moonshot AI 和 DeepSeek 的蒸馏活动",
+      "start_seconds": 242.58,
+      "duration_seconds": 28.82
+    },
+    {
+      "news_id": "3802aa15c4b6ae22021a",
+      "title": "扩大联邦、州、地方和部落政府的人工智能访问和网络防御",
+      "start_seconds": 271.4,
+      "duration_seconds": 29.1
+    },
+    {
+      "news_id": "234235455c19c6c591a5",
+      "title": "Meta 的 AI 代理 Muse 目前是美国排名第二的应用程序",
+      "start_seconds": 300.5,
+      "duration_seconds": 23.66
+    },
+    {
+      "news_id": "36170847786106c44060",
+      "title": "学校正在学习大型科技公司的策略",
+      "start_seconds": 324.16,
+      "duration_seconds": 29.16
+    },
+    {
+      "news_id": "ed4c714c44aa756416c3",
+      "title": "OpenAI 巧妙的数学突破让学术界不寒而栗",
+      "start_seconds": 353.32,
+      "duration_seconds": 26.66
+    },
+    {
+      "news_id": "0742b565342c25a2a04a",
+      "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+      "start_seconds": 379.98,
+      "duration_seconds": 20.96
+    },
+    {
+      "news_id": "2d4b75c49a05c7dbc883",
+      "title": "印度 Pocket FM 收入翻倍，达到 5 亿美元，人工智能为 93% 的音频内容提供支持",
+      "start_seconds": 400.94,
+      "duration_seconds": 27.76
+    },
+    {
+      "news_id": "325b5817277a009d2261",
+      "title": "环球音乐与 ElevenLabs 合作推出人工智能音乐平台",
+      "start_seconds": 428.7,
+      "duration_seconds": 30.78
+    },
+    {
+      "news_id": "c02e0963481455e7fbd1",
+      "title": "人工智能代理正在向公共服务提出新的要求",
+      "start_seconds": 459.48,
+      "duration_seconds": 22.3
+    },
+    {
+      "news_id": "e29cd346e532312e5f2c",
+      "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
+      "start_seconds": 481.78,
+      "duration_seconds": 32.14
+    }
+  ]
+}
