@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T17:56:36.828048+08:00",
+  "title": "2026-11-09 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "f0be6325bfc4dec9fdd9",
+      "title": "以下是Jensen Huang给Nvidia的备忘录全文",
+      "summary": "周日，英伟达宣布将对首席执行官黄延森（ Jensen Huang ）与中国政府人工智能高管兼代理人黄爱丽丝（ Alice Huang ）的关系展开调查。除了董事会宣布",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-08T22:54:50+00:00",
+      "importance": 0.7265,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "kind": "media",
+          "published_at": "2026-11-08T22:54:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1ab28dde47a3074f5d54",
+      "title": "纽约时报烹饪的AI助手拯救了我的工作夜鸡，但几乎毁了我的蛋糕",
+      "summary": "每个工作日晚上7点左右，我发现自己站在冰箱前，试图选择一些不会让我丈夫抱怨的晚餐， “又是鸡？“是的，我应该多做一些膳食计划，但我没有，所以这个",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-08T19:41:47+00:00",
+      "importance": 0.7064,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+          "kind": "media",
+          "published_at": "2026-11-08T19:41:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b9c0dd474c98ba84113b",
+      "title": "苹果正在竞相让Siri更具特工气质",
+      "summary": "彭博社的马克·古尔曼（ Mark Gurman ）表示，首席执行官约翰·特纳斯（ John Ternus ）正在向人工智能沙皇克雷格·费德里吉（ Craig Federighi ）施加压力，以加速Siri的路线图，并提供强大的人工智能代理，可以与OpenAI的Dots或Meta的而Federighi有de",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-08T19:18:19+00:00",
+      "importance": 0.7039,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "kind": "media",
+          "published_at": "2026-11-08T19:18:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c08233254ab556923442",
+      "title": "猫王和Eminem权利人起诉Suno",
+      "summary": "Suno正面临另一起诉讼。埃尔维斯·普雷斯利（ Elvis Presley ）音乐的一群版权所有者和阿姆（ Eminem ）一些最大唱片的发行商正在起诉这家AI音乐公司，声称它非法制作音乐",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-08T17:23:19+00:00",
+      "importance": 0.692,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "kind": "media",
+          "published_at": "2026-11-08T17:23:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "177dd03271cc9aec73ac",
+      "title": "Jensen Huang的工作在线吗？耶鲁大学的杰弗里·索南菲尔德（ Jeffrey Sonnenfeld ）估计， “大约是50-50”",
+      "summary": "英伟达董事会正在调查Jensen Huang与中国间谍嫌疑人的关系，耶鲁大学的Jeffrey Sonnenfeld认为，无论Huang是否继续担任首席执行官，这大概是一个硬币翻转。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T05:26:29+00:00",
+      "importance": 0.6423,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+          "kind": "media",
+          "published_at": "2026-11-09T05:26:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "54c06e97d6e0a2b71c0f",
+      "title": "英伟达正在调查黄延森与一名中国间谍的关系",
+      "summary": "英伟达（ Nvidia ）宣布，它正在对首席执行官黄延森（ Jensen Huang ）及其与Megaspeed高管黄爱丽丝（ Alice Huang ）的关系展开调查，据报道，黄爱丽丝被中国国家安全部招募来监视",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-09T02:24:39+00:00",
+      "importance": 0.6234,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "kind": "media",
+          "published_at": "2026-11-09T02:24:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "38fe228e959e9b160800",
+      "title": "将Flash游戏移植到DOS （无AI ） [video]",
+      "summary": "文章网址： https://www.youtube.com/watch?v=5r-NeMRsfdw评论网址： https://news.ycombinator.com/item?id=50423158点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T09:23:28+00:00",
+      "importance": 0.602,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=5r-NeMRsfdw",
+          "kind": "social",
+          "published_at": "2026-11-09T09:23:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e71b523b4e92eef2314d",
+      "title": "意法半导体简化STM32开发人员的人工智能模型开发",
+      "summary": "文章网址： https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html评论网址： https://news.ycombinator.com/item?id=50422908点数： 2",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T08:52:24+00:00",
+      "importance": 0.5987,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html",
+          "kind": "social",
+          "published_at": "2026-11-09T08:52:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4161b961fc34e5603213",
+      "title": "Show HN ： AI编码代理的控制层演示",
+      "summary": "让编码代理（如Claude Code ）每天在存储库上自主工作，会带来高度的不确定性。对于那些不让客服代表单独决定是否可以创建/修改或删除任何文件夹的人",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-09T08:43:54+00:00",
+      "importance": 0.5979,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/MintCoderpro/mintigate-demo",
+          "kind": "social",
+          "published_at": "2026-11-09T08:43:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "36fce04b839fe07d0231",
+      "title": "0rwx人工智能使用框架",
+      "summary": "文章网址： https://0rwx.com/评论网址： https://news.ycombinator.com/item?id=50422694点数： 3 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T08:27:21+00:00",
+      "importance": 0.5961,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://0rwx.com",
+          "kind": "social",
+          "published_at": "2026-11-09T08:27:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d243891b591e4d05e84b",
+      "title": "Anthropic IPO遭遇人工智能反弹",
+      "summary": "文章网址： https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html评论网址： https://news.ycombinator.com/item?id=50422592点数： 4 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T08:13:00+00:00",
+      "importance": 0.5946,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+          "kind": "social",
+          "published_at": "2026-11-09T08:13:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b79ca4d3c71ff6468eeb",
+      "title": "使用人工智能将文字或照片转换为360°全景",
+      "summary": "文章网址： https://ai360generator.com评论网址： https://news.ycombinator.com/item?id=50422413点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T07:50:07+00:00",
+      "importance": 0.5923,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://ai360generator.com",
+          "kind": "social",
+          "published_at": "2026-11-09T07:50:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e74bac8b965648828189",
+      "title": "Asahi Linux禁止使用人工智能做出贡献",
+      "summary": "文章网址： https://asahilinux.org/llm-policy/评论网址： https://news.ycombinator.com/item?id=50422306点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-09T07:36:35+00:00",
+      "importance": 0.5909,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://asahilinux.org/llm-policy",
+          "kind": "social",
+          "published_at": "2026-11-09T07:36:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "36fca88880e047cff6c3",
+      "title": "20个月内370本书：南非作家为她使用人工智能辩护",
+      "summary": "文章网址： https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai评论网址： https://news.ycombinator.com/item?id=50422181点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T07:21:33+00:00",
+      "importance": 0.5893,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+          "kind": "social",
+          "published_at": "2026-11-09T07:21:33+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dc737ab7b99f76710550",
+      "title": "跟踪人工智能在劳动力市场上的实时足迹",
+      "summary": "文章网址： https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market评论网址： https://news.ycombinator.com/item?id=50422174点数： 2 #评论： 0",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-09T07:20:55+00:00",
+      "importance": 0.5892,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market",
+          "kind": "social",
+          "published_at": "2026-11-09T07:20:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8b3e103bdadb15668c8e",
+      "title": "作为人工智能的肉类代理应该是让人们被解雇的理由",
+      "summary": "文章网址： https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired评论网址： https://news.ycombinator.com/item?id=50422001点数： 39 #评论： 28",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T06:55:38+00:00",
+      "importance": 0.5866,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+          "kind": "social",
+          "published_at": "2026-11-09T06:55:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29f64af329084635baec",
+      "title": "我的人工智能代理在维护运行期间存档了53项自己的技能",
+      "summary": "文章网址： https://www.dhawalshah.net/article/ai-agent-governance/评论网址： https://news.ycombinator.com/item?id=50421997点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T06:55:24+00:00",
+      "importance": 0.5866,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.dhawalshah.net/article/ai-agent-governance",
+          "kind": "social",
+          "published_at": "2026-11-09T06:55:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "51e188cacfb0a1605089",
+      "title": "OKF –人类和人工智能的Markdown规范",
+      "summary": "文章网址： https://okf.md/评论网址： https://news.ycombinator.com/item?id=50421832点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-09T06:29:05+00:00",
+      "importance": 0.5838,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://okf.md",
+          "kind": "social",
+          "published_at": "2026-11-09T06:29:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-09.wav?v=1794218204794460500",
+  "chapters": [
+    {
+      "news_id": "f0be6325bfc4dec9fdd9",
+      "title": "以下是Jensen Huang给Nvidia的备忘录全文",
+      "start_seconds": 14.16,
+      "duration_seconds": 30.02
+    },
+    {
+      "news_id": "1ab28dde47a3074f5d54",
+      "title": "纽约时报烹饪的AI助手拯救了我的工作夜鸡，但几乎毁了我的蛋糕",
+      "start_seconds": 44.18,
+      "duration_seconds": 32.84
+    },
+    {
+      "news_id": "b9c0dd474c98ba84113b",
+      "title": "苹果正在竞相让Siri更具特工气质",
+      "start_seconds": 77.02,
+      "duration_seconds": 38.2
+    },
+    {
+      "news_id": "c08233254ab556923442",
+      "title": "猫王和Eminem权利人起诉Suno",
+      "start_seconds": 115.22,
+      "duration_seconds": 30.96
+    },
+    {
+      "news_id": "177dd03271cc9aec73ac",
+      "title": "Jensen Huang的工作在线吗？耶鲁大学的杰弗里·索南菲尔德（ Jeffrey Sonnenfeld ）估计， “大约是50-50”",
+      "start_seconds": 146.18,
+      "duration_seconds": 35.3
+    },
+    {
+      "news_id": "54c06e97d6e0a2b71c0f",
+      "title": "英伟达正在调查黄延森与一名中国间谍的关系",
+      "start_seconds": 181.48,
+      "duration_seconds": 33.3
+    },
+    {
+      "news_id": "38fe228e959e9b160800",
+      "title": "将Flash游戏移植到DOS （无AI ） [video]",
+      "start_seconds": 214.78,
+      "duration_seconds": 37.2
+    },
+    {
+      "news_id": "e71b523b4e92eef2314d",
+      "title": "意法半导体简化STM32开发人员的人工智能模型开发",
+      "start_seconds": 251.98,
+      "duration_seconds": 49.2
+    },
+    {
+      "news_id": "4161b961fc34e5603213",
+      "title": "Show HN ： AI编码代理的控制层演示",
+      "start_seconds": 301.18,
+      "duration_seconds": 29.28
+    },
+    {
+      "news_id": "36fce04b839fe07d0231",
+      "title": "0rwx人工智能使用框架",
+      "start_seconds": 330.46,
+      "duration_seconds": 31.8
+    },
+    {
+      "news_id": "d243891b591e4d05e84b",
+      "title": "Anthropic IPO遭遇人工智能反弹",
+      "start_seconds": 362.26,
+      "duration_seconds": 41.66
+    },
+    {
+      "news_id": "b79ca4d3c71ff6468eeb",
+      "title": "使用人工智能将文字或照片转换为360°全景",
+      "start_seconds": 403.92,
+      "duration_seconds": 33.56
+    },
+    {
+      "news_id": "e74bac8b965648828189",
+      "title": "Asahi Linux禁止使用人工智能做出贡献",
+      "start_seconds": 437.48,
+      "duration_seconds": 33.88
+    },
+    {
+      "news_id": "36fca88880e047cff6c3",
+      "title": "20个月内370本书：南非作家为她使用人工智能辩护",
+      "start_seconds": 471.36,
+      "duration_seconds": 44.08
+    },
+    {
+      "news_id": "dc737ab7b99f76710550",
+      "title": "跟踪人工智能在劳动力市场上的实时足迹",
+      "start_seconds": 515.44,
+      "duration_seconds": 40.7
+    },
+    {
+      "news_id": "8b3e103bdadb15668c8e",
+      "title": "作为人工智能的肉类代理应该是让人们被解雇的理由",
+      "start_seconds": 556.14,
+      "duration_seconds": 43.68
+    },
+    {
+      "news_id": "29f64af329084635baec",
+      "title": "我的人工智能代理在维护运行期间存档了53项自己的技能",
+      "start_seconds": 599.82,
+      "duration_seconds": 38.42
+    },
+    {
+      "news_id": "51e188cacfb0a1605089",
+      "title": "OKF –人类和人工智能的Markdown规范",
+      "start_seconds": 638.24,
+      "duration_seconds": 31.16
+    }
+  ]
+}
