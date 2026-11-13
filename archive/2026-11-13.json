@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T10:42:14.310998+08:00",
+  "title": "2026-11-13 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋已辞职。接下来会发生什么？",
+      "summary": "在身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，他的公司最初宣布将展开调查。然而，《纽约时报》的记者",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T00:45:25+00:00",
+      "importance": 0.7838,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "kind": "media",
+          "published_at": "2026-11-13T00:45:25+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0b5401a8842f0b62f626",
+      "title": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。",
+      "summary": "伊利诺伊州众议员比尔·福斯特（Bill Foster）告诉《麻省理工科技评论》，英伟达的代表向他表示，从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "importance": 0.7828,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+          "kind": "media",
+          "published_at": "2026-11-12T20:16:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cbdc8f6b1c4c9f015936",
+      "title": "民主党人发起对英伟达的调查，并就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+      "summary": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普往来的第二次国会调查。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T22:42:51+00:00",
+      "importance": 0.7711,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+          "kind": "media",
+          "published_at": "2026-11-12T22:42:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ab23a7fa21e24fb3c242",
+      "title": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
+      "summary": "Muse 的 AI 现在可以向美国企业拨打外拨电话，但这不是免费的。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T22:22:28+00:00",
+      "importance": 0.7689,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+          "kind": "media",
+          "published_at": "2026-11-12T22:22:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a3e1afb4a33deb1bb631",
+      "title": "谷歌的新Gemini模型更擅长理解复杂的问题",
+      "summary": "谷歌表示，其全新Gemini 4 Hydrogen模型能够对复杂问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度具体的要求”。新模型可以……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T21:55:32+00:00",
+      "importance": 0.7661,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "kind": "media",
+          "published_at": "2026-11-12T21:55:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "104f40efd6071a516b0a",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-12T21:35:00+00:00",
+      "importance": 0.764,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "kind": "media",
+          "published_at": "2026-11-12T21:35:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fb1ddd2a5ff741f61902",
+      "title": "Nebius计划斥资400亿美元测试新云战略手册",
+      "summary": "Nebius计划通过客户预付款和贷款为其400亿美元的人工智能基础设施扩张提供资金，即使微软数据中心的延迟引发了对其融资模式的质疑。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T21:27:10+00:00",
+      "importance": 0.7632,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+          "kind": "media",
+          "published_at": "2026-11-12T21:27:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e699e9bae2542438eaf0",
+      "title": "路透社报道，黄仁勋有第三段婚外情",
+      "summary": "路透社未透露与黄仁勋有关联的新员工的姓名，但表示她是英伟达的员工。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T20:26:47+00:00",
+      "importance": 0.7569,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+          "kind": "media",
+          "published_at": "2026-11-12T20:26:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a20d1e6a0e529bc1715f",
+      "title": "不，AI 代理并未发现此前未知的玛雅遗址",
+      "summary": "本周早些时候，Google 研究员 Pietro Miotti 宣称，在人工智能代理团队的协助下，他发现了一处可能尚未被绘制在地图上的墨西哥玛雅遗址。只有一个问题：该遗址早已被发现。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-12T19:42:40+00:00",
+      "importance": 0.7523,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+          "kind": "media",
+          "published_at": "2026-11-12T19:42:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "341363dd4020e2e543df",
+      "title": "谷歌最新的搜索升级承诺为您最复杂的问题提供更好的答案",
+      "summary": "借助Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的视觉响应方面正变得越来越出色。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T19:27:45+00:00",
+      "importance": 0.7507,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+          "kind": "media",
+          "published_at": "2026-11-12T19:27:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ce1eab2bbb5c79a9e4f6",
+      "title": "黄仁勋丑闻远未结束",
+      "summary": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会刀枪不入呢？他把自己置于人工智能行业的中心，不可或缺，而且众所周知，他从未成功过。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T19:16:51+00:00",
+      "importance": 0.7496,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+          "kind": "media",
+          "published_at": "2026-11-12T19:16:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d77c24751633c8701525",
+      "title": "Nectar推出AI代理，帮助品牌方自动化发现和联系创作者",
+      "summary": "Nectar 的全新 AI 代理可自动化网红营销，帮助品牌发现创作者、管理外联和合作关系，并跟踪营销活动的效果。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-12T19:11:00+00:00",
+      "importance": 0.749,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+          "kind": "media",
+          "published_at": "2026-11-12T19:11:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4a496b32dce8dcb70540",
+      "title": "Jensen Huang 的离职使人们对英伟达对开源的支持产生疑问",
+      "summary": "随着公司进入领导层过渡期，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-12T18:39:23+00:00",
+      "importance": 0.7457,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+          "kind": "media",
+          "published_at": "2026-11-12T18:39:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "64a6f20ebcc4dac132a4",
+      "title": "研究发现，人工智能聊天机器人正在推荐虚假的零售网站",
+      "summary": "一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他高风险网站。这项研究由知识产权保护公司Podqi开展，并独家分享了",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-12T18:35:54+00:00",
+      "importance": 0.7453,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+          "kind": "media",
+          "published_at": "2026-11-12T18:35:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9ccf02f3129f7388553e",
+      "title": "Hugging Face首席执行官誓言在Jensen Huang退出后继续为开源人工智能而战",
+      "summary": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-12T17:36:40+00:00",
+      "importance": 0.7392,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "kind": "media",
+          "published_at": "2026-11-12T17:36:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "889dda614b5244142fc7",
+      "title": "越来越多的游戏开发者开始使用生成式人工智能",
+      "summary": "根据GDC游戏节的最新年度行业调查，与去年相比，有更多的视频游戏开发者在工作中使用了生成式AI工具。40% 的受访开发者表示他们在使用生成式 AI 工具。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T17:24:09+00:00",
+      "importance": 0.7379,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+          "kind": "media",
+          "published_at": "2026-11-12T17:24:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "039c74dda2a3b52c28a0",
+      "title": "美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班",
+      "summary": "该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-12T17:17:58+00:00",
+      "importance": 0.7372,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+          "kind": "media",
+          "published_at": "2026-11-12T17:17:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "743bb9f48555c86ca2ab",
+      "title": "软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志",
+      "summary": "软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这一损失对电力市场的意义。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-12T17:00:52+00:00",
+      "importance": 0.7354,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+          "kind": "media",
+          "published_at": "2026-11-12T17:00:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-13.wav?v=1794537741643661800",
+  "chapters": [
+    {
+      "news_id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋已辞职。接下来会发生什么？",
+      "start_seconds": 14.16,
+      "duration_seconds": 32.62
+    },
+    {
+      "news_id": "0b5401a8842f0b62f626",
+      "title": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。",
+      "start_seconds": 46.78,
+      "duration_seconds": 33.4
+    },
+    {
+      "news_id": "cbdc8f6b1c4c9f015936",
+      "title": "民主党人发起对英伟达的调查，并就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+      "start_seconds": 80.18,
+      "duration_seconds": 28.76
+    },
+    {
+      "news_id": "ab23a7fa21e24fb3c242",
+      "title": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
+      "start_seconds": 108.94,
+      "duration_seconds": 21.62
+    },
+    {
+      "news_id": "a3e1afb4a33deb1bb631",
+      "title": "谷歌的新Gemini模型更擅长理解复杂的问题",
+      "start_seconds": 130.56,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "104f40efd6071a516b0a",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "start_seconds": 161.14,
+      "duration_seconds": 26.76
+    },
+    {
+      "news_id": "fb1ddd2a5ff741f61902",
+      "title": "Nebius计划斥资400亿美元测试新云战略手册",
+      "start_seconds": 187.9,
+      "duration_seconds": 27.96
+    },
+    {
+      "news_id": "e699e9bae2542438eaf0",
+      "title": "路透社报道，黄仁勋有第三段婚外情",
+      "start_seconds": 215.86,
+      "duration_seconds": 21.1
+    },
+    {
+      "news_id": "a20d1e6a0e529bc1715f",
+      "title": "不，AI 代理并未发现此前未知的玛雅遗址",
+      "start_seconds": 236.96,
+      "duration_seconds": 32.48
+    },
+    {
+      "news_id": "341363dd4020e2e543df",
+      "title": "谷歌最新的搜索升级承诺为您最复杂的问题提供更好的答案",
+      "start_seconds": 269.44,
+      "duration_seconds": 27.22
+    },
+    {
+      "news_id": "ce1eab2bbb5c79a9e4f6",
+      "title": "黄仁勋丑闻远未结束",
+      "start_seconds": 296.66,
+      "duration_seconds": 31.72
+    },
+    {
+      "news_id": "d77c24751633c8701525",
+      "title": "Nectar推出AI代理，帮助品牌方自动化发现和联系创作者",
+      "start_seconds": 328.38,
+      "duration_seconds": 27.36
+    },
+    {
+      "news_id": "4a496b32dce8dcb70540",
+      "title": "Jensen Huang 的离职使人们对英伟达对开源的支持产生疑问",
+      "start_seconds": 355.74,
+      "duration_seconds": 31.58
+    },
+    {
+      "news_id": "64a6f20ebcc4dac132a4",
+      "title": "研究发现，人工智能聊天机器人正在推荐虚假的零售网站",
+      "start_seconds": 387.32,
+      "duration_seconds": 35.62
+    },
+    {
+      "news_id": "9ccf02f3129f7388553e",
+      "title": "Hugging Face首席执行官誓言在Jensen Huang退出后继续为开源人工智能而战",
+      "start_seconds": 422.94,
+      "duration_seconds": 29.66
+    },
+    {
+      "news_id": "889dda614b5244142fc7",
+      "title": "越来越多的游戏开发者开始使用生成式人工智能",
+      "start_seconds": 452.6,
+      "duration_seconds": 31.74
+    },
+    {
+      "news_id": "039c74dda2a3b52c28a0",
+      "title": "美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班",
+      "start_seconds": 484.34,
+      "duration_seconds": 23.72
+    },
+    {
+      "news_id": "743bb9f48555c86ca2ab",
+      "title": "软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志",
+      "start_seconds": 508.06,
+      "duration_seconds": 28.36
+    }
+  ]
+}
