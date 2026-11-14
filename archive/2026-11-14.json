@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:48:28.665981+08:00",
+  "title": "2026-11-14 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "ce1eab2bbb5c79a9e4f6",
+      "title": "黄仁勋丑闻远未结束",
+      "summary": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会刀枪不入呢？他把自己置于人工智能行业的中心，不可或缺，而且众所周知，他从未成功过。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-14T04:51:44+00:00",
+      "importance": 0.7828,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+          "kind": "media",
+          "published_at": "2026-11-14T04:51:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "96048276e5de0ccf8cbe",
+      "title": "亚马逊计划为全球在线购物数据编制索引",
+      "summary": "据路透社报道，亚马逊计划建立一个数据库，储存互联网上任何地方销售的每一种产品的数据，即使是亚马逊不销售的产品，并将这些信息通过自己的网站提供。该项目名为",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T23:49:11+00:00",
+      "importance": 0.7513,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "kind": "media",
+          "published_at": "2026-11-13T23:49:11+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d694fa95af0cfaecf52",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
+      "summary": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "importance": 0.7444,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+          "kind": "media",
+          "published_at": "2026-11-13T22:43:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "754f24889ed9e00a6da8",
+      "title": "ChatGPT钱包让OpenAI的Dots代理为您代购",
+      "summary": "在今年早些时候推出Dots AI代理平台后，OpenAI将为这些代理推出一款钱包。从今天开始，ChatGPT 钱包将面向美国境内年满 18 周岁且使用美国",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T20:45:10+00:00",
+      "importance": 0.7321,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "kind": "media",
+          "published_at": "2026-11-13T20:45:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "49f0b0840b1ef26af09f",
+      "title": "AI代理初创公司LangChain估值达30亿美元",
+      "summary": "LangChain目前声称其模型和平台无关的代理管理工具LangSmith拥有7000名客户。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "importance": 0.7251,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+          "kind": "media",
+          "published_at": "2026-11-13T19:37:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4815b0b06c4331032395",
+      "title": "黄仁勋传奇背后的真正利害关系",
+      "summary": "围绕英伟达首席执行官黄仁勋的传奇故事在上周四落下帷幕，当时黄仁勋辞去了这家人工智能领域最重要公司的最高职位。但在接下来的几周和几个月里，可能会有更重大的故事上演。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T19:17:15+00:00",
+      "importance": 0.7229,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "kind": "media",
+          "published_at": "2026-11-13T19:17:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b790ef257fc3d1721f2b",
+      "title": "让我们来聊聊黄仁勋的众多绯闻！",
+      "summary": "通常，我们会主动回答您关于新闻事件的问题，但坦白说，对于Nvidia到底发生了什么事，我们真的没有什么答案。我不能代表Nilay说话，但以Jensen Huang的语速，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T19:07:12+00:00",
+      "importance": 0.7219,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "kind": "media",
+          "published_at": "2026-11-13T19:07:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a5cbeaaf0b4df56fac42",
+      "title": "被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的功臣——哎呀，Jensen！",
+      "summary": "一项新研究表明，中国最先进的人工智能模型是在被禁用的Nvidia芯片上训练的。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-13T18:40:30+00:00",
+      "importance": 0.7191,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "kind": "media",
+          "published_at": "2026-11-13T18:40:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bbcb79fadd39dd32e9c7",
+      "title": "ChatGPT 的新钱包让 AI 代理为您购物和结账",
+      "summary": "ChatGPT钱包让AI代理能够代表用户购物和结账，该功能将首先有限度地向美国Pro版订阅用户推出。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "importance": 0.7024,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+          "kind": "media",
+          "published_at": "2026-11-13T16:00:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1dcca899a4f1e51430e5",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "summary": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-13T15:58:00+00:00",
+      "importance": 0.7022,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "kind": "media",
+          "published_at": "2026-11-13T15:58:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4d1482722545d06dd169",
+      "title": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
+      "summary": "ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T14:44:48+00:00",
+      "importance": 0.6945,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "kind": "media",
+          "published_at": "2026-11-13T14:44:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ad83f8c3766bbc41d223",
+      "title": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
+      "summary": "鉴于Nvidia在人工智能领域的稳固地位及其在以色列的重要性，该国初创企业生态系统中的许多人对他的离职所带来的影响感到担忧。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-13T12:52:19+00:00",
+      "importance": 0.6828,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+          "kind": "media",
+          "published_at": "2026-11-13T12:52:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0b5401a8842f0b62f626",
+      "title": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。",
+      "summary": "伊利诺伊州众议员比尔·福斯特（Bill Foster）告诉《麻省理工科技评论》，英伟达的代表向他表示，从技术上来说，实施《芯片安全法案》中要求的反走私措施是可行的。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-12T20:16:24+00:00",
+      "importance": 0.6061,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+          "kind": "media",
+          "published_at": "2026-11-12T20:16:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0acc674430dfd202ca5a",
+      "title": "Claude 的 Duet 智能助手有点神经质，但出人意料地有用",
+      "summary": "通常情况下，我测试的产品不会主动提出要帮助我撰写使用体验。Duet与众不同。Claude Duet是Anthropic面向消费者的AI代理，是这家AI公司为说服我们而作出的最新尝试：",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-13T00:23:32+00:00",
+      "importance": 0.6048,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "kind": "media",
+          "published_at": "2026-11-13T00:23:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cbdc8f6b1c4c9f015936",
+      "title": "民主党人发起对英伟达的调查，并就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+      "summary": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普往来的第二次国会调查。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T22:42:51+00:00",
+      "importance": 0.5943,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+          "kind": "media",
+          "published_at": "2026-11-12T22:42:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ab23a7fa21e24fb3c242",
+      "title": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
+      "summary": "Muse 的 AI 现在可以向美国企业拨打外拨电话，但这不是免费的。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T22:22:28+00:00",
+      "importance": 0.5922,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+          "kind": "media",
+          "published_at": "2026-11-12T22:22:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a3e1afb4a33deb1bb631",
+      "title": "谷歌的新Gemini模型更擅长理解复杂的问题",
+      "summary": "谷歌表示，其全新Gemini 4 Hydrogen模型能够对复杂问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度具体的要求”。新模型可以……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-12T21:55:32+00:00",
+      "importance": 0.5894,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "kind": "media",
+          "published_at": "2026-11-12T21:55:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a20d1e6a0e529bc1715f",
+      "title": "不，AI 代理并未发现此前未知的玛雅遗址",
+      "summary": "本周早些时候，Google 研究员 Pietro Miotti 宣称，在人工智能代理团队的协助下，他发现了一处可能尚未被绘制在地图上的墨西哥玛雅遗址。只有一个问题：该遗址早已被发现。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-12T19:42:40+00:00",
+      "importance": 0.5756,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+          "kind": "media",
+          "published_at": "2026-11-12T19:42:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-14.wav?v=1794638920581089000",
+  "chapters": [
+    {
+      "news_id": "ce1eab2bbb5c79a9e4f6",
+      "title": "黄仁勋丑闻远未结束",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.72
+    },
+    {
+      "news_id": "96048276e5de0ccf8cbe",
+      "title": "亚马逊计划为全球在线购物数据编制索引",
+      "start_seconds": 45.88,
+      "duration_seconds": 32.06
+    },
+    {
+      "news_id": "9d694fa95af0cfaecf52",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
+      "start_seconds": 77.94,
+      "duration_seconds": 34.26
+    },
+    {
+      "news_id": "754f24889ed9e00a6da8",
+      "title": "ChatGPT钱包让OpenAI的Dots代理为您代购",
+      "start_seconds": 112.2,
+      "duration_seconds": 30.26
+    },
+    {
+      "news_id": "49f0b0840b1ef26af09f",
+      "title": "AI代理初创公司LangChain估值达30亿美元",
+      "start_seconds": 142.46,
+      "duration_seconds": 21.76
+    },
+    {
+      "news_id": "4815b0b06c4331032395",
+      "title": "黄仁勋传奇背后的真正利害关系",
+      "start_seconds": 164.22,
+      "duration_seconds": 31.68
+    },
+    {
+      "news_id": "b790ef257fc3d1721f2b",
+      "title": "让我们来聊聊黄仁勋的众多绯闻！",
+      "start_seconds": 195.9,
+      "duration_seconds": 29.38
+    },
+    {
+      "news_id": "a5cbeaaf0b4df56fac42",
+      "title": "被禁止出口的英伟达芯片是中国最强大的人工智能模型背后的功臣——哎呀，Jensen！",
+      "start_seconds": 225.28,
+      "duration_seconds": 26.58
+    },
+    {
+      "news_id": "bbcb79fadd39dd32e9c7",
+      "title": "ChatGPT 的新钱包让 AI 代理为您购物和结账",
+      "start_seconds": 251.86,
+      "duration_seconds": 24.42
+    },
+    {
+      "news_id": "1dcca899a4f1e51430e5",
+      "title": "正在发酵的黄仁勋丑闻：时间线",
+      "start_seconds": 276.28,
+      "duration_seconds": 26.76
+    },
+    {
+      "news_id": "4d1482722545d06dd169",
+      "title": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
+      "start_seconds": 303.04,
+      "duration_seconds": 22.02
+    },
+    {
+      "news_id": "ad83f8c3766bbc41d223",
+      "title": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
+      "start_seconds": 325.06,
+      "duration_seconds": 28.66
+    },
+    {
+      "news_id": "0b5401a8842f0b62f626",
+      "title": "尽管业内公开质疑其可行性，但英伟达私下确认它可以追踪芯片以打击走私。",
+      "start_seconds": 353.72,
+      "duration_seconds": 33.4
+    },
+    {
+      "news_id": "0acc674430dfd202ca5a",
+      "title": "Claude 的 Duet 智能助手有点神经质，但出人意料地有用",
+      "start_seconds": 387.12,
+      "duration_seconds": 33.08
+    },
+    {
+      "news_id": "cbdc8f6b1c4c9f015936",
+      "title": "民主党人发起对英伟达的调查，并就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+      "start_seconds": 420.2,
+      "duration_seconds": 28.76
+    },
+    {
+      "news_id": "ab23a7fa21e24fb3c242",
+      "title": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
+      "start_seconds": 448.96,
+      "duration_seconds": 21.62
+    },
+    {
+      "news_id": "a3e1afb4a33deb1bb631",
+      "title": "谷歌的新Gemini模型更擅长理解复杂的问题",
+      "start_seconds": 470.58,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "a20d1e6a0e529bc1715f",
+      "title": "不，AI 代理并未发现此前未知的玛雅遗址",
+      "start_seconds": 501.16,
+      "duration_seconds": 32.48
+    }
+  ]
+}
