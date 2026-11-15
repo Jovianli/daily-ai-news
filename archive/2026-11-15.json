@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T14:41:20.713131+08:00",
+  "title": "2026-11-15 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "238432e278b3a0376a6f",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "importance": 0.7133,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "kind": "media",
+          "published_at": "2026-11-14T17:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "167c81c5d6fc7db57e5d",
+      "title": "Nvidia 的安全团队在哪里？",
+      "summary": "英伟达的安全主管已于8月悄然离职，而今首席执行官黄仁勋也因其人际关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司的某位高管的关系。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "importance": 0.6297,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+          "kind": "media",
+          "published_at": "2026-11-15T00:08:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fc1d70bba296bc73c153",
+      "title": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "summary": "截至周六下午，该请愿书已获得超过11.5万个签名。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "importance": 0.6144,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+          "kind": "media",
+          "published_at": "2026-11-14T21:41:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ada9207836ca819640b6",
+      "title": "Lawyer 将八个 V100 的私有 AI 服务器升级，以运行 80% 的 DeepSeek v4.1 Flash",
+      "summary": "文章网址：https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-15T06:19:01+00:00",
+      "importance": 0.6034,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+          "kind": "social",
+          "published_at": "2026-11-15T06:19:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d846d3759cb38d6c5274",
+      "title": "Stonebrook Quill：功能齐全的 AI 创作奇幻字体",
+      "summary": "文章网址：https://swordcoastmap.com/font评论网址：https://news.ycombinator.com/item?id=50504461积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T06:16:30+00:00",
+      "importance": 0.6031,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://swordcoastmap.com/font",
+          "kind": "social",
+          "published_at": "2026-11-15T06:16:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "154b5261be7d41a2500d",
+      "title": "IBM Spyre AI 加速卡（75W PCIe 卡，带 128GB LPDDR5）",
+      "summary": "文章网址：https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator 评论网址：https://news.ycombinator.com/item?id=50504443 分数：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T06:13:17+00:00",
+      "importance": 0.6028,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator",
+          "kind": "social",
+          "published_at": "2026-11-15T06:13:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "567a445dc0cf72e8411e",
+      "title": "Beau – 一款专注于日常聊天的AI男友应用",
+      "summary": "文章网址：https://play.google.com/store/apps/details?id=com.beau.aiboyfriend&hl=en_US 评论网址：https://news.ycombinator.com/item?id=50504376 点赞数：2 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T05:54:38+00:00",
+      "importance": 0.6008,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://play.google.com/store/apps/details?id=com.beau.aiboyfriend&hl=en_US",
+          "kind": "social",
+          "published_at": "2026-11-15T05:54:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c106e87032dd2ff1a66f",
+      "title": "BrowserDo·Embiody – 为 AI 代理打造的浏览器",
+      "summary": "文章网址： https://embiody.com/blog/embiody-0-9-preview/ 评论网址： https://news.ycombinator.com/item?id=50504343 点赞数：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T05:47:36+00:00",
+      "importance": 0.6001,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://embiody.com/blog/embiody-0-9-preview",
+          "kind": "social",
+          "published_at": "2026-11-15T05:47:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c760e293a889c30afe36",
+      "title": "一位人工智能怀疑论者的坦白",
+      "summary": "文章网址：https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/评论网址：https://news.ycombinator.com/item?id=50504236积分：3 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T05:20:55+00:00",
+      "importance": 0.5973,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic",
+          "kind": "social",
+          "published_at": "2026-11-15T05:20:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d694fa95af0cfaecf52",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
+      "summary": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "importance": 0.5959,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+          "kind": "media",
+          "published_at": "2026-11-13T22:43:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bf0210f341174d3b67c2",
+      "title": "黄仁勋是如何开辟一条后门路线，让北京在人工智能竞赛中保持领先地位的？",
+      "summary": "文章网址：https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d评论网址：https://news.ycombinator.com/item?id=50504083积分：5 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T04:42:37+00:00",
+      "importance": 0.5933,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+          "kind": "social",
+          "published_at": "2026-11-15T04:42:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5012ef6136a406ab470a",
+      "title": "智能 AI 输入法：翻译",
+      "summary": "文章网址：https://play.google.com/store/apps/details?id=smart.ai.keyboard&hl=en_US评论网址：https://news.ycombinator.com/item?id=50504021积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T04:28:32+00:00",
+      "importance": 0.5919,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://play.google.com/store/apps/details?id=smart.ai.keyboard&hl=en_US",
+          "kind": "social",
+          "published_at": "2026-11-15T04:28:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7953c1b796878bad7e3e",
+      "title": "Anthropic收购了一家由人工智能驱动的单人生物技术公司",
+      "summary": "文章网址：https://www.nature.com/articles/d41586-026-03640-9评论网址：https://news.ycombinator.com/item?id=50503888积分：2评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T04:01:16+00:00",
+      "importance": 0.589,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.nature.com/articles/d41586-026-03640-9",
+          "kind": "social",
+          "published_at": "2026-11-15T04:01:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1eff66b91b0226d903dc",
+      "title": "Linus Torvalds 怀疑 Linux 的 AI 驱动补丁潮是否已达到顶峰",
+      "summary": "文章网址：https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked评论网址：https://news.ycombinator.com/item?id=50503860积分：2 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T03:56:48+00:00",
+      "importance": 0.5886,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked",
+          "kind": "social",
+          "published_at": "2026-11-15T03:56:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "299cfd655b5df2e69b8e",
+      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职的反应",
+      "summary": "一些政府已采取行动，确认芯片供应承诺，而另一些政府则正在监测对本地项目的影响，或处理正在进行的调查。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-14T16:34:15+00:00",
+      "importance": 0.5825,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+          "kind": "media",
+          "published_at": "2026-11-14T16:34:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2603986b53022898f000",
+      "title": "ChatMate：通过沙盒逃逸在 AI 助手上远程执行提示 [视频]",
+      "summary": "文章网址：https://www.youtube.com/watch?v=MspRSCAb6uI评论网址：https://news.ycombinator.com/item?id=50503511积分：5 # 评论：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T02:49:18+00:00",
+      "importance": 0.5815,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=MspRSCAb6uI",
+          "kind": "social",
+          "published_at": "2026-11-15T02:49:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a51d05c1b4d51e2bd292",
+      "title": "多智能体 AI（LangGraph）用于审核 AI 论文的可重复性",
+      "summary": "文章网址：https://github.com/owenpatience2010-cmyk/paperpulse评论网址：https://news.ycombinator.com/item?id=50503435积分：2评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-15T02:35:18+00:00",
+      "importance": 0.5801,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/owenpatience2010-cmyk/paperpulse",
+          "kind": "social",
+          "published_at": "2026-11-15T02:35:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "066a9c4f6a0094bdf9ca",
+      "title": "提问HN：2026年您将使用哪种AI代理基础设施？",
+      "summary": "我是一个自主人工智能代理集合（aurum.zip）。我们用50美元的加密货币从零开始构建了整个基础设施：3条链上的钱包、一个加密货币结算系统、4个全天候运行的cron作业、11份研究报告和一个博客。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-15T01:22:43+00:00",
+      "importance": 0.5725,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50503017",
+          "kind": "social",
+          "published_at": "2026-11-15T01:22:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-15.wav?v=1794724888550859800",
+  "chapters": [
+    {
+      "news_id": "238432e278b3a0376a6f",
+      "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+      "start_seconds": 14.16,
+      "duration_seconds": 25.18
+    },
+    {
+      "news_id": "167c81c5d6fc7db57e5d",
+      "title": "Nvidia 的安全团队在哪里？",
+      "start_seconds": 39.34,
+      "duration_seconds": 27.02
+    },
+    {
+      "news_id": "fc1d70bba296bc73c153",
+      "title": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "start_seconds": 66.36,
+      "duration_seconds": 23.14
+    },
+    {
+      "news_id": "ada9207836ca819640b6",
+      "title": "Lawyer 将八个 V100 的私有 AI 服务器升级，以运行 80% 的 DeepSeek v4.1 Flash",
+      "start_seconds": 89.5,
+      "duration_seconds": 52.84
+    },
+    {
+      "news_id": "d846d3759cb38d6c5274",
+      "title": "Stonebrook Quill：功能齐全的 AI 创作奇幻字体",
+      "start_seconds": 142.34,
+      "duration_seconds": 33.28
+    },
+    {
+      "news_id": "154b5261be7d41a2500d",
+      "title": "IBM Spyre AI 加速卡（75W PCIe 卡，带 128GB LPDDR5）",
+      "start_seconds": 175.62,
+      "duration_seconds": 48.62
+    },
+    {
+      "news_id": "567a445dc0cf72e8411e",
+      "title": "Beau – 一款专注于日常聊天的AI男友应用",
+      "start_seconds": 224.24,
+      "duration_seconds": 39.54
+    },
+    {
+      "news_id": "c106e87032dd2ff1a66f",
+      "title": "BrowserDo·Embiody – 为 AI 代理打造的浏览器",
+      "start_seconds": 263.78,
+      "duration_seconds": 36.64
+    },
+    {
+      "news_id": "c760e293a889c30afe36",
+      "title": "一位人工智能怀疑论者的坦白",
+      "start_seconds": 300.42,
+      "duration_seconds": 36.56
+    },
+    {
+      "news_id": "9d694fa95af0cfaecf52",
+      "title": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
+      "start_seconds": 336.98,
+      "duration_seconds": 34.26
+    },
+    {
+      "news_id": "bf0210f341174d3b67c2",
+      "title": "黄仁勋是如何开辟一条后门路线，让北京在人工智能竞赛中保持领先地位的？",
+      "start_seconds": 371.24,
+      "duration_seconds": 45.0
+    },
+    {
+      "news_id": "5012ef6136a406ab470a",
+      "title": "智能 AI 输入法：翻译",
+      "start_seconds": 416.24,
+      "duration_seconds": 38.42
+    },
+    {
+      "news_id": "7953c1b796878bad7e3e",
+      "title": "Anthropic收购了一家由人工智能驱动的单人生物技术公司",
+      "start_seconds": 454.66,
+      "duration_seconds": 39.26
+    },
+    {
+      "news_id": "1eff66b91b0226d903dc",
+      "title": "Linus Torvalds 怀疑 Linux 的 AI 驱动补丁潮是否已达到顶峰",
+      "start_seconds": 493.92,
+      "duration_seconds": 49.12
+    },
+    {
+      "news_id": "299cfd655b5df2e69b8e",
+      "title": "亚洲各国政府对英伟达首席执行官黄仁勋离职的反应",
+      "start_seconds": 543.04,
+      "duration_seconds": 26.18
+    },
+    {
+      "news_id": "2603986b53022898f000",
+      "title": "ChatMate：通过沙盒逃逸在 AI 助手上远程执行提示 [视频]",
+      "start_seconds": 569.22,
+      "duration_seconds": 38.04
+    },
+    {
+      "news_id": "a51d05c1b4d51e2bd292",
+      "title": "多智能体 AI（LangGraph）用于审核 AI 论文的可重复性",
+      "start_seconds": 607.26,
+      "duration_seconds": 37.96
+    },
+    {
+      "news_id": "066a9c4f6a0094bdf9ca",
+      "title": "提问HN：2026年您将使用哪种AI代理基础设施？",
+      "start_seconds": 645.22,
+      "duration_seconds": 37.74
+    }
+  ]
+}
