@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T15:00:08.008195+08:00",
+  "title": "2026-11-16 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "c57d5fdb338c13ebb499",
+      "title": "苹果公司的新研究旨在提高人工智能健康工具的有效性",
+      "summary": "苹果公司今天宣布了一项新研究，旨在更好地了解人们如何与对话式人工智能健康工具互动，以及这些工具的回复实际上有多大用处。该公司正在开展Apple Health AI U项目。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T01:47:16+00:00",
+      "importance": 0.7634,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "kind": "media",
+          "published_at": "2026-11-16T01:47:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "87b76e5b13944ae023be",
+      "title": "苹果推出新应用，研究人们如何使用人工智能来管理健康",
+      "summary": "苹果公司的新研究应用程序将回答日常医疗问题",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T01:30:00+00:00",
+      "importance": 0.7616,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+          "kind": "media",
+          "published_at": "2026-11-16T01:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "61200927e23c6bf1a95c",
+      "title": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
+      "summary": "Bharat Semi表示，其支持人工智能的传感器技术已获得多家公司（包括通用原子能公司）的设计采用。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "importance": 0.7491,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+          "kind": "media",
+          "published_at": "2026-11-15T23:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "24cbece72f55c409692d",
+      "title": "对黄仁杰来说是坏消息，对人工智能行业来说也是坏消息吗？",
+      "summary": "“Jensen就是Nvidia，对吧？而这片经济的很大一部分都寄托在英伟达身上。”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "importance": 0.7394,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+          "kind": "media",
+          "published_at": "2026-11-15T21:56:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6c2c64409dfbba0f00e1",
+      "title": "在英伟达间谍丑闻之后，国会希望收紧人工智能芯片的出口规定",
+      "summary": "不出所料，在发生涉及现已卸任的英伟达首席执行官黄仁勋和一名疑似中国间谍的丑闻之后，国会正寻求进一步限制人工智能芯片的出口。民主党和共和党都表示支持。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T19:15:43+00:00",
+      "importance": 0.7226,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "kind": "media",
+          "published_at": "2026-11-15T19:15:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7310523931ec31d7ed58",
+      "title": "Jensen Huang 可能正在策划回归，以及更多有关英伟达的最新戏剧性事件",
+      "summary": "围绕英伟达联合创始人兼前首席执行官黄仁勋的戏剧性事件正在迅速发展。我们的Stepback通讯最新一期应该能让您了解最新情况，但自那以后已经出现了一些新的进展。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T04:17:05+00:00",
+      "importance": 0.654,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+          "kind": "media",
+          "published_at": "2026-11-16T04:17:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3ea624e61126b81c7ebf",
+      "title": "《周六夜现场》召集所有科技大佬来上一堂约会和间谍技巧课",
+      "summary": "虽然笨拙、令人毛骨悚然的科技公司高管已经成为《周六夜现场》的一个常见主题，但本周的节目让演员们有机会一次性展示他们对所有这些角色的模仿。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-15T20:20:57+00:00",
+      "importance": 0.6044,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+          "kind": "media",
+          "published_at": "2026-11-15T20:20:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5d662a9d0a5d1eb5b2e6",
+      "title": "用于 AI 编码代理创建 Markdown 图表的技能",
+      "summary": "文章网址：https://github.com/markdown-viewer/skills评论网址：https://news.ycombinator.com/item?id=50514667积分：1 # 评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T06:27:50+00:00",
+      "importance": 0.6026,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/markdown-viewer/skills",
+          "kind": "social",
+          "published_at": "2026-11-16T06:27:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d6bf0cc6311d4165e0da",
+      "title": "Vstack – 管理和领导力人工智能",
+      "summary": "文章网址： https://github.com/ivikash/vstack评论网址： https://news.ycombinator.com/item?id=50514620积分： 2 # 评论： 1",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T06:20:29+00:00",
+      "importance": 0.6019,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/ivikash/vstack",
+          "kind": "social",
+          "published_at": "2026-11-16T06:20:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "50411e97be17f4dbfebd",
+      "title": "Automatar – 一款智能AI吉他",
+      "summary": "文章网址：https://www.creativeapplications.net/member/automatar-an-intelligent-ai-guitar/评论网址：https://news.ycombinator.com/item?id=50514444积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T05:44:53+00:00",
+      "importance": 0.5982,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.creativeapplications.net/member/automatar-an-intelligent-ai-guitar",
+          "kind": "social",
+          "published_at": "2026-11-16T05:44:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "318e15c351f7613d6b5f",
+      "title": "Show HN：OpenButterfly——跟踪人工智能生态系统的环境影响",
+      "summary": "我创建了OpenButterfly，旨在帮助人们了解人工智能生态系统的环境影响。Openbutterfly 跟踪主要的人工智能公司（人工智能实验室、云服务提供商、芯片制造商和数据中心运营商），并绘制数据中心地图。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T05:06:56+00:00",
+      "importance": 0.5942,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://openbutterfly.com",
+          "kind": "social",
+          "published_at": "2026-11-16T05:06:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7d5706e034e502d2820b",
+      "title": "Google AI Ultra 订阅不值得",
+      "summary": "文章网址：https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/评论网址：https://news.ycombinator.com/item?id=50514224积分：7 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T04:59:22+00:00",
+      "importance": 0.5934,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it",
+          "kind": "social",
+          "published_at": "2026-11-16T04:59:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2867f3480e90e23f98ec",
+      "title": "Show HN：在AI代理执行任务后对整个数据库进行差异比较的基准测试",
+      "summary": "文章网址：https://github.com/shubhamjoshipromail-svg/software-world-model评论网址：https://news.ycombinator.com/item?id=50514157积分：1 # 评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T04:49:45+00:00",
+      "importance": 0.5924,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+          "kind": "social",
+          "published_at": "2026-11-16T04:49:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1fe2672ad8f8845e28f5",
+      "title": "英伟达作为人工智能经济“活期支票簿”的日子屈指可数",
+      "summary": "文章网址：https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388评论网址：https://news.ycombinator.com/item?id=50513876积分：11 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T04:03:51+00:00",
+      "importance": 0.5876,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+          "kind": "social",
+          "published_at": "2026-11-16T04:03:51+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2ae9632ca60329b018e1",
+      "title": "Show HN：免费的 AI 背景移除工具，支持本地浏览器隐私模式（无需注册）",
+      "summary": "文章网址： https://toolifyhub.tools/tools/background-remover 评论网址： https://news.ycombinator.com/item?id=50513860 得分：1 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T04:01:19+00:00",
+      "importance": 0.5874,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://toolifyhub.tools/tools/background-remover",
+          "kind": "social",
+          "published_at": "2026-11-16T04:01:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "adf65f70bcfc77d468e6",
+      "title": "两年内，与人工智能相关的儿童性虐待材料的举报增加了8400%",
+      "summary": "文章网址：https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes评论网址：https://news.ycombinator.com/item?id=50513713积分：9 # 评论数：5",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T03:34:55+00:00",
+      "importance": 0.5846,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+          "kind": "social",
+          "published_at": "2026-11-16T03:34:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "968af04e295423c6d9b0",
+      "title": "Show HN：Memeo——在几秒钟内将静态照片转换为唇形同步的AI梗视频",
+      "summary": "文章网址：https://memeo.app/评论网址：https://news.ycombinator.com/item?id=50513619积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T03:18:30+00:00",
+      "importance": 0.5829,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://memeo.app",
+          "kind": "social",
+          "published_at": "2026-11-16T03:18:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9413ec004eb2ac48b102",
+      "title": "在人工智能时代绘制网络风险图谱：哪些行业面临的风险最大？",
+      "summary": "文章网址：https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html 评论网址：https://news.ycombinator.com/item?id=50513532 得分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T03:04:42+00:00",
+      "importance": 0.5815,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html",
+          "kind": "social",
+          "published_at": "2026-11-16T03:04:42+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-16.wav?v=1794812416301646200",
+  "chapters": [
+    {
+      "news_id": "c57d5fdb338c13ebb499",
+      "title": "苹果公司的新研究旨在提高人工智能健康工具的有效性",
+      "start_seconds": 14.16,
+      "duration_seconds": 32.32
+    },
+    {
+      "news_id": "87b76e5b13944ae023be",
+      "title": "苹果推出新应用，研究人们如何使用人工智能来管理健康",
+      "start_seconds": 46.48,
+      "duration_seconds": 20.5
+    },
+    {
+      "news_id": "61200927e23c6bf1a95c",
+      "title": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
+      "start_seconds": 66.98,
+      "duration_seconds": 29.58
+    },
+    {
+      "news_id": "24cbece72f55c409692d",
+      "title": "对黄仁杰来说是坏消息，对人工智能行业来说也是坏消息吗？",
+      "start_seconds": 96.56,
+      "duration_seconds": 23.54
+    },
+    {
+      "news_id": "6c2c64409dfbba0f00e1",
+      "title": "在英伟达间谍丑闻之后，国会希望收紧人工智能芯片的出口规定",
+      "start_seconds": 120.1,
+      "duration_seconds": 33.5
+    },
+    {
+      "news_id": "7310523931ec31d7ed58",
+      "title": "Jensen Huang 可能正在策划回归，以及更多有关英伟达的最新戏剧性事件",
+      "start_seconds": 153.6,
+      "duration_seconds": 33.96
+    },
+    {
+      "news_id": "3ea624e61126b81c7ebf",
+      "title": "《周六夜现场》召集所有科技大佬来上一堂约会和间谍技巧课",
+      "start_seconds": 187.56,
+      "duration_seconds": 30.18
+    },
+    {
+      "news_id": "5d662a9d0a5d1eb5b2e6",
+      "title": "用于 AI 编码代理创建 Markdown 图表的技能",
+      "start_seconds": 217.74,
+      "duration_seconds": 34.82
+    },
+    {
+      "news_id": "d6bf0cc6311d4165e0da",
+      "title": "Vstack – 管理和领导力人工智能",
+      "start_seconds": 252.56,
+      "duration_seconds": 32.84
+    },
+    {
+      "news_id": "50411e97be17f4dbfebd",
+      "title": "Automatar – 一款智能AI吉他",
+      "start_seconds": 285.4,
+      "duration_seconds": 37.78
+    },
+    {
+      "news_id": "318e15c351f7613d6b5f",
+      "title": "Show HN：OpenButterfly——跟踪人工智能生态系统的环境影响",
+      "start_seconds": 323.18,
+      "duration_seconds": 36.92
+    },
+    {
+      "news_id": "7d5706e034e502d2820b",
+      "title": "Google AI Ultra 订阅不值得",
+      "start_seconds": 360.1,
+      "duration_seconds": 44.54
+    },
+    {
+      "news_id": "2867f3480e90e23f98ec",
+      "title": "Show HN：在AI代理执行任务后对整个数据库进行差异比较的基准测试",
+      "start_seconds": 404.64,
+      "duration_seconds": 41.12
+    },
+    {
+      "news_id": "1fe2672ad8f8845e28f5",
+      "title": "英伟达作为人工智能经济“活期支票簿”的日子屈指可数",
+      "start_seconds": 445.76,
+      "duration_seconds": 47.88
+    },
+    {
+      "news_id": "2ae9632ca60329b018e1",
+      "title": "Show HN：免费的 AI 背景移除工具，支持本地浏览器隐私模式（无需注册）",
+      "start_seconds": 493.64,
+      "duration_seconds": 38.84
+    },
+    {
+      "news_id": "adf65f70bcfc77d468e6",
+      "title": "两年内，与人工智能相关的儿童性虐待材料的举报增加了8400%",
+      "start_seconds": 532.48,
+      "duration_seconds": 49.3
+    },
+    {
+      "news_id": "968af04e295423c6d9b0",
+      "title": "Show HN：Memeo——在几秒钟内将静态照片转换为唇形同步的AI梗视频",
+      "start_seconds": 581.78,
+      "duration_seconds": 35.52
+    },
+    {
+      "news_id": "9413ec004eb2ac48b102",
+      "title": "在人工智能时代绘制网络风险图谱：哪些行业面临的风险最大？",
+      "start_seconds": 617.3,
+      "duration_seconds": 49.98
+    }
+  ]
+}
