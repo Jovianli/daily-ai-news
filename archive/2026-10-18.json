@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T18:23:26.353365+08:00",
+  "title": "2026-10-18 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "5eb559e50fd7886d16ab",
+      "title": "Meta删除了引起抓取和人工智能培训问题的语言",
+      "summary": "Meta发言人坚称，更新后的条款并未反映Meta爬网方式的变化。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "importance": 0.715,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+          "kind": "media",
+          "published_at": "2026-10-17T21:31:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1da4b6eb4e4c122ec56",
+      "title": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
+      "summary": "上周末， Masad澄清说， OpenAI将取代Anthropic作为其默认模型提供商。Claude仍将向平台上的客户提供服务。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T18:48:08+00:00",
+      "importance": 0.698,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+          "kind": "media",
+          "published_at": "2026-10-17T18:48:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ca580b1475b7847a1b70",
+      "title": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
+      "summary": "根据Nieman Lab的一份报告， Meta的新条款似乎允许其抓取和抓取与使用其平台的企业（包括在线出版商） “相关”的网站。新条款，无论",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-17T15:08:35+00:00",
+      "importance": 0.6751,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "kind": "media",
+          "published_at": "2026-10-17T15:08:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0b81a58f5b3fe1314623",
+      "title": "Meta删除了可能允许其抓取新闻网站的语言",
+      "summary": "在强烈反对之后， Meta再次更新其条款，以删除暗示它可以从包括新闻网站在内的网站上抓取内容来训练其人工智能的语言。具体来说，以下语言不再出现在",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T15:04:36+00:00",
+      "importance": 0.6747,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "kind": "media",
+          "published_at": "2026-10-17T15:04:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "076e32bb520a799a939a",
+      "title": "中国对其先进的人工智能模型和芯片设计提出出口管制",
+      "summary": "文章网址： https://thenextweb.com/news/china-ai-export-controls-draft评论网址： https://news.ycombinator.com/item?id=50139587点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T10:01:06+00:00",
+      "importance": 0.6031,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+          "kind": "social",
+          "published_at": "2026-10-18T10:01:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "70669d5b7c8394935b3c",
+      "title": "问问HN ：为什么人们不断在互联网上发布人工智能生成的项目？",
+      "summary": "与节目相关的子版块和其他媒体平台目前被人工智能生成项目的瀑布所淹没。典型的帖子包含问题描述和最近创建的GitHub仓库链接",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-18T10:00:32+00:00",
+      "importance": 0.603,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50139584",
+          "kind": "social",
+          "published_at": "2026-10-18T10:00:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "76ef125dabecb8890e69",
+      "title": "Deezer将让听众过滤掉AI音乐",
+      "summary": "文章网址： https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/评论网址： https://news.ycombinator.com/item?id=50139390点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T09:19:13+00:00",
+      "importance": 0.5987,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music",
+          "kind": "social",
+          "published_at": "2026-10-18T09:19:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0b6cb7ef980bdb137827",
+      "title": "为什么CoreWeave处于人工智能恐慌的十字路口",
+      "summary": "文章网址： https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/评论网址： https://news.ycombinator.com/item?id=50139375点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T09:17:02+00:00",
+      "importance": 0.5985,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16",
+          "kind": "social",
+          "published_at": "2026-10-18T09:17:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "099442bf5c5a491db3bd",
+      "title": "Show HN: Risphai –为每个请求选择AI模型、工具和提示",
+      "summary": "我注意到很多非技术人员并没有充分利用人工智能。例如，他们对任务使用了错误的模型、错误的推理工作或模糊的提示。“人工智能能做什么”和“人们能做什么”之间的差距",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T09:11:39+00:00",
+      "importance": 0.5979,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://risphai.com",
+          "kind": "social",
+          "published_at": "2026-10-18T09:11:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3ac2195b3f07f3828b4c",
+      "title": "宇宙作为测试工具：肉类人工智能和上帝的管理面板",
+      "summary": "文章网址： https://rebecca-powell.com/posts/meat-ai-universe-test-harness/评论网址： https://news.ycombinator.com/item?id=50139275点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T09:00:20+00:00",
+      "importance": 0.5967,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness",
+          "kind": "social",
+          "published_at": "2026-10-18T09:00:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d4061e543f9bd89eb4b",
+      "title": "废除人工智能宣言（正在建设中）",
+      "summary": "文章网址： https://abolish-ai.net/abolish-ai-a-manifesto/评论网址： https://news.ycombinator.com/item?id=50139072点数： 3 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T08:20:45+00:00",
+      "importance": 0.5926,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
+          "kind": "social",
+          "published_at": "2026-10-18T08:20:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3c69675a730bdd23190e",
+      "title": "Show HN ：连接字幕本地私人AI口译员",
+      "summary": "HN ，您好！我构建了连接字幕，这是一个完全在设备上运行的macOS实时字幕和翻译叠加。网络上没有任何东西：没有API调用，没有音频离开您的机器，并且它继续工作",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-18T07:41:31+00:00",
+      "importance": 0.5885,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://local-host.ai/connectingCaptions",
+          "kind": "social",
+          "published_at": "2026-10-18T07:41:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee09e24f9a459f250c48",
+      "title": "AgentBlackBox – AI代理的策略门和防篡改审核日志",
+      "summary": "文章网址： https://agent-blackbox-five.vercel.app/demo评论网址： https://news.ycombinator.com/item?id=50138752点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-18T07:25:01+00:00",
+      "importance": 0.5868,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://agent-blackbox-five.vercel.app/demo",
+          "kind": "social",
+          "published_at": "2026-10-18T07:25:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "634ea495c3d824abd8f0",
+      "title": "ArXiv与AI SLOP ：封顶预印提交有效吗？",
+      "summary": "文章网址： https://www.nature.com/articles/d41586-026-03194-w评论网址： https://news.ycombinator.com/item?id=50138702点数： 2 #评论： 1",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-18T07:15:57+00:00",
+      "importance": 0.5859,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.nature.com/articles/d41586-026-03194-w",
+          "kind": "social",
+          "published_at": "2026-10-18T07:15:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "402c9522975dc770f9f4",
+      "title": "权重AI – AI歌曲封面生成器",
+      "summary": "文章网址： https://weightsai.net/评论网址： https://news.ycombinator.com/item?id=50138672点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T07:11:34+00:00",
+      "importance": 0.5854,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://weightsai.net",
+          "kind": "social",
+          "published_at": "2026-10-18T07:11:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d8f04e2015397042b3bf",
+      "title": "美国$ 10T的人工智能基础设施热潮开始磨损",
+      "summary": "文章网址： https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c评论网址： https://news.ycombinator.com/item?id=50138511点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-18T06:46:50+00:00",
+      "importance": 0.5828,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+          "kind": "social",
+          "published_at": "2026-10-18T06:46:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec0f189f0b04dacca897",
+      "title": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间",
+      "summary": "在过去的一年中， Anthropic的员工构成和工作类型发生了显着变化。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-17T20:21:19+00:00",
+      "importance": 0.5827,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+          "kind": "media",
+          "published_at": "2026-10-17T20:21:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "91b45ae68dfcc3b8e00d",
+      "title": "Anthropic向律师求助，帮助人工智能代理商达成交易",
+      "summary": "文章网址： https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9评论网址： https://news.ycombinator.com/item?id=50138318点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-18T06:03:17+00:00",
+      "importance": 0.5783,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
+          "kind": "social",
+          "published_at": "2026-10-18T06:03:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-18.wav?v=1792319013748680900",
+  "chapters": [
+    {
+      "news_id": "5eb559e50fd7886d16ab",
+      "title": "Meta删除了引起抓取和人工智能培训问题的语言",
+      "start_seconds": 14.16,
+      "duration_seconds": 20.38
+    },
+    {
+      "news_id": "f1da4b6eb4e4c122ec56",
+      "title": "首席执行官表示， Replit使OpenAI成为Anthropic的默认值",
+      "start_seconds": 34.54,
+      "duration_seconds": 26.7
+    },
+    {
+      "news_id": "ca580b1475b7847a1b70",
+      "title": "Meta的新条款可能允许它免费在新闻网站上培训人工智能",
+      "start_seconds": 61.24,
+      "duration_seconds": 30.56
+    },
+    {
+      "news_id": "0b81a58f5b3fe1314623",
+      "title": "Meta删除了可能允许其抓取新闻网站的语言",
+      "start_seconds": 91.8,
+      "duration_seconds": 30.5
+    },
+    {
+      "news_id": "076e32bb520a799a939a",
+      "title": "中国对其先进的人工智能模型和芯片设计提出出口管制",
+      "start_seconds": 122.3,
+      "duration_seconds": 38.9
+    },
+    {
+      "news_id": "70669d5b7c8394935b3c",
+      "title": "问问HN ：为什么人们不断在互联网上发布人工智能生成的项目？",
+      "start_seconds": 161.2,
+      "duration_seconds": 30.3
+    },
+    {
+      "news_id": "76ef125dabecb8890e69",
+      "title": "Deezer将让听众过滤掉AI音乐",
+      "start_seconds": 191.5,
+      "duration_seconds": 40.8
+    },
+    {
+      "news_id": "0b6cb7ef980bdb137827",
+      "title": "为什么CoreWeave处于人工智能恐慌的十字路口",
+      "start_seconds": 232.3,
+      "duration_seconds": 42.12
+    },
+    {
+      "news_id": "099442bf5c5a491db3bd",
+      "title": "Show HN: Risphai –为每个请求选择AI模型、工具和提示",
+      "start_seconds": 274.42,
+      "duration_seconds": 33.34
+    },
+    {
+      "news_id": "3ac2195b3f07f3828b4c",
+      "title": "宇宙作为测试工具：肉类人工智能和上帝的管理面板",
+      "start_seconds": 307.76,
+      "duration_seconds": 38.58
+    },
+    {
+      "news_id": "9d4061e543f9bd89eb4b",
+      "title": "废除人工智能宣言（正在建设中）",
+      "start_seconds": 346.34,
+      "duration_seconds": 35.42
+    },
+    {
+      "news_id": "3c69675a730bdd23190e",
+      "title": "Show HN ：连接字幕本地私人AI口译员",
+      "start_seconds": 381.76,
+      "duration_seconds": 33.8
+    },
+    {
+      "news_id": "ee09e24f9a459f250c48",
+      "title": "AgentBlackBox – AI代理的策略门和防篡改审核日志",
+      "start_seconds": 415.56,
+      "duration_seconds": 34.92
+    },
+    {
+      "news_id": "634ea495c3d824abd8f0",
+      "title": "ArXiv与AI SLOP ：封顶预印提交有效吗？",
+      "start_seconds": 450.48,
+      "duration_seconds": 39.8
+    },
+    {
+      "news_id": "402c9522975dc770f9f4",
+      "title": "权重AI – AI歌曲封面生成器",
+      "start_seconds": 490.28,
+      "duration_seconds": 30.76
+    },
+    {
+      "news_id": "d8f04e2015397042b3bf",
+      "title": "美国$ 10T的人工智能基础设施热潮开始磨损",
+      "start_seconds": 521.04,
+      "duration_seconds": 42.48
+    },
+    {
+      "news_id": "ec0f189f0b04dacca897",
+      "title": "Anthropic表示，其员工队伍已经变得不那么初级了，并且在会议上花费了更多的时间",
+      "start_seconds": 563.52,
+      "duration_seconds": 24.26
+    },
+    {
+      "news_id": "91b45ae68dfcc3b8e00d",
+      "title": "Anthropic向律师求助，帮助人工智能代理商达成交易",
+      "start_seconds": 587.78,
+      "duration_seconds": 42.9
+    }
+  ]
+}

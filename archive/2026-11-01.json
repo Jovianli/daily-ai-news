@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T10:51:47.271841+08:00",
+  "title": "2026-11-01 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "362d7951270f22867c3f",
+      "title": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-31T21:41:00+00:00",
+      "importance": 0.7627,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+          "kind": "media",
+          "published_at": "2026-10-31T21:41:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b57691e750415c605a04",
+      "title": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "summary": "全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-31T21:17:03+00:00",
+      "importance": 0.7602,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+          "kind": "media",
+          "published_at": "2026-10-31T21:17:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c361ea6e6eba35fb9e53",
+      "title": "据报道， OpenAI降低了新一轮融资目标",
+      "summary": "OpenAI的最新一轮融资似乎没有达到预期。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "importance": 0.7285,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+          "kind": "media",
+          "published_at": "2026-10-31T16:12:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "95235900cc342af4eb02",
+      "title": "在Meta之前，我构建了一个人工智能Tamagotchi",
+      "summary": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来很可爱，给它一张柔软的小脸-这个假日季节，他想卖给你一个缪斯魅力，这样你就可以像Tamagotchi一样随身携带你快乐的人工智能助手。但我",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-31T16:09:02+00:00",
+      "importance": 0.7281,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+          "kind": "media",
+          "published_at": "2026-10-31T16:09:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "27056e580a9aee854f0c",
+      "title": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "summary": "11月4日，在波士顿的SoWa发电站，准备好一整天，充满有意义的网络机会、可行的见解和连接，可以改变您的创意和创业轨迹。Regi",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-31T21:36:07+00:00",
+      "importance": 0.6372,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+          "kind": "media",
+          "published_at": "2026-10-31T21:36:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "778066fca87ac97904e5",
+      "title": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
+      "summary": "当投资者对人工智能支出感到紧张时，让出售芯片的芯片制造商提出共同签署贷款会有所帮助。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-31T01:20:05+00:00",
+      "importance": 0.6355,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "kind": "media",
+          "published_at": "2026-10-31T01:20:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bdbd23b4babdea0e86db",
+      "title": "专注于隐私的人工智能助手Ollie正在关闭",
+      "summary": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "importance": 0.6205,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+          "kind": "media",
+          "published_at": "2026-10-30T22:56:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8edfa603fa5ede8d9b00",
+      "title": "苹果智能终于借助iOS 27.3登陆中国",
+      "summary": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。Apple Intelligence功能将在iOS 27.3测试版中首次提供",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T22:32:53+00:00",
+      "importance": 0.6181,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "kind": "media",
+          "published_at": "2026-10-30T22:32:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7a24eca35f77e86d873f",
+      "title": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
+      "summary": "OpenAI、谷歌、微软和Anthropic表示，正如搜索引擎圆桌会议（ Search Engine Roundtable ）早些时候报道的那样，他们将采用一种新标准，发布商可以使用该标准来选择不被人工智能抓取。通过此控件，发布商可以应用",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-30T22:04:23+00:00",
+      "importance": 0.6151,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "kind": "media",
+          "published_at": "2026-10-30T22:04:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5ae1d67b9d2847639ce6",
+      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
+      "summary": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T21:54:34+00:00",
+      "importance": 0.6141,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+          "kind": "media",
+          "published_at": "2026-10-30T21:54:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1abfdb6dc9802b6f4db0",
+      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
+      "summary": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金来继续为其庞大的支出提供资金。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-30T21:52:03+00:00",
+      "importance": 0.6139,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "kind": "media",
+          "published_at": "2026-10-30T21:52:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "03ea0cb6a82382c62e33",
+      "title": "科技书呆子的最后一刻万圣节服装",
+      "summary": "没有万圣节服装？只是一个看似可爱的AI代理图标， PHP漏洞或困倦的时间布莱恩·约翰逊。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T21:26:59+00:00",
+      "importance": 0.6113,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+          "kind": "media",
+          "published_at": "2026-10-30T21:26:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "434071bc563a35a61d42",
+      "title": "人工智能支出热潮中正在出现裂缝",
+      "summary": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T21:17:40+00:00",
+      "importance": 0.6103,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+          "kind": "media",
+          "published_at": "2026-10-30T21:17:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "05a1378ae455d54de0c6",
+      "title": "山姆·奥尔特曼（ Sam Altman ）说， RAM在数据中心比在办公桌上更好",
+      "summary": "当被问及供应链短缺，例如持续的RAM短缺时， OpenAI首席执行官Sam Altman在接受采访时表示，在个人PC而不是数据中心拥有RAM是“可怕的”。在他出现在Cheeky",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T20:48:43+00:00",
+      "importance": 0.6073,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+          "kind": "media",
+          "published_at": "2026-10-30T20:48:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dc270c8da79cd6a5285a",
+      "title": "詹姆斯·米肯斯的演讲：人工智能影响的清醒分析（ LABScon '26 ）",
+      "summary": "文章网址： https://www.youtube.com/watch?v=usZLo_9Jz54评论网址： https://news.ycombinator.com/item?id=50322165点数： 1 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-01T02:17:57+00:00",
+      "importance": 0.6016,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+          "kind": "social",
+          "published_at": "2026-11-01T02:17:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ed1d67fc0ab0bf645fc8",
+      "title": "显示HN ： LinkedIn-ops -为人工智能代理构建的零依赖CDP自动化",
+      "summary": "文章网址： https://github.com/shashtag-ventures/linkedin-ops评论网址： https://news.ycombinator.com/item?id=50322021点数： 1 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-01T01:46:21+00:00",
+      "importance": 0.5983,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/shashtag-ventures/linkedin-ops",
+          "kind": "social",
+          "published_at": "2026-11-01T01:46:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b88e9492c7911cb657ee",
+      "title": "人工智能如何推动抵制工会的技术工人进入谈判桌",
+      "summary": "文章网址： https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize评论网址： https://news.ycombinator.com/item?id=50321734点数： 6 #评论： 1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-01T00:49:23+00:00",
+      "importance": 0.5923,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+          "kind": "social",
+          "published_at": "2026-11-01T00:49:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b9ee8bb30716fa37b159",
+      "title": "谷歌的卫星人工智能服务器向地球传输第一个响应",
+      "summary": "谷歌配备AI芯片的卫星已经产生了来自太空的第一个响应。在周五的一篇博客文章中，谷歌表示它成功启动了卫星的张量处理单元（ TPU ） ，允许板载Gemma",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-30T18:21:38+00:00",
+      "importance": 0.5919,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "kind": "media",
+          "published_at": "2026-10-30T18:21:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-01.wav?v=1793501514723810900",
+  "chapters": [
+    {
+      "news_id": "362d7951270f22867c3f",
+      "title": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "start_seconds": 14.16,
+      "duration_seconds": 20.8
+    },
+    {
+      "news_id": "b57691e750415c605a04",
+      "title": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "start_seconds": 34.96,
+      "duration_seconds": 25.22
+    },
+    {
+      "news_id": "c361ea6e6eba35fb9e53",
+      "title": "据报道， OpenAI降低了新一轮融资目标",
+      "start_seconds": 60.18,
+      "duration_seconds": 17.74
+    },
+    {
+      "news_id": "95235900cc342af4eb02",
+      "title": "在Meta之前，我构建了一个人工智能Tamagotchi",
+      "start_seconds": 77.92,
+      "duration_seconds": 34.64
+    },
+    {
+      "news_id": "27056e580a9aee854f0c",
+      "title": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "start_seconds": 112.56,
+      "duration_seconds": 32.16
+    },
+    {
+      "news_id": "778066fca87ac97904e5",
+      "title": "英伟达将为Nscale位于西弗吉尼亚州的人工智能数据中心配音",
+      "start_seconds": 144.72,
+      "duration_seconds": 25.4
+    },
+    {
+      "news_id": "bdbd23b4babdea0e86db",
+      "title": "专注于隐私的人工智能助手Ollie正在关闭",
+      "start_seconds": 170.12,
+      "duration_seconds": 23.62
+    },
+    {
+      "news_id": "8edfa603fa5ede8d9b00",
+      "title": "苹果智能终于借助iOS 27.3登陆中国",
+      "start_seconds": 193.74,
+      "duration_seconds": 27.78
+    },
+    {
+      "news_id": "7a24eca35f77e86d873f",
+      "title": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
+      "start_seconds": 221.52,
+      "duration_seconds": 38.04
+    },
+    {
+      "news_id": "5ae1d67b9d2847639ce6",
+      "title": "英特尔股市崩盘，从政府持股中损失120亿$",
+      "start_seconds": 259.56,
+      "duration_seconds": 25.0
+    },
+    {
+      "news_id": "1abfdb6dc9802b6f4db0",
+      "title": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
+      "start_seconds": 284.56,
+      "duration_seconds": 28.64
+    },
+    {
+      "news_id": "03ea0cb6a82382c62e33",
+      "title": "科技书呆子的最后一刻万圣节服装",
+      "start_seconds": 313.2,
+      "duration_seconds": 22.94
+    },
+    {
+      "news_id": "434071bc563a35a61d42",
+      "title": "人工智能支出热潮中正在出现裂缝",
+      "start_seconds": 336.14,
+      "duration_seconds": 28.82
+    },
+    {
+      "news_id": "05a1378ae455d54de0c6",
+      "title": "山姆·奥尔特曼（ Sam Altman ）说， RAM在数据中心比在办公桌上更好",
+      "start_seconds": 364.96,
+      "duration_seconds": 33.62
+    },
+    {
+      "news_id": "dc270c8da79cd6a5285a",
+      "title": "詹姆斯·米肯斯的演讲：人工智能影响的清醒分析（ LABScon '26 ）",
+      "start_seconds": 398.58,
+      "duration_seconds": 39.38
+    },
+    {
+      "news_id": "ed1d67fc0ab0bf645fc8",
+      "title": "显示HN ： LinkedIn-ops -为人工智能代理构建的零依赖CDP自动化",
+      "start_seconds": 437.96,
+      "duration_seconds": 39.4
+    },
+    {
+      "news_id": "b88e9492c7911cb657ee",
+      "title": "人工智能如何推动抵制工会的技术工人进入谈判桌",
+      "start_seconds": 477.36,
+      "duration_seconds": 41.26
+    },
+    {
+      "news_id": "b9ee8bb30716fa37b159",
+      "title": "谷歌的卫星人工智能服务器向地球传输第一个响应",
+      "start_seconds": 518.62,
+      "duration_seconds": 30.74
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:13:52.674001+08:00",
+  "title": "2026-11-04 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "92c50f67a507db6c8047",
+      "title": "PC游戏中最大的改装网站正在对人工智能采取立场",
+      "summary": "该网站今天宣布， PC游戏模组存储库Nexus Mods要求上传新模组时必须披露有关AI的信息，这意味着模组作者必须声明“AI是否已用于他们的工作”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T00:42:54+00:00",
+      "importance": 0.7865,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+          "kind": "media",
+          "published_at": "2026-11-04T00:42:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9d97c8271a19f07f2108",
+      "title": "请不要再问我AI泡沫什么时候会弹出",
+      "summary": "包括这个员工在内的人们一直在不同程度上兴奋或恐惧地问我，人工智能泡沫什么时候会破裂。我会告诉你我告诉他们的：如果我知道这一点，我会在市场上做出改变生活的赌注",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-03T23:37:45+00:00",
+      "importance": 0.7797,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+          "kind": "media",
+          "published_at": "2026-11-03T23:37:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fa00b4f66d246a49cbf0",
+      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "summary": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T22:41:03+00:00",
+      "importance": 0.7738,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+          "kind": "media",
+          "published_at": "2026-11-03T22:41:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "32c42b1a9bd9b90f7d19",
+      "title": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "summary": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T22:19:53+00:00",
+      "importance": 0.7716,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+          "kind": "media",
+          "published_at": "2026-11-03T22:19:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "62ed14364f0e88ad623d",
+      "title": "独立游戏缺少发布日期，因为Steam已备份",
+      "summary": "许多独立游戏开发商最近在社交媒体上发布了他们在Steam上提交游戏的审批等待时间出乎意料地长，其中一些审批导致开发商错过了计划的发布",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T21:56:58+00:00",
+      "importance": 0.7692,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+          "kind": "media",
+          "published_at": "2026-11-03T21:56:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9427f87f31ac6b742f96",
+      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "summary": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-03T21:43:08+00:00",
+      "importance": 0.7678,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+          "kind": "media",
+          "published_at": "2026-11-03T21:43:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8fdb108aaca7ce7da2d4",
+      "title": "那些杰夫·贝索斯的头发移植照片很假",
+      "summary": "亚马逊创始人杰夫·贝索斯（ Jeff Bezos ）和演员杰森·斯坦森（ Jason Statham ）有一个明显的共同点：他们都是著名的秃头，在过去的几天里，这一点绝对没有改变。然而，有一些两人的形象c",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T21:09:00+00:00",
+      "importance": 0.7642,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+          "kind": "media",
+          "published_at": "2026-11-03T21:09:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "34e7d62615202d0de65f",
+      "title": "思科如何利用OpenAI以机器速度进行防御",
+      "summary": "思科将网络智能与OpenAI模型相结合，以加强企业安全性。了解它如何构建更具适应性的防御。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "importance": 0.7631,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/cisco-cyber",
+          "kind": "official",
+          "published_at": "2026-11-03T08:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fc87a45dcfbf03d41725",
+      "title": "海姆斯塔登正在通过人工智能改变住宅房地产管理",
+      "summary": "了解Heimstaden如何使用OpenAI的ChatGPT Enterprise和Codex来改变整个欧洲的物业管理、削减成本并赋予员工权力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "importance": 0.7631,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/heimstaden",
+          "kind": "official",
+          "published_at": "2026-11-03T08:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c01265aacc1a10af6e56",
+      "title": "在不需要人工智能的学校中，谷歌将完全禁用搜索功能",
+      "summary": "谷歌告诉《纽约时报》，该公司正在完全关闭拒绝其人工智能功能的学校的搜索功能。周二，谷歌在更广泛的教育相关更新中也分享了这一决定，称",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T20:54:30+00:00",
+      "importance": 0.7627,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+          "kind": "media",
+          "published_at": "2026-11-03T20:54:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec51e351ec2747a241f3",
+      "title": "苹果开始授予Siri AI访问第三方应用的权限",
+      "summary": "苹果现在将允许Siri AI跨第三方应用执行操作。作为周二推出的iOS 27.3更新的一部分，苹果宣布开发人员现在可以在“所有应用程序”中集成Siri AI的新功能，允许",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T20:19:55+00:00",
+      "importance": 0.7591,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "kind": "media",
+          "published_at": "2026-11-03T20:19:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "64e891378c13ac062e9f",
+      "title": "随着需求激增，人工智能推理初创公司Fal的估值翻番至160亿美元（ $ 160亿）",
+      "summary": "这家成立五年的初创公司筹集了13亿美元的融资，由Bessemer领投。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-03T19:34:43+00:00",
+      "importance": 0.7544,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+          "kind": "media",
+          "published_at": "2026-11-03T19:34:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3d8dcd9da9a1edd068b1",
+      "title": "Apple最新的watchOS测试版包括全新的始终在线音频智能功能",
+      "summary": "从今天开始， Siri可以通过新推出的watchOS 27.3开发人员测试版中提供的音频智能功能来调节Apple Watch的麦克风。这两个新增功能是Siri Recap ，它使用“ambie",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T18:52:30+00:00",
+      "importance": 0.75,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+          "kind": "media",
+          "published_at": "2026-11-03T18:52:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d05cff2b935d0ed4bfcd",
+      "title": "Netflix的全新“AI发现”选项卡可帮助您根据自己的心情查找可观看的内容",
+      "summary": "选项卡下的第一个实验性功能将允许用户根据他们目前的心情获得推荐。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T18:42:16+00:00",
+      "importance": 0.749,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+          "kind": "media",
+          "published_at": "2026-11-03T18:42:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2a746fdcd099abae656f",
+      "title": "OpenAI表示ChatGPT正在搜索中追赶谷歌",
+      "summary": "在许多圈子里， “Ask Chat”已经取代了“Google it” ，这反映在OpenAI的新公告中：通过ChatGPT运行的搜索查询量现在相当于通过Google运行的搜索量的20%。Adam",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T18:38:47+00:00",
+      "importance": 0.7486,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "kind": "media",
+          "published_at": "2026-11-03T18:38:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c968c83100b75a67cad3",
+      "title": "Netflix将通过新的“AI Discover”选项卡向您显示主题推荐",
+      "summary": "Netflix的电视应用程序正在获得一个新的“AI Discover”选项卡，该公司将在其中显示实验性的人工智能功能，以帮助您查找要观看的新节目和电影。这些实验中的第一个实验是基于内容的",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T17:28:14+00:00",
+      "importance": 0.7412,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+          "kind": "media",
+          "published_at": "2026-11-03T17:28:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0258c4a6a8796918028e",
+      "title": "谷歌将允许学校禁用其人工智能工具，但不会不牺牲搜索功能",
+      "summary": "选择完全限制人工智能的学校将不再能够访问Google搜索，因为人工智能功能现在已集成到搜索引擎中。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T16:30:34+00:00",
+      "importance": 0.7352,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+          "kind": "media",
+          "published_at": "2026-11-03T16:30:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7caab5e9f7407b2f647f",
+      "title": "Apple将约会应用程序和人工智能伴侣限制为18岁及以上的用户",
+      "summary": "苹果新的App Store规则将要求提供性或浪漫内容的约会应用程序和AI伴侣必须达到18岁以上的评级。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T15:38:27+00:00",
+      "importance": 0.7298,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+          "kind": "media",
+          "published_at": "2026-11-03T15:38:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-04.wav?v=1793758440288260900",
+  "chapters": [
+    {
+      "news_id": "92c50f67a507db6c8047",
+      "title": "PC游戏中最大的改装网站正在对人工智能采取立场",
+      "start_seconds": 14.16,
+      "duration_seconds": 29.78
+    },
+    {
+      "news_id": "9d97c8271a19f07f2108",
+      "title": "请不要再问我AI泡沫什么时候会弹出",
+      "start_seconds": 43.94,
+      "duration_seconds": 31.76
+    },
+    {
+      "news_id": "fa00b4f66d246a49cbf0",
+      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "start_seconds": 75.7,
+      "duration_seconds": 22.58
+    },
+    {
+      "news_id": "32c42b1a9bd9b90f7d19",
+      "title": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "start_seconds": 98.28,
+      "duration_seconds": 29.14
+    },
+    {
+      "news_id": "62ed14364f0e88ad623d",
+      "title": "独立游戏缺少发布日期，因为Steam已备份",
+      "start_seconds": 127.42,
+      "duration_seconds": 27.8
+    },
+    {
+      "news_id": "9427f87f31ac6b742f96",
+      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "start_seconds": 155.22,
+      "duration_seconds": 29.08
+    },
+    {
+      "news_id": "8fdb108aaca7ce7da2d4",
+      "title": "那些杰夫·贝索斯的头发移植照片很假",
+      "start_seconds": 184.3,
+      "duration_seconds": 33.66
+    },
+    {
+      "news_id": "34e7d62615202d0de65f",
+      "title": "思科如何利用OpenAI以机器速度进行防御",
+      "start_seconds": 217.96,
+      "duration_seconds": 23.72
+    },
+    {
+      "news_id": "fc87a45dcfbf03d41725",
+      "title": "海姆斯塔登正在通过人工智能改变住宅房地产管理",
+      "start_seconds": 241.68,
+      "duration_seconds": 25.88
+    },
+    {
+      "news_id": "c01265aacc1a10af6e56",
+      "title": "在不需要人工智能的学校中，谷歌将完全禁用搜索功能",
+      "start_seconds": 267.56,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "ec51e351ec2747a241f3",
+      "title": "苹果开始授予Siri AI访问第三方应用的权限",
+      "start_seconds": 298.14,
+      "duration_seconds": 32.48
+    },
+    {
+      "news_id": "64e891378c13ac062e9f",
+      "title": "随着需求激增，人工智能推理初创公司Fal的估值翻番至160亿美元（ $ 160亿）",
+      "start_seconds": 330.62,
+      "duration_seconds": 25.42
+    },
+    {
+      "news_id": "3d8dcd9da9a1edd068b1",
+      "title": "Apple最新的watchOS测试版包括全新的始终在线音频智能功能",
+      "start_seconds": 356.04,
+      "duration_seconds": 32.96
+    },
+    {
+      "news_id": "d05cff2b935d0ed4bfcd",
+      "title": "Netflix的全新“AI发现”选项卡可帮助您根据自己的心情查找可观看的内容",
+      "start_seconds": 389.0,
+      "duration_seconds": 23.9
+    },
+    {
+      "news_id": "2a746fdcd099abae656f",
+      "title": "OpenAI表示ChatGPT正在搜索中追赶谷歌",
+      "start_seconds": 412.9,
+      "duration_seconds": 31.0
+    },
+    {
+      "news_id": "c968c83100b75a67cad3",
+      "title": "Netflix将通过新的“AI Discover”选项卡向您显示主题推荐",
+      "start_seconds": 443.9,
+      "duration_seconds": 34.34
+    },
+    {
+      "news_id": "0258c4a6a8796918028e",
+      "title": "谷歌将允许学校禁用其人工智能工具，但不会不牺牲搜索功能",
+      "start_seconds": 478.24,
+      "duration_seconds": 26.04
+    },
+    {
+      "news_id": "7caab5e9f7407b2f647f",
+      "title": "Apple将约会应用程序和人工智能伴侣限制为18岁及以上的用户",
+      "start_seconds": 504.28,
+      "duration_seconds": 25.72
+    }
+  ]
+}

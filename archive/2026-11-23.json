@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T18:52:38.371526+08:00",
+  "title": "2026-11-23 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "50eaee9a341397954900",
+      "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 上市前对其进行大手笔投资",
+      "summary": "三位重要支持者分享了是什么让他们坚信值得在Anthropic上押注数十亿美元。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T01:25:53+00:00",
+      "importance": 0.737,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+          "kind": "media",
+          "published_at": "2026-11-23T01:25:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "883b69d3f986860bffa5",
+      "title": "OpenAI首席科学家对如何限制人工智能的发展发表了看法",
+      "summary": "要对人工智能的发展设定速度限制，您需要就如何衡量速度达成一致。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T21:14:07+00:00",
+      "importance": 0.7107,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+          "kind": "media",
+          "published_at": "2026-11-22T21:14:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "28c764e2cf8a36efd027",
+      "title": "《以撒的结合》开发商从《忏悔+》中删除了AI音乐",
+      "summary": "在发现游戏的一个特定部分使用了AI音乐后，《以撒的结合：忏悔+》在过去几天里在Steam上遭遇了差评轰炸。Reddit用户ShweetsStuff发现了这些歌曲",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T17:25:20+00:00",
+      "importance": 0.6869,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "kind": "media",
+          "published_at": "2026-11-22T17:25:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7d27fffa3906bd9ac7f9",
+      "title": "我们还没有看到最后一次重大技术中断",
+      "summary": "在过去一周左右的时间里，我们经历了美国联邦航空管理局（FAA）的全国性停飞令、导致整家公司陷入停顿的持续多日Outlook服务中断，以及摩根大通的银行业务中断。但人们的共识是，还有很多……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T02:41:02+00:00",
+      "importance": 0.6198,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+          "kind": "media",
+          "published_at": "2026-11-23T02:41:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "60360f65d74c9446c18c",
+      "title": "Z2RAM 层有望实现更密集型 AI SRAM 内存",
+      "summary": "文章网址：https://spectrum.ieee.org/sram-memory-z2ram评论网址：https://news.ycombinator.com/item?id=50609788积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T10:19:01+00:00",
+      "importance": 0.6025,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://spectrum.ieee.org/sram-memory-z2ram",
+          "kind": "social",
+          "published_at": "2026-11-23T10:19:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b6342a36fc09b0c80bda",
+      "title": "OrchStep：将AI会话转变为可重播工作流程的供应商中立管道",
+      "summary": "文章网址：https://orchstep.dev/blog/write-your-pipeline-once-run-it-on-any-ci评论网址：https://news.ycombinator.com/item?id=50609784积分：1 #评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T10:18:15+00:00",
+      "importance": 0.6024,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://orchstep.dev/blog/write-your-pipeline-once-run-it-on-any-ci",
+          "kind": "social",
+          "published_at": "2026-11-23T10:18:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c6e7d4310329b414d0da",
+      "title": "人工智能代理在约 97% 的情况下违反网站抓取政策（NeurIPS2026）",
+      "summary": "文章网址：https://scrapebench.github.io/ 评论网址：https://news.ycombinator.com/item?id=50609628 得分：1 评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-23T09:59:57+00:00",
+      "importance": 0.6005,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://scrapebench.github.io",
+          "kind": "social",
+          "published_at": "2026-11-23T09:59:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b5f0a68bb81481a92784",
+      "title": "Show HN：Slipmark – 让 AI 代理证明它们检查过的内容",
+      "summary": "文章网址：https://github.com/founder-ship-it/Slipmark评论网址：https://news.ycombinator.com/item?id=50609511积分：1评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-23T09:48:31+00:00",
+      "importance": 0.5993,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/founder-ship-it/Slipmark",
+          "kind": "social",
+          "published_at": "2026-11-23T09:48:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f89eb9e6c66d3c7a7e44",
+      "title": "AI 视频生成器 – Nano-Video",
+      "summary": "文章网址：https://nano-video.io/评论网址：https://news.ycombinator.com/item?id=50609504积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T09:48:10+00:00",
+      "importance": 0.5993,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://nano-video.io",
+          "kind": "social",
+          "published_at": "2026-11-23T09:48:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "30698212c758230ab467",
+      "title": "人工智能解决了 C 语言中的所有空指针解引用问题",
+      "summary": "文章网址：https://kapteko.com/ai-resolved-all-null-pointer-dereferences/评论网址：https://news.ycombinator.com/item?id=50609413积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T09:37:15+00:00",
+      "importance": 0.5982,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://kapteko.com/ai-resolved-all-null-pointer-dereferences",
+          "kind": "social",
+          "published_at": "2026-11-23T09:37:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "702b3d12a1cc76768e41",
+      "title": "Meta人工智能主管警告人工智能风险；奥巴马的前撰稿人称之为“他妈的疯狂”",
+      "summary": "文章网址：https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538评论网址：https://news.ycombinator.com/item?id=50609376积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T09:30:53+00:00",
+      "importance": 0.5975,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538",
+          "kind": "social",
+          "published_at": "2026-11-23T09:30:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "69c0952e67f1a6f37058",
+      "title": "即时查看任何时区 – Timezoria AI",
+      "summary": "文章网址：https://timezoria.org/评论网址：https://news.ycombinator.com/item?id=50609259积分：1 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T09:16:09+00:00",
+      "importance": 0.596,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://timezoria.org",
+          "kind": "social",
+          "published_at": "2026-11-23T09:16:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a7ac35725c539982b808",
+      "title": "前沿模型只需一段文本即可揭示其作者是人类还是人工智能",
+      "summary": "文章网址：https://arxiv.org/abs/2611.26216评论网址：https://news.ycombinator.com/item?id=50608919积分：2 # 评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-23T08:25:12+00:00",
+      "importance": 0.5907,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://arxiv.org/abs/2611.26216",
+          "kind": "social",
+          "published_at": "2026-11-23T08:25:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "39df691f1a8c8c279faa",
+      "title": "一项重大试验旨在检验人工智能是否能帮助更早地发现乳腺癌",
+      "summary": "文章网址：https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166评论网址：https://news.ycombinator.com/item?id=50608896积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T08:22:16+00:00",
+      "importance": 0.5903,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+          "kind": "social",
+          "published_at": "2026-11-23T08:22:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "930db1279c58769e3d9b",
+      "title": "Gartner：到2027年底，40%的自主式AI项目将被取消",
+      "summary": "文章网址：https://www.gartner.com/en/articles/ai-agent-reality-check评论网址：https://news.ycombinator.com/item?id=50608855积分：4 # 评论数：2",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T08:14:38+00:00",
+      "importance": 0.5896,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.gartner.com/en/articles/ai-agent-reality-check",
+          "kind": "social",
+          "published_at": "2026-11-23T08:14:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5a315b57b92405703ed5",
+      "title": "为什么我认为使用人工智能来证明黎曼猜想很重要",
+      "summary": "数学变得越来越难，我们可以看到，证明过程变得如此复杂，可能需要超过一个人的一生才能解决。不用担心人工智能会夺走发现的乐趣，我们仍然有……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T07:52:56+00:00",
+      "importance": 0.5873,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50608700",
+          "kind": "social",
+          "published_at": "2026-11-23T07:52:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "57511b5316c733c7d25b",
+      "title": "Show HN：KradleBench – Minecraft 中的多智能体 AI 评估",
+      "summary": "HN，大家好！我们是James和Kemal。此前，我们分别领导过Firebase和Tensorflow/JAX。HN一直是我（James）职业生涯中尤为重要的一部分，如果没有HN，我所走过的职业道路将大不相同。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-23T07:39:04+00:00",
+      "importance": 0.5858,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.kradle.ai",
+          "kind": "social",
+          "published_at": "2026-11-23T07:39:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7f421aff00244bb10a3f",
+      "title": "Sigvard：微调开放式LLM的演练",
+      "summary": "文章网址：https://tour.sigvard.ai/评论网址：https://news.ycombinator.com/item?id=50608590积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T07:37:03+00:00",
+      "importance": 0.5856,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://tour.sigvard.ai",
+          "kind": "social",
+          "published_at": "2026-11-23T07:37:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-23.wav?v=1795431171894310200",
+  "chapters": [
+    {
+      "news_id": "50eaee9a341397954900",
+      "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 上市前对其进行大手笔投资",
+      "start_seconds": 14.16,
+      "duration_seconds": 24.94
+    },
+    {
+      "news_id": "883b69d3f986860bffa5",
+      "title": "OpenAI首席科学家对如何限制人工智能的发展发表了看法",
+      "start_seconds": 39.1,
+      "duration_seconds": 22.24
+    },
+    {
+      "news_id": "28c764e2cf8a36efd027",
+      "title": "《以撒的结合》开发商从《忏悔+》中删除了AI音乐",
+      "start_seconds": 61.34,
+      "duration_seconds": 28.92
+    },
+    {
+      "news_id": "7d27fffa3906bd9ac7f9",
+      "title": "我们还没有看到最后一次重大技术中断",
+      "start_seconds": 90.26,
+      "duration_seconds": 34.1
+    },
+    {
+      "news_id": "60360f65d74c9446c18c",
+      "title": "Z2RAM 层有望实现更密集型 AI SRAM 内存",
+      "start_seconds": 124.36,
+      "duration_seconds": 35.94
+    },
+    {
+      "news_id": "b6342a36fc09b0c80bda",
+      "title": "OrchStep：将AI会话转变为可重播工作流程的供应商中立管道",
+      "start_seconds": 160.3,
+      "duration_seconds": 42.62
+    },
+    {
+      "news_id": "c6e7d4310329b414d0da",
+      "title": "人工智能代理在约 97% 的情况下违反网站抓取政策（NeurIPS2026）",
+      "start_seconds": 202.92,
+      "duration_seconds": 36.78
+    },
+    {
+      "news_id": "b5f0a68bb81481a92784",
+      "title": "Show HN：Slipmark – 让 AI 代理证明它们检查过的内容",
+      "start_seconds": 239.7,
+      "duration_seconds": 36.22
+    },
+    {
+      "news_id": "f89eb9e6c66d3c7a7e44",
+      "title": "AI 视频生成器 – Nano-Video",
+      "start_seconds": 275.92,
+      "duration_seconds": 31.3
+    },
+    {
+      "news_id": "30698212c758230ab467",
+      "title": "人工智能解决了 C 语言中的所有空指针解引用问题",
+      "start_seconds": 307.22,
+      "duration_seconds": 38.04
+    },
+    {
+      "news_id": "702b3d12a1cc76768e41",
+      "title": "Meta人工智能主管警告人工智能风险；奥巴马的前撰稿人称之为“他妈的疯狂”",
+      "start_seconds": 345.26,
+      "duration_seconds": 50.74
+    },
+    {
+      "news_id": "69c0952e67f1a6f37058",
+      "title": "即时查看任何时区 – Timezoria AI",
+      "start_seconds": 396.0,
+      "duration_seconds": 30.8
+    },
+    {
+      "news_id": "a7ac35725c539982b808",
+      "title": "前沿模型只需一段文本即可揭示其作者是人类还是人工智能",
+      "start_seconds": 426.8,
+      "duration_seconds": 37.08
+    },
+    {
+      "news_id": "39df691f1a8c8c279faa",
+      "title": "一项重大试验旨在检验人工智能是否能帮助更早地发现乳腺癌",
+      "start_seconds": 463.88,
+      "duration_seconds": 47.12
+    },
+    {
+      "news_id": "930db1279c58769e3d9b",
+      "title": "Gartner：到2027年底，40%的自主式AI项目将被取消",
+      "start_seconds": 511.0,
+      "duration_seconds": 40.34
+    },
+    {
+      "news_id": "5a315b57b92405703ed5",
+      "title": "为什么我认为使用人工智能来证明黎曼猜想很重要",
+      "start_seconds": 551.34,
+      "duration_seconds": 30.6
+    },
+    {
+      "news_id": "57511b5316c733c7d25b",
+      "title": "Show HN：KradleBench – Minecraft 中的多智能体 AI 评估",
+      "start_seconds": 581.94,
+      "duration_seconds": 36.26
+    },
+    {
+      "news_id": "7f421aff00244bb10a3f",
+      "title": "Sigvard：微调开放式LLM的演练",
+      "start_seconds": 618.2,
+      "duration_seconds": 32.14
+    }
+  ]
+}

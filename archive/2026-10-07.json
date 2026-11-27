@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T09:59:33.868538+08:00",
+  "title": "2026-10-07 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "2896758265cec81d9589",
+      "title": "Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动",
+      "summary": "Atlassian和OpenAI正在扩大合作伙伴关系，将前沿模型与企业知识联系起来，并帮助团队规划、构建和交付工作。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T16:00:00+00:00",
+      "importance": 0.8139,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "kind": "official",
+          "published_at": "2026-10-06T16:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ebb413cc5359756bf923",
+      "title": "Jump Trading如何使用ChatGPT扩展量化研究",
+      "summary": "JUMP Trading使用OpenAI来扩展定量研究。了解长期运行的人工智能工作流程如何将多个数据源与人工审核相结合。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "importance": 0.7889,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/jump-trading",
+          "kind": "official",
+          "published_at": "2026-10-06T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "00427e47df5ef3064509",
+      "title": "分享人工智能在数学方面的进展",
+      "summary": "OpenAI从内部前沿模型发布关于数学中开放问题的新结果，并在GitHub上分享精益证明形式化和研究细节。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-06T12:00:00+00:00",
+      "importance": 0.7889,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "kind": "official",
+          "published_at": "2026-10-06T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0e401bad0dd434d616ea",
+      "title": "OpenAI又推出了一批数学突破",
+      "summary": "OpenAI在一批722份手稿中揭示了一些由未发布的前沿模型产生的长期数学问题的解决方案，涵盖了372个将相关论文分组的结果家族。它扩展了",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-06T23:26:38+00:00",
+      "importance": 0.7795,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "kind": "media",
+          "published_at": "2026-10-06T23:26:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f57eff9c23a4454b476b",
+      "title": "使用Ironclad推进计算机使用",
+      "summary": "了解OpenAI和Ironclad如何在复杂的合同工作流程中培训和评估AI代理，以推进计算机用于专业工作。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "importance": 0.7764,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "kind": "official",
+          "published_at": "2026-10-06T10:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b20e35e65c00c0f43769",
+      "title": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$",
+      "summary": "该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-06T22:34:03+00:00",
+      "importance": 0.774,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+          "kind": "media",
+          "published_at": "2026-10-06T22:34:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5efca30fd2326e3a077e",
+      "title": "人工智能决策模型如何改变内容审核",
+      "summary": "周二， Musubi宣布了一种针对实时审核的轻量级决策模型，称为PolicyLM-1.7B ，该模型以开放式权重发布。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-06T20:35:20+00:00",
+      "importance": 0.7616,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
+          "kind": "media",
+          "published_at": "2026-10-06T20:35:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1ec779e602e78245980",
+      "title": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B",
+      "summary": "英伟达支持的Lambda在由Coatue和Blackstone牵头的计划2027年首次公开募股之前，以145亿美元的投资前估值筹集了高达40亿美元的资金。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-06T20:00:30+00:00",
+      "importance": 0.758,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+          "kind": "media",
+          "published_at": "2026-10-06T20:00:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "55a44998a2a0475505c1",
+      "title": "人工智能代理的下一个障碍：让网站让他们进入",
+      "summary": "个人人工智能代理承诺为您购物、预订航班和预订。但故意阻止和反机器人防御正在阻碍，让消费者陷入困境。新标准旨在提供帮助。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T19:56:50+00:00",
+      "importance": 0.7576,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+          "kind": "media",
+          "published_at": "2026-10-06T19:56:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a3a57c5cc9d74cca51b1",
+      "title": "Hark发布专注于隐私的人工智能个人助理",
+      "summary": "人工智能实验室的个人助理是未来的操作系统，旨在与Muse、Dots和Instinct竞争。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T18:22:45+00:00",
+      "importance": 0.7478,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+          "kind": "media",
+          "published_at": "2026-10-06T18:22:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bccd44d02d6412cacc7a",
+      "title": "我们不能只改变“录音”的定义",
+      "summary": "借助人工智能硬件，科技公司正在推动定义什么构成录音，什么不构成录音。对于大多数小工具历史记录，可以合理地假设带有麦克风或摄像头的设备",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T16:29:44+00:00",
+      "importance": 0.736,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+          "kind": "media",
+          "published_at": "2026-10-06T16:29:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f9ac1e263cb95c2e1d8d",
+      "title": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分",
+      "summary": "“我们之所以创建这个项目，是因为我们相信人工智能的好处将通过建立在模型之上的公司而不是仅仅通过模型来惠及大多数人。”",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-06T16:00:00+00:00",
+      "importance": 0.7329,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+          "kind": "media",
+          "published_at": "2026-10-06T16:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c4ec33fe0020f7566eb9",
+      "title": "LibreOffice说“没有人工智能”现在是一个软件功能",
+      "summary": "开源文档编辑器的制造商表示，它没有计划将人工智能添加到其软件的默认配置中，理由是用户隐私。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-06T15:25:00+00:00",
+      "importance": 0.7293,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "kind": "media",
+          "published_at": "2026-10-06T15:25:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2f5a711a6bf7494eb933",
+      "title": "Mistral的新1T车型旨在超越封闭和公开的竞争对手",
+      "summary": "法国人工智能实验室Mistral AI发布了Mistral Large 4 ，这是一种新的大型多式联运模式，旨在超越美国和中国的竞争对手。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T14:33:16+00:00",
+      "importance": 0.7239,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+          "kind": "media",
+          "published_at": "2026-10-06T14:33:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1025e6ed85f946b4ef2b",
+      "title": "Pinterest的人工智能现在将美容徽章转化为行动计划",
+      "summary": "Pinterest新的人工智能美容指南将美发和美甲别针转化为沙龙术语，包括预估成本、预约时间和维护需求。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T14:00:49+00:00",
+      "importance": 0.7205,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
+          "kind": "media",
+          "published_at": "2026-10-06T14:00:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "de66b423d3f35c96ba04",
+      "title": "谷歌即将取消对Gemini Flash和Pro的免费访问权限",
+      "summary": "从10月9日开始，任何使用免费套餐的Google Gemini用户将仅限于Flash Lite型号。免费用户目前可以选择Gemini Flash Lite、Flash和Pro ，但现在您需要每月$ 4.99的Google费用",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-06T13:19:01+00:00",
+      "importance": 0.7162,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+          "kind": "media",
+          "published_at": "2026-10-06T13:19:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d2b5b29b4c8155256199",
+      "title": "我们对欧盟文本来源规则的方法",
+      "summary": "OpenAI如何根据欧盟规则处理文本水印。了解水印的应用范围、检测工作原理以及访问权限从研究人员开始的原因。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-05T15:00:00+00:00",
+      "importance": 0.6577,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "kind": "official",
+          "published_at": "2026-10-05T15:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "19745539452346e87dcc",
+      "title": "双子座给我打电话可能会告诉你妈妈你迟到了",
+      "summary": "Google可能会将其“Call for Me”人工智能功能扩展到商务电话之外，以便您可以使用它向亲朋好友发送消息。Android Authority报告在APK撕裂中找到“Gemini Calling”介绍屏幕",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-05T23:09:55+00:00",
+      "importance": 0.6277,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "kind": "media",
+          "published_at": "2026-10-05T23:09:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-07.wav?v=1791338380770690500",
+  "chapters": [
+    {
+      "news_id": "2896758265cec81d9589",
+      "title": "Atlassian和OpenAI扩大合作伙伴关系，将企业知识转化为行动",
+      "start_seconds": 14.16,
+      "duration_seconds": 28.1
+    },
+    {
+      "news_id": "ebb413cc5359756bf923",
+      "title": "Jump Trading如何使用ChatGPT扩展量化研究",
+      "start_seconds": 42.26,
+      "duration_seconds": 26.14
+    },
+    {
+      "news_id": "00427e47df5ef3064509",
+      "title": "分享人工智能在数学方面的进展",
+      "start_seconds": 68.4,
+      "duration_seconds": 24.24
+    },
+    {
+      "news_id": "0e401bad0dd434d616ea",
+      "title": "OpenAI又推出了一批数学突破",
+      "start_seconds": 92.64,
+      "duration_seconds": 29.4
+    },
+    {
+      "news_id": "f57eff9c23a4454b476b",
+      "title": "使用Ironclad推进计算机使用",
+      "start_seconds": 122.04,
+      "duration_seconds": 23.1
+    },
+    {
+      "news_id": "b20e35e65c00c0f43769",
+      "title": "前Ramp工程师在报废第一款产品后为平台Melius筹集了2000万美元$",
+      "start_seconds": 145.14,
+      "duration_seconds": 26.64
+    },
+    {
+      "news_id": "5efca30fd2326e3a077e",
+      "title": "人工智能决策模型如何改变内容审核",
+      "start_seconds": 171.78,
+      "duration_seconds": 25.22
+    },
+    {
+      "news_id": "f1ec779e602e78245980",
+      "title": "人工智能计算初创公司Lambda在计划的IPO之前筹集$ 4B",
+      "start_seconds": 197.0,
+      "duration_seconds": 29.92
+    },
+    {
+      "news_id": "55a44998a2a0475505c1",
+      "title": "人工智能代理的下一个障碍：让网站让他们进入",
+      "start_seconds": 226.92,
+      "duration_seconds": 28.78
+    },
+    {
+      "news_id": "a3a57c5cc9d74cca51b1",
+      "title": "Hark发布专注于隐私的人工智能个人助理",
+      "start_seconds": 255.7,
+      "duration_seconds": 21.6
+    },
+    {
+      "news_id": "bccd44d02d6412cacc7a",
+      "title": "我们不能只改变“录音”的定义",
+      "start_seconds": 277.3,
+      "duration_seconds": 27.54
+    },
+    {
+      "news_id": "f9ac1e263cb95c2e1d8d",
+      "title": "Anthropic将为初创公司提供免费的Claude Team一年和1,000 $的学分",
+      "start_seconds": 304.84,
+      "duration_seconds": 28.3
+    },
+    {
+      "news_id": "c4ec33fe0020f7566eb9",
+      "title": "LibreOffice说“没有人工智能”现在是一个软件功能",
+      "start_seconds": 333.14,
+      "duration_seconds": 24.9
+    },
+    {
+      "news_id": "2f5a711a6bf7494eb933",
+      "title": "Mistral的新1T车型旨在超越封闭和公开的竞争对手",
+      "start_seconds": 358.04,
+      "duration_seconds": 26.82
+    },
+    {
+      "news_id": "1025e6ed85f946b4ef2b",
+      "title": "Pinterest的人工智能现在将美容徽章转化为行动计划",
+      "start_seconds": 384.86,
+      "duration_seconds": 25.32
+    },
+    {
+      "news_id": "de66b423d3f35c96ba04",
+      "title": "谷歌即将取消对Gemini Flash和Pro的免费访问权限",
+      "start_seconds": 410.18,
+      "duration_seconds": 33.04
+    },
+    {
+      "news_id": "d2b5b29b4c8155256199",
+      "title": "我们对欧盟文本来源规则的方法",
+      "start_seconds": 443.22,
+      "duration_seconds": 25.12
+    },
+    {
+      "news_id": "19745539452346e87dcc",
+      "title": "双子座给我打电话可能会告诉你妈妈你迟到了",
+      "start_seconds": 468.34,
+      "duration_seconds": 30.9
+    }
+  ]
+}

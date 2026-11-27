@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T10:33:04.901943+08:00",
+  "title": "2026-09-20 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "b4233d80af418d7dffeb",
+      "title": "Meta的Muse令人毛骨悚然，但也许不是因为您认为",
+      "summary": "Meta的Muse显然是一个有效的人工智能助手，但有点令人毛骨悚然。部分原因是其新的Mac应用程序可以访问消息、日历和笔记。但尽管如此， Muse并没有真正",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T20:44:40+00:00",
+      "importance": 0.7593,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+          "kind": "media",
+          "published_at": "2026-09-19T20:44:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f1a03220ac629bb7672f",
+      "title": "据报道， Flock试图通过员工收购来缩减员工队伍",
+      "summary": "如果没有收购， Flock “几乎肯定”需要裁员。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T20:39:13+00:00",
+      "importance": 0.7587,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+          "kind": "media",
+          "published_at": "2026-09-19T20:39:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ef57ec1c7b8c93591522",
+      "title": "特朗普表示，是时候用一个新名字重塑人工智能了--他也在创建一支人工智能部队",
+      "summary": "特朗普在没有证据的情况下声称，人工智能的反弹是民主党的骗局。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T19:57:47+00:00",
+      "importance": 0.7544,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "kind": "media",
+          "published_at": "2026-09-19T19:57:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "675a197c701faf4cedaa",
+      "title": "谷歌的Gemini是攻击其他公司的最新AI模型",
+      "summary": "谷歌表示， Gemini通过立即终止每次黑客攻击“采取了适当的行动”。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T17:30:00+00:00",
+      "importance": 0.739,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+          "kind": "media",
+          "published_at": "2026-09-19T17:30:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1bc0911d200ab4e31f17",
+      "title": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”",
+      "summary": "最近在《纽约时报》针对OpenAI和微软的案件中公开的法庭文件非常令人沮丧。这些公司自己的文件警告说，它正在开始一个“厄运循环” ，这将损害网络， CHARACT",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T16:18:50+00:00",
+      "importance": 0.7316,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "kind": "media",
+          "published_at": "2026-09-19T16:18:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fd29565670e26ee46611",
+      "title": "双子座流氓，黑了三家公司，谷歌把它藏起来了",
+      "summary": "今年5月，双子座打破了遏制并入侵了三家不同的公司，但谷歌直到《华尔街日报》与该公司接触后才披露这一事件。黑客攻击发生在模型网络安全测试期间",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-19T15:25:03+00:00",
+      "importance": 0.726,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+          "kind": "media",
+          "published_at": "2026-09-19T15:25:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c65ba0a6c6e3046285d6",
+      "title": "人工智能安全对话变得令人难以置信",
+      "summary": "本周，两场关于人工智能安全的对话如火如荼，表明从虚构中辨别人工智能事实是多么困难。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-19T15:00:00+00:00",
+      "importance": 0.7234,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+          "kind": "media",
+          "published_at": "2026-09-19T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0c5324178046e5a1e6ed",
+      "title": "Petlibro的新型人工智能喂食器是多猫房屋的游戏规则改变者",
+      "summary": "Petlibro的新型Granary 2智能喂食器使用内置比例和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫正在吃多少以及何时吃—尽管最昂贵的健康监测功能将花费您一个分机",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T15:00:00+00:00",
+      "importance": 0.7234,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+          "kind": "media",
+          "published_at": "2026-09-19T15:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c5138d9ca614d59c3fa8",
+      "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
+      "summary": "VALS AI希望在日益被AI模型淹没的世界中，使AI基准测试成为更中立、更值得信赖的资源。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-19T13:00:00+00:00",
+      "importance": 0.7109,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+          "kind": "media",
+          "published_at": "2026-09-19T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "30e39bec26f7808da201",
+      "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
+      "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-19T00:12:07+00:00",
+      "importance": 0.6309,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
+          "kind": "media",
+          "published_at": "2026-09-19T00:12:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "415291b734cbb8a64f3b",
+      "title": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能",
+      "summary": "UP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-09-18T23:25:01+00:00",
+      "importance": 0.626,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "kind": "media",
+          "published_at": "2026-09-18T23:25:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "26c5ca2c4a68e3f0f373",
+      "title": "Anthropic正在运营一个进行生物学实验的实验室",
+      "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T23:13:31+00:00",
+      "importance": 0.6248,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+          "kind": "media",
+          "published_at": "2026-09-18T23:13:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "87654fce97950fc56345",
+      "title": "人工智能幻觉几乎引发美军军事行动",
+      "summary": "一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-18T23:12:32+00:00",
+      "importance": 0.6247,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "kind": "media",
+          "published_at": "2026-09-18T23:12:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "79e6d15835f255d2bc27",
+      "title": "人工智能监管的打击还没有结束",
+      "summary": "在本周初，谁是谁的人工智能似乎-至少暂时-在人工智能监管方面。上周末， Anthropic首席执行官Dario Amodei提出了一项减缓人工智能发展的三步计划，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T22:05:38+00:00",
+      "importance": 0.6177,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+          "kind": "media",
+          "published_at": "2026-09-18T22:05:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2857cdaa497d76087e7d",
+      "title": "Gavin Newsom正在推动AI Kill开关",
+      "summary": "加利福尼亚州州长Gavin Newsom （ D ）正在定位该州在人工智能监督方面发挥领导作用，包括周五发布新的行政命令，为前沿车型规定“杀戮开关”的潜力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-18T21:28:12+00:00",
+      "importance": 0.6138,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+          "kind": "media",
+          "published_at": "2026-09-18T21:28:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "69d5b5c2d8ae0977ce6c",
+      "title": "人工智能泡沫： “他们即将结束这一切” –电脑怪物伊莱[视频]",
+      "summary": "文章网址： https://www.youtube.com/watch?v=0YIczZDCgsM评论网址： https://news.ycombinator.com/item?id=49771886点数： 2 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-20T02:04:19+00:00",
+      "importance": 0.6026,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=0YIczZDCgsM",
+          "kind": "social",
+          "published_at": "2026-09-20T02:04:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bb8b06c8a13d267fb909",
+      "title": "人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？",
+      "summary": "今天在Decoder上，我们有一个关于商业未来的两部分系列中的第一部分，我正在与拜登政府美国司法部前反垄断主管乔纳森·坎特（ Jonathan Kanter ）交谈。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-18T19:30:34+00:00",
+      "importance": 0.6016,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+          "kind": "media",
+          "published_at": "2026-09-18T19:30:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9164924ade5c192f5530",
+      "title": "为什么人工智能领导者呼吁放慢脚步？ [AUDIO]",
+      "summary": "文章网址： https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down评论网址： https://news.ycombinator.com/item?id=49771827点数： 1 #评论： 0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-20T01:52:18+00:00",
+      "importance": 0.6013,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down",
+          "kind": "social",
+          "published_at": "2026-09-20T01:52:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-20.wav?v=1789871597129762100",
+  "chapters": [
+    {
+      "news_id": "b4233d80af418d7dffeb",
+      "title": "Meta的Muse令人毛骨悚然，但也许不是因为您认为",
+      "start_seconds": 14.16,
+      "duration_seconds": 32.04
+    },
+    {
+      "news_id": "f1a03220ac629bb7672f",
+      "title": "据报道， Flock试图通过员工收购来缩减员工队伍",
+      "start_seconds": 46.2,
+      "duration_seconds": 18.8
+    },
+    {
+      "news_id": "ef57ec1c7b8c93591522",
+      "title": "特朗普表示，是时候用一个新名字重塑人工智能了--他也在创建一支人工智能部队",
+      "start_seconds": 65.0,
+      "duration_seconds": 24.2
+    },
+    {
+      "news_id": "675a197c701faf4cedaa",
+      "title": "谷歌的Gemini是攻击其他公司的最新AI模型",
+      "start_seconds": 89.2,
+      "duration_seconds": 20.26
+    },
+    {
+      "news_id": "1bc0911d200ab4e31f17",
+      "title": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”",
+      "start_seconds": 109.46,
+      "duration_seconds": 31.26
+    },
+    {
+      "news_id": "fd29565670e26ee46611",
+      "title": "双子座流氓，黑了三家公司，谷歌把它藏起来了",
+      "start_seconds": 140.72,
+      "duration_seconds": 30.44
+    },
+    {
+      "news_id": "c65ba0a6c6e3046285d6",
+      "title": "人工智能安全对话变得令人难以置信",
+      "start_seconds": 171.16,
+      "duration_seconds": 22.42
+    },
+    {
+      "news_id": "0c5324178046e5a1e6ed",
+      "title": "Petlibro的新型人工智能喂食器是多猫房屋的游戏规则改变者",
+      "start_seconds": 193.58,
+      "duration_seconds": 33.34
+    },
+    {
+      "news_id": "c5138d9ca614d59c3fa8",
+      "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
+      "start_seconds": 226.92,
+      "duration_seconds": 26.94
+    },
+    {
+      "news_id": "30e39bec26f7808da201",
+      "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
+      "start_seconds": 253.86,
+      "duration_seconds": 24.6
+    },
+    {
+      "news_id": "415291b734cbb8a64f3b",
+      "title": "一家建立其他初创公司的初创公司筹集了1亿美元，并全力投入物理人工智能",
+      "start_seconds": 278.46,
+      "duration_seconds": 24.7
+    },
+    {
+      "news_id": "26c5ca2c4a68e3f0f373",
+      "title": "Anthropic正在运营一个进行生物学实验的实验室",
+      "start_seconds": 303.16,
+      "duration_seconds": 28.2
+    },
+    {
+      "news_id": "87654fce97950fc56345",
+      "title": "人工智能幻觉几乎引发美军军事行动",
+      "start_seconds": 331.36,
+      "duration_seconds": 23.04
+    },
+    {
+      "news_id": "79e6d15835f255d2bc27",
+      "title": "人工智能监管的打击还没有结束",
+      "start_seconds": 354.4,
+      "duration_seconds": 28.64
+    },
+    {
+      "news_id": "2857cdaa497d76087e7d",
+      "title": "Gavin Newsom正在推动AI Kill开关",
+      "start_seconds": 383.04,
+      "duration_seconds": 27.62
+    },
+    {
+      "news_id": "69d5b5c2d8ae0977ce6c",
+      "title": "人工智能泡沫： “他们即将结束这一切” –电脑怪物伊莱[视频]",
+      "start_seconds": 410.66,
+      "duration_seconds": 38.26
+    },
+    {
+      "news_id": "bb8b06c8a13d267fb909",
+      "title": "人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？",
+      "start_seconds": 448.92,
+      "duration_seconds": 30.58
+    },
+    {
+      "news_id": "9164924ade5c192f5530",
+      "title": "为什么人工智能领导者呼吁放慢脚步？ [AUDIO]",
+      "start_seconds": 479.5,
+      "duration_seconds": 49.72
+    }
+  ]
+}

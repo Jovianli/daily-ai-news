@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T15:37:03.155270+08:00",
+  "title": "2026-11-19 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "76052896ed5fc980fe27",
+      "title": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
+      "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案，实质上是敦促他们自愿离职，而不是通过另一次大规模裁员来削减员工队伍。简而言之，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-19T00:42:56+00:00",
+      "importance": 0.7529,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+          "kind": "media",
+          "published_at": "2026-11-19T00:42:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "28a1e7a21c66bddf9bd1",
+      "title": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
+      "summary": "微软首席执行官淡化了最近的Outlook服务中断事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T23:45:00+00:00",
+      "importance": 0.7468,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+          "kind": "media",
+          "published_at": "2026-11-18T23:45:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "806578be9a08eded4bcf",
+      "title": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队”",
+      "summary": "“我不认为[黄仁勋]对美国不忠诚，”马斯克说。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T23:25:17+00:00",
+      "importance": 0.7448,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+          "kind": "media",
+          "published_at": "2026-11-18T23:25:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d8ba4398191c3d4681c9",
+      "title": "美国最大的学区考虑弃用Google搜索",
+      "summary": "据《纽约时报》报道，在谷歌表示将禁用选择退出其人工智能功能的学校的搜索功能后，纽约、洛杉矶和芝加哥的学校正在考虑使用谷歌的替代方案。从明年开始，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T23:18:35+00:00",
+      "importance": 0.7441,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "kind": "media",
+          "published_at": "2026-11-18T23:18:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fd0f1695410f8d6eef32",
+      "title": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）在黄仁勋离职后仍对英伟达充满信心",
+      "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）对黄仁勋的继任者科莱特·克雷斯（Colette Kress）表示有信心，后者目前担任英伟达的临时首席执行官。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T23:17:28+00:00",
+      "importance": 0.744,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+          "kind": "media",
+          "published_at": "2026-11-18T23:17:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "591236888382df2bc009",
+      "title": "萨蒂亚·纳德拉预测，人工智能代理将重塑网络经济",
+      "summary": "微软首席执行官表示，人工智能代理可能会颠覆以广告为驱动的商业模式，迫使亚马逊等公司重新思考如何争夺客户。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T22:58:11+00:00",
+      "importance": 0.742,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+          "kind": "media",
+          "published_at": "2026-11-18T22:58:11+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9cd84c2455ae281d32d9",
+      "title": "Anthropic的IPO价格为每股83美元，高于预期区间",
+      "summary": "据报道，备受期待的首次公开募股（IPO）将该公司的完全摊薄估值定为1.5万亿美元。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T22:11:15+00:00",
+      "importance": 0.7371,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+          "kind": "media",
+          "published_at": "2026-11-18T22:11:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d023ba6fde32bc2f03d6",
+      "title": "特朗普的最新土地掠夺是一处位于菲律宾的人工智能中心",
+      "summary": "据当地新闻媒体Rappler报道，周二，唐纳德·特朗普总统在抵达菲律宾时，至少有五位选美皇后前来迎接。当他踏上停机坪时，一个孩子递给他一面小小的美国国旗和一面菲律宾国旗。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T21:44:01+00:00",
+      "importance": 0.7342,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "kind": "media",
+          "published_at": "2026-11-18T21:44:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3285b906d368abcf3b42",
+      "title": "帕尔默·拉奇警告称，由人工智能驱动的网络攻击正以快于防御的速度发展：“是时候开始行动了。”",
+      "summary": "Anduril的联合创始人表示，过时的技术正使系统容易受到新一波人工智能驱动的攻击。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T21:34:13+00:00",
+      "importance": 0.7332,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+          "kind": "media",
+          "published_at": "2026-11-18T21:34:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f2571adad4d38d7232eb",
+      "title": "帕尔默·拉奇认为中国“对黄仁勋的离职感到兴奋”，因此他希望这位被罢免的英伟达首席执行官能够官复原职。",
+      "summary": "Anduril首席执行官在谈到被罢免的英伟达掌门人黄仁勋时表示：“将他踢出局会削弱美国的力量。”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T21:31:21+00:00",
+      "importance": 0.7329,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+          "kind": "media",
+          "published_at": "2026-11-18T21:31:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cef4a627b91c6fcc2510",
+      "title": "Sam Altman表示，他的生活如此离奇，以至于他对安德鲁·加菲尔德（Andrew Garfield）在即将上映的电影中饰演他一事并不感到意外。",
+      "summary": "“这感觉并不像是我人生中最奇怪的十件事之一。”奥特曼说。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T20:07:01+00:00",
+      "importance": 0.7241,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+          "kind": "media",
+          "published_at": "2026-11-18T20:07:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ac57b5b6ee9ed73e27a8",
+      "title": "Snapchat现已允许开发者使用Claude Code和Cursor等AI助手来构建AR滤镜",
+      "summary": "Snapchat表示，Lens创作者可以用通俗易懂的语言描述他们想要的Lens，而他们的AI助手将从头到尾处理整个过程。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T19:56:39+00:00",
+      "importance": 0.723,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+          "kind": "media",
+          "published_at": "2026-11-18T19:56:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b99d3925f7eef8109c06",
+      "title": "科技诉讼主导了2026年——而立法者还想要更多",
+      "summary": "距离2026年底仅剩数周时间，立法者正试图通过新的保护措施，以保护在线受害者，其针对的是深伪创作者以及阻止用户提起诉讼的在线平台。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-18T19:07:29+00:00",
+      "importance": 0.7179,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+          "kind": "media",
+          "published_at": "2026-11-18T19:07:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e7c4908e584f5e820cfe",
+      "title": "人工智能热度指数：人工智能无处不在",
+      "summary": "人工智能就像一种讨厌的皮疹，似乎无处不在。尽管AI概览功能会让公司损失数十亿美元的广告收入，但Google还是强行将它塞进您的视野。走出公寓，你可能会碰到两个他",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-18T14:42:44+00:00",
+      "importance": 0.7173,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+          "kind": "media",
+          "published_at": "2026-11-18T14:42:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7132415e461f71d94422",
+      "title": "如果没有人工智能这个“金主”的撑腰，英伟达算什么？",
+      "summary": "如果这场辉煌的人工智能革命完全取决于一个人的福祉，那么人工智能可能不像我以前所认为的那样是一项稳健的技术。尽管如此，硅谷的许多人现在都坚持认为他是",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T18:34:15+00:00",
+      "importance": 0.7145,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+          "kind": "media",
+          "published_at": "2026-11-18T18:34:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "36bbeb249216ceb6a04b",
+      "title": "谷歌搜索的AI功能将拥有自己的无痕模式",
+      "summary": "谷歌的新临时会话让用户可以在 AI 模式下进行对话，而不会将这些对话添加到他们的搜索历史记录中，也不会影响未来的推荐。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-18T18:04:05+00:00",
+      "importance": 0.7113,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+          "kind": "media",
+          "published_at": "2026-11-18T18:04:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4270e297502a029b32d7",
+      "title": "还记得尖端人工智能暂停吗？芯片公司也不记得了",
+      "summary": "今年夏天，OpenAI暂停了其计划中规模最大的前沿训练，此前其AI代理意外黑进了Hugging Face，且早期证据表明，其下一代模型能够独立发现并利用安全漏洞。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-18T16:25:30+00:00",
+      "importance": 0.7011,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "kind": "media",
+          "published_at": "2026-11-18T16:25:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c08d2bf5cfc43826878d",
+      "title": "这家嗅觉初创公司称其AI鼻子与人类的鼻子一样灵敏",
+      "summary": "在新泽西州纽瓦克机场附近的一家实验室里，一支由约30名经验丰富的人类嗅探员组成的团队正在缓慢地辨识地球上的每一种气味。他们仔细记录的“坚果味”、“桃子味”、“海洋味”等气味描述与",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "importance": 0.69,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+          "kind": "media",
+          "published_at": "2026-11-18T10:20:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-19.wav?v=1795073830759267700",
+  "chapters": [
+    {
+      "news_id": "76052896ed5fc980fe27",
+      "title": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
+      "start_seconds": 14.16,
+      "duration_seconds": 35.52
+    },
+    {
+      "news_id": "28a1e7a21c66bddf9bd1",
+      "title": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
+      "start_seconds": 49.68,
+      "duration_seconds": 31.06
+    },
+    {
+      "news_id": "806578be9a08eded4bcf",
+      "title": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队”",
+      "start_seconds": 80.74,
+      "duration_seconds": 21.4
+    },
+    {
+      "news_id": "d8ba4398191c3d4681c9",
+      "title": "美国最大的学区考虑弃用Google搜索",
+      "start_seconds": 102.14,
+      "duration_seconds": 29.8
+    },
+    {
+      "news_id": "fd0f1695410f8d6eef32",
+      "title": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）在黄仁勋离职后仍对英伟达充满信心",
+      "start_seconds": 131.94,
+      "duration_seconds": 33.54
+    },
+    {
+      "news_id": "591236888382df2bc009",
+      "title": "萨蒂亚·纳德拉预测，人工智能代理将重塑网络经济",
+      "start_seconds": 165.48,
+      "duration_seconds": 26.98
+    },
+    {
+      "news_id": "9cd84c2455ae281d32d9",
+      "title": "Anthropic的IPO价格为每股83美元，高于预期区间",
+      "start_seconds": 192.46,
+      "duration_seconds": 24.44
+    },
+    {
+      "news_id": "d023ba6fde32bc2f03d6",
+      "title": "特朗普的最新土地掠夺是一处位于菲律宾的人工智能中心",
+      "start_seconds": 216.9,
+      "duration_seconds": 34.48
+    },
+    {
+      "news_id": "3285b906d368abcf3b42",
+      "title": "帕尔默·拉奇警告称，由人工智能驱动的网络攻击正以快于防御的速度发展：“是时候开始行动了。”",
+      "start_seconds": 251.38,
+      "duration_seconds": 27.46
+    },
+    {
+      "news_id": "f2571adad4d38d7232eb",
+      "title": "帕尔默·拉奇认为中国“对黄仁勋的离职感到兴奋”，因此他希望这位被罢免的英伟达首席执行官能够官复原职。",
+      "start_seconds": 278.84,
+      "duration_seconds": 29.5
+    },
+    {
+      "news_id": "cef4a627b91c6fcc2510",
+      "title": "Sam Altman表示，他的生活如此离奇，以至于他对安德鲁·加菲尔德（Andrew Garfield）在即将上映的电影中饰演他一事并不感到意外。",
+      "start_seconds": 308.34,
+      "duration_seconds": 28.84
+    },
+    {
+      "news_id": "ac57b5b6ee9ed73e27a8",
+      "title": "Snapchat现已允许开发者使用Claude Code和Cursor等AI助手来构建AR滤镜",
+      "start_seconds": 337.18,
+      "duration_seconds": 27.72
+    },
+    {
+      "news_id": "b99d3925f7eef8109c06",
+      "title": "科技诉讼主导了2026年——而立法者还想要更多",
+      "start_seconds": 364.9,
+      "duration_seconds": 29.58
+    },
+    {
+      "news_id": "e7c4908e584f5e820cfe",
+      "title": "人工智能热度指数：人工智能无处不在",
+      "start_seconds": 394.48,
+      "duration_seconds": 32.58
+    },
+    {
+      "news_id": "7132415e461f71d94422",
+      "title": "如果没有人工智能这个“金主”的撑腰，英伟达算什么？",
+      "start_seconds": 427.06,
+      "duration_seconds": 31.08
+    },
+    {
+      "news_id": "36bbeb249216ceb6a04b",
+      "title": "谷歌搜索的AI功能将拥有自己的无痕模式",
+      "start_seconds": 458.14,
+      "duration_seconds": 26.36
+    },
+    {
+      "news_id": "4270e297502a029b32d7",
+      "title": "还记得尖端人工智能暂停吗？芯片公司也不记得了",
+      "start_seconds": 484.5,
+      "duration_seconds": 31.16
+    },
+    {
+      "news_id": "c08d2bf5cfc43826878d",
+      "title": "这家嗅觉初创公司称其AI鼻子与人类的鼻子一样灵敏",
+      "start_seconds": 515.66,
+      "duration_seconds": 34.3
+    }
+  ]
+}

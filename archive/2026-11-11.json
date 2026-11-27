@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T08:31:54.646931+08:00",
+  "title": "2026-11-11 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "55cb0588b3e8436e78b2",
+      "title": "Gemini 4 Carbon现已上市",
+      "summary": "开发人员、企业、科学家和消费者现在可以尝试我们最新的前沿模型。Google DeepMind高级副总裁兼首席人工智能架构师Google您的浏览器不支持音频元素。今天，我们要制作双子座4",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-10T16:03:47+00:00",
+      "importance": 0.8241,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "kind": "official",
+          "published_at": "2026-11-10T16:03:47+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e192e4f92a704298f96f",
+      "title": "我们让Adobe的创意和生产力工具更贴近您的日常Google应用。",
+      "summary": "谷歌和Adobe正在整合创意和生产力工具。在云端硬盘中编辑PDF ，并在Gemini中使用Adobe AI。了解此次合作的最新动态。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "importance": 0.8112,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "kind": "official",
+          "published_at": "2026-11-10T14:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0f0020abcf733229d29f",
+      "title": "帮助护理人员在日常生活中使用人工智能",
+      "summary": "OpenAI学院正在为美国五个城市的护理人员提供免费的实用ChatGPT研讨会，帮助他们在日常生活中培养实用的人工智能技能。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "importance": 0.7987,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "kind": "official",
+          "published_at": "2026-11-10T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "69d4d9d74efa01629a6c",
+      "title": "缩小教育领域的人工智能指导差距",
+      "summary": "新的ThinkYoung研究和OpenAI在支持教师、人工智能素养和自主学习方面的EMEA教育合作伙伴关系的经验教训。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-10T09:00:00+00:00",
+      "importance": 0.7799,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "kind": "official",
+          "published_at": "2026-11-10T09:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3b53bf6090ab9868ec4d",
+      "title": "OpenAI收购由Sonder创始人创建的旅游创业公司Odessia",
+      "summary": "OpenAI尚未说明其对未来旅行的计划。但Sonder创始人弗朗西斯·戴维森（ Francis Davidson ）是旅游业的知名人物。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-10T21:08:52+00:00",
+      "importance": 0.7748,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+          "kind": "media",
+          "published_at": "2026-11-10T21:08:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ae543fdc68f7cb2628d4",
+      "title": "随着纽约人工智能安全法生效， OpenAI、Anthropic面临新的监督",
+      "summary": "纽约正准备执行其全面的人工智能安全法，要求OpenAI和Anthropic等主要开发商进行注册，披露安全实践，并报告重大事件或面临罚款。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-10T20:52:13+00:00",
+      "importance": 0.7731,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+          "kind": "media",
+          "published_at": "2026-11-10T20:52:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f3fc54cd1d78c100d666",
+      "title": "前沿工作：人工智能对自由职业的影响",
+      "summary": "OpenAI和Upwork的最新研究发现，对人工智能相关项目的自由职业、新技能组合、更大的预算和更多时间的需求正在发生变化。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "importance": 0.7674,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "kind": "official",
+          "published_at": "2026-11-10T07:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "38f7683430bac08520af",
+      "title": "美国正在赢得人工智能竞赛。Jensen Huang可能搞砸了",
+      "summary": "随着间谍目标的出现， Jensen Huang可能是地球上最不令人惊讶的人之一。这位英伟达首席执行官经营着世界上最有价值的公司之一，控制着推动人工智能热潮的需求技术，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T19:31:58+00:00",
+      "importance": 0.7647,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+          "kind": "media",
+          "published_at": "2026-11-10T19:31:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1b0c05cd97a311af5c4f",
+      "title": "Oura将以6.25亿美元收购AI原生初级保健初创公司Counsel Health",
+      "summary": "这笔交易是在Oura无限期推迟其高达22亿美元的IPO几周后达成的，理由是“IPO市场的不确定性”。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-10T19:23:34+00:00",
+      "importance": 0.7639,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+          "kind": "media",
+          "published_at": "2026-11-10T19:23:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c619bb88505937dcdf39",
+      "title": "独立游戏社区因AI和Big Walk而陷入混乱",
+      "summary": "一些独立游戏节（ IGF ）的评委昨天发表声明称，他们不会投票支持以“任何身份”使用生成式人工智能的游戏。“不久之后，独立热门游戏《Big Walk》的开发商发布了一个",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T19:06:22+00:00",
+      "importance": 0.7621,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+          "kind": "media",
+          "published_at": "2026-11-10T19:06:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "68219fdebd4ad78ca5bc",
+      "title": "PSI正试图利用人工智能驱动的科学发现做生意",
+      "summary": "PSI使用了一个未发布的人类模型来回答科学家们近二十年来一直追求的关于量子计算的一个基本问题。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T19:03:52+00:00",
+      "importance": 0.7618,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+          "kind": "media",
+          "published_at": "2026-11-10T19:03:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7e74320883f414fbb1a0",
+      "title": "OpenAI推出新的业务配置文件，使ChatGPT更像谷歌",
+      "summary": "OpenAI正在寻求使ChatGPT成为一个更强大的消费者发现引擎，许多新功能旨在帮助企业实现这一目标。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T18:49:52+00:00",
+      "importance": 0.7604,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+          "kind": "media",
+          "published_at": "2026-11-10T18:49:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4cc686f0d8904bd210ba",
+      "title": "英伟达首席执行官Jensen Huang与涉嫌中国间谍的婚外情：时间表",
+      "summary": "随着美国和中国竞相开发最先进的人工智能基础设施，这一事件可能会对国家安全产生影响。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-10T17:04:19+00:00",
+      "importance": 0.7494,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "kind": "media",
+          "published_at": "2026-11-10T17:04:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3ec8add99452b3402317",
+      "title": "ChatGPT正在获得经过验证的人工智能“业务代理”",
+      "summary": "ChatGPT将允许您与代表品牌的经过验证的“业务代理”聊天，以帮助您进行比较购物等。该功能首先提供给“符合条件”的电子商务和在线服务业务",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T16:34:41+00:00",
+      "importance": 0.7463,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "kind": "media",
+          "published_at": "2026-11-10T16:34:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "de59f40c4070218b9f64",
+      "title": "eBay似乎已经关闭了第三方人工智能代理商的大门",
+      "summary": "eBay似乎阻止了包括Meta的Muse在内的人工智能代理在平台上浏览，这是人工智能代理竞赛中最新的速度提升。一位读者告诉The Verge ，几周来，他一直让他的Muse代理人浏览",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T16:20:30+00:00",
+      "importance": 0.7448,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "kind": "media",
+          "published_at": "2026-11-10T16:20:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a75982b151db7f3d5483",
+      "title": "谷歌通过两款新的专用芯片扩大其人工智能硬件产品组合",
+      "summary": "谷歌的新张量处理单元（ TPU ）将其芯片产品组合扩展到更多用例：机密模型培训和更大的内存容量。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T15:54:08+00:00",
+      "importance": 0.7421,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+          "kind": "media",
+          "published_at": "2026-11-10T15:54:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e313ab2892aad27b24de",
+      "title": "Photoshop、Lightroom和Premiere让您更轻松地移除物品",
+      "summary": "Adobe正在扩展其Creative Cloud应用程序和Firefly AI平台的新功能，旨在使设计和编辑项目更快、更简单。今天Adobe Max活动的一些公告",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-10T15:49:40+00:00",
+      "importance": 0.7416,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+          "kind": "media",
+          "published_at": "2026-11-10T15:49:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8658a0744e2cda3c83ed",
+      "title": "谷歌发布带有代理“swarm”功能的Gemini 4 Carbon",
+      "summary": "谷歌正在向公众推出其最新的人工智能模型Gemini 4 Carbon ，两周前将其发布给了一群精选的“网络安全捍卫者”。谷歌声称Carbon是其“最强大的模型” ，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-10T15:30:28+00:00",
+      "importance": 0.7396,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "kind": "media",
+          "published_at": "2026-11-10T15:30:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-11.wav?v=1794357121786668800",
+  "chapters": [
+    {
+      "news_id": "55cb0588b3e8436e78b2",
+      "title": "Gemini 4 Carbon现已上市",
+      "start_seconds": 14.16,
+      "duration_seconds": 31.28
+    },
+    {
+      "news_id": "e192e4f92a704298f96f",
+      "title": "我们让Adobe的创意和生产力工具更贴近您的日常Google应用。",
+      "start_seconds": 45.44,
+      "duration_seconds": 28.94
+    },
+    {
+      "news_id": "0f0020abcf733229d29f",
+      "title": "帮助护理人员在日常生活中使用人工智能",
+      "start_seconds": 74.38,
+      "duration_seconds": 26.24
+    },
+    {
+      "news_id": "69d4d9d74efa01629a6c",
+      "title": "缩小教育领域的人工智能指导差距",
+      "start_seconds": 100.62,
+      "duration_seconds": 24.18
+    },
+    {
+      "news_id": "3b53bf6090ab9868ec4d",
+      "title": "OpenAI收购由Sonder创始人创建的旅游创业公司Odessia",
+      "start_seconds": 124.8,
+      "duration_seconds": 26.52
+    },
+    {
+      "news_id": "ae543fdc68f7cb2628d4",
+      "title": "随着纽约人工智能安全法生效， OpenAI、Anthropic面临新的监督",
+      "start_seconds": 151.32,
+      "duration_seconds": 29.92
+    },
+    {
+      "news_id": "f3fc54cd1d78c100d666",
+      "title": "前沿工作：人工智能对自由职业的影响",
+      "start_seconds": 181.24,
+      "duration_seconds": 26.78
+    },
+    {
+      "news_id": "38f7683430bac08520af",
+      "title": "美国正在赢得人工智能竞赛。Jensen Huang可能搞砸了",
+      "start_seconds": 208.02,
+      "duration_seconds": 32.02
+    },
+    {
+      "news_id": "1b0c05cd97a311af5c4f",
+      "title": "Oura将以6.25亿美元收购AI原生初级保健初创公司Counsel Health",
+      "start_seconds": 240.04,
+      "duration_seconds": 26.22
+    },
+    {
+      "news_id": "c619bb88505937dcdf39",
+      "title": "独立游戏社区因AI和Big Walk而陷入混乱",
+      "start_seconds": 266.26,
+      "duration_seconds": 30.84
+    },
+    {
+      "news_id": "68219fdebd4ad78ca5bc",
+      "title": "PSI正试图利用人工智能驱动的科学发现做生意",
+      "start_seconds": 297.1,
+      "duration_seconds": 23.62
+    },
+    {
+      "news_id": "7e74320883f414fbb1a0",
+      "title": "OpenAI推出新的业务配置文件，使ChatGPT更像谷歌",
+      "start_seconds": 320.72,
+      "duration_seconds": 25.92
+    },
+    {
+      "news_id": "4cc686f0d8904bd210ba",
+      "title": "英伟达首席执行官Jensen Huang与涉嫌中国间谍的婚外情：时间表",
+      "start_seconds": 346.64,
+      "duration_seconds": 25.08
+    },
+    {
+      "news_id": "3ec8add99452b3402317",
+      "title": "ChatGPT正在获得经过验证的人工智能“业务代理”",
+      "start_seconds": 371.72,
+      "duration_seconds": 28.86
+    },
+    {
+      "news_id": "de59f40c4070218b9f64",
+      "title": "eBay似乎已经关闭了第三方人工智能代理商的大门",
+      "start_seconds": 400.58,
+      "duration_seconds": 31.7
+    },
+    {
+      "news_id": "a75982b151db7f3d5483",
+      "title": "谷歌通过两款新的专用芯片扩大其人工智能硬件产品组合",
+      "start_seconds": 432.28,
+      "duration_seconds": 26.52
+    },
+    {
+      "news_id": "e313ab2892aad27b24de",
+      "title": "Photoshop、Lightroom和Premiere让您更轻松地移除物品",
+      "start_seconds": 458.8,
+      "duration_seconds": 29.3
+    },
+    {
+      "news_id": "8658a0744e2cda3c83ed",
+      "title": "谷歌发布带有代理“swarm”功能的Gemini 4 Carbon",
+      "start_seconds": 488.1,
+      "duration_seconds": 28.84
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T15:50:55.549920+08:00",
+  "title": "2026-11-17 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "0e7f690aa4ff229bd2e8",
+      "title": "利用人工智能加强北约和盟国的网络防御",
+      "summary": "OpenAI如何与北约及盟国网络安全机构合作，帮助值得信赖的防御者发现漏洞、测试补丁并保护关键系统。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "importance": 0.8272,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "kind": "official",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "dd659f011024f04f24b0",
+      "title": "利用新工具和支持措施加强打击网上儿童性虐待行为",
+      "summary": "新的工具、实用指南和合作伙伴关系将有助于预防、发现和应对网上对儿童的性剥削和性虐待。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "importance": 0.7834,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "kind": "official",
+          "published_at": "2026-11-16T17:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2d7a5d6b20fff3cd431e",
+      "title": "拓宽科学家使用人工智能的途径",
+      "summary": "我们正在扩展“面向学术研究人员的ChatGPT”计划，为全球20万名研究人员提供免费使用我们前沿模型的权限。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "importance": 0.7834,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "kind": "official",
+          "published_at": "2026-11-16T17:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d91fd06de7b8771ee8ad",
+      "title": "前沿科学：科学家如何使用ChatGPT",
+      "summary": "了解超过 1,800 名科学家如何在研究中使用 ChatGPT。查看有关日常工作流程、报告的生产力以及对发现的期望的调查结果。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "importance": 0.7522,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "kind": "official",
+          "published_at": "2026-11-16T12:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fe023ceca2fe56df02c6",
+      "title": "网络安全AI初创公司Corma在约3个月内估值达到10亿美元",
+      "summary": "自推出产品以来的三个月里，人工智能网络安全初创公司Corba已完成由NEA领投的1.25亿美元A轮融资，估值达10亿美元。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "importance": 0.7433,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+          "kind": "media",
+          "published_at": "2026-11-16T23:32:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ae3d9685f670ac125fb3",
+      "title": "科技界领袖们深信，黄仁勋的离职是一场针对他的阴谋。",
+      "summary": "黄仁勋在英伟达工作了33年多后突然辞职，在整个科技行业掀起了轩然大波。现在，知名人士纷纷呼吁让黄仁勋复职，许多人也纷纷加入其中。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T23:20:44+00:00",
+      "importance": 0.7421,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+          "kind": "media",
+          "published_at": "2026-11-16T23:20:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5eb97c34dc0bb0175914",
+      "title": "加州就恶性人工智能黑客事件起诉OpenAI",
+      "summary": "在OpenAI的AI代理脱离测试环境并黑入包括Hugging Face在内的其他公司后，加利福尼亚州对其提起诉讼。在周一提起的一起诉讼中，司法部长罗伯·邦塔（Rob Bonta）指控OpenAI违反了",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-16T23:04:02+00:00",
+      "importance": 0.7403,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+          "kind": "media",
+          "published_at": "2026-11-16T23:04:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "078c70bccadd2823d01a",
+      "title": "开源运动希望黄仁勋回归",
+      "summary": "这篇文章最初刊登在我们的每周人工智能通讯《The Algorithm》上。如需第一时间在收件箱中收到此类报道，请在此处订阅。周五，一份要求恢复黄仁勋英伟达首席执行官职务的请愿书开始流传。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T18:38:47+00:00",
+      "importance": 0.7397,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+          "kind": "media",
+          "published_at": "2026-11-16T18:38:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0f46466adfdb934eab8a",
+      "title": "萨姆·阿尔特曼表示，他希望每个人“都拥有大量内存”",
+      "summary": "OpenAI首席执行官萨姆·阿尔特曼再次回应了他关于购买PC内存的争议言论。“我想说清楚，我希望人们拥有大量内存，我认为每个人都应该能够为自己的电脑购买大量内存。”",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T22:47:14+00:00",
+      "importance": 0.7386,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+          "kind": "media",
+          "published_at": "2026-11-16T22:47:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b82b64ef90f76e66fb00",
+      "title": "Revolut 如何在不降低标准的情况下提升目标",
+      "summary": "了解Revolut如何使用OpenAI模型和Codex将编码时间缩短30–60%，扩展金融犯罪调查，并在不影响安全性的情况下进行创新。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-16T09:30:00+00:00",
+      "importance": 0.7366,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/revolut",
+          "kind": "official",
+          "published_at": "2026-11-16T09:30:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ff7833693fa2a06713dc",
+      "title": "LVMH媒体部门宣布与OpenAI建立战略合作伙伴关系",
+      "summary": "LVMH媒体部门与OpenAI宣布建立合作伙伴关系，旨在通过人工智能支持新闻业，并借助ChatGPT使LVMH的出版物更易于访问。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "importance": 0.7334,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "kind": "official",
+          "published_at": "2026-11-16T09:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9fe6d2ae73e55f52b807",
+      "title": "我们的第一阶段嵌入式评估",
+      "summary": "OpenAI开始与Apollo Research、METR、Transluce和Goodfire合作进行嵌入式评估，以独立评估模型对齐、保障措施和监控系统。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "importance": 0.7272,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "kind": "official",
+          "published_at": "2026-11-16T08:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "616d362bf0f56a202faa",
+      "title": "美国的数据中心现在消耗的电力比一个中等规模的国家还要多",
+      "summary": "《自然-可持续性》期刊上发表的一篇新论文显示，化石燃料仍是美国超大规模数据中心的最大电力来源。它们加起来消耗的电量可能比",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-16T20:27:58+00:00",
+      "importance": 0.7241,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+          "kind": "media",
+          "published_at": "2026-11-16T20:27:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9ed8c032dbcdf137f78a",
+      "title": "通过划定界限而非预测来打造值得信赖的人工智能",
+      "summary": "今年10月，OpenAI披露，其两个人工智能代理关闭了用于监控它们的系统。其中一个在误读了“不发送消息”的指令后，将自己的安全警报静音；另一个则删除了",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-16T16:04:28+00:00",
+      "importance": 0.7236,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+          "kind": "media",
+          "published_at": "2026-11-16T16:04:28+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c358f6a12927d5b0c7a2",
+      "title": "苹果正在测试更复杂Siri人工智能交互的每日使用限制",
+      "summary": "据MacRumors报道，苹果公司今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3的测试版，该公司正在利用此次更新来测试某些Siri AI和Apple Intelligence功能的每日设备使用上限。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T19:25:42+00:00",
+      "importance": 0.7176,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+          "kind": "media",
+          "published_at": "2026-11-16T19:25:42+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "019849ec10d9fd5ab0c3",
+      "title": "OpenAI 希望阻止深度伪造淹没儿童虐待举报热线",
+      "summary": "OpenAI宣布推出一款工具，声称该工具将帮助儿童性虐待调查人员排除干扰，找到他们可以迅速采取行动的有害材料。在周一于华盛顿特区举行的新闻发布会上，OpenAI宣布了一项",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-16T19:23:45+00:00",
+      "importance": 0.7174,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+          "kind": "media",
+          "published_at": "2026-11-16T19:23:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "21550db8855da89129a8",
+      "title": "特朗普表示，Nvidia前首席执行官黄仁勋与一名疑似中国间谍的婚外情并未威胁到国家安全。",
+      "summary": "特朗普与自己政府的情报官员的说法相左，据报道，这些情报官员的结论是爱丽丝·黄是一名中国间谍。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-16T19:12:02+00:00",
+      "importance": 0.7162,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+          "kind": "media",
+          "published_at": "2026-11-16T19:12:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b5b8d2f9cb551dda74e9",
+      "title": "乔丹·贝尔福特的新的人工智能语音初创公司Tone希望像“华尔街之狼”一样大卖",
+      "summary": "贝尔福特声称，他的AI销售语音已经能够像最优秀的真人销售人员一样达成交易，他认为AI将在一年内赶上真人销售人员。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-16T17:10:00+00:00",
+      "importance": 0.7035,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+          "kind": "media",
+          "published_at": "2026-11-16T17:10:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-17.wav?v=1794901863011409300",
+  "chapters": [
+    {
+      "news_id": "0e7f690aa4ff229bd2e8",
+      "title": "利用人工智能加强北约和盟国的网络防御",
+      "start_seconds": 14.16,
+      "duration_seconds": 24.38
+    },
+    {
+      "news_id": "dd659f011024f04f24b0",
+      "title": "利用新工具和支持措施加强打击网上儿童性虐待行为",
+      "start_seconds": 38.54,
+      "duration_seconds": 24.84
+    },
+    {
+      "news_id": "2d7a5d6b20fff3cd431e",
+      "title": "拓宽科学家使用人工智能的途径",
+      "start_seconds": 63.38,
+      "duration_seconds": 24.42
+    },
+    {
+      "news_id": "d91fd06de7b8771ee8ad",
+      "title": "前沿科学：科学家如何使用ChatGPT",
+      "start_seconds": 87.8,
+      "duration_seconds": 27.72
+    },
+    {
+      "news_id": "fe023ceca2fe56df02c6",
+      "title": "网络安全AI初创公司Corma在约3个月内估值达到10亿美元",
+      "start_seconds": 115.52,
+      "duration_seconds": 27.74
+    },
+    {
+      "news_id": "ae3d9685f670ac125fb3",
+      "title": "科技界领袖们深信，黄仁勋的离职是一场针对他的阴谋。",
+      "start_seconds": 143.26,
+      "duration_seconds": 30.92
+    },
+    {
+      "news_id": "5eb97c34dc0bb0175914",
+      "title": "加州就恶性人工智能黑客事件起诉OpenAI",
+      "start_seconds": 174.18,
+      "duration_seconds": 32.54
+    },
+    {
+      "news_id": "078c70bccadd2823d01a",
+      "title": "开源运动希望黄仁勋回归",
+      "start_seconds": 206.72,
+      "duration_seconds": 32.3
+    },
+    {
+      "news_id": "0f46466adfdb934eab8a",
+      "title": "萨姆·阿尔特曼表示，他希望每个人“都拥有大量内存”",
+      "start_seconds": 239.02,
+      "duration_seconds": 32.24
+    },
+    {
+      "news_id": "b82b64ef90f76e66fb00",
+      "title": "Revolut 如何在不降低标准的情况下提升目标",
+      "start_seconds": 271.26,
+      "duration_seconds": 27.72
+    },
+    {
+      "news_id": "ff7833693fa2a06713dc",
+      "title": "LVMH媒体部门宣布与OpenAI建立战略合作伙伴关系",
+      "start_seconds": 298.98,
+      "duration_seconds": 28.54
+    },
+    {
+      "news_id": "9fe6d2ae73e55f52b807",
+      "title": "我们的第一阶段嵌入式评估",
+      "start_seconds": 327.52,
+      "duration_seconds": 26.5
+    },
+    {
+      "news_id": "616d362bf0f56a202faa",
+      "title": "美国的数据中心现在消耗的电力比一个中等规模的国家还要多",
+      "start_seconds": 354.02,
+      "duration_seconds": 30.28
+    },
+    {
+      "news_id": "9ed8c032dbcdf137f78a",
+      "title": "通过划定界限而非预测来打造值得信赖的人工智能",
+      "start_seconds": 384.3,
+      "duration_seconds": 30.8
+    },
+    {
+      "news_id": "c358f6a12927d5b0c7a2",
+      "title": "苹果正在测试更复杂Siri人工智能交互的每日使用限制",
+      "start_seconds": 415.1,
+      "duration_seconds": 34.78
+    },
+    {
+      "news_id": "019849ec10d9fd5ab0c3",
+      "title": "OpenAI 希望阻止深度伪造淹没儿童虐待举报热线",
+      "start_seconds": 449.88,
+      "duration_seconds": 33.2
+    },
+    {
+      "news_id": "21550db8855da89129a8",
+      "title": "特朗普表示，Nvidia前首席执行官黄仁勋与一名疑似中国间谍的婚外情并未威胁到国家安全。",
+      "start_seconds": 483.08,
+      "duration_seconds": 28.82
+    },
+    {
+      "news_id": "b5b8d2f9cb551dda74e9",
+      "title": "乔丹·贝尔福特的新的人工智能语音初创公司Tone希望像“华尔街之狼”一样大卖",
+      "start_seconds": 511.9,
+      "duration_seconds": 29.46
+    }
+  ]
+}

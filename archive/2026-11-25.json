@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T11:41:03.524394+08:00",
+  "title": "2026-11-25 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "cd26d95554d7ee3a8993",
+      "title": "耶鲁大学的索南菲尔德：英伟达是对美国工业实力的“损害”，而不是领军企业",
+      "summary": "耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，周一令市场欢欣鼓舞的消息——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，使董事们面临“史无前例”的个人法律风险。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-25T00:12:02+00:00",
+      "importance": 0.7737,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+          "kind": "media",
+          "published_at": "2026-11-25T00:12:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "171b94fafc685f0bbe01",
+      "title": "在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗",
+      "summary": "英伟达创始人周二向员工道歉，并表示感谢大家给他第二次领导公司的机会。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T21:48:27+00:00",
+      "importance": 0.7588,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+          "kind": "media",
+          "published_at": "2026-11-24T21:48:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋回归。接下来会发生什么？",
+      "summary": "在身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，他的公司最初宣布将展开调查。然而，在《纽约时报》报道后，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T21:41:37+00:00",
+      "importance": 0.7581,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "kind": "media",
+          "published_at": "2026-11-24T21:41:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "86266e890e18a6d47c92",
+      "title": "即使是最好的 AI 代理也难以应对日常生活",
+      "summary": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "importance": 0.7572,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+          "kind": "media",
+          "published_at": "2026-11-24T21:33:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5edc970ed59b587c1ee8",
+      "title": "沃尔玛与Meta合作，将黑色星期五优惠带到AI代理Muse",
+      "summary": "沃尔玛现在允许顾客通过 Meta 的 AI 代理 Muse 选购黑色星期五特惠商品。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "importance": 0.7571,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+          "kind": "media",
+          "published_at": "2026-11-24T21:32:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "977f9f016cc6ca5bd411",
+      "title": "Maple筹集530万美元，用于开发能够保护您的数据（甚至免受AI自身侵害）的AI产品",
+      "summary": "该初创公司的加密人工智能架构旨在防止即使是公司本身也无法访问用户的私有数据。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "importance": 0.7558,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+          "kind": "media",
+          "published_at": "2026-11-24T21:19:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4065e26429d167ec816b",
+      "title": "通过 AI 现代化提升企业网络的价值",
+      "summary": "企业网络正承受着巨大压力。随着企业争相部署人工智能，这项技术正迅速成为网络需求的最大来源。现在，智能体 AI 正在增加负载。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T15:15:16+00:00",
+      "importance": 0.7448,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+          "kind": "media",
+          "published_at": "2026-11-24T15:15:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee49075fab924212ef40",
+      "title": "大卫·芬奇因涉嫌在其最新电影中使用人工智能而受到抨击",
+      "summary": "尽管大卫·芬奇的粉丝一直热切期待《克里夫·布斯的进一步奇遇》，但由布拉德·皮特主演的《好莱坞往事》续集的早期试映引发了人们对该系列是否能延续成功的疑问。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T18:38:16+00:00",
+      "importance": 0.739,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+          "kind": "media",
+          "published_at": "2026-11-24T18:38:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7992bf690613aecdb581",
+      "title": "Anthropic股价跌破IPO发行价，这对人工智能初创企业来说是一个令人担忧的信号",
+      "summary": "Anthropic的IPO后股价暴跌可能会对人工智能初创企业的估值造成压力。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "importance": 0.7382,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+          "kind": "media",
+          "published_at": "2026-11-24T18:30:42+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4113acb1424b41bba6ec",
+      "title": "英国警告称，由人工智能驱动的网络攻击正在暴露多年来存在的安全漏洞",
+      "summary": "英国网络安全机构表示，“建立坚实的基础从未像现在这样重要”，因为人工智能黑客工具依赖于利用简单的安全漏洞。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "importance": 0.7353,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+          "kind": "media",
+          "published_at": "2026-11-24T18:02:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "09e62d6e11167de49a84",
+      "title": "Tidal将于下月开始禁止人工智能生成的音乐",
+      "summary": "Tidal将于12月9日正式禁止人工智能生成的音乐。据Tidal称，由于这一变化，Tidal将删除约2900万首由人工智能生成的歌曲，并每天拒绝约8万至8.5万首歌曲。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T17:17:09+00:00",
+      "importance": 0.7305,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "kind": "media",
+          "published_at": "2026-11-24T17:17:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b0f646dfac9a0a0a6352",
+      "title": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
+      "summary": "通过新的集成，用户在希望与 AI 代理互动时，无需再在 Instagram 和 Muse 应用之间切换。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "importance": 0.7287,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+          "kind": "media",
+          "published_at": "2026-11-24T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1bfb90103b3c1d8e3d87",
+      "title": "《纽约时报》警告摄影师不要更新 Photoshop 的 AI 功能",
+      "summary": "《纽约时报》要求自由摄影师不要使用最新版本的Adobe Photoshop，因为2027年更新中的功能使用人工智能的方式“可能对用户来说并不明显”。在The Verge看到的电子邮件中",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T16:52:41+00:00",
+      "importance": 0.728,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "kind": "media",
+          "published_at": "2026-11-24T16:52:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6f0f83d3e1c30af402d3",
+      "title": "Tidal将禁用并下架数百万首由人工智能生成的曲目，因为人工智能垃圾内容正在淹没音乐流媒体平台",
+      "summary": "该公司表示，仍将接受在人工智能辅助下创作的歌曲，但不会接受完全由人工智能生成的歌曲。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "importance": 0.7273,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+          "kind": "media",
+          "published_at": "2026-11-24T16:46:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9b7f0538ab9342259f2c",
+      "title": "黄仁勋的深度伪造视频是热门的新型AI垃圾内容",
+      "summary": "黄仁勋正在伊比萨岛狂欢。在一则在Instagram上拥有近600万次观看的视频中，英伟达的前首席执行官手持香槟杯，身着他标志性的黑色皮夹克，在拥挤的夜店里翩翩起舞。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T16:18:12+00:00",
+      "importance": 0.7244,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+          "kind": "media",
+          "published_at": "2026-11-24T16:18:12+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0d4dbfed2ba868d70455",
+      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电",
+      "summary": "下一代数据中心每年将需要数十吉瓦的电力。Crusoe 的一位投资者认为，太阳能和储能是显而易见的选择。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T16:10:00+00:00",
+      "importance": 0.7235,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+          "kind": "media",
+          "published_at": "2026-11-24T16:10:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a9a1f591c3b5ca408b03",
+      "title": "Pinterest现将允许家长限制其青少年看到的人工智能生成内容",
+      "summary": "虽然其他社交平台专注于限制青少年使用 AI 聊天机器人，但 Pinterest 正在解决 AI 生成的内容充斥其信息流的问题。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-24T16:02:37+00:00",
+      "importance": 0.7228,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+          "kind": "media",
+          "published_at": "2026-11-24T16:02:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a4cb5a65f0d9bf1e691a",
+      "title": "亚马逊收购Decart是一次押注，旨在利用软件缩小与英伟达的芯片差距",
+      "summary": "据报道，亚马逊以75亿美元收购Decart的决定是其提高Trainium芯片效率工作的一部分。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-24T15:51:07+00:00",
+      "importance": 0.7216,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "kind": "media",
+          "published_at": "2026-11-24T15:51:07+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-25.wav?v=1795578070573927500",
+  "chapters": [
+    {
+      "news_id": "cd26d95554d7ee3a8993",
+      "title": "耶鲁大学的索南菲尔德：英伟达是对美国工业实力的“损害”，而不是领军企业",
+      "start_seconds": 14.16,
+      "duration_seconds": 40.2
+    },
+    {
+      "news_id": "171b94fafc685f0bbe01",
+      "title": "在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗",
+      "start_seconds": 54.36,
+      "duration_seconds": 24.6
+    },
+    {
+      "news_id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋回归。接下来会发生什么？",
+      "start_seconds": 78.96,
+      "duration_seconds": 32.76
+    },
+    {
+      "news_id": "86266e890e18a6d47c92",
+      "title": "即使是最好的 AI 代理也难以应对日常生活",
+      "start_seconds": 111.72,
+      "duration_seconds": 32.08
+    },
+    {
+      "news_id": "5edc970ed59b587c1ee8",
+      "title": "沃尔玛与Meta合作，将黑色星期五优惠带到AI代理Muse",
+      "start_seconds": 143.8,
+      "duration_seconds": 22.22
+    },
+    {
+      "news_id": "977f9f016cc6ca5bd411",
+      "title": "Maple筹集530万美元，用于开发能够保护您的数据（甚至免受AI自身侵害）的AI产品",
+      "start_seconds": 166.02,
+      "duration_seconds": 27.64
+    },
+    {
+      "news_id": "4065e26429d167ec816b",
+      "title": "通过 AI 现代化提升企业网络的价值",
+      "start_seconds": 193.66,
+      "duration_seconds": 27.98
+    },
+    {
+      "news_id": "ee49075fab924212ef40",
+      "title": "大卫·芬奇因涉嫌在其最新电影中使用人工智能而受到抨击",
+      "start_seconds": 221.64,
+      "duration_seconds": 29.9
+    },
+    {
+      "news_id": "7992bf690613aecdb581",
+      "title": "Anthropic股价跌破IPO发行价，这对人工智能初创企业来说是一个令人担忧的信号",
+      "start_seconds": 251.54,
+      "duration_seconds": 24.92
+    },
+    {
+      "news_id": "4113acb1424b41bba6ec",
+      "title": "英国警告称，由人工智能驱动的网络攻击正在暴露多年来存在的安全漏洞",
+      "start_seconds": 276.46,
+      "duration_seconds": 28.14
+    },
+    {
+      "news_id": "09e62d6e11167de49a84",
+      "title": "Tidal将于下月开始禁止人工智能生成的音乐",
+      "start_seconds": 304.6,
+      "duration_seconds": 31.84
+    },
+    {
+      "news_id": "b0f646dfac9a0a0a6352",
+      "title": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
+      "start_seconds": 336.44,
+      "duration_seconds": 23.12
+    },
+    {
+      "news_id": "1bfb90103b3c1d8e3d87",
+      "title": "《纽约时报》警告摄影师不要更新 Photoshop 的 AI 功能",
+      "start_seconds": 359.56,
+      "duration_seconds": 31.3
+    },
+    {
+      "news_id": "6f0f83d3e1c30af402d3",
+      "title": "Tidal将禁用并下架数百万首由人工智能生成的曲目，因为人工智能垃圾内容正在淹没音乐流媒体平台",
+      "start_seconds": 390.86,
+      "duration_seconds": 29.36
+    },
+    {
+      "news_id": "9b7f0538ab9342259f2c",
+      "title": "黄仁勋的深度伪造视频是热门的新型AI垃圾内容",
+      "start_seconds": 420.22,
+      "duration_seconds": 32.48
+    },
+    {
+      "news_id": "0d4dbfed2ba868d70455",
+      "title": "为什么Crusoe的投资者押注于太阳能和电池为未来的人工智能数据中心供电",
+      "start_seconds": 452.7,
+      "duration_seconds": 27.5
+    },
+    {
+      "news_id": "a9a1f591c3b5ca408b03",
+      "title": "Pinterest现将允许家长限制其青少年看到的人工智能生成内容",
+      "start_seconds": 480.2,
+      "duration_seconds": 27.24
+    },
+    {
+      "news_id": "a4cb5a65f0d9bf1e691a",
+      "title": "亚马逊收购Decart是一次押注，旨在利用软件缩小与英伟达的芯片差距",
+      "start_seconds": 507.44,
+      "duration_seconds": 25.44
+    }
+  ]
+}

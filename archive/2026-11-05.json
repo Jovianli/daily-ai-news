@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T12:47:06.797718+08:00",
+  "title": "2026-11-05 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "6df289088a3e596cd259",
+      "title": "据报道，苹果正在削减其内部人工智能使用的预算",
+      "summary": "据说该公司正在大幅削减其工程团队在人工智能方面的支出。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T01:26:22+00:00",
+      "importance": 0.7748,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+          "kind": "media",
+          "published_at": "2026-11-05T01:26:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c156bd25dffe9102489",
+      "title": "德克萨斯州是人工智能数据中心建设的新中心。那可能是失败了。",
+      "summary": "德克萨斯州是美国增长最快的数据中心市场，也是大型科技公司最大的人工智能建设的起点。但横扫孤星状态的蓝色波浪可能会危及那个位置。民主党人詹姆斯·塔拉里科（ James Talarico ）赢得了",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "importance": 0.7606,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+          "kind": "media",
+          "published_at": "2026-11-04T18:50:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5523ef782a102f9407e4",
+      "title": "AI PAC花费数百万美元试图塑造国会—以下是他们的表现",
+      "summary": "人工智能行业PAC花费数百万美元影响了2026年中期选举，结果喜忧参半。政治团体已经在期待下一个选举周期。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T22:45:09+00:00",
+      "importance": 0.758,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+          "kind": "media",
+          "published_at": "2026-11-04T22:45:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "95666940021eb80c23c6",
+      "title": "首席执行官没有说公司神秘的人工智能优先设备将在下个月下架",
+      "summary": "虽然目前尚不清楚这家智能手机初创公司正在酝酿什么样的产品，但Nothing的首席执行官表示，该产品旨在利用人工智能来提高生产力。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-04T22:13:16+00:00",
+      "importance": 0.7547,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+          "kind": "media",
+          "published_at": "2026-11-04T22:13:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8a0eacda93f2823371bd",
+      "title": "公司表示，几乎没有人使用人工智能代理来预约优步行程",
+      "summary": "在上个季度最繁忙的一周，优步表示只有四人使用人工智能代理预约了行程。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T21:56:01+00:00",
+      "importance": 0.7529,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+          "kind": "media",
+          "published_at": "2026-11-04T21:56:01+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c65af7ddad1f5b56b6f",
+      "title": "OpenAI已经在努力塑造2028年的选举",
+      "summary": "OpenAI的Chris Lehane希望人工智能能够定义2028年的选举，提出一项新的社会契约，既能让美国人受益，同时也能促进人工智能巨头自身的商业利益。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T21:25:44+00:00",
+      "importance": 0.7497,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+          "kind": "media",
+          "published_at": "2026-11-04T21:25:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2f7abd088fe66e28f452",
+      "title": "Meta收购AI编码初创公司Conductor",
+      "summary": "这家初创公司允许软件工程师部署代理团队，同时处理项目的各个方面。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-04T21:10:56+00:00",
+      "importance": 0.7482,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+          "kind": "media",
+          "published_at": "2026-11-04T21:10:56+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1870bd8ae8038dd949c3",
+      "title": "开源人工智能正在蓬勃发展。拥抱的脸解释了谁获利。",
+      "summary": "开源模型正变得越来越主流，因为企业、政府和初创公司都依赖于更低成本、更多控制和更大灵活性的承诺。但随着能力越来越强的车型变得更加自由",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-04T19:30:04+00:00",
+      "importance": 0.7377,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+          "kind": "media",
+          "published_at": "2026-11-04T19:30:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ac2776547aacb7b85722",
+      "title": "在对谷歌人工智能政策的强烈反对中， DuckDuckGo向学校推销自己",
+      "summary": "DuckDuckGo正在向对谷歌人工智能限制感到沮丧的学校求助，向教育工作者指出其搜索引擎和禁用人工智能功能的选项。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-04T19:29:52+00:00",
+      "importance": 0.7376,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+          "kind": "media",
+          "published_at": "2026-11-04T19:29:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2c984d8f060c91297ac3",
+      "title": "建立在开源人工智能之上？拥抱Face的政策主管，了解成本、风险和权衡",
+      "summary": "开源模型正变得越来越主流，因为企业、政府和初创公司都依赖于更低成本、更多控制和更大灵活性的承诺。但随着能力越来越强的车型变得更加自由",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-04T18:44:57+00:00",
+      "importance": 0.733,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+          "kind": "media",
+          "published_at": "2026-11-04T18:44:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0bb52c4b905431dfb231",
+      "title": "通过数据沿袭确保代理企业的安全",
+      "summary": "一位销售代表向人工智能代理询问客户定价，代理从多个来源提取数据：受限定价系统、内部沟通和已存档的报价。输出看起来与年龄相符",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "importance": 0.724,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+          "kind": "media",
+          "published_at": "2026-11-04T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "540dc5198bd72f906da9",
+      "title": "我试过苹果的Siri回顾。它们令人惊讶地有用—并且有点令人不安",
+      "summary": "尽管我保留了隐私，但苹果的人工智能Siri Recaps在短短一天内就赢得了我的支持。但仍有改进的余地。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T16:51:35+00:00",
+      "importance": 0.7212,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+          "kind": "media",
+          "published_at": "2026-11-04T16:51:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bce0ffcba988b4eacb45",
+      "title": "谷歌面临计划的强烈反对，该计划将关闭搜索限制人工智能的学校",
+      "summary": "左翼政客，如纽约市市长Zohran Mamdani和前联邦贸易委员会主席Lina Khan ，指责谷歌充当不受监管的垄断者。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-04T16:17:22+00:00",
+      "importance": 0.7176,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+          "kind": "media",
+          "published_at": "2026-11-04T16:17:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4c2268a3cf02c148209f",
+      "title": "中期选举之后，数据中心可能会发生更大的冲突",
+      "summary": "数据中心反对派在周二的中期选举中越过了党派界限。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-05T01:02:14+00:00",
+      "importance": 0.6473,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+          "kind": "media",
+          "published_at": "2026-11-05T01:02:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fa00b4f66d246a49cbf0",
+      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "summary": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T22:41:03+00:00",
+      "importance": 0.6076,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+          "kind": "media",
+          "published_at": "2026-11-03T22:41:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "32c42b1a9bd9b90f7d19",
+      "title": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "summary": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-03T22:19:53+00:00",
+      "importance": 0.6054,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+          "kind": "media",
+          "published_at": "2026-11-03T22:19:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d1b2dd4715d89ea118f3",
+      "title": "机架社区：一个自托管的人工智能实验室，其作业运行器不会超载",
+      "summary": "文章网址： https://github.com/ohhbeehave35-commits/rack-community评论网址： https://news.ycombinator.com/item?id=50375035点数： 1 #评论： 0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-05T04:06:43+00:00",
+      "importance": 0.6015,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/ohhbeehave35-commits/rack-community",
+          "kind": "social",
+          "published_at": "2026-11-05T04:06:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9427f87f31ac6b742f96",
+      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "summary": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-03T21:43:08+00:00",
+      "importance": 0.6015,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+          "kind": "media",
+          "published_at": "2026-11-03T21:43:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-05.wav?v=1793854037279027400",
+  "chapters": [
+    {
+      "news_id": "6df289088a3e596cd259",
+      "title": "据报道，苹果正在削减其内部人工智能使用的预算",
+      "start_seconds": 14.16,
+      "duration_seconds": 20.74
+    },
+    {
+      "news_id": "4c156bd25dffe9102489",
+      "title": "德克萨斯州是人工智能数据中心建设的新中心。那可能是失败了。",
+      "start_seconds": 34.9,
+      "duration_seconds": 37.24
+    },
+    {
+      "news_id": "5523ef782a102f9407e4",
+      "title": "AI PAC花费数百万美元试图塑造国会—以下是他们的表现",
+      "start_seconds": 72.14,
+      "duration_seconds": 27.54
+    },
+    {
+      "news_id": "95666940021eb80c23c6",
+      "title": "首席执行官没有说公司神秘的人工智能优先设备将在下个月下架",
+      "start_seconds": 99.68,
+      "duration_seconds": 29.66
+    },
+    {
+      "news_id": "8a0eacda93f2823371bd",
+      "title": "公司表示，几乎没有人使用人工智能代理来预约优步行程",
+      "start_seconds": 129.34,
+      "duration_seconds": 22.86
+    },
+    {
+      "news_id": "4c65af7ddad1f5b56b6f",
+      "title": "OpenAI已经在努力塑造2028年的选举",
+      "start_seconds": 152.2,
+      "duration_seconds": 28.64
+    },
+    {
+      "news_id": "2f7abd088fe66e28f452",
+      "title": "Meta收购AI编码初创公司Conductor",
+      "start_seconds": 180.84,
+      "duration_seconds": 20.44
+    },
+    {
+      "news_id": "1870bd8ae8038dd949c3",
+      "title": "开源人工智能正在蓬勃发展。拥抱的脸解释了谁获利。",
+      "start_seconds": 201.28,
+      "duration_seconds": 31.6
+    },
+    {
+      "news_id": "ac2776547aacb7b85722",
+      "title": "在对谷歌人工智能政策的强烈反对中， DuckDuckGo向学校推销自己",
+      "start_seconds": 232.88,
+      "duration_seconds": 27.12
+    },
+    {
+      "news_id": "2c984d8f060c91297ac3",
+      "title": "建立在开源人工智能之上？拥抱Face的政策主管，了解成本、风险和权衡",
+      "start_seconds": 260.0,
+      "duration_seconds": 33.48
+    },
+    {
+      "news_id": "0bb52c4b905431dfb231",
+      "title": "通过数据沿袭确保代理企业的安全",
+      "start_seconds": 293.48,
+      "duration_seconds": 28.2
+    },
+    {
+      "news_id": "540dc5198bd72f906da9",
+      "title": "我试过苹果的Siri回顾。它们令人惊讶地有用—并且有点令人不安",
+      "start_seconds": 321.68,
+      "duration_seconds": 27.06
+    },
+    {
+      "news_id": "bce0ffcba988b4eacb45",
+      "title": "谷歌面临计划的强烈反对，该计划将关闭搜索限制人工智能的学校",
+      "start_seconds": 348.74,
+      "duration_seconds": 26.76
+    },
+    {
+      "news_id": "4c2268a3cf02c148209f",
+      "title": "中期选举之后，数据中心可能会发生更大的冲突",
+      "start_seconds": 375.5,
+      "duration_seconds": 19.94
+    },
+    {
+      "news_id": "fa00b4f66d246a49cbf0",
+      "title": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "start_seconds": 395.44,
+      "duration_seconds": 22.58
+    },
+    {
+      "news_id": "32c42b1a9bd9b90f7d19",
+      "title": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "start_seconds": 418.02,
+      "duration_seconds": 29.14
+    },
+    {
+      "news_id": "d1b2dd4715d89ea118f3",
+      "title": "机架社区：一个自托管的人工智能实验室，其作业运行器不会超载",
+      "start_seconds": 447.16,
+      "duration_seconds": 38.88
+    },
+    {
+      "news_id": "9427f87f31ac6b742f96",
+      "title": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "start_seconds": 486.04,
+      "duration_seconds": 29.08
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T13:21:23.075345+08:00",
+  "title": "2026-11-22 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "f6f5282ad9e3c36becf8",
+      "title": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”",
+      "summary": "Signal 正在限制用户在其 Android 和 iOS 应用中截屏的能力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "importance": 0.7473,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+          "kind": "media",
+          "published_at": "2026-11-21T21:37:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec8e761e0eb8542f51ee",
+      "title": "联合国未能就“杀手机器人”的监管规则达成一致",
+      "summary": "本周在日内瓦举行的联合国外交官会议的议程之一是制定关于使用自主武器（即所谓的“杀手机器人”）的规则。最终，代表们在会议结束时",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "importance": 0.7376,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "kind": "media",
+          "published_at": "2026-11-21T20:03:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f52216bdae320c5247f4",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "summary": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-21T17:00:00+00:00",
+      "importance": 0.7185,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "kind": "media",
+          "published_at": "2026-11-21T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f2e0e504895b9fb3da93",
+      "title": "将自己面孔的AI版本出售给这家微短剧初创公司，是好莱坞的未来吗？",
+      "summary": "一位演员将自己的面部形象授权给了一家微短剧初创公司——这在中国已经成为一种流行趋势。专家们对如果这也成为好莱坞的趋势，会产生哪些长期后果表示质疑。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-21T16:00:00+00:00",
+      "importance": 0.7122,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+          "kind": "media",
+          "published_at": "2026-11-21T16:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3298713995b153167b47",
+      "title": "Anthropic 是否有能力将安全放在首位？",
+      "summary": "今天，我将与《The Verge》的高级人工智能记者Hayden Field聊聊Anthropic的IPO，这是我们“人工智能在现实生活中的应用”系列节目的第三期，也是最后一期。Claude背后的这家人工智能实验室于上周四在纳斯达克上市。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-21T13:29:45+00:00",
+      "importance": 0.6966,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+          "kind": "media",
+          "published_at": "2026-11-21T13:29:45+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "044fb7804e00ac8eecfa",
+      "title": "关于两家英伟达的故事",
+      "summary": "我们看到了有关英伟达的两种截然不同的情况——该公司最新的财报，以及科技高管们大声疾呼黄仁勋回归。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "importance": 0.6193,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+          "kind": "media",
+          "published_at": "2026-11-21T21:07:42+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6691469f1dc34a795664",
+      "title": "人工智能领域最常被误解的图表刚刚进行了重大更新",
+      "summary": "人工智能评估非营利组织METR的一份新报告发现，一些人工智能能力正沿着指数级轨迹持续提升——但报告也指出，在需要判断的任务上，模型表现并不那么出色。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-20T18:15:15+00:00",
+      "importance": 0.6033,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+          "kind": "media",
+          "published_at": "2026-11-20T18:15:15+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4297a78dce0cbe35141e",
+      "title": "Show HN：Vouch – 查看人工智能助手在对话中对您品牌的评价",
+      "summary": "文章网址：https://vouchgeo.com评论网址：https://news.ycombinator.com/item?id=50596218积分：1评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T04:24:22+00:00",
+      "importance": 0.5998,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://vouchgeo.com",
+          "kind": "social",
+          "published_at": "2026-11-22T04:24:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee1eb19633ae131083e7",
+      "title": "向HN提问：您是否准备好从人工智能提供商那里租赁智能？",
+      "summary": "假设2035年已经到来，在过去的十年里，您一直依靠人工智能机器为您思考，因为您说服自己，这会让您更高效。因此，您的先天智力已经",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T03:48:46+00:00",
+      "importance": 0.5961,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50596041",
+          "kind": "social",
+          "published_at": "2026-11-22T03:48:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2b67eec137e57cf89e3e",
+      "title": "向HN提问：在人工智能网络攻击的时代打印文档",
+      "summary": "您是否会打印投资账户对账单等重要文件的纸质副本？评论网址：https://news.ycombinator.com/item?id=50596012 分数：2 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T03:41:48+00:00",
+      "importance": 0.5953,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.ycombinator.com/item?id=50596012",
+          "kind": "social",
+          "published_at": "2026-11-22T03:41:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e94768da86591fb936fa",
+      "title": "人工智能能否自行做出制造决策？",
+      "summary": "文章网址：https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/评论网址：https://news.ycombinator.com/item?id=50595945积分：2评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T03:29:53+00:00",
+      "importance": 0.5941,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions",
+          "kind": "social",
+          "published_at": "2026-11-22T03:29:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "63369a8a01b756dce61a",
+      "title": "当前的工作不足以减缓人工智能网络病毒的传播",
+      "summary": "文章网址： https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus 评论网址： https://news.ycombinator.com/item?id=50595940 点赞数：2 # 评论数：3",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-22T03:28:48+00:00",
+      "importance": 0.594,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+          "kind": "social",
+          "published_at": "2026-11-22T03:28:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "31dbae397b46d6b33d38",
+      "title": "Together.ai：请求的提示泄露",
+      "summary": "文章网址： https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 评论网址： https://news.ycombinator.com/item?id=50595816 得分：7 # 评论数：4",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-22T03:07:27+00:00",
+      "importance": 0.5918,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "kind": "social",
+          "published_at": "2026-11-22T03:07:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9a21414861db6424e923",
+      "title": "自去年以来，我们一直在思考：“如果人工智能解决了黎曼猜想，会怎么样？”",
+      "summary": "文章网址：https://www.youtube.com/watch?v=zqzk43bSdDI 评论网址：https://news.ycombinator.com/item?id=50595812 点赞数：19 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T03:06:35+00:00",
+      "importance": 0.5917,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "kind": "social",
+          "published_at": "2026-11-22T03:06:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fcaacad1b12c6a50d13d",
+      "title": "华尔街在Anthropic遭遇重挫后询问有何办法可以拯救人工智能交易",
+      "summary": "文章网址： https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout 评论网址： https://news.ycombinator.com/item?id=50595628 得分：7 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T02:27:39+00:00",
+      "importance": 0.5876,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+          "kind": "social",
+          "published_at": "2026-11-22T02:27:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "98001fcd04fee0535cde",
+      "title": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
+      "summary": "Spotify创始人丹尼尔·埃克（Daniel Ek）正在支持Europa Fusion，这是一家由人工智能研究员创立的聚变能初创公司。以下是这家初创公司正在打造的产品。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "importance": 0.5866,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+          "kind": "media",
+          "published_at": "2026-11-20T19:53:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "9b3998d4b9b4980bb89b",
+      "title": "有意识人工智能的神话",
+      "summary": "文章网址： https://www.noemamag.com/the-mythology-of-conscious-ai/ 评论网址： https://news.ycombinator.com/item?id=50595537 点赞数：16 # 评论数：41",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-22T02:10:02+00:00",
+      "importance": 0.5858,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "kind": "social",
+          "published_at": "2026-11-22T02:10:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "861ca51b04b5cf4869c5",
+      "title": "人工智能声称解决了有167年历史的黎曼猜想——人类也解决了",
+      "summary": "最新的AI驱动的结果让数学家们大为震撼——而且还有一种与之竞争的人类解决方案。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "importance": 0.5843,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+          "kind": "media",
+          "published_at": "2026-11-20T19:32:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-22.wav?v=1795324895186604500",
+  "chapters": [
+    {
+      "news_id": "f6f5282ad9e3c36becf8",
+      "title": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”",
+      "start_seconds": 14.16,
+      "duration_seconds": 21.7
+    },
+    {
+      "news_id": "ec8e761e0eb8542f51ee",
+      "title": "联合国未能就“杀手机器人”的监管规则达成一致",
+      "start_seconds": 35.86,
+      "duration_seconds": 28.42
+    },
+    {
+      "news_id": "f52216bdae320c5247f4",
+      "title": "以下是可以存在于您的短信中的顶级AI代理",
+      "start_seconds": 64.28,
+      "duration_seconds": 27.64
+    },
+    {
+      "news_id": "f2e0e504895b9fb3da93",
+      "title": "将自己面孔的AI版本出售给这家微短剧初创公司，是好莱坞的未来吗？",
+      "start_seconds": 91.92,
+      "duration_seconds": 33.58
+    },
+    {
+      "news_id": "3298713995b153167b47",
+      "title": "Anthropic 是否有能力将安全放在首位？",
+      "start_seconds": 125.5,
+      "duration_seconds": 33.92
+    },
+    {
+      "news_id": "044fb7804e00ac8eecfa",
+      "title": "关于两家英伟达的故事",
+      "start_seconds": 159.42,
+      "duration_seconds": 22.44
+    },
+    {
+      "news_id": "6691469f1dc34a795664",
+      "title": "人工智能领域最常被误解的图表刚刚进行了重大更新",
+      "start_seconds": 181.86,
+      "duration_seconds": 31.4
+    },
+    {
+      "news_id": "4297a78dce0cbe35141e",
+      "title": "Show HN：Vouch – 查看人工智能助手在对话中对您品牌的评价",
+      "start_seconds": 213.26,
+      "duration_seconds": 33.08
+    },
+    {
+      "news_id": "ee1eb19633ae131083e7",
+      "title": "向HN提问：您是否准备好从人工智能提供商那里租赁智能？",
+      "start_seconds": 246.34,
+      "duration_seconds": 31.5
+    },
+    {
+      "news_id": "2b67eec137e57cf89e3e",
+      "title": "向HN提问：在人工智能网络攻击的时代打印文档",
+      "start_seconds": 277.84,
+      "duration_seconds": 33.24
+    },
+    {
+      "news_id": "e94768da86591fb936fa",
+      "title": "人工智能能否自行做出制造决策？",
+      "start_seconds": 311.08,
+      "duration_seconds": 37.3
+    },
+    {
+      "news_id": "63369a8a01b756dce61a",
+      "title": "当前的工作不足以减缓人工智能网络病毒的传播",
+      "start_seconds": 348.38,
+      "duration_seconds": 45.06
+    },
+    {
+      "news_id": "31dbae397b46d6b33d38",
+      "title": "Together.ai：请求的提示泄露",
+      "start_seconds": 393.44,
+      "duration_seconds": 42.56
+    },
+    {
+      "news_id": "9a21414861db6424e923",
+      "title": "自去年以来，我们一直在思考：“如果人工智能解决了黎曼猜想，会怎么样？”",
+      "start_seconds": 436.0,
+      "duration_seconds": 40.46
+    },
+    {
+      "news_id": "fcaacad1b12c6a50d13d",
+      "title": "华尔街在Anthropic遭遇重挫后询问有何办法可以拯救人工智能交易",
+      "start_seconds": 476.46,
+      "duration_seconds": 49.4
+    },
+    {
+      "news_id": "98001fcd04fee0535cde",
+      "title": "丹尼尔·埃克支持人工智能研究人员的聚变能初创公司。以下是他们正在打造的项目。",
+      "start_seconds": 525.86,
+      "duration_seconds": 34.88
+    },
+    {
+      "news_id": "9b3998d4b9b4980bb89b",
+      "title": "有意识人工智能的神话",
+      "start_seconds": 560.74,
+      "duration_seconds": 35.94
+    },
+    {
+      "news_id": "861ca51b04b5cf4869c5",
+      "title": "人工智能声称解决了有167年历史的黎曼猜想——人类也解决了",
+      "start_seconds": 596.68,
+      "duration_seconds": 24.7
+    }
+  ]
+}

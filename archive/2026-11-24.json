@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T15:13:54.295184+08:00",
+  "title": "2026-11-24 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "b0689cf87ab570a441c8",
+      "title": "OpenAI 和思科推出 Shirudo",
+      "summary": "OpenAI 和思科推出 Shirudo，一款适用于 Linux 的开源运行时。它可以帮助团队在推出补丁的同时保护正在运行的系统。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T21:20:00+00:00",
+      "importance": 0.8151,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "kind": "official",
+          "published_at": "2026-11-23T21:20:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "54b870a4c86e13f83ce3",
+      "title": "科技领袖们正在庆祝黄仁勋的回归",
+      "summary": "假设您是黄仁勋。您（据称）与一名疑似中国间谍有染，背叛了您的妻子，据称还与不止一名而是两名下属有染，并且（据称！）“恐吓”您的员工，一系列不当行为。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T22:35:30+00:00",
+      "importance": 0.742,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+          "kind": "media",
+          "published_at": "2026-11-23T22:35:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fa9136539de5ecb7ea15",
+      "title": "特朗普为黄仁勋策划了一次冒险的回归",
+      "summary": "在有报道称黄仁勋与一名疑似中国间谍有染后，英伟达董事会接受了黄仁勋辞去首席执行官职务的决定。美国总统唐纳德·特朗普似乎也接受了这一新现实。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T22:34:20+00:00",
+      "importance": 0.7419,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "kind": "media",
+          "published_at": "2026-11-23T22:34:20+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4ce697c6dbd75e8a8795",
+      "title": "欢迎来到精英逍遥法外之地，Jensen Huang",
+      "summary": "我想我必须衷心祝贺黄仁勋。黄仁勋再次成为英伟达的首席执行官，这让几乎所有人都感到惊讶，只有唐纳德·特朗普总统和J·D·万斯副总统除外，他们确保了此事发生。N",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-23T22:21:36+00:00",
+      "importance": 0.7406,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+          "kind": "media",
+          "published_at": "2026-11-23T22:21:36+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋回归。接下来会发生什么？",
+      "summary": "在身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，他的公司最初宣布将展开调查。然而，在《纽约时报》报道后，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T22:18:13+00:00",
+      "importance": 0.7402,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "kind": "media",
+          "published_at": "2026-11-23T22:18:13+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5e2478fb7557e8d39a7d",
+      "title": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
+      "summary": "随着人工智能生成的代码不断累积，Anthropic 的新开发者工具旨在通过让代理处理日常审批来消除另一个瓶颈。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T22:05:50+00:00",
+      "importance": 0.7389,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "kind": "media",
+          "published_at": "2026-11-23T22:05:50+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "876aad68c91f878f76e7",
+      "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
+      "summary": "您认为自己知道市场走向吗？一家名为Supertake的初创公司让您无需自行挑选股票，即可将资金投入到您的想法中。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "importance": 0.7385,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+          "kind": "media",
+          "published_at": "2026-11-23T22:02:05+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c708d8c1e7cbbd50a2bd",
+      "title": "一位传奇哲学家并不认同Anthropic的意识论点",
+      "summary": "本文最初刊登于我们的每周人工智能通讯《The Algorithm》。如需第一时间在收件箱中收到此类文章，请在此处订阅。在上周上市之前，Anthropic指出了人工智能可能成为……的可能性。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T17:36:08+00:00",
+      "importance": 0.7378,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+          "kind": "media",
+          "published_at": "2026-11-23T17:36:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ea39f8a43a60b7b5db52",
+      "title": "身处黄仁勋丑闻漩涡的公司Megaspeed似乎即将被列入美国黑名单",
+      "summary": "除非美国公司获得联邦政府的特别许可，否则Megaspeed将不得与这些公司开展业务。Megaspeed此前由黄静（Alice Huang）领导。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T21:25:42+00:00",
+      "importance": 0.7347,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+          "kind": "media",
+          "published_at": "2026-11-23T21:25:42+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b6aa410db677fb565921",
+      "title": "人工智能数据中心为混乱的联合国气候谈判再添变数",
+      "summary": "清洁能源革命的关键在于为整个全球经济电气化，而与此同时，耗电量巨大的数据中心正在蓬勃发展。这是来自世界各地的代表在联合国期间不得不应对的挑战",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T21:09:37+00:00",
+      "importance": 0.7331,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "kind": "media",
+          "published_at": "2026-11-23T21:09:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "10878202550bbbf922d1",
+      "title": "面向内部法务的互联智能",
+      "summary": "观看OpenAI的Stacey Wang和Craig Bruney、LECG的Mary O’Carroll以及Cooley的Richard Segal探讨人工智能如何帮助内部法务团队关联业务背景、建立可重复使用的工作流程并从外部合作中获得更多收益。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "importance": 0.7318,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "kind": "official",
+          "published_at": "2026-11-23T08:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1259b534687dd8b31711",
+      "title": "Richpanel 帮助公司在 30 天内实现 50% 的支持自动化",
+      "summary": "Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol 为其 AI 客服专员提供工具和流程，并使用 GPT-6 Luna 进行对话。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "importance": 0.7318,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "kind": "official",
+          "published_at": "2026-11-23T08:00:00+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ba7fe03235f718d9453a",
+      "title": "Jensen Huang是如何再次成为Nvidia首席执行官的",
+      "summary": "英伟达的黄仁勋时代本月几近落下帷幕。黄仁勋三十年前与人共同创立了如今被认为是人工智能领域最重要的公司之一，他于11月12日辞去了职务，原因是",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T20:38:44+00:00",
+      "importance": 0.7298,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+          "kind": "media",
+          "published_at": "2026-11-23T20:38:44+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "25f33d1df44504de388c",
+      "title": "Google搜索的AI模式现在可以利用云盘和钱包来提供更个性化的回复",
+      "summary": "通过将AI模式下的个人智能引入Drive、钱包和Gemini应用，Google正在利用其生态系统中已有的丰富用户数据。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T19:14:46+00:00",
+      "importance": 0.7211,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+          "kind": "media",
+          "published_at": "2026-11-23T19:14:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f878ab62338f7472bd88",
+      "title": "Nothing即将推出的Ear Note是一款搭载AI转录功能的耳机",
+      "summary": "Nothing的新款人工智能设备是Ear Note，这是一套耳机及其配备麦克风的充电盒，可以录制和转录对话，并配有一个关联应用程序来管理录音、转录和人工智能生成的内容。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T19:04:52+00:00",
+      "importance": 0.7201,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+          "kind": "media",
+          "published_at": "2026-11-23T19:04:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f5ab5067ad25840d0a1d",
+      "title": "白宫吹嘘称，特朗普“完全参与”了让詹森复职的工作",
+      "summary": "看起来唐纳德·特朗普总统确实在黄仁勋重任英伟达首席执行官一事上发挥了作用，而现在白宫正在确保让所有人都知道这一点。“特朗普总统完全参与其中，这是一个……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-23T18:48:59+00:00",
+      "importance": 0.7184,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+          "kind": "media",
+          "published_at": "2026-11-23T18:48:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "609c363594e6686756a7",
+      "title": "俄勒冈州和弗吉尼亚州就Grok的色情深度伪造起诉SpaceX",
+      "summary": "在周一提起的多起类似诉讼中，俄勒冈州总检察长丹·雷菲尔德（Dan Rayfield）和弗吉尼亚州总检察长杰伊·琼斯（Jay Jones）指控SpaceX无视行业标准安全措施，违反了州消费者保护法。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-23T18:26:47+00:00",
+      "importance": 0.7161,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+          "kind": "media",
+          "published_at": "2026-11-23T18:26:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fc32915cc49c0588c9bf",
+      "title": "亚马逊以75亿美元收购Decart的AI优化技术，为销售Trainium芯片做准备",
+      "summary": "据报道，亚马逊正以75亿美元的交易价格收购Decart的AI优化技术和研究团队。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-23T17:14:23+00:00",
+      "importance": 0.7086,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+          "kind": "media",
+          "published_at": "2026-11-23T17:14:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-24.wav?v=1795504441940609800",
+  "chapters": [
+    {
+      "news_id": "b0689cf87ab570a441c8",
+      "title": "OpenAI 和思科推出 Shirudo",
+      "start_seconds": 14.16,
+      "duration_seconds": 24.4
+    },
+    {
+      "news_id": "54b870a4c86e13f83ce3",
+      "title": "科技领袖们正在庆祝黄仁勋的回归",
+      "start_seconds": 38.56,
+      "duration_seconds": 31.84
+    },
+    {
+      "news_id": "fa9136539de5ecb7ea15",
+      "title": "特朗普为黄仁勋策划了一次冒险的回归",
+      "start_seconds": 70.4,
+      "duration_seconds": 29.62
+    },
+    {
+      "news_id": "4ce697c6dbd75e8a8795",
+      "title": "欢迎来到精英逍遥法外之地，Jensen Huang",
+      "start_seconds": 100.02,
+      "duration_seconds": 33.14
+    },
+    {
+      "news_id": "38ea5b66d259522356b1",
+      "title": "英伟达首席执行官黄仁勋回归。接下来会发生什么？",
+      "start_seconds": 133.16,
+      "duration_seconds": 32.76
+    },
+    {
+      "news_id": "5e2478fb7557e8d39a7d",
+      "title": "Anthropic推出Claude Ship，让AI代理审查、修复和批准代码变更",
+      "start_seconds": 165.92,
+      "duration_seconds": 26.78
+    },
+    {
+      "news_id": "876aad68c91f878f76e7",
+      "title": "Supertake 筹集 2000 万美元，让 AI 代理将您的市场预测转化为股票投资组合",
+      "start_seconds": 192.7,
+      "duration_seconds": 29.36
+    },
+    {
+      "news_id": "c708d8c1e7cbbd50a2bd",
+      "title": "一位传奇哲学家并不认同Anthropic的意识论点",
+      "start_seconds": 222.06,
+      "duration_seconds": 32.62
+    },
+    {
+      "news_id": "ea39f8a43a60b7b5db52",
+      "title": "身处黄仁勋丑闻漩涡的公司Megaspeed似乎即将被列入美国黑名单",
+      "start_seconds": 254.68,
+      "duration_seconds": 29.32
+    },
+    {
+      "news_id": "b6aa410db677fb565921",
+      "title": "人工智能数据中心为混乱的联合国气候谈判再添变数",
+      "start_seconds": 284.0,
+      "duration_seconds": 31.42
+    },
+    {
+      "news_id": "10878202550bbbf922d1",
+      "title": "面向内部法务的互联智能",
+      "start_seconds": 315.42,
+      "duration_seconds": 30.66
+    },
+    {
+      "news_id": "1259b534687dd8b31711",
+      "title": "Richpanel 帮助公司在 30 天内实现 50% 的支持自动化",
+      "start_seconds": 346.08,
+      "duration_seconds": 27.64
+    },
+    {
+      "news_id": "ba7fe03235f718d9453a",
+      "title": "Jensen Huang是如何再次成为Nvidia首席执行官的",
+      "start_seconds": 373.72,
+      "duration_seconds": 30.54
+    },
+    {
+      "news_id": "25f33d1df44504de388c",
+      "title": "Google搜索的AI模式现在可以利用云盘和钱包来提供更个性化的回复",
+      "start_seconds": 404.26,
+      "duration_seconds": 27.34
+    },
+    {
+      "news_id": "f878ab62338f7472bd88",
+      "title": "Nothing即将推出的Ear Note是一款搭载AI转录功能的耳机",
+      "start_seconds": 431.6,
+      "duration_seconds": 31.68
+    },
+    {
+      "news_id": "f5ab5067ad25840d0a1d",
+      "title": "白宫吹嘘称，特朗普“完全参与”了让詹森复职的工作",
+      "start_seconds": 463.28,
+      "duration_seconds": 32.22
+    },
+    {
+      "news_id": "609c363594e6686756a7",
+      "title": "俄勒冈州和弗吉尼亚州就Grok的色情深度伪造起诉SpaceX",
+      "start_seconds": 495.5,
+      "duration_seconds": 33.92
+    },
+    {
+      "news_id": "fc32915cc49c0588c9bf",
+      "title": "亚马逊以75亿美元收购Decart的AI优化技术，为销售Trainium芯片做准备",
+      "start_seconds": 529.42,
+      "duration_seconds": 25.86
+    }
+  ]
+}

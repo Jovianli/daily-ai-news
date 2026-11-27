@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T15:44:02.294395+08:00",
+  "title": "2026-11-26 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "c91a30b4e6522b01bf53",
+      "title": "谷歌的定制化人工智能视频流专利描绘了娱乐业黯淡的未来",
+      "summary": "去年，谷歌申请了一项名为“My Channel”的系统专利，该系统旨在根据公司所掌握的用户信息，创建包含个性化、由人工智能生成的视频和广告的资讯流。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T21:51:26+00:00",
+      "importance": 0.7343,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "kind": "media",
+          "published_at": "2026-11-25T21:51:26+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3a73412d0df0bb71aee5",
+      "title": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能会更快达到使用上限。",
+      "summary": "OpenAI 将在整个 ChatGPT 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T20:03:27+00:00",
+      "importance": 0.723,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+          "kind": "media",
+          "published_at": "2026-11-25T20:03:27+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "71a07b1df043fc19097f",
+      "title": "Anthropic的Dario Amodei称将人类控制权拱手让给人工智能的指控“荒谬”",
+      "summary": "尽管领先的人工智能公司正日益实现其自身研究和模型开发的自动化，但Anthropic首席执行官Dario Amodei仍反驳了竞争对手的指控，即他倾向于将人类的自主权拱手让与人工智能。",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-25T19:44:24+00:00",
+      "importance": 0.721,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+          "kind": "media",
+          "published_at": "2026-11-25T19:44:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "fd3eea6ab732b7250509",
+      "title": "想在这个圣诞节给孩子买一个人工智能玩具吗？不在纽约",
+      "summary": "纽约已禁止人工智能聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情绪发展的风险。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-25T18:11:46+00:00",
+      "importance": 0.7114,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+          "kind": "media",
+          "published_at": "2026-11-25T18:11:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "17929128d139e3d01b22",
+      "title": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
+      "summary": "美国联邦通信委员会（FCC）周三发布公告称，已授权SpaceX部署多达100万颗配备人工智能芯片的卫星，这是埃隆·马斯克旗下公司“Starmind”计划的一部分。还有几家公司也在致力于……",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T17:44:57+00:00",
+      "importance": 0.7086,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "kind": "media",
+          "published_at": "2026-11-25T17:44:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "628d3c512960bc42def6",
+      "title": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
+      "summary": "州总检察长表示，拟议的Character.ai破产拍卖包括来自超过2100万个美国账户的敏感个人数据，其中210万个账户为未成年人注册。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T17:35:58+00:00",
+      "importance": 0.7077,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "kind": "media",
+          "published_at": "2026-11-25T17:35:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "927dd6b10beb1b9592b8",
+      "title": "Nothing全面展示其AI耳机和充电盒",
+      "summary": "在即将于12月8日发布之前，Nothing展示了其即将推出的AI耳机的更多细节。Ear Note耳机可以录制您的通话，而其充电盒可以录制、转录和总结您的通话。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T16:00:59+00:00",
+      "importance": 0.6978,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "kind": "media",
+          "published_at": "2026-11-25T16:00:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "551b41b55629eb2adfe6",
+      "title": "人工智能数据中心越来越难建，新云正在感受到这一点",
+      "summary": "⁠Nvidia 已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而此时正值新云报告建设延期和债务成本上升之际。向开发商传达的信息是，土地、",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T15:41:43+00:00",
+      "importance": 0.6958,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+          "kind": "media",
+          "published_at": "2026-11-25T15:41:43+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1684673b3d07d7df1276",
+      "title": "人工智能正在给美国的公开记录系统带来压力",
+      "summary": "在佛蒙特州人口为660人的潘顿镇，镇书记官凯尔·罗（Kyle Rowe）包揽了所有工作。他编制预算、向供应商付款、处理房产税纠纷，并担任镇的区划主管和选举主持官。在新冠疫情期间，他还负责管理镇的应急响应，包括分发个人防护装备、协调疫苗接种工作以及与州政府沟通。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "importance": 0.6872,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+          "kind": "media",
+          "published_at": "2026-11-25T10:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8309588c20e1138eb4c3",
+      "title": "据报道，亚马逊正在商谈终止Muse AI购物屏蔽事宜",
+      "summary": "据《财富》杂志报道，亚马逊已就允许Meta的Muse AI代理在其线上商城购物一事进行了磋商。据报道，这些讨论的重点是产品类型，讨论结果可能会使亚马逊解除对Muse的封禁。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-11-25T14:12:33+00:00",
+      "importance": 0.6865,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "kind": "media",
+          "published_at": "2026-11-25T14:12:33+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3057c1692fc87eb12e35",
+      "title": "据报道，亚马逊和Meta正在就解除对AI代理Muse的封锁进行谈判",
+      "summary": "亚马逊和Meta正在讨论一项潜在的交易，该交易将结束对Muse长达两个月的封锁。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T14:10:18+00:00",
+      "importance": 0.6862,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+          "kind": "media",
+          "published_at": "2026-11-25T14:10:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ec57c99a6a096767a36e",
+      "title": "黄仁勋和英伟达仍需回答的有关Megaspeed的问题",
+      "summary": "调查人员的核心问题是，Nvidia对这些芯片的最终去向了解多少，以及黄仁勋与Megaspeed高管的私情是否让该公司有理由怀疑Megaspeed的保证。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "importance": 0.6789,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+          "kind": "media",
+          "published_at": "2026-11-25T13:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "77bb663b6361291f59ee",
+      "title": "标普考虑因治理和“关键人物”风险而下调英伟达的信用评级",
+      "summary": "该信用评级机构可能会将英伟达的信用评级下调至AA-，即第四高评级。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-25T22:44:32+00:00",
+      "importance": 0.6148,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+          "kind": "media",
+          "published_at": "2026-11-25T22:44:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "33a81ccb2288bc28c313",
+      "title": "当人工智能让您的优势变得丰盈时，下一个优势又在哪里？",
+      "summary": "文章网址：https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092评论网址：https://news.ycombinator.com/item?id=50652452积分",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-26T07:20:38+00:00",
+      "importance": 0.6036,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092",
+          "kind": "social",
+          "published_at": "2026-11-26T07:20:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "61c66b066b843f720288",
+      "title": "人工智能不断询问自己是否具有意识 [视频]",
+      "summary": "文章网址：https://www.youtube.com/watch?v=ghxoAM5io18评论网址：https://news.ycombinator.com/item?id=50652280积分：1 # 评论：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-26T06:49:31+00:00",
+      "importance": 0.6003,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.youtube.com/watch?v=ghxoAM5io18",
+          "kind": "social",
+          "published_at": "2026-11-26T06:49:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cd26d95554d7ee3a8993",
+      "title": "耶鲁大学的索南菲尔德：英伟达是对美国工业实力的“损害”，而不是领军企业",
+      "summary": "耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，周一令市场欢欣鼓舞的消息——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，使董事们面临“史无前例”的个人法律风险。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-11-25T00:12:02+00:00",
+      "importance": 0.5989,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+          "kind": "media",
+          "published_at": "2026-11-25T00:12:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1f6831759d698be6a605",
+      "title": "奥迪与Cerence AI和微软合作，将新应用与AI助手集成",
+      "summary": "文章网址：https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450 评论网址：https://news.ycombinator.com/item?id=50652195 Poi",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-26T06:34:31+00:00",
+      "importance": 0.5988,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
+          "kind": "social",
+          "published_at": "2026-11-26T06:34:31+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c187c583d4bd54cd18a3",
+      "title": "Show HN：Hush，用于AI代理的最快计算机",
+      "summary": "文章网址：https://github.com/OgnjenAdzic28/hush评论网址：https://news.ycombinator.com/item?id=50651523积分：3 #评论：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-26T04:45:29+00:00",
+      "importance": 0.5874,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/OgnjenAdzic28/hush",
+          "kind": "social",
+          "published_at": "2026-11-26T04:45:29+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-26.wav?v=1795679053262241800",
+  "chapters": [
+    {
+      "news_id": "c91a30b4e6522b01bf53",
+      "title": "谷歌的定制化人工智能视频流专利描绘了娱乐业黯淡的未来",
+      "start_seconds": 14.16,
+      "duration_seconds": 30.66
+    },
+    {
+      "news_id": "3a73412d0df0bb71aee5",
+      "title": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能会更快达到使用上限。",
+      "start_seconds": 44.82,
+      "duration_seconds": 28.36
+    },
+    {
+      "news_id": "71a07b1df043fc19097f",
+      "title": "Anthropic的Dario Amodei称将人类控制权拱手让给人工智能的指控“荒谬”",
+      "start_seconds": 73.18,
+      "duration_seconds": 34.08
+    },
+    {
+      "news_id": "fd3eea6ab732b7250509",
+      "title": "想在这个圣诞节给孩子买一个人工智能玩具吗？不在纽约",
+      "start_seconds": 107.26,
+      "duration_seconds": 29.52
+    },
+    {
+      "news_id": "17929128d139e3d01b22",
+      "title": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
+      "start_seconds": 136.78,
+      "duration_seconds": 36.54
+    },
+    {
+      "news_id": "628d3c512960bc42def6",
+      "title": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
+      "start_seconds": 173.32,
+      "duration_seconds": 29.04
+    },
+    {
+      "news_id": "927dd6b10beb1b9592b8",
+      "title": "Nothing全面展示其AI耳机和充电盒",
+      "start_seconds": 202.36,
+      "duration_seconds": 29.54
+    },
+    {
+      "news_id": "551b41b55629eb2adfe6",
+      "title": "人工智能数据中心越来越难建，新云正在感受到这一点",
+      "start_seconds": 231.9,
+      "duration_seconds": 32.9
+    },
+    {
+      "news_id": "1684673b3d07d7df1276",
+      "title": "人工智能正在给美国的公开记录系统带来压力",
+      "start_seconds": 264.8,
+      "duration_seconds": 44.92
+    },
+    {
+      "news_id": "8309588c20e1138eb4c3",
+      "title": "据报道，亚马逊正在商谈终止Muse AI购物屏蔽事宜",
+      "start_seconds": 309.72,
+      "duration_seconds": 33.42
+    },
+    {
+      "news_id": "3057c1692fc87eb12e35",
+      "title": "据报道，亚马逊和Meta正在就解除对AI代理Muse的封锁进行谈判",
+      "start_seconds": 343.14,
+      "duration_seconds": 24.42
+    },
+    {
+      "news_id": "ec57c99a6a096767a36e",
+      "title": "黄仁勋和英伟达仍需回答的有关Megaspeed的问题",
+      "start_seconds": 367.56,
+      "duration_seconds": 28.12
+    },
+    {
+      "news_id": "77bb663b6361291f59ee",
+      "title": "标普考虑因治理和“关键人物”风险而下调英伟达的信用评级",
+      "start_seconds": 395.68,
+      "duration_seconds": 22.88
+    },
+    {
+      "news_id": "33a81ccb2288bc28c313",
+      "title": "当人工智能让您的优势变得丰盈时，下一个优势又在哪里？",
+      "start_seconds": 418.56,
+      "duration_seconds": 46.92
+    },
+    {
+      "news_id": "61c66b066b843f720288",
+      "title": "人工智能不断询问自己是否具有意识 [视频]",
+      "start_seconds": 465.48,
+      "duration_seconds": 36.04
+    },
+    {
+      "news_id": "cd26d95554d7ee3a8993",
+      "title": "耶鲁大学的索南菲尔德：英伟达是对美国工业实力的“损害”，而不是领军企业",
+      "start_seconds": 501.52,
+      "duration_seconds": 40.2
+    },
+    {
+      "news_id": "1f6831759d698be6a605",
+      "title": "奥迪与Cerence AI和微软合作，将新应用与AI助手集成",
+      "start_seconds": 541.72,
+      "duration_seconds": 50.46
+    },
+    {
+      "news_id": "c187c583d4bd54cd18a3",
+      "title": "Show HN：Hush，用于AI代理的最快计算机",
+      "start_seconds": 592.18,
+      "duration_seconds": 35.08
+    }
+  ]
+}

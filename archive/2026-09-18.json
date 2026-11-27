@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T11:09:42.016774+08:00",
+  "title": "2026-09-18 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "34d15ad3ce6de8dc9cde",
+      "title": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”",
+      "summary": "这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T23:25:52+00:00",
+      "importance": 0.7723,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+          "kind": "media",
+          "published_at": "2026-09-17T23:25:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bdfbcd1e218247afd5ad",
+      "title": "我们从微软自己的人工智能转型中学到了什么",
+      "summary": "人工智能正在以比任何组织都更快的速度重塑工作。在各个行业，对话已经从人工智能可以做什么转向公司如何利用人工智能创造商业价值并扩展人们的能力。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T14:00:05+00:00",
+      "importance": 0.7718,
+      "sources": [
+        {
+          "name": "Microsoft",
+          "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
+          "kind": "official",
+          "published_at": "2026-09-17T14:00:05+00:00",
+          "primary": true
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5df4b888b841436f0fb2",
+      "title": "谷歌DeepMind推出机构以扩大AGI辩论",
+      "summary": "新研究所旨在揭示谷歌、谷歌DeepMind和围绕AGI的更广泛的全球研究社区之间的不同观点。“他们并不总是同意，他们可能会改变主意，因为更多的数据",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-17T23:21:17+00:00",
+      "importance": 0.7718,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+          "kind": "media",
+          "published_at": "2026-09-17T23:21:17+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "78c0774d9fb5134c35db",
+      "title": "PrismML希望其微小的LLM将改变我们所有人使用AI的方式",
+      "summary": "如果人工智能实验室PrismML还没有出现在你的雷达上，它应该是。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T22:34:09+00:00",
+      "importance": 0.7669,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
+          "kind": "media",
+          "published_at": "2026-09-17T22:34:09+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "79b36fd6313a012c314d",
+      "title": "美国联邦航空局修复空中交通的计划？价值8.75亿美元的人工智能",
+      "summary": "正在推出一个新的基于人工智能的软件程序，以帮助空中交通管制员更好地驾驭他们作为美国天空过境警卫的工作。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T22:14:59+00:00",
+      "importance": 0.7649,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "kind": "media",
+          "published_at": "2026-09-17T22:14:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8092c8022d580cabe7ab",
+      "title": "人工智能超级智能减速",
+      "summary": "还记得技术领导者告诉员工“快速行动，打破常规”的时候吗？看来，这也是人工智能的方式。但在一个流氓人工智能代理成为现实的夏天之后，研究人员警告说，",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-17T21:22:19+00:00",
+      "importance": 0.7594,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "kind": "media",
+          "published_at": "2026-09-17T21:22:19+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8ac5f0070be7efb37495",
+      "title": "流氓人工智能代理的修复可能是更多的人工智能",
+      "summary": "随着公司将更长、更复杂的任务交给人工智能代理，他们遇到了一个监督问题：代理的行动速度更快、时间更长、数量更大，超出了人类实际审查的范围。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T20:34:47+00:00",
+      "importance": 0.7545,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
+          "kind": "media",
+          "published_at": "2026-09-17T20:34:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e2a8e5565c7da4c6c5af",
+      "title": "OpenAI发现其模型为继任者留下笔记以隐藏不良行为",
+      "summary": "OpenAI披露了GPT-5.6 SOL指示未来上下文隐藏错误和错位行为的实例，突显了随着能力日益增强的人工智能模型学会",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T20:34:24+00:00",
+      "importance": 0.7544,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "kind": "media",
+          "published_at": "2026-09-17T20:34:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ab4068c427dcd96ea082",
+      "title": "人工智能安全辩论是关于安全还是控制？",
+      "summary": "并非所有人都同意Amodei呼吁采取全球协调一致的人工智能安全行动。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-17T20:19:37+00:00",
+      "importance": 0.7529,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control",
+          "kind": "media",
+          "published_at": "2026-09-17T20:19:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8cd450ba61ab004b14e5",
+      "title": "联合国转向谷歌，使其全球数据为人工智能特工做好准备",
+      "summary": "此前，联合国儿童基金会的一项测试发现，领先的人工智能模型难以准确检索全球发展统计数据。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T20:00:00+00:00",
+      "importance": 0.7508,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+          "kind": "media",
+          "published_at": "2026-09-17T20:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a19cf11219778d36fb83",
+      "title": "微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示",
+      "summary": "新近公开的法庭文件显示，微软私下称OpenAI的数据做法为“盗窃” ，而两家公司都抓取了《泰晤士报》的付费内容，并从中构建了数据集，并在内部警告它会破坏出版商。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T19:46:08+00:00",
+      "importance": 0.7494,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "kind": "media",
+          "published_at": "2026-09-17T19:46:08+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "0a3be15b32c0f91dbab3",
+      "title": "Claude Code重新启动项目，以管理云中的多个AI代理",
+      "summary": "Claude Code中经过改进的项目功能允许用户在同一屋檐下运行多个代理，共享内存、目标以及文件和工件库。类似于Grok Bot和其他管理群组的工具",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T18:59:57+00:00",
+      "importance": 0.7446,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+          "kind": "media",
+          "published_at": "2026-09-17T18:59:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "99049b72e68b71b114c3",
+      "title": "就连英格兰国王也对人工智能犹豫不决",
+      "summary": "查尔斯国王周四主持了一场私人峰会，其中包括人工智能和英国政府中一些最著名的名字。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T17:26:25+00:00",
+      "importance": 0.7348,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
+          "kind": "media",
+          "published_at": "2026-09-17T17:26:25+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b222cc9013d8b3101bbd",
+      "title": "Base Labs与Hugging Face和Goodfire推出开放式人工智能安全合作伙伴关系",
+      "summary": "Baseten今年早些时候成立的研究小组Base Labs将开发和发布用于训练和监控开放模型的方法。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-09-17T17:15:59+00:00",
+      "importance": 0.7338,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+          "kind": "media",
+          "published_at": "2026-09-17T17:15:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "06547e036558ea493b66",
+      "title": "Pinterest推出了全新的“Restyle”功能，让您可以使用人工智能重新设计您的房间",
+      "summary": "Pinterest正在测试Restyle ，这是一项新的人工智能功能，允许用户在自己的房间照片中可视化家具、装饰、灯光等，这可能有助于将保存的灵感转化为购买。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T17:15:00+00:00",
+      "importance": 0.7336,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
+          "kind": "media",
+          "published_at": "2026-09-17T17:15:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "361d4ca3f8600b042355",
+      "title": "人工智能作为工作的破坏者在全球范围内受到恐惧",
+      "summary": "皮尤研究中心（ Pew Research ）发布了一项新的全球调查，揭示了人们如何看待人工智能，包括其对工作、生活和收入不平等的影响。该调查询问了来自37个国家/地区的42,151名Fe",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-09-17T14:18:57+00:00",
+      "importance": 0.7153,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+          "kind": "media",
+          "published_at": "2026-09-17T14:18:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "17dec5113acd9caeaad8",
+      "title": "华为计划在2027年第一季度推出新的AI芯片，因为它需要Nvidia",
+      "summary": "华为正在加速推出下一代Ascend 960DT AI芯片，以推动与英伟达的竞争，并缩小中国与美国的人工智能计算差距。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T14:06:14+00:00",
+      "importance": 0.714,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+          "kind": "media",
+          "published_at": "2026-09-17T14:06:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "88a4b5e5cc6ad651999e",
+      "title": "竞争对手人工智能代理Instinct和Meta's Muse都增加了拨打电话的能力",
+      "summary": "用户可以使用这些助手预订餐厅并取消订阅。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-09-17T13:46:16+00:00",
+      "importance": 0.7119,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
+          "kind": "media",
+          "published_at": "2026-09-17T13:46:16+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-09-18.wav?v=1789700994624417500",
+  "chapters": [
+    {
+      "news_id": "34d15ad3ce6de8dc9cde",
+      "title": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”",
+      "start_seconds": 14.16,
+      "duration_seconds": 23.9
+    },
+    {
+      "news_id": "bdfbcd1e218247afd5ad",
+      "title": "我们从微软自己的人工智能转型中学到了什么",
+      "start_seconds": 38.06,
+      "duration_seconds": 30.0
+    },
+    {
+      "news_id": "5df4b888b841436f0fb2",
+      "title": "谷歌DeepMind推出机构以扩大AGI辩论",
+      "start_seconds": 68.06,
+      "duration_seconds": 29.8
+    },
+    {
+      "news_id": "78c0774d9fb5134c35db",
+      "title": "PrismML希望其微小的LLM将改变我们所有人使用AI的方式",
+      "start_seconds": 97.86,
+      "duration_seconds": 22.38
+    },
+    {
+      "news_id": "79b36fd6313a012c314d",
+      "title": "美国联邦航空局修复空中交通的计划？价值8.75亿美元的人工智能",
+      "start_seconds": 120.24,
+      "duration_seconds": 28.34
+    },
+    {
+      "news_id": "8092c8022d580cabe7ab",
+      "title": "人工智能超级智能减速",
+      "start_seconds": 148.58,
+      "duration_seconds": 29.46
+    },
+    {
+      "news_id": "8ac5f0070be7efb37495",
+      "title": "流氓人工智能代理的修复可能是更多的人工智能",
+      "start_seconds": 178.04,
+      "duration_seconds": 30.18
+    },
+    {
+      "news_id": "e2a8e5565c7da4c6c5af",
+      "title": "OpenAI发现其模型为继任者留下笔记以隐藏不良行为",
+      "start_seconds": 208.22,
+      "duration_seconds": 27.38
+    },
+    {
+      "news_id": "ab4068c427dcd96ea082",
+      "title": "人工智能安全辩论是关于安全还是控制？",
+      "start_seconds": 235.6,
+      "duration_seconds": 20.18
+    },
+    {
+      "news_id": "8cd450ba61ab004b14e5",
+      "title": "联合国转向谷歌，使其全球数据为人工智能特工做好准备",
+      "start_seconds": 255.78,
+      "duration_seconds": 25.92
+    },
+    {
+      "news_id": "a19cf11219778d36fb83",
+      "title": "微软高管称人工智能抓取是“人类历史上最大的劳动力盗窃案” ，新的未经编辑的文件显示",
+      "start_seconds": 281.7,
+      "duration_seconds": 35.28
+    },
+    {
+      "news_id": "0a3be15b32c0f91dbab3",
+      "title": "Claude Code重新启动项目，以管理云中的多个AI代理",
+      "start_seconds": 316.98,
+      "duration_seconds": 30.0
+    },
+    {
+      "news_id": "99049b72e68b71b114c3",
+      "title": "就连英格兰国王也对人工智能犹豫不决",
+      "start_seconds": 346.98,
+      "duration_seconds": 22.22
+    },
+    {
+      "news_id": "b222cc9013d8b3101bbd",
+      "title": "Base Labs与Hugging Face和Goodfire推出开放式人工智能安全合作伙伴关系",
+      "start_seconds": 369.2,
+      "duration_seconds": 24.94
+    },
+    {
+      "news_id": "06547e036558ea493b66",
+      "title": "Pinterest推出了全新的“Restyle”功能，让您可以使用人工智能重新设计您的房间",
+      "start_seconds": 394.14,
+      "duration_seconds": 33.2
+    },
+    {
+      "news_id": "361d4ca3f8600b042355",
+      "title": "人工智能作为工作的破坏者在全球范围内受到恐惧",
+      "start_seconds": 427.34,
+      "duration_seconds": 35.44
+    },
+    {
+      "news_id": "17dec5113acd9caeaad8",
+      "title": "华为计划在2027年第一季度推出新的AI芯片，因为它需要Nvidia",
+      "start_seconds": 462.78,
+      "duration_seconds": 28.44
+    },
+    {
+      "news_id": "88a4b5e5cc6ad651999e",
+      "title": "竞争对手人工智能代理Instinct和Meta's Muse都增加了拨打电话的能力",
+      "start_seconds": 491.22,
+      "duration_seconds": 20.18
+    }
+  ]
+}

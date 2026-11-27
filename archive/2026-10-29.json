@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T08:09:36.675365+08:00",
+  "title": "2026-10-29 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "a6bc564ba8236e2b33a3",
+      "title": "利用企业环境创造人工智能价值",
+      "summary": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作，例如，人工智能驱动的客户平台、会话助手以及工作流程和流程自动化工具。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T20:32:02+00:00",
+      "importance": 0.8002,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+          "kind": "media",
+          "published_at": "2026-10-28T20:32:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3b64f2126ca310fc1aab",
+      "title": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟”",
+      "summary": "当被问及人工智能和大学生在毕业典礼上嘘科技CEO的趋势时， Instagram负责人Adam Mosseri在接受采访时承认，很多人真的不喜欢人工智能，而且不仅仅是年轻人",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T23:05:39+00:00",
+      "importance": 0.7892,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "kind": "media",
+          "published_at": "2026-10-28T23:05:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "14bd5a3a69122b7bb700",
+      "title": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
+      "summary": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-28T21:48:37+00:00",
+      "importance": 0.7812,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+          "kind": "media",
+          "published_at": "2026-10-28T21:48:37+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "353dd9ae4406521804ae",
+      "title": "微软从OpenAI获得了100亿美元的收入",
+      "summary": "微软表示，截至9月30日的季度，它从与OpenAI的商业安排中获得了100亿美元的收入，包括收入分成付款。它强调了该公司仍然存在巨大的财务依赖性",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-28T21:34:30+00:00",
+      "importance": 0.7797,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+          "kind": "media",
+          "published_at": "2026-10-28T21:34:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "cf0b445a13fca74cd4d1",
+      "title": "Akai正在使用开源MPC拥抱氛围编码的模组",
+      "summary": "MPC示例密钥尚未正式公布，但Akai已经通过vibe编码展示了改装社区正在烹饪的东西。Akai决定拥抱黑客和自定义固件的爆炸式增长",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T21:34:04+00:00",
+      "importance": 0.7796,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+          "kind": "media",
+          "published_at": "2026-10-28T21:34:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7689670b21d5b35e8d49",
+      "title": "微软连续10个季度创下收入纪录",
+      "summary": "无论人工智能的未来如何，目前的情况对微软来说仍然非常有利。这家科技巨头周三公布的季度收入又创纪录： 923亿美元，比去年同期增长19%",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-28T21:25:30+00:00",
+      "importance": 0.7787,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+          "kind": "media",
+          "published_at": "2026-10-28T21:25:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7b5653451a244c2d34ef",
+      "title": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”",
+      "summary": "谷歌发布了其最新的前沿模型Gemini 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的公告中，谷歌强调了Carbon在Artifi",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-28T20:03:00+00:00",
+      "importance": 0.7702,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "kind": "media",
+          "published_at": "2026-10-28T20:03:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bb1f2f07f5994d40a024",
+      "title": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
+      "summary": "前沿实验室正在解除用户在计划的首次公开募股之前如何在其模型上花钱的帷幕。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T19:19:58+00:00",
+      "importance": 0.7657,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+          "kind": "media",
+          "published_at": "2026-10-28T19:19:58+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8c981a7773ea1054fdaf",
+      "title": "微软终止对智能电视的Copilot支持",
+      "summary": "在LG和三星在CES 2025上宣布其最新智能电视将包括对微软Copilot的访问权限近两年后，该公司将于今年结束对所有电视上AI助手功能的支持",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T18:36:26+00:00",
+      "importance": 0.7611,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+          "kind": "media",
+          "published_at": "2026-10-28T18:36:26+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "2c5fcb5691316a28921f",
+      "title": "Chrome的人工智能自动填充功能现在可以在您的Gmail中进行挖掘以填写表单",
+      "summary": "通过自动填充更新， Chrome浏览器可以在您允许的情况下，从您的收件箱中提取航班确认、跟踪信息、订单详细信息和其他信息。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T17:00:00+00:00",
+      "importance": 0.7511,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+          "kind": "media",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "090274bcc4740a7076a1",
+      "title": "随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序",
+      "summary": "一个新的开发者平台将允许企业将其服务带入谷歌的人工智能体验，这可能会改变消费者发现和使用应用程序的方式。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T17:00:00+00:00",
+      "importance": 0.7511,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+          "kind": "media",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "db30df4bb3be374c7021",
+      "title": "Chrome浏览器增强的自动填充功能现在可以从Gmail中提取信息，帮助您填写表单",
+      "summary": "去年对Chrome增强的自动填充功能进行了改进，包括您的姓名、护照号码、电子邮件地址和来自您的Google帐户和服务（如Google钱包）的实际地址，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T16:32:41+00:00",
+      "importance": 0.7482,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+          "kind": "media",
+          "published_at": "2026-10-28T16:32:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f143bf66df7b8ac9cf15",
+      "title": "将工业人工智能自主性和人为控制配对",
+      "summary": "活的数字孪生正在帮助工厂更像活的系统一样运行，并为同步工作的行业奠定基础。大多数人将工业环境与冷钢和发条机联系起来",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-28T12:00:00+00:00",
+      "importance": 0.7468,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
+          "kind": "media",
+          "published_at": "2026-10-28T12:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1583c560106073a3e7c9",
+      "title": "Meta表示，它可能会再次推迟有争议的新业务条款",
+      "summary": "Meta表示，由于出版商对人工智能培训的担忧， Meta可能会将新业务条款的实施推迟到11月20日。Meta通讯主管安迪·斯通（ Andy Stone ）在X上的一篇帖子中说，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-28T16:15:30+00:00",
+      "importance": 0.7465,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+          "kind": "media",
+          "published_at": "2026-10-28T16:15:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29526404518cacde12de",
+      "title": "人工智能高管可能过于脱节，无法为公众打造",
+      "summary": "技术领导者吹嘘使用人工智能与家人联系时，他们是多么的脱节。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T15:53:52+00:00",
+      "importance": 0.7442,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+          "kind": "media",
+          "published_at": "2026-10-28T15:53:52+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "3db1c51608c54789f54e",
+      "title": "韩国金融业遭遇新一轮网络攻击",
+      "summary": "韩国金融机构受到了另一波网络攻击的打击，凸显了亚洲人工智能驱动黑客攻击的风险日益增加。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-28T15:41:18+00:00",
+      "importance": 0.7429,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+          "kind": "media",
+          "published_at": "2026-10-28T15:41:18+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "40e02ac52743a94781d1",
+      "title": "Wiz的PHP2Shell首席技术官和即将到来的“vulnpocalypse”",
+      "summary": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70%的网站背后的开源语言中的两个关键错误让组织急于修复他们的系统，",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-28T19:05:46+00:00",
+      "importance": 0.6392,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+          "kind": "media",
+          "published_at": "2026-10-28T19:05:46+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b0b0b86290ad20602242",
+      "title": "Wiz的首席技术官表示， “Vulnpocalypse”即将迎来互联网的老化代码",
+      "summary": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70%的网站背后的开源语言中的两个关键错误让组织急于修复他们的系统，",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-28T18:50:39+00:00",
+      "importance": 0.6376,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+          "kind": "media",
+          "published_at": "2026-10-28T18:50:39+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-29.wav?v=1793232583703951200",
+  "chapters": [
+    {
+      "news_id": "a6bc564ba8236e2b33a3",
+      "title": "利用企业环境创造人工智能价值",
+      "start_seconds": 14.16,
+      "duration_seconds": 28.82
+    },
+    {
+      "news_id": "3b64f2126ca310fc1aab",
+      "title": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟”",
+      "start_seconds": 42.98,
+      "duration_seconds": 33.8
+    },
+    {
+      "news_id": "14bd5a3a69122b7bb700",
+      "title": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
+      "start_seconds": 76.78,
+      "duration_seconds": 28.9
+    },
+    {
+      "news_id": "353dd9ae4406521804ae",
+      "title": "微软从OpenAI获得了100亿美元的收入",
+      "start_seconds": 105.68,
+      "duration_seconds": 29.58
+    },
+    {
+      "news_id": "cf0b445a13fca74cd4d1",
+      "title": "Akai正在使用开源MPC拥抱氛围编码的模组",
+      "start_seconds": 135.26,
+      "duration_seconds": 28.1
+    },
+    {
+      "news_id": "7689670b21d5b35e8d49",
+      "title": "微软连续10个季度创下收入纪录",
+      "start_seconds": 163.36,
+      "duration_seconds": 29.46
+    },
+    {
+      "news_id": "7b5653451a244c2d34ef",
+      "title": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”",
+      "start_seconds": 192.82,
+      "duration_seconds": 29.92
+    },
+    {
+      "news_id": "bb1f2f07f5994d40a024",
+      "title": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
+      "start_seconds": 222.74,
+      "duration_seconds": 24.36
+    },
+    {
+      "news_id": "8c981a7773ea1054fdaf",
+      "title": "微软终止对智能电视的Copilot支持",
+      "start_seconds": 247.1,
+      "duration_seconds": 28.62
+    },
+    {
+      "news_id": "2c5fcb5691316a28921f",
+      "title": "Chrome的人工智能自动填充功能现在可以在您的Gmail中进行挖掘以填写表单",
+      "start_seconds": 275.72,
+      "duration_seconds": 30.62
+    },
+    {
+      "news_id": "090274bcc4740a7076a1",
+      "title": "随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序",
+      "start_seconds": 306.34,
+      "duration_seconds": 28.54
+    },
+    {
+      "news_id": "db30df4bb3be374c7021",
+      "title": "Chrome浏览器增强的自动填充功能现在可以从Gmail中提取信息，帮助您填写表单",
+      "start_seconds": 334.88,
+      "duration_seconds": 33.0
+    },
+    {
+      "news_id": "f143bf66df7b8ac9cf15",
+      "title": "将工业人工智能自主性和人为控制配对",
+      "start_seconds": 367.88,
+      "duration_seconds": 27.0
+    },
+    {
+      "news_id": "1583c560106073a3e7c9",
+      "title": "Meta表示，它可能会再次推迟有争议的新业务条款",
+      "start_seconds": 394.88,
+      "duration_seconds": 31.52
+    },
+    {
+      "news_id": "29526404518cacde12de",
+      "title": "人工智能高管可能过于脱节，无法为公众打造",
+      "start_seconds": 426.4,
+      "duration_seconds": 20.6
+    },
+    {
+      "news_id": "3db1c51608c54789f54e",
+      "title": "韩国金融业遭遇新一轮网络攻击",
+      "start_seconds": 447.0,
+      "duration_seconds": 21.86
+    },
+    {
+      "news_id": "40e02ac52743a94781d1",
+      "title": "Wiz的PHP2Shell首席技术官和即将到来的“vulnpocalypse”",
+      "start_seconds": 468.86,
+      "duration_seconds": 31.28
+    },
+    {
+      "news_id": "b0b0b86290ad20602242",
+      "title": "Wiz的首席技术官表示， “Vulnpocalypse”即将迎来互联网的老化代码",
+      "start_seconds": 500.14,
+      "duration_seconds": 32.04
+    }
+  ]
+}

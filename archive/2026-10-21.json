@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T12:37:55.348127+08:00",
+  "title": "2026-10-21 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "9a73f4d6937ae6af8131",
+      "title": "法官驳回Sam Altman姐姐的性虐待诉讼",
+      "summary": "周二，美国地区法官扎卡里·布鲁斯通（ Zachary Bluestone ）驳回了安·奥尔特曼（ Ann Altman ）去年提起的诉讼，指控她的兄弟、OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）在她的整个童年时期对她进行了性虐待正如早些时候报道的那样",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-20T23:37:55+00:00",
+      "importance": 0.7646,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "kind": "media",
+          "published_at": "2026-10-20T23:37:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e7b8ac319d53b4c93efe",
+      "title": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型",
+      "summary": "拟议的政策似乎提供了针对人工智能疯狂运行的保护措施，但实际上禁止联邦机构在未经法官许可的情况下阻止模型的发布。",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-20T23:01:23+00:00",
+      "importance": 0.7608,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+          "kind": "media",
+          "published_at": "2026-10-20T23:01:23+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "925e6a635cad1b6fed42",
+      "title": "谷歌更个性化的双子座人工智能正走向您的汽车",
+      "summary": "谷歌正在将个人智能引入您的车中的Gemini AI。借助此次更新， Android Auto中的Gemini和内置Google的汽车可以跨Google应用程序（包括Gmail、日历、地图、",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T22:42:47+00:00",
+      "importance": 0.7588,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "kind": "media",
+          "published_at": "2026-10-20T22:42:47+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a59cc9499bb94a9a0ae0",
+      "title": "Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确",
+      "summary": "在您分享Netflix纪录片“AI Gone Rogue”之前，请注意。Hugging Face的联合创始人克莱姆·德朗格（ Clem Delangue ）是这部电影的主角，他说它进入了“全毁灭模式” ，并不准确。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T22:24:02+00:00",
+      "importance": 0.7569,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+          "kind": "media",
+          "published_at": "2026-10-20T22:24:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "695641ce96a702ee2898",
+      "title": "SpaceX的人工智能业务超出预期",
+      "summary": "SpaceX在第三季度实现盈利，净利润为44亿美元（ $ ）。人工智能是引擎。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T20:40:41+00:00",
+      "importance": 0.7461,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+          "kind": "media",
+          "published_at": "2026-10-20T20:40:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "70cbed806b5b38bf6725",
+      "title": "OpenAI收购创业公司Orchestra Bio ，以加强其生物技术业务",
+      "summary": "OpenAI表示，它正在增加Orchestra的团队和技术，以开发其生命科学研究的人工智能模型Rosalind ，以及其相关的Rosalind Workbench工具，该工具旨在帮助研究人员计划",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-10-20T20:35:10+00:00",
+      "importance": 0.7456,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+          "kind": "media",
+          "published_at": "2026-10-20T20:35:10+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a3aa0a660b5b0ac51c59",
+      "title": "企业人工智能的新经济学",
+      "summary": "想象一下，您的公司刚刚发现了电力。起初，只有少数机器在其上运行，没有人担心效率—消耗低，价值显而易见。但一旦电力成为基础设施，",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T15:20:25+00:00",
+      "importance": 0.7398,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai",
+          "kind": "media",
+          "published_at": "2026-10-20T15:20:25+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "f934cb40a0468190f365",
+      "title": "谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点",
+      "summary": "谷歌与亚马逊一起发布了一个开发人员工具，使PyTorch用户可以轻松地将其应用程序从Nvidia GPU上移除。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T18:38:24+00:00",
+      "importance": 0.7334,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+          "kind": "media",
+          "published_at": "2026-10-20T18:38:24+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "edff2445aa44f28f9d3d",
+      "title": "在研究人员在网络上发现人工智能聊天后， Meta暂停Muse共享",
+      "summary": "Meta表示，它暂停了一项Muse功能，根据Ars Technica的报告，在研究人员发现网页上公开的URL后，您可以与人工智能助手分享对话。在本周发布的一份报告中，",
+      "analysis": "这项动态可能影响 AI 的治理和使用边界，后续应关注正式规则与执行细节。",
+      "category": "政策与安全",
+      "published_at": "2026-10-20T18:07:34+00:00",
+      "importance": 0.7302,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+          "kind": "media",
+          "published_at": "2026-10-20T18:07:34+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d3f9173dc1964ad08513",
+      "title": "Meta的Muse在40天内达到了1000万美国下载量，这是其他11个应用程序达到的里程碑",
+      "summary": "新数据还显示， Muse保留用户的比率高于其人工智能竞争对手。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T17:12:48+00:00",
+      "importance": 0.7245,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+          "kind": "media",
+          "published_at": "2026-10-20T17:12:48+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "14423eb5946bd5d1ae5f",
+      "title": "前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”",
+      "summary": "这是每个人都在等待的时刻—机器人的ChatGPT时刻， Amulya Vishwanath向TechCrunch的Equity解释说。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T16:20:06+00:00",
+      "importance": 0.719,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+          "kind": "media",
+          "published_at": "2026-10-20T16:20:06+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "71337cf68638cffa3aa2",
+      "title": "行业对人工智能的采用表明其他行业可以学到什么",
+      "summary": "目前围绕工作场所人工智能的叙述在很大程度上是由硅谷推动的。但是，将科技行业视为孤岛却忽略了技术采用的实际趋势--科技只是第一个",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T12:00:00+00:00",
+      "importance": 0.7189,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+          "kind": "media",
+          "published_at": "2026-10-20T12:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "bccd85bd7921db35887b",
+      "title": "植物可以用电说话，所以这家初创公司建立了一个人工智能模型来破译它们的语言",
+      "summary": "Electric Plant已经建立了一个人工智能驱动的翻译器，帮助人类倾听植物在说什么，微妙的电流穿过它们的茎。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "importance": 0.7169,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+          "kind": "media",
+          "published_at": "2026-10-20T16:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "7a091aa12d54f3f37fcd",
+      "title": "Spotify从其推荐中抽取了5000万条AI SLOP和垃圾邮件曲目",
+      "summary": "Spotify表示，在过去的一年里，它已经从用户推荐中删除了超过5000万首被认为是人工智能生成的SLOP或垃圾邮件的歌曲。这是根据周二的一份声明，该声明称Spotify也",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T15:53:21+00:00",
+      "importance": 0.7162,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+          "kind": "media",
+          "published_at": "2026-10-20T15:53:21+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "29e059fc3089a68bb383",
+      "title": "Figma联合创始人Dylan Field认为MCP不是一个完美的协议",
+      "summary": "Figma表示，它计划在不暴露所有数据的情况下支持尽可能多的标准。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T14:13:32+00:00",
+      "importance": 0.7058,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+          "kind": "media",
+          "published_at": "2026-10-20T14:13:32+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a2d65710e20f63dc4355",
+      "title": "参观三星庞大的新半导体中心",
+      "summary": "生成AI模型运行在称为GPU的强大芯片上， GPU依赖于与处理器一起封装的专用内存芯片堆栈。为了满足不断增长的内存需求，三星正在构建一个巨大的新型半导体",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "importance": 0.7001,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub",
+          "kind": "media",
+          "published_at": "2026-10-20T09:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6e9a867871806dd967dd",
+      "title": "Adobe Lightroom Mobile现在只需轻触一下，即可在照片中打开闭合的眼睛",
+      "summary": "Adobe昨天宣布，适用于iOS、iPadOS和Android的移动版Lightroom现在只需轻触一下，即可使用生成式人工智能打开照片中的闭眼。当应用程序检测到一个人，或",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-10-20T13:12:02+00:00",
+      "importance": 0.6994,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+          "kind": "media",
+          "published_at": "2026-10-20T13:12:02+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "650a048e79be7f145a93",
+      "title": "Otter AI从General Catalyst的增长基金中为其会议工具筹集了3.2亿美元$",
+      "summary": "Otter.ai表示，这些资金将用于企业成长、进入市场战略、国际扩张和产品创新。",
+      "analysis": "这项变化反映了 AI 市场的投入与竞争方向，后续应关注落地效果和商业可持续性。",
+      "category": "产业与商业",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "importance": 0.6856,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+          "kind": "media",
+          "published_at": "2026-10-20T11:00:00+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-10-21.wav?v=1792557482016795000",
+  "chapters": [
+    {
+      "news_id": "9a73f4d6937ae6af8131",
+      "title": "法官驳回Sam Altman姐姐的性虐待诉讼",
+      "start_seconds": 14.16,
+      "duration_seconds": 36.92
+    },
+    {
+      "news_id": "e7b8ac319d53b4c93efe",
+      "title": "Anthropic提出人工智能安全法案，如果超过50人可能被杀，可能会阻止模型",
+      "start_seconds": 51.08,
+      "duration_seconds": 29.3
+    },
+    {
+      "news_id": "925e6a635cad1b6fed42",
+      "title": "谷歌更个性化的双子座人工智能正走向您的汽车",
+      "start_seconds": 80.38,
+      "duration_seconds": 30.1
+    },
+    {
+      "news_id": "a59cc9499bb94a9a0ae0",
+      "title": "Hugging Face首席执行官警告Netflix的OpenAI黑客纪录片不准确",
+      "start_seconds": 110.48,
+      "duration_seconds": 32.46
+    },
+    {
+      "news_id": "695641ce96a702ee2898",
+      "title": "SpaceX的人工智能业务超出预期",
+      "start_seconds": 142.94,
+      "duration_seconds": 21.66
+    },
+    {
+      "news_id": "70cbed806b5b38bf6725",
+      "title": "OpenAI收购创业公司Orchestra Bio ，以加强其生物技术业务",
+      "start_seconds": 164.6,
+      "duration_seconds": 32.32
+    },
+    {
+      "news_id": "a3aa0a660b5b0ac51c59",
+      "title": "企业人工智能的新经济学",
+      "start_seconds": 196.92,
+      "duration_seconds": 28.02
+    },
+    {
+      "news_id": "f934cb40a0468190f365",
+      "title": "谷歌已加入亚马逊，通过AI应用程序开发人员攻击Nvidia的据点",
+      "start_seconds": 224.94,
+      "duration_seconds": 27.06
+    },
+    {
+      "news_id": "edff2445aa44f28f9d3d",
+      "title": "在研究人员在网络上发现人工智能聊天后， Meta暂停Muse共享",
+      "start_seconds": 252.0,
+      "duration_seconds": 32.98
+    },
+    {
+      "news_id": "d3f9173dc1964ad08513",
+      "title": "Meta的Muse在40天内达到了1000万美国下载量，这是其他11个应用程序达到的里程碑",
+      "start_seconds": 284.98,
+      "duration_seconds": 24.76
+    },
+    {
+      "news_id": "14423eb5946bd5d1ae5f",
+      "title": "前英伟达变身VC Amulya Vishwanath ： “物理人工智能正处于乐高时代”",
+      "start_seconds": 309.74,
+      "duration_seconds": 25.68
+    },
+    {
+      "news_id": "71337cf68638cffa3aa2",
+      "title": "行业对人工智能的采用表明其他行业可以学到什么",
+      "start_seconds": 335.42,
+      "duration_seconds": 28.62
+    },
+    {
+      "news_id": "bccd85bd7921db35887b",
+      "title": "植物可以用电说话，所以这家初创公司建立了一个人工智能模型来破译它们的语言",
+      "start_seconds": 364.04,
+      "duration_seconds": 28.36
+    },
+    {
+      "news_id": "7a091aa12d54f3f37fcd",
+      "title": "Spotify从其推荐中抽取了5000万条AI SLOP和垃圾邮件曲目",
+      "start_seconds": 392.4,
+      "duration_seconds": 33.36
+    },
+    {
+      "news_id": "29e059fc3089a68bb383",
+      "title": "Figma联合创始人Dylan Field认为MCP不是一个完美的协议",
+      "start_seconds": 425.76,
+      "duration_seconds": 21.74
+    },
+    {
+      "news_id": "a2d65710e20f63dc4355",
+      "title": "参观三星庞大的新半导体中心",
+      "start_seconds": 447.5,
+      "duration_seconds": 30.74
+    },
+    {
+      "news_id": "6e9a867871806dd967dd",
+      "title": "Adobe Lightroom Mobile现在只需轻触一下，即可在照片中打开闭合的眼睛",
+      "start_seconds": 478.24,
+      "duration_seconds": 33.9
+    },
+    {
+      "news_id": "650a048e79be7f145a93",
+      "title": "Otter AI从General Catalyst的增长基金中为其会议工具筹集了3.2亿美元$",
+      "start_seconds": 512.14,
+      "duration_seconds": 25.9
+    }
+  ]
+}
