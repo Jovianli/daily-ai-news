@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T15:03:07.958481+08:00",
+  "title": "2026-11-28 AI 新闻",
+  "overview": "今日精选 18 条全球 AI 新闻，按影响力排序，并覆盖模型产品、研究开源、产业商业与政策安全。",
+  "items": [
+    {
+      "id": "7163945f9aec133c91a3",
+      "title": "为什么人工智能正在解决数学中最棘手的问题。以下是您应该关注的原因",
+      "summary": "文章网址：https://news.sky.com/video/why-ai-is-solving-maths-hardest-problems-heres-why-you-should-care-13617298评论网址：https://news.ycombinator.com/item?id=50675248积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T06:28:03+00:00",
+      "importance": 0.6019,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://news.sky.com/video/why-ai-is-solving-maths-hardest-problems-heres-why-you-should-care-13617298",
+          "kind": "social",
+          "published_at": "2026-11-28T06:28:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "875a65285531c711a0a5",
+      "title": "英伟达和铠侠的1.1PB SSD内存实验可能会改变人工智能基础设施",
+      "summary": "文章网址： https://www.gizmoweek.com/gpu-memory-nvme-ssds/ 评论网址： https://news.ycombinator.com/item?id=50675234 分数：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T06:24:04+00:00",
+      "importance": 0.6015,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.gizmoweek.com/gpu-memory-nvme-ssds",
+          "kind": "social",
+          "published_at": "2026-11-28T06:24:04+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "53ff11b3ee1ec5a36792",
+      "title": "利用 AI 代理构建更出色的 Dependabot",
+      "summary": "文章网址：https://cdm.dev/blog/better-dependabot/评论网址：https://news.ycombinator.com/item?id=50675224积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T06:21:30+00:00",
+      "importance": 0.6012,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://cdm.dev/blog/better-dependabot",
+          "kind": "social",
+          "published_at": "2026-11-28T06:21:30+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "ee108206260eb5243795",
+      "title": "Show HN：适用于您的 AI 代理的网页抓取工具",
+      "summary": "文章网址： https://atlas-compiler.com/ 评论网址： https://news.ycombinator.com/item?id=50675145 得分：1 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T06:03:11+00:00",
+      "importance": 0.5993,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://atlas-compiler.com",
+          "kind": "social",
+          "published_at": "2026-11-28T06:03:11+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "d4775d2eedfce3012f21",
+      "title": "OpenAI声称已解决了人工智能核心的57年数学难题",
+      "summary": "文章网址： https://thenewstack.io/openai-matrix-multiplication-exponent/ 评论网址： https://news.ycombinator.com/item?id=50675139 点赞数：2 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T06:01:54+00:00",
+      "importance": 0.5992,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://thenewstack.io/openai-matrix-multiplication-exponent",
+          "kind": "social",
+          "published_at": "2026-11-28T06:01:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "6a7691a1ae0d594efd99",
+      "title": "Google 为 Pi 编程代理添加了官方 Google AI 计划支持",
+      "summary": "文章网址：https://github.com/earendil-works/pi/pull/12614评论网址：https://news.ycombinator.com/item?id=50675069积分：2 # 评论：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-28T05:42:49+00:00",
+      "importance": 0.5972,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/earendil-works/pi/pull/12614",
+          "kind": "social",
+          "published_at": "2026-11-28T05:42:49+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "1dd9f7636879787f87ec",
+      "title": "如何让 AI 代理在您离开时也能工作",
+      "summary": "文章网址：https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/评论网址：https://news.ycombinator.com/item?id=50674708积分：2评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T04:32:38+00:00",
+      "importance": 0.5899,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away",
+          "kind": "social",
+          "published_at": "2026-11-28T04:32:38+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "c7aad2dc8ed352d18b4f",
+      "title": "当人工智能自我对齐时会发生什么？",
+      "summary": "文章网址：https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself评论网址：https://news.ycombinator.com/item?id=50674692积分：2 # 评论数：1",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T04:29:03+00:00",
+      "importance": 0.5895,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
+          "kind": "social",
+          "published_at": "2026-11-28T04:29:03+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "695dde7a03250ae0c6ce",
+      "title": "简要点评：AMD 的 Helios 作为即插即用 AI 设备标准",
+      "summary": "文章网址：https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance 评论网址：https://news.ycombinator.com/item?id=50674683 分数：1 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T04:26:35+00:00",
+      "importance": 0.5892,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
+          "kind": "social",
+          "published_at": "2026-11-28T04:26:35+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "4ce55455ff80a6d301a8",
+      "title": "AI微短剧颠覆了中国的娱乐产业",
+      "summary": "文章网址：https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952评论网址：https://news.ycombinator.com/item?id=50674540积分：6 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T04:01:59+00:00",
+      "importance": 0.5867,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
+          "kind": "social",
+          "published_at": "2026-11-28T04:01:59+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "b35fcbcf3ef6343e6239",
+      "title": "估算 LLM 解码速度和每秒代币价格",
+      "summary": "文章网址：https://wanabai.com/build-finder/paper.html评论网址：https://news.ycombinator.com/item?id=50674533积分：2评论数：0",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-28T04:01:14+00:00",
+      "importance": 0.5866,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://wanabai.com/build-finder/paper.html",
+          "kind": "social",
+          "published_at": "2026-11-28T04:01:14+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "5edded965f8faffb828e",
+      "title": "热门开源软件 · Opensourcesoftware.ai",
+      "summary": "文章网址：https://opensourcesoftware.ai评论网址：https://news.ycombinator.com/item?id=50674421积分：2评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T03:44:22+00:00",
+      "importance": 0.5848,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://opensourcesoftware.ai",
+          "kind": "social",
+          "published_at": "2026-11-28T03:44:22+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "13d84a0fbee445581fac",
+      "title": "Llm.asm – 用于大语言模型（LLM）推理和训练的纯x86-64汇编语言",
+      "summary": "文章网址：https://github.com/alesha-pro/llm.asm评论网址：https://news.ycombinator.com/item?id=50674381积分：4 # 评论：1",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-28T03:39:41+00:00",
+      "importance": 0.5843,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://github.com/alesha-pro/llm.asm",
+          "kind": "social",
+          "published_at": "2026-11-28T03:39:41+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "a7ac35725c539982b808",
+      "title": "前沿模型只需一段文本即可揭示其作者是人类还是人工智能",
+      "summary": "文章网址：https://arxiv.org/abs/2611.26216评论网址：https://news.ycombinator.com/item?id=50674338积分：5 # 评论数：2",
+      "analysis": "这项进展为研究与开发提供了新线索，仍需结合论文、代码和独立复现判断价值。",
+      "category": "研究与开源",
+      "published_at": "2026-11-28T03:32:57+00:00",
+      "importance": 0.5836,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://arxiv.org/abs/2611.26216",
+          "kind": "social",
+          "published_at": "2026-11-28T03:32:57+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "8a7bedc20d3b6ed3ea23",
+      "title": "新型芯片使用光波运行人工智能模型",
+      "summary": "文章网址：https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/评论网址：https://news.ycombinator.com/item?id=50674210积分：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T03:18:53+00:00",
+      "importance": 0.5822,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+          "kind": "social",
+          "published_at": "2026-11-28T03:18:53+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "e8332a9606bddf7b9870",
+      "title": "Quanta AI – 使用 AI 聊天功能在 VirtualProg 中管理虚拟机",
+      "summary": "文章网址：https://makeprog.com/Products/VirtualProg/help/quanta.html评论网址：https://news.ycombinator.com/item?id=50673900积分：1 # 评论：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T02:38:40+00:00",
+      "importance": 0.578,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://makeprog.com/Products/VirtualProg/help/quanta.html",
+          "kind": "social",
+          "published_at": "2026-11-28T02:38:40+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "681dc35f4f2acd0cac48",
+      "title": "Show HN：AI面部形状检测和定制胡须设计",
+      "summary": "您可以找到最适合您脸型的胡须造型。评论网址： https://news.ycombinator.com/item?id=50673844 点赞数：1 # 评论数：0",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-28T02:29:55+00:00",
+      "importance": 0.5771,
+      "sources": [
+        {
+          "name": "Hacker News AI",
+          "url": "https://beardstylesformen.org/beard-design",
+          "kind": "social",
+          "published_at": "2026-11-28T02:29:55+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    },
+    {
+      "id": "33b3d08d99aeb285e8be",
+      "title": "英伟达暂停向东南亚出货芯片",
+      "summary": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，因为美国正在加紧努力，阻止人工智能芯片进入中国。",
+      "analysis": "这项动态可能影响模型能力或产品体验，后续应关注实际开放范围与用户反馈。",
+      "category": "模型与产品",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "importance": 0.5769,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+          "kind": "media",
+          "published_at": "2026-11-26T20:03:54+00:00",
+          "primary": false
+        }
+      ],
+      "follow_up_to": null
+    }
+  ],
+  "audio_url": "audio/2026-11-28.wav?v=1795849401813123300",
+  "chapters": [
+    {
+      "news_id": "7163945f9aec133c91a3",
+      "title": "为什么人工智能正在解决数学中最棘手的问题。以下是您应该关注的原因",
+      "start_seconds": 14.16,
+      "duration_seconds": 48.72
+    },
+    {
+      "news_id": "875a65285531c711a0a5",
+      "title": "英伟达和铠侠的1.1PB SSD内存实验可能会改变人工智能基础设施",
+      "start_seconds": 62.88,
+      "duration_seconds": 40.54
+    },
+    {
+      "news_id": "53ff11b3ee1ec5a36792",
+      "title": "利用 AI 代理构建更出色的 Dependabot",
+      "start_seconds": 103.42,
+      "duration_seconds": 34.28
+    },
+    {
+      "news_id": "ee108206260eb5243795",
+      "title": "Show HN：适用于您的 AI 代理的网页抓取工具",
+      "start_seconds": 137.7,
+      "duration_seconds": 32.84
+    },
+    {
+      "news_id": "d4775d2eedfce3012f21",
+      "title": "OpenAI声称已解决了人工智能核心的57年数学难题",
+      "start_seconds": 170.54,
+      "duration_seconds": 38.4
+    },
+    {
+      "news_id": "6a7691a1ae0d594efd99",
+      "title": "Google 为 Pi 编程代理添加了官方 Google AI 计划支持",
+      "start_seconds": 208.94,
+      "duration_seconds": 37.3
+    },
+    {
+      "news_id": "1dd9f7636879787f87ec",
+      "title": "如何让 AI 代理在您离开时也能工作",
+      "start_seconds": 246.24,
+      "duration_seconds": 41.04
+    },
+    {
+      "news_id": "c7aad2dc8ed352d18b4f",
+      "title": "当人工智能自我对齐时会发生什么？",
+      "start_seconds": 287.28,
+      "duration_seconds": 38.04
+    },
+    {
+      "news_id": "695dde7a03250ae0c6ce",
+      "title": "简要点评：AMD 的 Helios 作为即插即用 AI 设备标准",
+      "start_seconds": 325.32,
+      "duration_seconds": 39.86
+    },
+    {
+      "news_id": "4ce55455ff80a6d301a8",
+      "title": "AI微短剧颠覆了中国的娱乐产业",
+      "start_seconds": 365.18,
+      "duration_seconds": 44.22
+    },
+    {
+      "news_id": "b35fcbcf3ef6343e6239",
+      "title": "估算 LLM 解码速度和每秒代币价格",
+      "start_seconds": 409.4,
+      "duration_seconds": 35.32
+    },
+    {
+      "news_id": "5edded965f8faffb828e",
+      "title": "热门开源软件 · Opensourcesoftware.ai",
+      "start_seconds": 444.72,
+      "duration_seconds": 31.06
+    },
+    {
+      "news_id": "13d84a0fbee445581fac",
+      "title": "Llm.asm – 用于大语言模型（LLM）推理和训练的纯x86-64汇编语言",
+      "start_seconds": 475.78,
+      "duration_seconds": 40.02
+    },
+    {
+      "news_id": "a7ac35725c539982b808",
+      "title": "前沿模型只需一段文本即可揭示其作者是人类还是人工智能",
+      "start_seconds": 515.8,
+      "duration_seconds": 37.2
+    },
+    {
+      "news_id": "8a7bedc20d3b6ed3ea23",
+      "title": "新型芯片使用光波运行人工智能模型",
+      "start_seconds": 553.0,
+      "duration_seconds": 42.9
+    },
+    {
+      "news_id": "e8332a9606bddf7b9870",
+      "title": "Quanta AI – 使用 AI 聊天功能在 VirtualProg 中管理虚拟机",
+      "start_seconds": 595.9,
+      "duration_seconds": 37.98
+    },
+    {
+      "news_id": "681dc35f4f2acd0cac48",
+      "title": "Show HN：AI面部形状检测和定制胡须设计",
+      "start_seconds": 633.88,
+      "duration_seconds": 32.26
+    },
+    {
+      "news_id": "33b3d08d99aeb285e8be",
+      "title": "英伟达暂停向东南亚出货芯片",
+      "start_seconds": 666.14,
+      "duration_seconds": 27.58
+    }
+  ]
+}
